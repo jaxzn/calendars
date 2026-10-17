@@ -1,0 +1,1045 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jaxzn//NBA Calendars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Dallas Mavericks
+X-WR-CALDESC:Dallas Mavericks NBA schedule (unofficial\, auto-updated)
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:espn-401909840@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261022T003000Z
+DTEND:20261022T030000Z
+SUMMARY:Mavericks @ Rockets
+LOCATION:Toyota Center (Houston)\, Houston\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Toyota Center (Houston)\, Houst
+ on\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909844@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261023T230000Z
+DTEND:20261024T013000Z
+SUMMARY:Mavericks @ Pacers
+LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Gainbridge Fieldhouse\, Indiana
+ polis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
+ es may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909858@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261025T000000Z
+DTEND:20261025T023000Z
+SUMMARY:Spurs @ Mavericks
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: American Airlines Center\, Dall
+ as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909871@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261026T233000Z
+DTEND:20261027T020000Z
+SUMMARY:Mavericks @ Heat (NBA TV)
+LOCATION:Kaseya Center\, Miami\, FL
+DESCRIPTION:Regular Season\nTV: NBA TV\nVenue: Kaseya Center\, Miami\, FL\n
+ Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909891@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261029T013000Z
+DTEND:20261029T040000Z
+SUMMARY:Thunder @ Mavericks (ESPN)
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: American Airlines Center\, Dal
+ las\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
+  may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909283@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261031T000000Z
+DTEND:20261031T023000Z
+SUMMARY:Rockets @ Mavericks
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:NBA Cup - Group Play\nTV: TBD\nVenue: American Airlines Center\
+ , Dallas\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. 
+ Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909913@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261103T010000Z
+DTEND:20261103T033000Z
+SUMMARY:Kings @ Mavericks
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: American Airlines Center\, Dall
+ as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909933@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261105T023000Z
+DTEND:20261105T050000Z
+SUMMARY:Mavericks @ Spurs (ESPN)
+LOCATION:Frost Bank Center\, San Antonio\, TX
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Frost Bank Center\, San Antoni
+ o\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909290@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261107T010000Z
+DTEND:20261107T033000Z
+SUMMARY:Jazz @ Mavericks
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:NBA Cup - Group Play\nTV: TBD\nVenue: American Airlines Center\
+ , Dallas\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. 
+ Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909948@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261109T003000Z
+DTEND:20261109T030000Z
+SUMMARY:Nets @ Mavericks
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: American Airlines Center\, Dall
+ as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909956@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261110T010000Z
+DTEND:20261110T033000Z
+SUMMARY:Pacers @ Mavericks
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: American Airlines Center\, Dall
+ as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909978@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261113T010000Z
+DTEND:20261113T033000Z
+SUMMARY:Mavericks @ Timberwolves (NBA TV)
+LOCATION:Target Center\, Minneapolis\, MN
+DESCRIPTION:Regular Season\nTV: NBA TV\nVenue: Target Center\, Minneapolis\
+ , MN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909981@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261115T003000Z
+DTEND:20261115T030000Z
+SUMMARY:Mavericks @ Cavaliers
+LOCATION:Rocket Arena\, Cleveland\, OH
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Rocket Arena\, Cleveland\, OH\n
+ Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909989@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261115T230000Z
+DTEND:20261116T013000Z
+SUMMARY:Mavericks @ Celtics
+LOCATION:TD Garden\, Boston\, MA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: TD Garden\, Boston\, MA\nUnoffi
+ cial calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910016@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261119T023000Z
+DTEND:20261119T050000Z
+SUMMARY:Warriors @ Mavericks (ESPN)
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: American Airlines Center\, Dal
+ las\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
+  may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910025@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261122T010000Z
+DTEND:20261122T033000Z
+SUMMARY:Clippers @ Mavericks
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: American Airlines Center\, Dall
+ as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910033@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261123T000000Z
+DTEND:20261123T023000Z
+SUMMARY:Mavericks @ Jazz
+LOCATION:Delta Center\, Salt Lake City\, UT
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Delta Center\, Salt Lake City\,
+  UT\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909316@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261125T030000Z
+DTEND:20261125T053000Z
+SUMMARY:Mavericks @ Nuggets (NBCSN)
+LOCATION:Ball Arena\, Denver\, CO
+DESCRIPTION:NBA Cup - Group Play\nTV: NBCSN\nVenue: Ball Arena\, Denver\, C
+ O\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
+ ange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909332@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261128T020000Z
+DTEND:20261128T043000Z
+SUMMARY:Mavericks @ Suns
+LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
+DESCRIPTION:NBA Cup - Group Play\nTV: TBD\nVenue: Mortgage Matchup Center\,
+  Phoenix\, AZ\nUnofficial calendar\; not affiliated with the NBA or ESPN. 
+ Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910065@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261201T010000Z
+DTEND:20261201T033000Z
+SUMMARY:Celtics @ Mavericks
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: American Airlines Center\, Dall
+ as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910079@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261203T010000Z
+DTEND:20261203T033000Z
+SUMMARY:Magic @ Mavericks
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: American Airlines Center\, Dall
+ as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910109@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261215T010000Z
+DTEND:20261215T033000Z
+SUMMARY:Bucks @ Mavericks
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: American Airlines Center\, Dall
+ as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910122@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261217T003000Z
+DTEND:20261217T030000Z
+SUMMARY:Mavericks @ Nets
+LOCATION:Barclays Center\, Brooklyn\, NY
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Barclays Center\, Brooklyn\, NY
+ \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910131@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261218T000000Z
+DTEND:20261218T023000Z
+SUMMARY:Mavericks @ 76ers (NBA TV)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: NBA TV\nVenue: Xfinity Mobile Arena\, Phila
+ delphia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
+ imes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910147@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261220T010000Z
+DTEND:20261220T033000Z
+SUMMARY:Bulls @ Mavericks
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: American Airlines Center\, Dall
+ as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910171@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261223T033000Z
+DTEND:20261223T060000Z
+SUMMARY:Mavericks @ Warriors (NBC)
+LOCATION:Chase Center\, San Francisco\, CA
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: Chase Center\, San Francisco\, 
+ CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
+ hange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910185@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261224T030000Z
+DTEND:20261224T053000Z
+SUMMARY:Mavericks @ Kings
+LOCATION:Golden 1 Center\, Sacramento\, CA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Golden 1 Center\, Sacramento\, 
+ CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
+ hange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910193@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261227T010000Z
+DTEND:20261227T033000Z
+SUMMARY:Suns @ Mavericks (NBA TV)
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:Regular Season\nTV: NBA TV\nVenue: American Airlines Center\, D
+ allas\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
+ es may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910214@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261230T010000Z
+DTEND:20261230T033000Z
+SUMMARY:Heat @ Mavericks (NBC)
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: American Airlines Center\, Dall
+ as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910239@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270102T013000Z
+DTEND:20270102T040000Z
+SUMMARY:Mavericks @ Rockets
+LOCATION:Toyota Center (Houston)\, Houston\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Toyota Center (Houston)\, Houst
+ on\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910245@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270103T003000Z
+DTEND:20270103T030000Z
+SUMMARY:Mavericks @ Hawks (NBA TV)
+LOCATION:State Farm Arena\, Atlanta\, GA
+DESCRIPTION:Regular Season\nTV: NBA TV\nVenue: State Farm Arena\, Atlanta\,
+  GA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910261@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270105T010000Z
+DTEND:20270105T033000Z
+SUMMARY:Mavericks @ Pelicans
+LOCATION:Smoothie King Center\, New Orleans\, LA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Smoothie King Center\, New Orle
+ ans\, LA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
+  may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910285@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270108T010000Z
+DTEND:20270108T033000Z
+SUMMARY:Trail Blazers @ Mavericks
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: American Airlines Center\, Dall
+ as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910296@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270109T023000Z
+DTEND:20270109T050000Z
+SUMMARY:Suns @ Mavericks (ESPN)
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: American Airlines Center\, Dal
+ las\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
+  may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910310@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270110T230000Z
+DTEND:20270111T013000Z
+SUMMARY:Mavericks @ Grizzlies
+LOCATION:FedExForum\, Memphis\, TN
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: FedExForum\, Memphis\, TN\nUnof
+ ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910322@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270113T010000Z
+DTEND:20270113T033000Z
+SUMMARY:Mavericks @ Grizzlies
+LOCATION:FedExForum\, Memphis\, TN
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: FedExForum\, Memphis\, TN\nUnof
+ ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910335@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270115T000000Z
+DTEND:20270115T023000Z
+SUMMARY:Mavericks @ Pistons
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Little Caesars Arena\, Detroit\
+ , MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910353@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270117T003000Z
+DTEND:20270117T030000Z
+SUMMARY:Mavericks @ Knicks (NBA TV)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: NBA TV\nVenue: Madison Square Garden\, New 
+ York\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
+ s may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910366@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270119T010000Z
+DTEND:20270119T033000Z
+SUMMARY:Thunder @ Mavericks
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: American Airlines Center\, Dall
+ as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910372@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270120T010000Z
+DTEND:20270120T033000Z
+SUMMARY:Hornets @ Mavericks (NBC)
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: American Airlines Center\, Dall
+ as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910393@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270123T010000Z
+DTEND:20270123T033000Z
+SUMMARY:Mavericks @ Pelicans
+LOCATION:Smoothie King Center\, New Orleans\, LA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Smoothie King Center\, New Orle
+ ans\, LA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
+  may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910404@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270124T010000Z
+DTEND:20270124T033000Z
+SUMMARY:Cavaliers @ Mavericks
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: American Airlines Center\, Dall
+ as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910417@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270126T010000Z
+DTEND:20270126T033000Z
+SUMMARY:Mavericks @ Bulls
+LOCATION:United Center\, Chicago\, IL
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: United Center\, Chicago\, IL\nU
+ nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910432@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270128T003000Z
+DTEND:20270128T030000Z
+SUMMARY:Mavericks @ Raptors
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Scotiabank Arena\, Toronto\, ON
+ \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910448@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270130T010000Z
+DTEND:20270130T033000Z
+SUMMARY:Pistons @ Mavericks
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: American Airlines Center\, Dall
+ as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910466@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270201T013000Z
+DTEND:20270201T040000Z
+SUMMARY:Rockets @ Mavericks (NBC)
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: American Airlines Center\, Dall
+ as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910478@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270203T010000Z
+DTEND:20270203T033000Z
+SUMMARY:Raptors @ Mavericks
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: American Airlines Center\, Dall
+ as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910495@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270205T030000Z
+DTEND:20270205T053000Z
+SUMMARY:Mavericks @ Nuggets (Prime Video)
+LOCATION:Ball Arena\, Denver\, CO
+DESCRIPTION:Regular Season\nTV: Prime Video\nVenue: Ball Arena\, Denver\, C
+ O\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
+ ange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910504@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270206T200000Z
+DTEND:20270206T223000Z
+SUMMARY:Jazz @ Mavericks
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: American Airlines Center\, Dall
+ as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910516@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270207T213000Z
+DTEND:20270208T000000Z
+SUMMARY:Clippers @ Mavericks
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: American Airlines Center\, Dall
+ as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910533@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270210T010000Z
+DTEND:20270210T033000Z
+SUMMARY:Spurs @ Mavericks (NBC)
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: American Airlines Center\, Dall
+ as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910548@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270212T010000Z
+DTEND:20270212T033000Z
+SUMMARY:Trail Blazers @ Mavericks
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: American Airlines Center\, Dall
+ as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910561@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270213T200000Z
+DTEND:20270213T223000Z
+SUMMARY:Mavericks @ Hornets (Prime Video)
+LOCATION:Spectrum Center\, Charlotte\, NC
+DESCRIPTION:Regular Season\nTV: Prime Video\nVenue: Spectrum Center\, Charl
+ otte\, NC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
+ s may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909478@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270215T193000Z
+DTEND:20270215T220000Z
+SUMMARY:76ers @ Mavericks (NBC)
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: American Airlines Center\, Dall
+ as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910586@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270218T000000Z
+DTEND:20270218T023000Z
+SUMMARY:Mavericks @ Magic
+LOCATION:Kia Center\, Orlando\, FL
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Kia Center\, Orlando\, FL\nUnof
+ ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910608@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270226T030000Z
+DTEND:20270226T053000Z
+SUMMARY:Mavericks @ Warriors (Prime Video)
+LOCATION:Chase Center\, San Francisco\, CA
+DESCRIPTION:Regular Season\nTV: Prime Video\nVenue: Chase Center\, San Fran
+ cisco\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
+ es may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910616@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270227T030000Z
+DTEND:20270227T053000Z
+SUMMARY:Mavericks @ Trail Blazers
+LOCATION:Moda Center\, Portland\, OR
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Moda Center\, Portland\, OR\nUn
+ official calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910624@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270228T203000Z
+DTEND:20270228T230000Z
+SUMMARY:Lakers @ Mavericks (ABC)
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:Regular Season\nTV: ABC\nVenue: American Airlines Center\, Dall
+ as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910642@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270303T010000Z
+DTEND:20270303T033000Z
+SUMMARY:Warriors @ Mavericks
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: American Airlines Center\, Dall
+ as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910658@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270305T023000Z
+DTEND:20270305T050000Z
+SUMMARY:Knicks @ Mavericks (Prime Video)
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:Regular Season\nTV: Prime Video\nVenue: American Airlines Cente
+ r\, Dallas\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN
+ . Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910686@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270309T023000Z
+DTEND:20270309T050000Z
+SUMMARY:Mavericks @ Thunder (NBCSN)
+LOCATION:Paycom Center\, Oklahoma City\, OK
+DESCRIPTION:Regular Season\nTV: NBCSN\nVenue: Paycom Center\, Oklahoma City
+ \, OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
+ y change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910693@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270310T010000Z
+DTEND:20270310T033000Z
+SUMMARY:Grizzlies @ Mavericks
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: American Airlines Center\, Dall
+ as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910710@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270312T010000Z
+DTEND:20270312T033000Z
+SUMMARY:Wizards @ Mavericks
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: American Airlines Center\, Dall
+ as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910724@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270314T010000Z
+DTEND:20270314T033000Z
+SUMMARY:Pelicans @ Mavericks
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: American Airlines Center\, Dall
+ as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910738@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270316T013000Z
+DTEND:20270316T040000Z
+SUMMARY:Hawks @ Mavericks (NBCSN)
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:Regular Season\nTV: NBCSN\nVenue: American Airlines Center\, Da
+ llas\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
+ s may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910751@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270317T233000Z
+DTEND:20270318T020000Z
+SUMMARY:Mavericks @ Thunder (ESPN)
+LOCATION:Paycom Center\, Oklahoma City\, OK
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Paycom Center\, Oklahoma City\
+ , OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910768@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270320T000000Z
+DTEND:20270320T023000Z
+SUMMARY:Mavericks @ Spurs (NBA TV)
+LOCATION:Frost Bank Center\, San Antonio\, TX
+DESCRIPTION:Regular Season\nTV: NBA TV\nVenue: Frost Bank Center\, San Anto
+ nio\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
+  may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910785@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270322T020000Z
+DTEND:20270322T043000Z
+SUMMARY:Mavericks @ Lakers (NBC)
+LOCATION:crypto.com Arena\, Los Angeles\, CA
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: crypto.com Arena\, Los Angeles\
+ , CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910793@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270323T023000Z
+DTEND:20270323T050000Z
+SUMMARY:Mavericks @ Clippers
+LOCATION:Intuit Dome\, Inglewood\, CA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Intuit Dome\, Inglewood\, CA\nU
+ nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910806@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270325T000000Z
+DTEND:20270325T023000Z
+SUMMARY:Mavericks @ Timberwolves
+LOCATION:Target Center\, Minneapolis\, MN
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Target Center\, Minneapolis\, M
+ N\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
+ ange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910819@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270327T000000Z
+DTEND:20270327T023000Z
+SUMMARY:Pelicans @ Mavericks
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: American Airlines Center\, Dall
+ as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910835@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270328T220000Z
+DTEND:20270329T003000Z
+SUMMARY:Mavericks @ Wizards (MNMT)
+LOCATION:Capital One Arena\, Washington\, DC
+DESCRIPTION:Regular Season\nTV: MNMT\nVenue: Capital One Arena\, Washington
+ \, DC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
+ y change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910845@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270330T000000Z
+DTEND:20270330T023000Z
+SUMMARY:Mavericks @ Bucks
+LOCATION:Fiserv Forum\, Milwaukee\, WI
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Fiserv Forum\, Milwaukee\, WI\n
+ Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910862@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270401T013000Z
+DTEND:20270401T040000Z
+SUMMARY:Nuggets @ Mavericks (ESPN)
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: American Airlines Center\, Dal
+ las\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
+  may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910873@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270403T000000Z
+DTEND:20270403T023000Z
+SUMMARY:Kings @ Mavericks
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: American Airlines Center\, Dall
+ as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910886@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270404T190000Z
+DTEND:20270404T213000Z
+SUMMARY:Timberwolves @ Mavericks (NBA TV)
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:Regular Season\nTV: NBA TV\nVenue: American Airlines Center\, D
+ allas\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
+ es may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910906@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270407T020000Z
+DTEND:20270407T043000Z
+SUMMARY:Mavericks @ Lakers
+LOCATION:crypto.com Arena\, Los Angeles\, CA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: crypto.com Arena\, Los Angeles\
+ , CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910917@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270408T020000Z
+DTEND:20270408T043000Z
+SUMMARY:Mavericks @ Trail Blazers
+LOCATION:Moda Center\, Portland\, OR
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Moda Center\, Portland\, OR\nUn
+ official calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910936@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270410T020000Z
+DTEND:20270410T043000Z
+SUMMARY:Mavericks @ Kings
+LOCATION:Golden 1 Center\, Sacramento\, CA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Golden 1 Center\, Sacramento\, 
+ CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
+ hange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910945@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270412T003000Z
+DTEND:20270412T030000Z
+SUMMARY:Grizzlies @ Mavericks
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: American Airlines Center\, Dall
+ as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

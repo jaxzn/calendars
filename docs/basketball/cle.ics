@@ -1,0 +1,1044 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jaxzn//NBA Calendars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cleveland Cavaliers
+X-WR-CALDESC:Cleveland Cavaliers NBA schedule (unofficial\, auto-updated)
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:espn-401909093@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261022T230000Z
+DTEND:20261023T013000Z
+SUMMARY:Cavaliers @ 76ers (ESPN)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Xfinity Mobile Arena\, Philade
+ lphia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
+ es may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909854@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261024T233000Z
+DTEND:20261025T020000Z
+SUMMARY:Nets @ Cavaliers
+LOCATION:Rocket Arena\, Cleveland\, OH
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Rocket Arena\, Cleveland\, OH\n
+ Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909869@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261026T230000Z
+DTEND:20261027T013000Z
+SUMMARY:Timberwolves @ Cavaliers
+LOCATION:Rocket Arena\, Cleveland\, OH
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Rocket Arena\, Cleveland\, OH\n
+ Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909882@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261028T230000Z
+DTEND:20261029T013000Z
+SUMMARY:Wizards @ Cavaliers (MNMT)
+LOCATION:Rocket Arena\, Cleveland\, OH
+DESCRIPTION:Regular Season\nTV: MNMT\nVenue: Rocket Arena\, Cleveland\, OH\
+ nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909893@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261029T230000Z
+DTEND:20261030T013000Z
+SUMMARY:Cavaliers @ Hawks (NBA TV)
+LOCATION:State Farm Arena\, Atlanta\, GA
+DESCRIPTION:Regular Season\nTV: NBA TV\nVenue: State Farm Arena\, Atlanta\,
+  GA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909900@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261101T000000Z
+DTEND:20261101T023000Z
+SUMMARY:Cavaliers @ Bucks
+LOCATION:Fiserv Forum\, Milwaukee\, WI
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Fiserv Forum\, Milwaukee\, WI\n
+ Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909907@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261103T000000Z
+DTEND:20261103T023000Z
+SUMMARY:Thunder @ Cavaliers (NBCSN)
+LOCATION:Rocket Arena\, Cleveland\, OH
+DESCRIPTION:Regular Season\nTV: NBCSN\nVenue: Rocket Arena\, Cleveland\, OH
+ \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909929@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261105T010000Z
+DTEND:20261105T033000Z
+SUMMARY:Cavaliers @ Thunder
+LOCATION:Paycom Center\, Oklahoma City\, OK
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Paycom Center\, Oklahoma City\,
+  OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909289@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261107T003000Z
+DTEND:20261107T030000Z
+SUMMARY:76ers @ Cavaliers (Prime Video)
+LOCATION:Rocket Arena\, Cleveland\, OH
+DESCRIPTION:NBA Cup - Group Play\nTV: Prime Video\nVenue: Rocket Arena\, Cl
+ eveland\, OH\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
+ imes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909940@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261108T010000Z
+DTEND:20261108T033000Z
+SUMMARY:Knicks @ Cavaliers (NBA TV)
+LOCATION:Rocket Arena\, Cleveland\, OH
+DESCRIPTION:Regular Season\nTV: NBA TV\nVenue: Rocket Arena\, Cleveland\, O
+ H\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
+ ange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909953@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261110T000000Z
+DTEND:20261110T023000Z
+SUMMARY:Cavaliers @ Hornets
+LOCATION:Spectrum Center\, Charlotte\, NC
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Spectrum Center\, Charlotte\, N
+ C\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
+ ange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909967@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261112T000000Z
+DTEND:20261112T023000Z
+SUMMARY:Cavaliers @ Knicks (ESPN)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Madison Square Garden\, New Yo
+ rk\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909298@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261114T010000Z
+DTEND:20261114T033000Z
+SUMMARY:Cavaliers @ Heat
+LOCATION:Kaseya Center\, Miami\, FL
+DESCRIPTION:NBA Cup - Group Play\nTV: TBD\nVenue: Kaseya Center\, Miami\, F
+ L\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
+ ange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909981@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261115T003000Z
+DTEND:20261115T030000Z
+SUMMARY:Mavericks @ Cavaliers
+LOCATION:Rocket Arena\, Cleveland\, OH
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Rocket Arena\, Cleveland\, OH\n
+ Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909995@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261117T000000Z
+DTEND:20261117T023000Z
+SUMMARY:Bulls @ Cavaliers
+LOCATION:Rocket Arena\, Cleveland\, OH
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Rocket Arena\, Cleveland\, OH\n
+ Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910007@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261119T000000Z
+DTEND:20261119T023000Z
+SUMMARY:Grizzlies @ Cavaliers
+LOCATION:Rocket Arena\, Cleveland\, OH
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Rocket Arena\, Cleveland\, OH\n
+ Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909307@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261121T003000Z
+DTEND:20261121T030000Z
+SUMMARY:Pacers @ Cavaliers
+LOCATION:Rocket Arena\, Cleveland\, OH
+DESCRIPTION:NBA Cup - Group Play\nTV: TBD\nVenue: Rocket Arena\, Cleveland\
+ , OH\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910041@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261124T010000Z
+DTEND:20261124T033000Z
+SUMMARY:Cavaliers @ Bulls
+LOCATION:United Center\, Chicago\, IL
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: United Center\, Chicago\, IL\nU
+ nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909319@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261126T003000Z
+DTEND:20261126T030000Z
+SUMMARY:Cavaliers @ Knicks
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:NBA Cup - Group Play\nTV: TBD\nVenue: Madison Square Garden\, N
+ ew York\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
+ imes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910054@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261129T230000Z
+DTEND:20261130T013000Z
+SUMMARY:Heat @ Cavaliers
+LOCATION:Rocket Arena\, Cleveland\, OH
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Rocket Arena\, Cleveland\, OH\n
+ Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910068@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261202T000000Z
+DTEND:20261202T023000Z
+SUMMARY:Pacers @ Cavaliers
+LOCATION:Rocket Arena\, Cleveland\, OH
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Rocket Arena\, Cleveland\, OH\n
+ Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910087@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261204T010000Z
+DTEND:20261204T033000Z
+SUMMARY:Cavaliers @ Bulls (NBA TV)
+LOCATION:United Center\, Chicago\, IL
+DESCRIPTION:Regular Season\nTV: NBA TV\nVenue: United Center\, Chicago\, IL
+ \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910093@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261213T010000Z
+DTEND:20261213T033000Z
+SUMMARY:Warriors @ Cavaliers
+LOCATION:Rocket Arena\, Cleveland\, OH
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Rocket Arena\, Cleveland\, OH\n
+ Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910115@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261216T010000Z
+DTEND:20261216T033000Z
+SUMMARY:Spurs @ Cavaliers (NBC)
+LOCATION:Rocket Arena\, Cleveland\, OH
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: Rocket Arena\, Cleveland\, OH\n
+ Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910121@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261217T000000Z
+DTEND:20261217T023000Z
+SUMMARY:Cavaliers @ Magic
+LOCATION:Kia Center\, Orlando\, FL
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Kia Center\, Orlando\, FL\nUnof
+ ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910138@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261219T003000Z
+DTEND:20261219T030000Z
+SUMMARY:Cavaliers @ Pistons
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Little Caesars Arena\, Detroit\
+ , MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910152@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261220T230000Z
+DTEND:20261221T013000Z
+SUMMARY:Jazz @ Cavaliers
+LOCATION:Rocket Arena\, Cleveland\, OH
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Rocket Arena\, Cleveland\, OH\n
+ Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910160@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261222T000000Z
+DTEND:20261222T023000Z
+SUMMARY:Knicks @ Cavaliers (NBCSN)
+LOCATION:Rocket Arena\, Cleveland\, OH
+DESCRIPTION:Regular Season\nTV: NBCSN\nVenue: Rocket Arena\, Cleveland\, OH
+ \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910174@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261224T000000Z
+DTEND:20261224T023000Z
+SUMMARY:Cavaliers @ Wizards
+LOCATION:Capital One Arena\, Washington\, DC
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Capital One Arena\, Washington\
+ , DC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910196@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261227T230000Z
+DTEND:20261228T013000Z
+SUMMARY:Wizards @ Cavaliers
+LOCATION:Rocket Arena\, Cleveland\, OH
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Rocket Arena\, Cleveland\, OH\n
+ Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910208@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261229T010000Z
+DTEND:20261229T033000Z
+SUMMARY:Cavaliers @ Celtics (NBC)
+LOCATION:TD Garden\, Boston\, MA
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: TD Garden\, Boston\, MA\nUnoffi
+ cial calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910228@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261231T200000Z
+DTEND:20261231T223000Z
+SUMMARY:Clippers @ Cavaliers
+LOCATION:Rocket Arena\, Cleveland\, OH
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Rocket Arena\, Cleveland\, OH\n
+ Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910241@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270102T180000Z
+DTEND:20270102T203000Z
+SUMMARY:Cavaliers @ Hornets
+LOCATION:Spectrum Center\, Charlotte\, NC
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Spectrum Center\, Charlotte\, N
+ C\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
+ ange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910256@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270104T000000Z
+DTEND:20270104T023000Z
+SUMMARY:Cavaliers @ Rockets
+LOCATION:Toyota Center (Houston)\, Houston\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Toyota Center (Houston)\, Houst
+ on\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910266@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270106T000000Z
+DTEND:20270106T023000Z
+SUMMARY:Raptors @ Cavaliers
+LOCATION:Rocket Arena\, Cleveland\, OH
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Rocket Arena\, Cleveland\, OH\n
+ Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910281@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270108T000000Z
+DTEND:20270108T023000Z
+SUMMARY:Cavaliers @ Magic
+LOCATION:Kia Center\, Orlando\, FL
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Kia Center\, Orlando\, FL\nUnof
+ ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910299@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270109T220000Z
+DTEND:20270110T003000Z
+SUMMARY:Nuggets @ Cavaliers
+LOCATION:Rocket Arena\, Cleveland\, OH
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Rocket Arena\, Cleveland\, OH\n
+ Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910317@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270112T010000Z
+DTEND:20270112T033000Z
+SUMMARY:Cavaliers @ Timberwolves
+LOCATION:Target Center\, Minneapolis\, MN
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Target Center\, Minneapolis\, M
+ N\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
+ ange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910327@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270114T000000Z
+DTEND:20270114T023000Z
+SUMMARY:Cavaliers @ Hawks
+LOCATION:State Farm Arena\, Atlanta\, GA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: State Farm Arena\, Atlanta\, GA
+ \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910346@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270116T010000Z
+DTEND:20270116T033000Z
+SUMMARY:Cavaliers @ Bucks
+LOCATION:Fiserv Forum\, Milwaukee\, WI
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Fiserv Forum\, Milwaukee\, WI\n
+ Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910354@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270117T010000Z
+DTEND:20270117T033000Z
+SUMMARY:Cavaliers @ Grizzlies
+LOCATION:FedExForum\, Memphis\, TN
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: FedExForum\, Memphis\, TN\nUnof
+ ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909473@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270118T170000Z
+DTEND:20270118T193000Z
+SUMMARY:Pistons @ Cavaliers (NBC)
+LOCATION:Rocket Arena\, Cleveland\, OH
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: Rocket Arena\, Cleveland\, OH\n
+ Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910386@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270122T003000Z
+DTEND:20270122T030000Z
+SUMMARY:Cavaliers @ Nets
+LOCATION:Barclays Center\, Brooklyn\, NY
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Barclays Center\, Brooklyn\, NY
+ \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910404@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270124T010000Z
+DTEND:20270124T033000Z
+SUMMARY:Cavaliers @ Mavericks
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: American Airlines Center\, Dall
+ as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910419@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270126T010000Z
+DTEND:20270126T033000Z
+SUMMARY:Cavaliers @ Pelicans
+LOCATION:Smoothie King Center\, New Orleans\, LA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Smoothie King Center\, New Orle
+ ans\, LA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
+  may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910428@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270128T000000Z
+DTEND:20270128T023000Z
+SUMMARY:Pistons @ Cavaliers (ESPN)
+LOCATION:Rocket Arena\, Cleveland\, OH
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Rocket Arena\, Cleveland\, OH\
+ nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910445@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270130T000000Z
+DTEND:20270130T023000Z
+SUMMARY:Cavaliers @ Raptors (ESPN)
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Scotiabank Arena\, Toronto\, O
+ N\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
+ ange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910455@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270131T003000Z
+DTEND:20270131T030000Z
+SUMMARY:Pelicans @ Cavaliers
+LOCATION:Rocket Arena\, Cleveland\, OH
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Rocket Arena\, Cleveland\, OH\n
+ Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910472@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270202T020000Z
+DTEND:20270202T043000Z
+SUMMARY:Cavaliers @ Jazz
+LOCATION:Delta Center\, Salt Lake City\, UT
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Delta Center\, Salt Lake City\,
+  UT\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910485@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270204T020000Z
+DTEND:20270204T043000Z
+SUMMARY:Cavaliers @ Suns
+LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Mortgage Matchup Center\, Phoen
+ ix\, AZ\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910496@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270205T030000Z
+DTEND:20270205T053000Z
+SUMMARY:Cavaliers @ Trail Blazers
+LOCATION:Moda Center\, Portland\, OR
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Moda Center\, Portland\, OR\nUn
+ official calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910508@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270207T003000Z
+DTEND:20270207T030000Z
+SUMMARY:Magic @ Cavaliers
+LOCATION:Rocket Arena\, Cleveland\, OH
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Rocket Arena\, Cleveland\, OH\n
+ Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910528@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270210T000000Z
+DTEND:20270210T023000Z
+SUMMARY:Raptors @ Cavaliers
+LOCATION:Rocket Arena\, Cleveland\, OH
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Rocket Arena\, Cleveland\, OH\n
+ Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910539@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270211T000000Z
+DTEND:20270211T023000Z
+SUMMARY:Cavaliers @ Pacers
+LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Gainbridge Fieldhouse\, Indiana
+ polis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
+ es may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910555@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270213T003000Z
+DTEND:20270213T030000Z
+SUMMARY:Cavaliers @ Raptors
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Scotiabank Arena\, Toronto\, ON
+ \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910569@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270214T180000Z
+DTEND:20270214T203000Z
+SUMMARY:Suns @ Cavaliers
+LOCATION:Rocket Arena\, Cleveland\, OH
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Rocket Arena\, Cleveland\, OH\n
+ Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910578@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270217T000000Z
+DTEND:20270217T023000Z
+SUMMARY:Bucks @ Cavaliers
+LOCATION:Rocket Arena\, Cleveland\, OH
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Rocket Arena\, Cleveland\, OH\n
+ Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910584@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270218T000000Z
+DTEND:20270218T023000Z
+SUMMARY:Bucks @ Cavaliers
+LOCATION:Rocket Arena\, Cleveland\, OH
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Rocket Arena\, Cleveland\, OH\n
+ Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910600@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270226T000000Z
+DTEND:20270226T023000Z
+SUMMARY:Kings @ Cavaliers
+LOCATION:Rocket Arena\, Cleveland\, OH
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Rocket Arena\, Cleveland\, OH\n
+ Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910610@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270227T003000Z
+DTEND:20270227T030000Z
+SUMMARY:Cavaliers @ Celtics (ESPN)
+LOCATION:TD Garden\, Boston\, MA
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: TD Garden\, Boston\, MA\nUnoff
+ icial calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910632@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270302T000000Z
+DTEND:20270302T023000Z
+SUMMARY:76ers @ Cavaliers (NBCSN)
+LOCATION:Rocket Arena\, Cleveland\, OH
+DESCRIPTION:Regular Season\nTV: NBCSN\nVenue: Rocket Arena\, Cleveland\, OH
+ \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910654@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270305T000000Z
+DTEND:20270305T023000Z
+SUMMARY:Trail Blazers @ Cavaliers
+LOCATION:Rocket Arena\, Cleveland\, OH
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Rocket Arena\, Cleveland\, OH\n
+ Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910670@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270306T223000Z
+DTEND:20270307T010000Z
+SUMMARY:Hawks @ Cavaliers (Prime Video)
+LOCATION:Rocket Arena\, Cleveland\, OH
+DESCRIPTION:Regular Season\nTV: Prime Video\nVenue: Rocket Arena\, Clevelan
+ d\, OH\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910691@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270310T010000Z
+DTEND:20270310T033000Z
+SUMMARY:Cavaliers @ Pistons (NBC)
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: Little Caesars Arena\, Detroit\
+ , MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910712@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270312T033000Z
+DTEND:20270312T060000Z
+SUMMARY:Cavaliers @ Clippers
+LOCATION:Intuit Dome\, Inglewood\, CA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Intuit Dome\, Inglewood\, CA\nU
+ nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910718@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270313T030000Z
+DTEND:20270313T053000Z
+SUMMARY:Cavaliers @ Lakers
+LOCATION:crypto.com Arena\, Los Angeles\, CA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: crypto.com Arena\, Los Angeles\
+ , CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910730@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270314T220000Z
+DTEND:20270315T003000Z
+SUMMARY:Cavaliers @ Kings
+LOCATION:Golden 1 Center\, Sacramento\, CA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Golden 1 Center\, Sacramento\, 
+ CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
+ hange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910746@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270317T020000Z
+DTEND:20270317T043000Z
+SUMMARY:Cavaliers @ Warriors
+LOCATION:Chase Center\, San Francisco\, CA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Chase Center\, San Francisco\, 
+ CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
+ hange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910763@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270319T010000Z
+DTEND:20270319T033000Z
+SUMMARY:Cavaliers @ Nuggets
+LOCATION:Ball Arena\, Denver\, CO
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Ball Arena\, Denver\, CO\nUnoff
+ icial calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910774@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270320T233000Z
+DTEND:20270321T020000Z
+SUMMARY:Bulls @ Cavaliers
+LOCATION:Rocket Arena\, Cleveland\, OH
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Rocket Arena\, Cleveland\, OH\n
+ Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910786@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270322T230000Z
+DTEND:20270323T013000Z
+SUMMARY:Rockets @ Cavaliers
+LOCATION:Rocket Arena\, Cleveland\, OH
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Rocket Arena\, Cleveland\, OH\n
+ Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910811@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270325T230000Z
+DTEND:20270326T013000Z
+SUMMARY:Lakers @ Cavaliers
+LOCATION:Rocket Arena\, Cleveland\, OH
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Rocket Arena\, Cleveland\, OH\n
+ Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910841@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270329T230000Z
+DTEND:20270330T013000Z
+SUMMARY:Heat @ Cavaliers (NBCSN)
+LOCATION:Rocket Arena\, Cleveland\, OH
+DESCRIPTION:Regular Season\nTV: NBCSN\nVenue: Rocket Arena\, Cleveland\, OH
+ \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910858@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270331T233000Z
+DTEND:20270401T020000Z
+SUMMARY:Cavaliers @ Nets
+LOCATION:Barclays Center\, Brooklyn\, NY
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Barclays Center\, Brooklyn\, NY
+ \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910864@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270401T230000Z
+DTEND:20270402T013000Z
+SUMMARY:Celtics @ Cavaliers (Prime Video)
+LOCATION:Rocket Arena\, Cleveland\, OH
+DESCRIPTION:Regular Season\nTV: Prime Video\nVenue: Rocket Arena\, Clevelan
+ d\, OH\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910884@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270404T190000Z
+DTEND:20270404T213000Z
+SUMMARY:Hornets @ Cavaliers
+LOCATION:Rocket Arena\, Cleveland\, OH
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Rocket Arena\, Cleveland\, OH\n
+ Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910895@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270405T230000Z
+DTEND:20270406T013000Z
+SUMMARY:Nets @ Cavaliers
+LOCATION:Rocket Arena\, Cleveland\, OH
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Rocket Arena\, Cleveland\, OH\n
+ Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910912@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270407T233000Z
+DTEND:20270408T020000Z
+SUMMARY:Cavaliers @ Spurs (ESPN)
+LOCATION:Frost Bank Center\, San Antonio\, TX
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Frost Bank Center\, San Antoni
+ o\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910925@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270409T230000Z
+DTEND:20270410T013000Z
+SUMMARY:Cavaliers @ Pacers
+LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Gainbridge Fieldhouse\, Indiana
+ polis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
+ es may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910939@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270411T220000Z
+DTEND:20270412T003000Z
+SUMMARY:Hawks @ Cavaliers
+LOCATION:Rocket Arena\, Cleveland\, OH
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Rocket Arena\, Cleveland\, OH\n
+ Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

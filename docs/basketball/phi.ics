@@ -1,0 +1,1045 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jaxzn//NBA Calendars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Philadelphia 76ers
+X-WR-CALDESC:Philadelphia 76ers NBA schedule (unofficial\, auto-updated)
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:espn-401909089@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261020T230000Z
+DTEND:20261021T013000Z
+SUMMARY:76ers @ Knicks (NBC)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: Madison Square Garden\, New Yor
+ k\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909093@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261022T230000Z
+DTEND:20261023T013000Z
+SUMMARY:Cavaliers @ 76ers (ESPN)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Xfinity Mobile Arena\, Philade
+ lphia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
+ es may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909855@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261024T233000Z
+DTEND:20261025T020000Z
+SUMMARY:Bucks @ 76ers (NBA TV)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: NBA TV\nVenue: Xfinity Mobile Arena\, Phila
+ delphia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
+ imes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909866@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261025T233000Z
+DTEND:20261026T020000Z
+SUMMARY:Pistons @ 76ers
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Xfinity Mobile Arena\, Philadel
+ phia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
+ s may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909884@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261028T230000Z
+DTEND:20261029T013000Z
+SUMMARY:76ers @ Pacers (ESPN)
+LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Gainbridge Fieldhouse\, Indian
+ apolis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Ti
+ mes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909280@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261030T233000Z
+DTEND:20261031T020000Z
+SUMMARY:Knicks @ 76ers (Prime Video)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:NBA Cup - Group Play\nTV: Prime Video\nVenue: Xfinity Mobile Ar
+ ena\, Philadelphia\, PA\nUnofficial calendar\; not affiliated with the NBA
+  or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909897@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261031T220000Z
+DTEND:20261101T003000Z
+SUMMARY:76ers @ Hornets (NBA TV)
+LOCATION:Spectrum Center\, Charlotte\, NC
+DESCRIPTION:Regular Season\nTV: NBA TV\nVenue: Spectrum Center\, Charlotte\
+ , NC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909912@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261103T003000Z
+DTEND:20261103T030000Z
+SUMMARY:Bulls @ 76ers
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Xfinity Mobile Arena\, Philadel
+ phia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
+ s may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909922@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261105T000000Z
+DTEND:20261105T023000Z
+SUMMARY:76ers @ Pistons (ESPN)
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Little Caesars Arena\, Detroit
+ \, MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
+ y change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909289@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261107T003000Z
+DTEND:20261107T030000Z
+SUMMARY:76ers @ Cavaliers (Prime Video)
+LOCATION:Rocket Arena\, Cleveland\, OH
+DESCRIPTION:NBA Cup - Group Play\nTV: Prime Video\nVenue: Rocket Arena\, Cl
+ eveland\, OH\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
+ imes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909945@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261108T203000Z
+DTEND:20261108T230000Z
+SUMMARY:76ers @ Bulls
+LOCATION:United Center\, Chicago\, IL
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: United Center\, Chicago\, IL\nU
+ nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909961@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261111T010000Z
+DTEND:20261111T033000Z
+SUMMARY:Celtics @ 76ers (NBC)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: Xfinity Mobile Arena\, Philadel
+ phia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
+ s may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909976@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261113T000000Z
+DTEND:20261113T023000Z
+SUMMARY:Raptors @ 76ers
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Xfinity Mobile Arena\, Philadel
+ phia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
+ s may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909985@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261115T180000Z
+DTEND:20261115T203000Z
+SUMMARY:Pacers @ 76ers
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Xfinity Mobile Arena\, Philadel
+ phia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
+ s may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909997@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261117T003000Z
+DTEND:20261117T030000Z
+SUMMARY:76ers @ Nets
+LOCATION:Barclays Center\, Brooklyn\, NY
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Barclays Center\, Brooklyn\, NY
+ \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910010@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261119T000000Z
+DTEND:20261119T023000Z
+SUMMARY:76ers @ Magic
+LOCATION:Kia Center\, Orlando\, FL
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Kia Center\, Orlando\, FL\nUnof
+ ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910023@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261121T180000Z
+DTEND:20261121T203000Z
+SUMMARY:Bucks @ 76ers
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Xfinity Mobile Arena\, Philadel
+ phia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
+ s may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910037@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261124T000000Z
+DTEND:20261124T023000Z
+SUMMARY:Trail Blazers @ 76ers
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Xfinity Mobile Arena\, Philadel
+ phia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
+ s may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909317@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261125T220000Z
+DTEND:20261126T003000Z
+SUMMARY:Heat @ 76ers (ESPN)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:NBA Cup - Group Play\nTV: ESPN\nVenue: Xfinity Mobile Arena\, P
+ hiladelphia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESP
+ N. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909328@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261128T003000Z
+DTEND:20261128T030000Z
+SUMMARY:76ers @ Pacers
+LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
+DESCRIPTION:NBA Cup - Group Play\nTV: TBD\nVenue: Gainbridge Fieldhouse\, I
+ ndianapolis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESP
+ N. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910050@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261129T013000Z
+DTEND:20261129T040000Z
+SUMMARY:76ers @ Rockets (NBA TV)
+LOCATION:Toyota Center (Houston)\, Houston\, TX
+DESCRIPTION:Regular Season\nTV: NBA TV\nVenue: Toyota Center (Houston)\, Ho
+ uston\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
+ es may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910069@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261202T000000Z
+DTEND:20261202T023000Z
+SUMMARY:Grizzlies @ 76ers
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Xfinity Mobile Arena\, Philadel
+ phia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
+ s may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910077@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261203T000000Z
+DTEND:20261203T023000Z
+SUMMARY:Nuggets @ 76ers (NBA TV)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: NBA TV\nVenue: Xfinity Mobile Arena\, Phila
+ delphia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
+ imes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910092@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261213T003000Z
+DTEND:20261213T030000Z
+SUMMARY:Magic @ 76ers
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Xfinity Mobile Arena\, Philadel
+ phia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
+ s may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910106@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261215T000000Z
+DTEND:20261215T023000Z
+SUMMARY:76ers @ Magic (NBCSN)
+LOCATION:Kia Center\, Orlando\, FL
+DESCRIPTION:Regular Season\nTV: NBCSN\nVenue: Kia Center\, Orlando\, FL\nUn
+ official calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910131@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261218T000000Z
+DTEND:20261218T023000Z
+SUMMARY:Mavericks @ 76ers (NBA TV)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: NBA TV\nVenue: Xfinity Mobile Arena\, Phila
+ delphia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
+ imes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910159@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261222T000000Z
+DTEND:20261222T023000Z
+SUMMARY:76ers @ Hornets
+LOCATION:Spectrum Center\, Charlotte\, NC
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Spectrum Center\, Charlotte\, N
+ C\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
+ ange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910179@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261224T003000Z
+DTEND:20261224T030000Z
+SUMMARY:Rockets @ 76ers (Prime Video)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: Prime Video\nVenue: Xfinity Mobile Arena\, 
+ Philadelphia\, PA\nUnofficial calendar\; not affiliated with the NBA or ES
+ PN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909099@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261225T220000Z
+DTEND:20261226T003000Z
+SUMMARY:76ers @ Lakers (ABC / ESPN)
+LOCATION:crypto.com Arena\, Los Angeles\, CA
+DESCRIPTION:Regular Season\nTV: ABC / ESPN\nVenue: crypto.com Arena\, Los A
+ ngeles\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Ti
+ mes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910205@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261228T020000Z
+DTEND:20261228T043000Z
+SUMMARY:76ers @ Clippers
+LOCATION:Intuit Dome\, Inglewood\, CA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Intuit Dome\, Inglewood\, CA\nU
+ nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910218@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261230T030000Z
+DTEND:20261230T053000Z
+SUMMARY:76ers @ Kings
+LOCATION:Golden 1 Center\, Sacramento\, CA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Golden 1 Center\, Sacramento\, 
+ CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
+ hange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910223@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261231T020000Z
+DTEND:20261231T043000Z
+SUMMARY:76ers @ Suns
+LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Mortgage Matchup Center\, Phoen
+ ix\, AZ\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910238@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270102T010000Z
+DTEND:20270102T033000Z
+SUMMARY:76ers @ Bucks
+LOCATION:Fiserv Forum\, Milwaukee\, WI
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Fiserv Forum\, Milwaukee\, WI\n
+ Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910260@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270105T000000Z
+DTEND:20270105T023000Z
+SUMMARY:Hawks @ 76ers
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Xfinity Mobile Arena\, Philadel
+ phia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
+ s may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910275@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270107T003000Z
+DTEND:20270107T030000Z
+SUMMARY:Thunder @ 76ers (ESPN)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Xfinity Mobile Arena\, Philade
+ lphia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
+ es may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910291@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270109T000000Z
+DTEND:20270109T023000Z
+SUMMARY:Heat @ 76ers (ESPN)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Xfinity Mobile Arena\, Philade
+ lphia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
+ es may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910309@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270110T230000Z
+DTEND:20270111T013000Z
+SUMMARY:76ers @ Raptors
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Scotiabank Arena\, Toronto\, ON
+ \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910321@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270113T010000Z
+DTEND:20270113T033000Z
+SUMMARY:Wizards @ 76ers (NBC)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: Xfinity Mobile Arena\, Philadel
+ phia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
+ s may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910336@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270115T000000Z
+DTEND:20270115T023000Z
+SUMMARY:Nets @ 76ers
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Xfinity Mobile Arena\, Philadel
+ phia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
+ s may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910351@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270116T173000Z
+DTEND:20270116T200000Z
+SUMMARY:Timberwolves @ 76ers
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Xfinity Mobile Arena\, Philadel
+ phia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
+ s may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909474@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270118T193000Z
+DTEND:20270118T220000Z
+SUMMARY:76ers @ Hawks (NBC)
+LOCATION:State Farm Arena\, Atlanta\, GA
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: State Farm Arena\, Atlanta\, GA
+ \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910369@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270120T000000Z
+DTEND:20270120T023000Z
+SUMMARY:Pacers @ 76ers
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Xfinity Mobile Arena\, Philadel
+ phia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
+ s may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910385@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270122T003000Z
+DTEND:20270122T030000Z
+SUMMARY:76ers @ Celtics (Prime Video)
+LOCATION:TD Garden\, Boston\, MA
+DESCRIPTION:Regular Season\nTV: Prime Video\nVenue: TD Garden\, Boston\, MA
+ \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910400@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270123T220000Z
+DTEND:20270124T003000Z
+SUMMARY:76ers @ Bulls (NBA TV)
+LOCATION:United Center\, Chicago\, IL
+DESCRIPTION:Regular Season\nTV: NBA TV\nVenue: United Center\, Chicago\, IL
+ \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910415@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270126T000000Z
+DTEND:20270126T023000Z
+SUMMARY:Clippers @ 76ers
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Xfinity Mobile Arena\, Philadel
+ phia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
+ s may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910429@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270128T000000Z
+DTEND:20270128T023000Z
+SUMMARY:Kings @ 76ers
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Xfinity Mobile Arena\, Philadel
+ phia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
+ s may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910441@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270129T010000Z
+DTEND:20270129T033000Z
+SUMMARY:76ers @ Pelicans
+LOCATION:Smoothie King Center\, New Orleans\, LA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Smoothie King Center\, New Orle
+ ans\, LA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
+  may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910451@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270130T173000Z
+DTEND:20270130T200000Z
+SUMMARY:76ers @ Heat (ABC)
+LOCATION:Kaseya Center\, Miami\, FL
+DESCRIPTION:Regular Season\nTV: ABC\nVenue: Kaseya Center\, Miami\, FL\nUno
+ fficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910468@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270202T000000Z
+DTEND:20270202T023000Z
+SUMMARY:Pelicans @ 76ers
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Xfinity Mobile Arena\, Philadel
+ phia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
+ s may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910484@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270204T010000Z
+DTEND:20270204T033000Z
+SUMMARY:76ers @ Grizzlies
+LOCATION:FedExForum\, Memphis\, TN
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: FedExForum\, Memphis\, TN\nUnof
+ ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910500@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270206T000000Z
+DTEND:20270206T023000Z
+SUMMARY:Pistons @ 76ers (Prime Video)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: Prime Video\nVenue: Xfinity Mobile Arena\, 
+ Philadelphia\, PA\nUnofficial calendar\; not affiliated with the NBA or ES
+ PN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910518@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270208T000000Z
+DTEND:20270208T023000Z
+SUMMARY:Celtics @ 76ers (NBC)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: Xfinity Mobile Arena\, Philadel
+ phia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
+ s may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910523@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270209T000000Z
+DTEND:20270209T023000Z
+SUMMARY:Nets @ 76ers
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Xfinity Mobile Arena\, Philadel
+ phia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
+ s may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910547@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270212T000000Z
+DTEND:20270212T023000Z
+SUMMARY:Knicks @ 76ers (Prime Video)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: Prime Video\nVenue: Xfinity Mobile Arena\, 
+ Philadelphia\, PA\nUnofficial calendar\; not affiliated with the NBA or ES
+ PN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910563@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270213T223000Z
+DTEND:20270214T010000Z
+SUMMARY:76ers @ Thunder (Prime Video)
+LOCATION:Paycom Center\, Oklahoma City\, OK
+DESCRIPTION:Regular Season\nTV: Prime Video\nVenue: Paycom Center\, Oklahom
+ a City\, OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Ti
+ mes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909478@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270215T193000Z
+DTEND:20270215T220000Z
+SUMMARY:76ers @ Mavericks (NBC)
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: American Airlines Center\, Dall
+ as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910587@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270218T000000Z
+DTEND:20270218T023000Z
+SUMMARY:Suns @ 76ers
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Xfinity Mobile Arena\, Philadel
+ phia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
+ s may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910603@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270226T003000Z
+DTEND:20270226T030000Z
+SUMMARY:76ers @ Nets
+LOCATION:Barclays Center\, Brooklyn\, NY
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Barclays Center\, Brooklyn\, NY
+ \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910621@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270228T013000Z
+DTEND:20270228T040000Z
+SUMMARY:76ers @ Knicks (ABC)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: ABC\nVenue: Madison Square Garden\, New Yor
+ k\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910632@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270302T000000Z
+DTEND:20270302T023000Z
+SUMMARY:76ers @ Cavaliers (NBCSN)
+LOCATION:Rocket Arena\, Cleveland\, OH
+DESCRIPTION:Regular Season\nTV: NBCSN\nVenue: Rocket Arena\, Cleveland\, OH
+ \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910648@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270304T000000Z
+DTEND:20270304T023000Z
+SUMMARY:Hornets @ 76ers
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Xfinity Mobile Arena\, Philadel
+ phia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
+ s may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910656@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270305T000000Z
+DTEND:20270305T023000Z
+SUMMARY:Lakers @ 76ers (Prime Video)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: Prime Video\nVenue: Xfinity Mobile Arena\, 
+ Philadelphia\, PA\nUnofficial calendar\; not affiliated with the NBA or ES
+ PN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910675@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270307T180000Z
+DTEND:20270307T203000Z
+SUMMARY:76ers @ Celtics (ABC)
+LOCATION:TD Garden\, Boston\, MA
+DESCRIPTION:Regular Season\nTV: ABC\nVenue: TD Garden\, Boston\, MA\nUnoffi
+ cial calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910682@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270309T000000Z
+DTEND:20270309T023000Z
+SUMMARY:Jazz @ 76ers
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Xfinity Mobile Arena\, Philadel
+ phia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
+ s may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910707@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270312T003000Z
+DTEND:20270312T030000Z
+SUMMARY:76ers @ Spurs (Prime Video)
+LOCATION:Frost Bank Center\, San Antonio\, TX
+DESCRIPTION:Regular Season\nTV: Prime Video\nVenue: Frost Bank Center\, San
+  Antonio\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. 
+ Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910725@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270314T013000Z
+DTEND:20270314T040000Z
+SUMMARY:76ers @ Timberwolves (ABC)
+LOCATION:Target Center\, Minneapolis\, MN
+DESCRIPTION:Regular Season\nTV: ABC\nVenue: Target Center\, Minneapolis\, M
+ N\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
+ ange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910734@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270315T230000Z
+DTEND:20270316T013000Z
+SUMMARY:Raptors @ 76ers (NBCSN)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: NBCSN\nVenue: Xfinity Mobile Arena\, Philad
+ elphia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Ti
+ mes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910749@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270317T230000Z
+DTEND:20270318T013000Z
+SUMMARY:Bulls @ 76ers
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Xfinity Mobile Arena\, Philadel
+ phia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
+ s may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910758@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270318T230000Z
+DTEND:20270319T013000Z
+SUMMARY:76ers @ Wizards (NBA TV)
+LOCATION:Capital One Arena\, Washington\, DC
+DESCRIPTION:Regular Season\nTV: NBA TV\nVenue: Capital One Arena\, Washingt
+ on\, DC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910784@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270321T233000Z
+DTEND:20270322T020000Z
+SUMMARY:Spurs @ 76ers (NBC)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: Xfinity Mobile Arena\, Philadel
+ phia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
+ s may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910797@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270324T010000Z
+DTEND:20270324T033000Z
+SUMMARY:76ers @ Jazz
+LOCATION:Delta Center\, Salt Lake City\, UT
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Delta Center\, Salt Lake City\,
+  UT\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910807@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270325T020000Z
+DTEND:20270325T043000Z
+SUMMARY:76ers @ Warriors (ESPN)
+LOCATION:Chase Center\, San Francisco\, CA
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Chase Center\, San Francisco\,
+  CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910823@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270327T020000Z
+DTEND:20270327T043000Z
+SUMMARY:76ers @ Trail Blazers (NBA TV)
+LOCATION:Moda Center\, Portland\, OR
+DESCRIPTION:Regular Season\nTV: NBA TV\nVenue: Moda Center\, Portland\, OR\
+ nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910839@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270329T020000Z
+DTEND:20270329T043000Z
+SUMMARY:76ers @ Nuggets (NBC)
+LOCATION:Ball Arena\, Denver\, CO
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: Ball Arena\, Denver\, CO\nUnoff
+ icial calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910856@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270331T230000Z
+DTEND:20270401T013000Z
+SUMMARY:Warriors @ 76ers (ESPN)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Xfinity Mobile Arena\, Philade
+ lphia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
+ es may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910868@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270402T230000Z
+DTEND:20270403T013000Z
+SUMMARY:76ers @ Wizards
+LOCATION:Capital One Arena\, Washington\, DC
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Capital One Arena\, Washington\
+ , DC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910882@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270404T170000Z
+DTEND:20270404T193000Z
+SUMMARY:Hawks @ 76ers
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Xfinity Mobile Arena\, Philadel
+ phia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
+ s may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910899@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270406T233000Z
+DTEND:20270407T020000Z
+SUMMARY:76ers @ Raptors
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Scotiabank Arena\, Toronto\, ON
+ \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910918@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270408T230000Z
+DTEND:20270409T013000Z
+SUMMARY:76ers @ Heat (Prime Video)
+LOCATION:Kaseya Center\, Miami\, FL
+DESCRIPTION:Regular Season\nTV: Prime Video\nVenue: Kaseya Center\, Miami\,
+  FL\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910942@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270411T220000Z
+DTEND:20270412T003000Z
+SUMMARY:Hornets @ 76ers
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Xfinity Mobile Arena\, Philadel
+ phia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
+ s may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

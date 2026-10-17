@@ -1,0 +1,1011 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jaxzn//NBA Calendars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Portland Trail Blazers
+X-WR-CALDESC:Portland Trail Blazers NBA schedule (unofficial\, auto-updated
+ )
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:espn-401909841@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261022T020000Z
+DTEND:20261022T043000Z
+SUMMARY:Suns @ Trail Blazers
+LOCATION:Moda Center\, Portland\, OR
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Moda Center\, Portland\, OR\nUn
+ official calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909852@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261024T020000Z
+DTEND:20261024T043000Z
+SUMMARY:Trail Blazers @ Kings
+LOCATION:Golden 1 Center\, Sacramento\, CA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Golden 1 Center\, Sacramento\, 
+ CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
+ hange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909880@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261028T030000Z
+DTEND:20261028T053000Z
+SUMMARY:Trail Blazers @ Lakers (NBC)
+LOCATION:crypto.com Arena\, Los Angeles\, CA
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: crypto.com Arena\, Los Angeles\
+ , CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909895@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261030T020000Z
+DTEND:20261030T043000Z
+SUMMARY:Grizzlies @ Trail Blazers
+LOCATION:Moda Center\, Portland\, OR
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Moda Center\, Portland\, OR\nUn
+ official calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909896@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261031T190000Z
+DTEND:20261031T213000Z
+SUMMARY:Trail Blazers @ Jazz
+LOCATION:Delta Center\, Salt Lake City\, UT
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Delta Center\, Salt Lake City\,
+  UT\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909918@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261103T020000Z
+DTEND:20261103T043000Z
+SUMMARY:Trail Blazers @ Nuggets
+LOCATION:Ball Arena\, Denver\, CO
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Ball Arena\, Denver\, CO\nUnoff
+ icial calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909932@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261105T020000Z
+DTEND:20261105T043000Z
+SUMMARY:Trail Blazers @ Suns
+LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Mortgage Matchup Center\, Phoen
+ ix\, AZ\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909294@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261107T030000Z
+DTEND:20261107T053000Z
+SUMMARY:Trail Blazers @ Lakers (Prime Video)
+LOCATION:crypto.com Arena\, Los Angeles\, CA
+DESCRIPTION:NBA Cup - Group Play\nTV: Prime Video\nVenue: crypto.com Arena\
+ , Los Angeles\, CA\nUnofficial calendar\; not affiliated with the NBA or E
+ SPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909944@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261108T030000Z
+DTEND:20261108T053000Z
+SUMMARY:Spurs @ Trail Blazers
+LOCATION:Moda Center\, Portland\, OR
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Moda Center\, Portland\, OR\nUn
+ official calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909965@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261111T040000Z
+DTEND:20261111T063000Z
+SUMMARY:Thunder @ Trail Blazers (NBC)
+LOCATION:Moda Center\, Portland\, OR
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: Moda Center\, Portland\, OR\nUn
+ official calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909975@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261112T030000Z
+DTEND:20261112T053000Z
+SUMMARY:Thunder @ Trail Blazers
+LOCATION:Moda Center\, Portland\, OR
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Moda Center\, Portland\, OR\nUn
+ official calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909303@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261114T030000Z
+DTEND:20261114T053000Z
+SUMMARY:Trail Blazers @ Kings
+LOCATION:Golden 1 Center\, Sacramento\, CA
+DESCRIPTION:NBA Cup - Group Play\nTV: TBD\nVenue: Golden 1 Center\, Sacrame
+ nto\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
+  may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909999@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261117T010000Z
+DTEND:20261117T033000Z
+SUMMARY:Trail Blazers @ Timberwolves
+LOCATION:Target Center\, Minneapolis\, MN
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Target Center\, Minneapolis\, M
+ N\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
+ ange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910003@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261118T010000Z
+DTEND:20261118T033000Z
+SUMMARY:Trail Blazers @ Timberwolves
+LOCATION:Target Center\, Minneapolis\, MN
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Target Center\, Minneapolis\, M
+ N\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
+ ange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910020@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261120T010000Z
+DTEND:20261120T033000Z
+SUMMARY:Trail Blazers @ Bucks
+LOCATION:Fiserv Forum\, Milwaukee\, WI
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Fiserv Forum\, Milwaukee\, WI\n
+ Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910024@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261122T003000Z
+DTEND:20261122T030000Z
+SUMMARY:Trail Blazers @ Knicks (NBA TV)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: NBA TV\nVenue: Madison Square Garden\, New 
+ York\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
+ s may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910037@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261124T000000Z
+DTEND:20261124T023000Z
+SUMMARY:Trail Blazers @ 76ers
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Xfinity Mobile Arena\, Philadel
+ phia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
+ s may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909325@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261126T030000Z
+DTEND:20261126T053000Z
+SUMMARY:Spurs @ Trail Blazers (ESPN)
+LOCATION:Moda Center\, Portland\, OR
+DESCRIPTION:NBA Cup - Group Play\nTV: ESPN\nVenue: Moda Center\, Portland\,
+  OR\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909336@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261128T023000Z
+DTEND:20261128T050000Z
+SUMMARY:Warriors @ Trail Blazers
+LOCATION:Moda Center\, Portland\, OR
+DESCRIPTION:NBA Cup - Group Play\nTV: TBD\nVenue: Moda Center\, Portland\, 
+ OR\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
+ hange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910058@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261129T230000Z
+DTEND:20261130T013000Z
+SUMMARY:Pelicans @ Trail Blazers
+LOCATION:Moda Center\, Portland\, OR
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Moda Center\, Portland\, OR\nUn
+ official calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910074@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261202T030000Z
+DTEND:20261202T053000Z
+SUMMARY:Timberwolves @ Trail Blazers
+LOCATION:Moda Center\, Portland\, OR
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Moda Center\, Portland\, OR\nUn
+ official calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910089@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261204T030000Z
+DTEND:20261204T053000Z
+SUMMARY:Jazz @ Trail Blazers
+LOCATION:Moda Center\, Portland\, OR
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Moda Center\, Portland\, OR\nUn
+ official calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910097@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261213T030000Z
+DTEND:20261213T053000Z
+SUMMARY:Hawks @ Trail Blazers
+LOCATION:Moda Center\, Portland\, OR
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Moda Center\, Portland\, OR\nUn
+ official calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910116@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261216T040000Z
+DTEND:20261216T063000Z
+SUMMARY:Nuggets @ Trail Blazers (NBC)
+LOCATION:Moda Center\, Portland\, OR
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: Moda Center\, Portland\, OR\nUn
+ official calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910130@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261218T000000Z
+DTEND:20261218T023000Z
+SUMMARY:Trail Blazers @ Pacers
+LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Gainbridge Fieldhouse\, Indiana
+ polis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
+ es may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910145@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261219T230000Z
+DTEND:20261220T013000Z
+SUMMARY:Trail Blazers @ Hornets
+LOCATION:Spectrum Center\, Charlotte\, NC
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Spectrum Center\, Charlotte\, N
+ C\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
+ ange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910162@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261222T003000Z
+DTEND:20261222T030000Z
+SUMMARY:Trail Blazers @ Nets
+LOCATION:Barclays Center\, Brooklyn\, NY
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Barclays Center\, Brooklyn\, NY
+ \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910175@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261224T003000Z
+DTEND:20261224T030000Z
+SUMMARY:Trail Blazers @ Celtics
+LOCATION:TD Garden\, Boston\, MA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: TD Garden\, Boston\, MA\nUnoffi
+ cial calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910187@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261226T180000Z
+DTEND:20261226T203000Z
+SUMMARY:Trail Blazers @ Wizards (NBA TV)
+LOCATION:Capital One Arena\, Washington\, DC
+DESCRIPTION:Regular Season\nTV: NBA TV\nVenue: Capital One Arena\, Washingt
+ on\, DC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910201@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261228T000000Z
+DTEND:20261228T023000Z
+SUMMARY:Trail Blazers @ Pistons
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Little Caesars Arena\, Detroit\
+ , MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910217@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261230T030000Z
+DTEND:20261230T053000Z
+SUMMARY:Nets @ Trail Blazers
+LOCATION:Moda Center\, Portland\, OR
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Moda Center\, Portland\, OR\nUn
+ official calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910250@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270103T030000Z
+DTEND:20270103T053000Z
+SUMMARY:Celtics @ Trail Blazers (NBA TV)
+LOCATION:Moda Center\, Portland\, OR
+DESCRIPTION:Regular Season\nTV: NBA TV\nVenue: Moda Center\, Portland\, OR\
+ nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910264@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270105T030000Z
+DTEND:20270105T053000Z
+SUMMARY:Knicks @ Trail Blazers
+LOCATION:Moda Center\, Portland\, OR
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Moda Center\, Portland\, OR\nUn
+ official calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910276@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270107T010000Z
+DTEND:20270107T033000Z
+SUMMARY:Trail Blazers @ Pelicans
+LOCATION:Smoothie King Center\, New Orleans\, LA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Smoothie King Center\, New Orle
+ ans\, LA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
+  may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910285@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270108T010000Z
+DTEND:20270108T033000Z
+SUMMARY:Trail Blazers @ Mavericks
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: American Airlines Center\, Dall
+ as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910303@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270110T030000Z
+DTEND:20270110T053000Z
+SUMMARY:Hornets @ Trail Blazers
+LOCATION:Moda Center\, Portland\, OR
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Moda Center\, Portland\, OR\nUn
+ official calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910325@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270113T030000Z
+DTEND:20270113T053000Z
+SUMMARY:Magic @ Trail Blazers
+LOCATION:Moda Center\, Portland\, OR
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Moda Center\, Portland\, OR\nUn
+ official calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910333@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270114T030000Z
+DTEND:20270114T053000Z
+SUMMARY:Lakers @ Trail Blazers
+LOCATION:Moda Center\, Portland\, OR
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Moda Center\, Portland\, OR\nUn
+ official calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910349@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270116T030000Z
+DTEND:20270116T053000Z
+SUMMARY:Kings @ Trail Blazers
+LOCATION:Moda Center\, Portland\, OR
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Moda Center\, Portland\, OR\nUn
+ official calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910360@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270117T203000Z
+DTEND:20270117T230000Z
+SUMMARY:Trail Blazers @ Thunder
+LOCATION:Paycom Center\, Oklahoma City\, OK
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Paycom Center\, Oklahoma City\,
+  OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910371@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270120T003000Z
+DTEND:20270120T030000Z
+SUMMARY:Trail Blazers @ Heat
+LOCATION:Kaseya Center\, Miami\, FL
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Kaseya Center\, Miami\, FL\nUno
+ fficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910375@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270121T000000Z
+DTEND:20270121T023000Z
+SUMMARY:Trail Blazers @ Hawks
+LOCATION:State Farm Arena\, Atlanta\, GA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: State Farm Arena\, Atlanta\, GA
+ \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910391@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270123T000000Z
+DTEND:20270123T023000Z
+SUMMARY:Trail Blazers @ Magic
+LOCATION:Kia Center\, Orlando\, FL
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Kia Center\, Orlando\, FL\nUnof
+ ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910406@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270124T203000Z
+DTEND:20270124T230000Z
+SUMMARY:Trail Blazers @ Spurs
+LOCATION:Frost Bank Center\, San Antonio\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Frost Bank Center\, San Antonio
+ \, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
+ y change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910426@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270127T030000Z
+DTEND:20270127T053000Z
+SUMMARY:Wizards @ Trail Blazers
+LOCATION:Moda Center\, Portland\, OR
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Moda Center\, Portland\, OR\nUn
+ official calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910436@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270128T030000Z
+DTEND:20270128T053000Z
+SUMMARY:Warriors @ Trail Blazers
+LOCATION:Moda Center\, Portland\, OR
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Moda Center\, Portland\, OR\nUn
+ official calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910465@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270201T010000Z
+DTEND:20270201T033000Z
+SUMMARY:Trail Blazers @ Nuggets
+LOCATION:Ball Arena\, Denver\, CO
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Ball Arena\, Denver\, CO\nUnoff
+ icial calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910481@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270203T040000Z
+DTEND:20270203T063000Z
+SUMMARY:Timberwolves @ Trail Blazers (NBC)
+LOCATION:Moda Center\, Portland\, OR
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: Moda Center\, Portland\, OR\nUn
+ official calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910496@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270205T030000Z
+DTEND:20270205T053000Z
+SUMMARY:Cavaliers @ Trail Blazers
+LOCATION:Moda Center\, Portland\, OR
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Moda Center\, Portland\, OR\nUn
+ official calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910506@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270206T223000Z
+DTEND:20270207T010000Z
+SUMMARY:Trail Blazers @ Grizzlies (Prime Video)
+LOCATION:FedExForum\, Memphis\, TN
+DESCRIPTION:Regular Season\nTV: Prime Video\nVenue: FedExForum\, Memphis\, 
+ TN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
+ hange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910525@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270209T010000Z
+DTEND:20270209T033000Z
+SUMMARY:Trail Blazers @ Grizzlies
+LOCATION:FedExForum\, Memphis\, TN
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: FedExForum\, Memphis\, TN\nUnof
+ ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910535@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270210T010000Z
+DTEND:20270210T033000Z
+SUMMARY:Trail Blazers @ Thunder
+LOCATION:Paycom Center\, Oklahoma City\, OK
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Paycom Center\, Oklahoma City\,
+  OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910548@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270212T010000Z
+DTEND:20270212T033000Z
+SUMMARY:Trail Blazers @ Mavericks
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: American Airlines Center\, Dall
+ as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910562@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270213T203000Z
+DTEND:20270213T230000Z
+SUMMARY:Pistons @ Trail Blazers
+LOCATION:Moda Center\, Portland\, OR
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Moda Center\, Portland\, OR\nUn
+ official calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910573@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270214T203000Z
+DTEND:20270214T230000Z
+SUMMARY:Bulls @ Trail Blazers
+LOCATION:Moda Center\, Portland\, OR
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Moda Center\, Portland\, OR\nUn
+ official calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910581@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270217T030000Z
+DTEND:20270217T053000Z
+SUMMARY:Pelicans @ Trail Blazers
+LOCATION:Moda Center\, Portland\, OR
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Moda Center\, Portland\, OR\nUn
+ official calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910599@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270219T030000Z
+DTEND:20270219T053000Z
+SUMMARY:Pacers @ Trail Blazers
+LOCATION:Moda Center\, Portland\, OR
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Moda Center\, Portland\, OR\nUn
+ official calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910616@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270227T030000Z
+DTEND:20270227T053000Z
+SUMMARY:Mavericks @ Trail Blazers
+LOCATION:Moda Center\, Portland\, OR
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Moda Center\, Portland\, OR\nUn
+ official calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910631@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270301T033000Z
+DTEND:20270301T060000Z
+SUMMARY:Trail Blazers @ Clippers
+LOCATION:Intuit Dome\, Inglewood\, CA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Intuit Dome\, Inglewood\, CA\nU
+ nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910646@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270303T040000Z
+DTEND:20270303T063000Z
+SUMMARY:Clippers @ Trail Blazers (NBC)
+LOCATION:Moda Center\, Portland\, OR
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: Moda Center\, Portland\, OR\nUn
+ official calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910654@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270305T000000Z
+DTEND:20270305T023000Z
+SUMMARY:Trail Blazers @ Cavaliers
+LOCATION:Rocket Arena\, Cleveland\, OH
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Rocket Arena\, Cleveland\, OH\n
+ Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910664@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270306T003000Z
+DTEND:20270306T030000Z
+SUMMARY:Trail Blazers @ Raptors
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Scotiabank Arena\, Toronto\, ON
+ \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910677@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270307T220000Z
+DTEND:20270308T003000Z
+SUMMARY:Trail Blazers @ Bulls
+LOCATION:United Center\, Chicago\, IL
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: United Center\, Chicago\, IL\nU
+ nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910695@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270310T040000Z
+DTEND:20270310T063000Z
+SUMMARY:Trail Blazers @ Warriors (NBC)
+LOCATION:Chase Center\, San Francisco\, CA
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: Chase Center\, San Francisco\, 
+ CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
+ hange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910701@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270311T030000Z
+DTEND:20270311T053000Z
+SUMMARY:Nuggets @ Trail Blazers
+LOCATION:Moda Center\, Portland\, OR
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Moda Center\, Portland\, OR\nUn
+ official calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910726@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270314T033000Z
+DTEND:20270314T060000Z
+SUMMARY:Clippers @ Trail Blazers (ESPN)
+LOCATION:Moda Center\, Portland\, OR
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Moda Center\, Portland\, OR\nU
+ nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910747@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270317T020000Z
+DTEND:20270317T043000Z
+SUMMARY:Lakers @ Trail Blazers
+LOCATION:Moda Center\, Portland\, OR
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Moda Center\, Portland\, OR\nUn
+ official calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910756@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270318T020000Z
+DTEND:20270318T043000Z
+SUMMARY:Heat @ Trail Blazers
+LOCATION:Moda Center\, Portland\, OR
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Moda Center\, Portland\, OR\nUn
+ official calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910769@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270320T020000Z
+DTEND:20270320T043000Z
+SUMMARY:Trail Blazers @ Warriors
+LOCATION:Chase Center\, San Francisco\, CA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Chase Center\, San Francisco\, 
+ CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
+ hange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910782@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270321T210000Z
+DTEND:20270321T233000Z
+SUMMARY:Trail Blazers @ Suns
+LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Mortgage Matchup Center\, Phoen
+ ix\, AZ\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910798@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270324T020000Z
+DTEND:20270324T043000Z
+SUMMARY:Raptors @ Trail Blazers
+LOCATION:Moda Center\, Portland\, OR
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Moda Center\, Portland\, OR\nUn
+ official calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910823@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270327T020000Z
+DTEND:20270327T043000Z
+SUMMARY:76ers @ Trail Blazers (NBA TV)
+LOCATION:Moda Center\, Portland\, OR
+DESCRIPTION:Regular Season\nTV: NBA TV\nVenue: Moda Center\, Portland\, OR\
+ nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910829@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270328T020000Z
+DTEND:20270328T043000Z
+SUMMARY:Bucks @ Trail Blazers
+LOCATION:Moda Center\, Portland\, OR
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Moda Center\, Portland\, OR\nUn
+ official calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910853@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270331T030000Z
+DTEND:20270331T053000Z
+SUMMARY:Rockets @ Trail Blazers (NBC)
+LOCATION:Moda Center\, Portland\, OR
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: Moda Center\, Portland\, OR\nUn
+ official calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910863@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270401T020000Z
+DTEND:20270401T043000Z
+SUMMARY:Rockets @ Trail Blazers
+LOCATION:Moda Center\, Portland\, OR
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Moda Center\, Portland\, OR\nUn
+ official calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910878@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270403T020000Z
+DTEND:20270403T043000Z
+SUMMARY:Jazz @ Trail Blazers
+LOCATION:Moda Center\, Portland\, OR
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Moda Center\, Portland\, OR\nUn
+ official calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910891@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270404T210000Z
+DTEND:20270404T233000Z
+SUMMARY:Trail Blazers @ Jazz
+LOCATION:Delta Center\, Salt Lake City\, UT
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Delta Center\, Salt Lake City\,
+  UT\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910917@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270408T020000Z
+DTEND:20270408T043000Z
+SUMMARY:Mavericks @ Trail Blazers
+LOCATION:Moda Center\, Portland\, OR
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Moda Center\, Portland\, OR\nUn
+ official calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910931@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270410T003000Z
+DTEND:20270410T030000Z
+SUMMARY:Trail Blazers @ Rockets
+LOCATION:Toyota Center (Houston)\, Houston\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Toyota Center (Houston)\, Houst
+ on\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910947@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270412T003000Z
+DTEND:20270412T030000Z
+SUMMARY:Trail Blazers @ Spurs
+LOCATION:Frost Bank Center\, San Antonio\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Frost Bank Center\, San Antonio
+ \, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
+ y change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

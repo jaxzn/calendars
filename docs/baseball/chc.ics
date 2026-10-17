@@ -1,0 +1,2203 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jaxzn//MLB Calendars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Chicago Cubs
+X-WR-CALDESC:Chicago Cubs MLB schedule (unofficial\, auto-updated)
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:espn-401814698@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260326T182000Z
+DTEND:20260326T212000Z
+SUMMARY:Nationals @ Cubs (Marquee Sports Net / Nationals.TV)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Nationals.TV\nVenue: W
+ rigley Field\, Chicago\, Illinois\nFinal: Nationals 10\, Cubs 4\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814717@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260328T182000Z
+DTEND:20260328T212000Z
+SUMMARY:Nationals @ Cubs (ESPN Unlimited)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Wrigley Field\, Chic
+ ago\, Illinois\nFinal: Nationals 2\, Cubs 10\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814732@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260329T182000Z
+DTEND:20260329T212000Z
+SUMMARY:Nationals @ Cubs (Marquee Sports Net / Nationals.TV)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Nationals.TV\nVenue: W
+ rigley Field\, Chicago\, Illinois\nFinal: Nationals 6\, Cubs 3\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814741@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260330T234000Z
+DTEND:20260331T024000Z
+SUMMARY:Angels @ Cubs (FanDuel SN West / Marquee Sports Net)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: FanDuel SN West / Marquee Sports Net\nVenue
+ : Wrigley Field\, Chicago\, Illinois\nFinal: Angels 2\, Cubs 7\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814756@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260331T234000Z
+DTEND:20260401T024000Z
+SUMMARY:Angels @ Cubs (FanDuel SN West / Marquee Sports Net)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: FanDuel SN West / Marquee Sports Net\nVenue
+ : Wrigley Field\, Chicago\, Illinois\nFinal: Angels 2\, Cubs 0\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814770@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260401T182000Z
+DTEND:20260401T212000Z
+SUMMARY:Angels @ Cubs (FanDuel SN West / Marquee Sports Net)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: FanDuel SN West / Marquee Sports Net\nVenue
+ : Wrigley Field\, Chicago\, Illinois\nFinal: Angels 2\, Cubs 6\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814784@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260403T201000Z
+DTEND:20260403T231000Z
+SUMMARY:Cubs @ Guardians (ESPN Unlimited)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Progressive Field\, 
+ Cleveland\, Ohio\nFinal: Cubs 1\, Guardians 4\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814798@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260404T231500Z
+DTEND:20260405T021500Z
+SUMMARY:Postponed: Cubs @ Guardians (Fox)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Rain - Makeup date April 5\nTV: Fox\nVenue: Progressive Field\,
+  Cleveland\, Ohio\nPostponed. This listing stays cancelled under the same 
+ id. The makeup\, when ESPN adds one\, is a separate game.\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814813@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260405T171000Z
+DTEND:20260405T201000Z
+SUMMARY:Cubs @ Guardians (CLEGuardians.TV / Marquee Sports Net)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Doubleheader - Game 1\nTV: CLEGuardians.TV / Marquee Sports Net
+ \nVenue: Progressive Field\, Cleveland\, Ohio\nFinal: Cubs 1\, Guardians 0
+ \nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401867431@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260405T203000Z
+DTEND:20260405T233000Z
+SUMMARY:Cubs @ Guardians (CLEGuardians.TV / Marquee Sports Net)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Doubleheader - Game 2 - Makeup from April 4\nTV: CLEGuardians.T
+ V / Marquee Sports Net\nVenue: Progressive Field\, Cleveland\, Ohio\nFinal
+ : Cubs 5\, Guardians 6\nUnofficial calendar\; not affiliated with the MLB 
+ or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814827@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260406T201000Z
+DTEND:20260406T231000Z
+SUMMARY:Cubs @ Rays (Marquee Sports Net / Rays.TV / WMOR)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Rays.TV / WMOR\nVenue:
+  Tropicana Field\, St. Petersburg\, Florida\nFinal: Cubs 4\, Rays 6\nUnoff
+ icial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814842@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260407T224000Z
+DTEND:20260408T014000Z
+SUMMARY:Cubs @ Rays (Marquee Sports Net / Rays.TV)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Rays.TV\nVenue: Tropic
+ ana Field\, St. Petersburg\, Florida\nFinal: Cubs 9\, Rays 2\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814857@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260408T224000Z
+DTEND:20260409T014000Z
+SUMMARY:Cubs @ Rays (Marquee Sports Net / Rays.TV)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Rays.TV\nVenue: Tropic
+ ana Field\, St. Petersburg\, Florida\nFinal: Cubs 6\, Rays 2\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814886@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260410T182000Z
+DTEND:20260410T212000Z
+SUMMARY:Pirates @ Cubs (Marquee Sports Net)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net\nVenue: Wrigley Field\, 
+ Chicago\, Illinois\nFinal: Pirates 2\, Cubs 0\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814901@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260411T182000Z
+DTEND:20260411T212000Z
+SUMMARY:Pirates @ Cubs (Marquee Sports Net)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net\nVenue: Wrigley Field\, 
+ Chicago\, Illinois\nFinal: Pirates 4\, Cubs 3\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814916@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260412T182000Z
+DTEND:20260412T212000Z
+SUMMARY:Pirates @ Cubs (Marquee Sports Net)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net\nVenue: Wrigley Field\, 
+ Chicago\, Illinois\nFinal: Pirates 6\, Cubs 7\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814923@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260413T224000Z
+DTEND:20260414T014000Z
+SUMMARY:Cubs @ Phillies (FS1)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: FS1\nVenue: Citizens Bank Park\, Philadelph
+ ia\, Pennsylvania\nFinal: Cubs 7\, Phillies 13\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814933@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260414T224000Z
+DTEND:20260415T014000Z
+SUMMARY:Cubs @ Phillies (TBS)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: TBS\nVenue: Citizens Bank Park\, Philadelph
+ ia\, Pennsylvania\nFinal: Cubs 10\, Phillies 4\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814948@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260415T224000Z
+DTEND:20260416T014000Z
+SUMMARY:Cubs @ Phillies (ESPN Unlimited)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Citizens Bank Park\,
+  Philadelphia\, Pennsylvania\nFinal: Cubs 11\, Phillies 2\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814979@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260417T182000Z
+DTEND:20260417T212000Z
+SUMMARY:Mets @ Cubs (Marquee Sports Net / WPIX)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / WPIX\nVenue: Wrigley F
+ ield\, Chicago\, Illinois\nFinal: Mets 4\, Cubs 12\nUnofficial calendar\; 
+ not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814994@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260418T182000Z
+DTEND:20260418T212000Z
+SUMMARY:Mets @ Cubs (Marquee Sports Net / SNY)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / SNY\nVenue: Wrigley Fi
+ eld\, Chicago\, Illinois\nFinal: Mets 2\, Cubs 4\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815009@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260419T182000Z
+DTEND:20260419T212000Z
+SUMMARY:Mets @ Cubs (Marquee Sports Net / SNY)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / SNY\nVenue: Wrigley Fi
+ eld\, Chicago\, Illinois\nFinal: Mets 1\, Cubs 2\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815022@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260420T234000Z
+DTEND:20260421T024000Z
+SUMMARY:Phillies @ Cubs (Marquee Sports Net / NBC Sports Phil +)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / NBC Sports Phil +\nVen
+ ue: Wrigley Field\, Chicago\, Illinois\nFinal: Phillies 1\, Cubs 5\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815034@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260421T234000Z
+DTEND:20260422T024000Z
+SUMMARY:Phillies @ Cubs (Marquee Sports Net / NBC Sports Phil)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / NBC Sports Phil\nVenue
+ : Wrigley Field\, Chicago\, Illinois\nFinal: Phillies 4\, Cubs 7\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815049@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260422T234000Z
+DTEND:20260423T024000Z
+SUMMARY:Phillies @ Cubs (Marquee Sports Net / NBC Sports Phil +)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / NBC Sports Phil +\nVen
+ ue: Wrigley Field\, Chicago\, Illinois\nFinal: Phillies 2\, Cubs 7\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815060@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260423T182000Z
+DTEND:20260423T212000Z
+SUMMARY:Phillies @ Cubs (Marquee Sports Net / NBC Sports Phil)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / NBC Sports Phil\nVenue
+ : Wrigley Field\, Chicago\, Illinois\nFinal: Phillies 7\, Cubs 8\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815077@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260425T021500Z
+DTEND:20260425T051500Z
+SUMMARY:Cubs @ Dodgers (Apple TV)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: Dodger Stadium\, Los Angel
+ es\, California\nFinal: Cubs 6\, Dodgers 4\nUnofficial calendar\; not affi
+ liated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815092@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260425T231500Z
+DTEND:20260426T021500Z
+SUMMARY:Cubs @ Dodgers (Fox)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: Fox\nVenue: Dodger Stadium\, Los Angeles\, 
+ California\nFinal: Cubs 4\, Dodgers 12\nUnofficial calendar\; not affiliat
+ ed with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815107@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260426T201000Z
+DTEND:20260426T231000Z
+SUMMARY:Cubs @ Dodgers (SportsNet LA / Marquee Sports Net)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Marquee Sports Net\nVenue: D
+ odger Stadium\, Los Angeles\, California\nFinal: Cubs 0\, Dodgers 6\nUnoff
+ icial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815116@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260428T014000Z
+DTEND:20260428T044000Z
+SUMMARY:Cubs @ Padres (Marquee Sports Net / Padres.TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Padres.TV\nVenue: Petc
+ o Park\, San Diego\, California\nFinal: Cubs 7\, Padres 9\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815130@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260429T014000Z
+DTEND:20260429T044000Z
+SUMMARY:Cubs @ Padres (Marquee Sports Net / Padres.TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Padres.TV\nVenue: Petc
+ o Park\, San Diego\, California\nFinal: Cubs 8\, Padres 3\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815145@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260429T201000Z
+DTEND:20260429T231000Z
+SUMMARY:Cubs @ Padres (Marquee Sports Net / Padres.TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Padres.TV\nVenue: Petc
+ o Park\, San Diego\, California\nFinal: Cubs 5\, Padres 4\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815164@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260501T182000Z
+DTEND:20260501T212000Z
+SUMMARY:Diamondbacks @ Cubs (Marquee Sports Net / DBACKS.TV)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / DBACKS.TV\nVenue: Wrig
+ ley Field\, Chicago\, Illinois\nFinal: Diamondbacks 5\, Cubs 6\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815179@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260502T182000Z
+DTEND:20260502T212000Z
+SUMMARY:Diamondbacks @ Cubs (Marquee Sports Net / DBACKS.TV)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / DBACKS.TV\nVenue: Wrig
+ ley Field\, Chicago\, Illinois\nFinal: Diamondbacks 0\, Cubs 2\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815194@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260503T182000Z
+DTEND:20260503T212000Z
+SUMMARY:Diamondbacks @ Cubs (Marquee Sports Net / DBACKS.TV)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / DBACKS.TV\nVenue: Wrig
+ ley Field\, Chicago\, Illinois\nFinal: Diamondbacks 4\, Cubs 8\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815206@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260504T231000Z
+DTEND:20260505T021000Z
+SUMMARY:Reds @ Cubs (Marquee Sports Net / Gray Media / WXIX FOX19 / Reds.TV
+ )
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Gray Media / WXIX FOX1
+ 9 / Reds.TV\nVenue: Wrigley Field\, Chicago\, Illinois\nFinal: Reds 4\, Cu
+ bs 5\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815220@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260505T234000Z
+DTEND:20260506T024000Z
+SUMMARY:Reds @ Cubs (Marquee Sports Net / Reds.TV)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Reds.TV\nVenue: Wrigle
+ y Field\, Chicago\, Illinois\nFinal: Reds 2\, Cubs 3\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815235@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260506T234000Z
+DTEND:20260507T024000Z
+SUMMARY:Reds @ Cubs (Marquee Sports Net / Reds.TV)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Reds.TV\nVenue: Wrigle
+ y Field\, Chicago\, Illinois\nFinal: Reds 6\, Cubs 7\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815249@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260507T182000Z
+DTEND:20260507T212000Z
+SUMMARY:Reds @ Cubs (Marquee Sports Net / Reds.TV)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Reds.TV\nVenue: Wrigle
+ y Field\, Chicago\, Illinois\nFinal: Reds 3\, Cubs 8\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815260@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260509T000500Z
+DTEND:20260509T030500Z
+SUMMARY:Cubs @ Rangers (Marquee Sports Net / CW33)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / CW33\nVenue: Globe Lif
+ e Field\, Arlington\, Texas\nFinal: Cubs 7\, Rangers 1\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815275@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260509T230500Z
+DTEND:20260510T020500Z
+SUMMARY:Cubs @ Rangers (Marquee Sports Net / Rangers Sports Network)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Rangers Sports Network
+ \nVenue: Globe Life Field\, Arlington\, Texas\nFinal: Cubs 0\, Rangers 6\n
+ Unofficial calendar\; not affiliated with the MLB or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815290@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260510T183500Z
+DTEND:20260510T213500Z
+SUMMARY:Cubs @ Rangers (Marquee Sports Net / Rangers Sports Network)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Rangers Sports Network
+ \nVenue: Globe Life Field\, Arlington\, Texas\nFinal: Cubs 0\, Rangers 3\n
+ Unofficial calendar\; not affiliated with the MLB or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815305@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260512T231500Z
+DTEND:20260513T021500Z
+SUMMARY:Cubs @ Braves (TBS)
+LOCATION:Truist Park\, Atlanta\, Georgia
+DESCRIPTION:Regular Season\nTV: TBS\nVenue: Truist Park\, Atlanta\, Georgia
+ \nFinal: Cubs 2\, Braves 5\nUnofficial calendar\; not affiliated with the 
+ MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815320@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260513T231500Z
+DTEND:20260514T021500Z
+SUMMARY:Cubs @ Braves (Marquee Sports Net / BravesVision)
+LOCATION:Truist Park\, Atlanta\, Georgia
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / BravesVision\nVenue: T
+ ruist Park\, Atlanta\, Georgia\nFinal: Cubs 1\, Braves 4\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815334@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260514T231500Z
+DTEND:20260515T021500Z
+SUMMARY:Cubs @ Braves (Marquee Sports Net / BravesVision)
+LOCATION:Truist Park\, Atlanta\, Georgia
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / BravesVision\nVenue: T
+ ruist Park\, Atlanta\, Georgia\nFinal: Cubs 2\, Braves 0\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815352@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260515T234000Z
+DTEND:20260516T024000Z
+SUMMARY:Cubs @ White Sox (Marquee Sports Net / CHSN / WCIU-TV)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / CHSN / WCIU-TV\nVenue:
+  Rate Field\, Chicago\, Illinois\nFinal: Cubs 10\, White Sox 5\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815367@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260516T231000Z
+DTEND:20260517T021000Z
+SUMMARY:Cubs @ White Sox (Marquee Sports Net / CHSN / WCIU-TV)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / CHSN / WCIU-TV\nVenue:
+  Rate Field\, Chicago\, Illinois\nFinal: Cubs 3\, White Sox 8\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815382@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260517T181000Z
+DTEND:20260517T211000Z
+SUMMARY:Cubs @ White Sox (Marquee Sports Net / CHSN / WCIU-TV)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / CHSN / WCIU-TV\nVenue:
+  Rate Field\, Chicago\, Illinois\nFinal: Cubs 8\, White Sox 9\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815398@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260518T234000Z
+DTEND:20260519T024000Z
+SUMMARY:Brewers @ Cubs (Marquee Sports Net / Brewers.TV)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Brewers.TV\nVenue: Wri
+ gley Field\, Chicago\, Illinois\nFinal: Brewers 9\, Cubs 3\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815412@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260519T234000Z
+DTEND:20260520T024000Z
+SUMMARY:Brewers @ Cubs (Marquee Sports Net / Brewers.TV)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Brewers.TV\nVenue: Wri
+ gley Field\, Chicago\, Illinois\nFinal: Brewers 5\, Cubs 2\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815427@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260520T234000Z
+DTEND:20260521T024000Z
+SUMMARY:Brewers @ Cubs (ESPN Unlimited)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Wrigley Field\, Chic
+ ago\, Illinois\nFinal: Brewers 5\, Cubs 0\nUnofficial calendar\; not affil
+ iated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815449@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260522T182000Z
+DTEND:20260522T212000Z
+SUMMARY:Astros @ Cubs (Apple TV)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: Wrigley Field\, Chicago\, 
+ Illinois\nFinal: Astros 4\, Cubs 2\nUnofficial calendar\; not affiliated w
+ ith the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815464@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260523T182000Z
+DTEND:20260523T212000Z
+SUMMARY:Astros @ Cubs (ESPN Unlimited)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Wrigley Field\, Chic
+ ago\, Illinois\nFinal: Astros 3\, Cubs 0\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815479@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260524T182000Z
+DTEND:20260524T212000Z
+SUMMARY:Astros @ Cubs (Marquee Sports Net / Space City Home Network)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Space City Home Networ
+ k\nVenue: Wrigley Field\, Chicago\, Illinois\nFinal: Astros 8\, Cubs 5\nUn
+ official calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815486@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260525T173500Z
+DTEND:20260525T203500Z
+SUMMARY:Cubs @ Pirates (Marquee Sports Net)
+LOCATION:PNC Park\, Pittsburgh\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net\nVenue: PNC Park\, Pitts
+ burgh\, Pennsylvania\nFinal: Cubs 1\, Pirates 2\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815501@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260526T224000Z
+DTEND:20260527T014000Z
+SUMMARY:Cubs @ Pirates (Marquee Sports Net)
+LOCATION:PNC Park\, Pittsburgh\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net\nVenue: PNC Park\, Pitts
+ burgh\, Pennsylvania\nFinal: Cubs 1\, Pirates 12\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815516@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260527T224000Z
+DTEND:20260528T014000Z
+SUMMARY:Cubs @ Pirates (Marquee Sports Net)
+LOCATION:PNC Park\, Pittsburgh\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net\nVenue: PNC Park\, Pitts
+ burgh\, Pennsylvania\nFinal: Cubs 10\, Pirates 4\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815531@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260528T224000Z
+DTEND:20260529T014000Z
+SUMMARY:Cubs @ Pirates (Marquee Sports Net)
+LOCATION:PNC Park\, Pittsburgh\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net\nVenue: PNC Park\, Pitts
+ burgh\, Pennsylvania\nFinal: Cubs 7\, Pirates 2\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815542@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260529T231500Z
+DTEND:20260530T021500Z
+SUMMARY:Cubs @ Cardinals (Marquee Sports Net / Cardinals.TV / KMOV-TV)
+LOCATION:Busch Stadium\, St. Louis\, Missouri
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Cardinals.TV / KMOV-TV
+ \nVenue: Busch Stadium\, St. Louis\, Missouri\nFinal: Cubs 5\, Cardinals 6
+ \nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815557@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260530T231500Z
+DTEND:20260531T021500Z
+SUMMARY:Cubs @ Cardinals (Fox)
+LOCATION:Busch Stadium\, St. Louis\, Missouri
+DESCRIPTION:Regular Season\nTV: Fox\nVenue: Busch Stadium\, St. Louis\, Mis
+ souri\nFinal: Cubs 6\, Cardinals 1\nUnofficial calendar\; not affiliated w
+ ith the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815572@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260531T232000Z
+DTEND:20260601T022000Z
+SUMMARY:Cubs @ Cardinals (NBC / Peacock)
+LOCATION:Busch Stadium\, St. Louis\, Missouri
+DESCRIPTION:Regular Season\nTV: NBC / Peacock\nVenue: Busch Stadium\, St. L
+ ouis\, Missouri\nFinal: Cubs 1\, Cardinals 5\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815596@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260603T000500Z
+DTEND:20260603T030500Z
+SUMMARY:Athletics @ Cubs (Marquee Sports Net / NBC Sports CA)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / NBC Sports CA\nVenue: 
+ Wrigley Field\, Chicago\, Illinois\nFinal: Athletics 2\, Cubs 1\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815611@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260604T000500Z
+DTEND:20260604T030500Z
+SUMMARY:Athletics @ Cubs (Marquee Sports Net / NBC Sports CA)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / NBC Sports CA\nVenue: 
+ Wrigley Field\, Chicago\, Illinois\nFinal: Athletics 5\, Cubs 4\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815623@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260605T000500Z
+DTEND:20260605T030500Z
+SUMMARY:Athletics @ Cubs (Marquee Sports Net / NBC Sports CA)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / NBC Sports CA\nVenue: 
+ Wrigley Field\, Chicago\, Illinois\nFinal: Athletics 6\, Cubs 7\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815638@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260605T182000Z
+DTEND:20260605T212000Z
+SUMMARY:Giants @ Cubs (NBC Sports BA / Marquee Sports Net)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Marquee Sports Net\nVenue: 
+ Wrigley Field\, Chicago\, Illinois\nFinal: Giants 18\, Cubs 3\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815653@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260606T182000Z
+DTEND:20260606T212000Z
+SUMMARY:Giants @ Cubs (NBC Sports BA / Marquee Sports Net)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Marquee Sports Net\nVenue: 
+ Wrigley Field\, Chicago\, Illinois\nFinal: Giants 2\, Cubs 3\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815668@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260608T003000Z
+DTEND:20260608T033000Z
+SUMMARY:Giants @ Cubs (NBC / Peacock)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: NBC / Peacock\nVenue: Wrigley Field\, Chica
+ go\, Illinois\nFinal: Giants 2\, Cubs 1\nUnofficial calendar\; not affilia
+ ted with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815691@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260610T004000Z
+DTEND:20260610T034000Z
+SUMMARY:Cubs @ Rockies (Marquee Sports Net / Rockies.TV)
+LOCATION:Coors Field\, Denver\, Colorado
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Rockies.TV\nVenue: Coo
+ rs Field\, Denver\, Colorado\nFinal: Cubs 3\, Rockies 7\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815706@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260611T004000Z
+DTEND:20260611T034000Z
+SUMMARY:Cubs @ Rockies (Marquee Sports Net / Rockies.TV)
+LOCATION:Coors Field\, Denver\, Colorado
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Rockies.TV\nVenue: Coo
+ rs Field\, Denver\, Colorado\nFinal: Cubs 2\, Rockies 3\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815718@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260611T191000Z
+DTEND:20260611T221000Z
+SUMMARY:Cubs @ Rockies (ESPN Unlimited)
+LOCATION:Coors Field\, Denver\, Colorado
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Coors Field\, Denver
+ \, Colorado\nFinal: Cubs 9\, Rockies 3\nUnofficial calendar\; not affiliat
+ ed with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815731@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260613T021500Z
+DTEND:20260613T051500Z
+SUMMARY:Cubs @ Giants (KNTV / NBC Sports BA / Marquee Sports Net)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: KNTV / NBC Sports BA / Marquee Sports Net\n
+ Venue: Oracle Park\, San Francisco\, California\nFinal: Cubs 5\, Giants 1\
+ nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815746@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260614T020500Z
+DTEND:20260614T050500Z
+SUMMARY:Cubs @ Giants (NBC Sports BA / Marquee Sports Net)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Marquee Sports Net\nVenue: 
+ Oracle Park\, San Francisco\, California\nFinal: Cubs 6\, Giants 1\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815761@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260614T191000Z
+DTEND:20260614T221000Z
+SUMMARY:Cubs @ Giants (ABC)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: ABC\nVenue: Oracle Park\, San Francisco\, C
+ alifornia\nFinal: Cubs 1\, Giants 5\nUnofficial calendar\; not affiliated 
+ with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815767@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260616T000500Z
+DTEND:20260616T030500Z
+SUMMARY:Rockies @ Cubs (Marquee Sports Net / Rockies.TV)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Rockies.TV\nVenue: Wri
+ gley Field\, Chicago\, Illinois\nFinal: Rockies 4\, Cubs 5\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815781@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260617T000500Z
+DTEND:20260617T030500Z
+SUMMARY:Rockies @ Cubs (Marquee Sports Net / Rockies.TV)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Rockies.TV\nVenue: Wri
+ gley Field\, Chicago\, Illinois\nFinal: Rockies 5\, Cubs 2\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815796@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260618T000500Z
+DTEND:20260618T030500Z
+SUMMARY:Rockies @ Cubs (Marquee Sports Net / Rockies.TV)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Rockies.TV\nVenue: Wri
+ gley Field\, Chicago\, Illinois\nFinal: Rockies 6\, Cubs 8\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815820@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260619T182000Z
+DTEND:20260619T212000Z
+SUMMARY:Blue Jays @ Cubs (Marquee Sports Net / Sportsnet)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Sportsnet\nVenue: Wrig
+ ley Field\, Chicago\, Illinois\nFinal: Blue Jays 2\, Cubs 16\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815833@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260620T182000Z
+DTEND:20260620T212000Z
+SUMMARY:Blue Jays @ Cubs (Marquee Sports Net / Sportsnet / TVA)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Sportsnet / TVA\nVenue
+ : Wrigley Field\, Chicago\, Illinois\nFinal: Blue Jays 8\, Cubs 6\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815848@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260621T182000Z
+DTEND:20260621T212000Z
+SUMMARY:Postponed: Blue Jays @ Cubs (Marquee Sports Net / Sportsnet / TVA)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Rain - Makeup date Aug. 6\nTV: Marquee Sports Net / Sportsnet /
+  TVA\nVenue: Wrigley Field\, Chicago\, Illinois\nPostponed. This listing s
+ tays cancelled under the same id. The makeup\, when ESPN adds one\, is a s
+ eparate game.\nUnofficial calendar\; not affiliated with the MLB or ESPN. 
+ Times may change.
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815854@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260622T231000Z
+DTEND:20260623T021000Z
+SUMMARY:Postponed: Cubs @ Mets (Marquee Sports Net / SNY)
+LOCATION:Citi Field\, Queens\, New York
+DESCRIPTION:Rain - Makeup on June 24\nTV: Marquee Sports Net / SNY\nVenue: 
+ Citi Field\, Queens\, New York\nPostponed. This listing stays cancelled un
+ der the same id. The makeup\, when ESPN adds one\, is a separate game.\nUn
+ official calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815867@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260623T231000Z
+DTEND:20260624T021000Z
+SUMMARY:Cubs @ Mets (Marquee Sports Net / SNY)
+LOCATION:Citi Field\, Queens\, New York
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / SNY\nVenue: Citi Field
+ \, Queens\, New York\nFinal: Cubs 9\, Mets 6\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401879401@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260624T171000Z
+DTEND:20260624T201000Z
+SUMMARY:Cubs @ Mets (SNY / Marquee Sports Net)
+LOCATION:Citi Field\, Queens\, New York
+DESCRIPTION:Doubleheader - Game 1 - Makeup from June 22\nTV: SNY / Marquee 
+ Sports Net\nVenue: Citi Field\, Queens\, New York\nFinal: Cubs 10\, Mets 3
+ \nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815882@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260624T231000Z
+DTEND:20260625T021000Z
+SUMMARY:Cubs @ Mets (Marquee Sports Net / WPIX)
+LOCATION:Citi Field\, Queens\, New York
+DESCRIPTION:Doubleheader - Game 2\nTV: Marquee Sports Net / WPIX\nVenue: Ci
+ ti Field\, Queens\, New York\nFinal: Cubs 10\, Mets 5\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815897@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260625T231000Z
+DTEND:20260626T021000Z
+SUMMARY:Cubs @ Mets (Marquee Sports Net / SNY)
+LOCATION:Citi Field\, Queens\, New York
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / SNY\nVenue: Citi Field
+ \, Queens\, New York\nFinal: Cubs 4\, Mets 3\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815914@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260626T234500Z
+DTEND:20260627T024500Z
+SUMMARY:Cubs @ Brewers (Apple TV)
+LOCATION:American Family Field\, Milwaukee\, Wisconsin
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: American Family Field\, Mi
+ lwaukee\, Wisconsin\nFinal: Cubs 2\, Brewers 6\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815929@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260627T231000Z
+DTEND:20260628T021000Z
+SUMMARY:Cubs @ Brewers (Marquee Sports Net / Brewers.TV)
+LOCATION:American Family Field\, Milwaukee\, Wisconsin
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Brewers.TV\nVenue: Ame
+ rican Family Field\, Milwaukee\, Wisconsin\nFinal: Cubs 8\, Brewers 2\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815944@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260628T181000Z
+DTEND:20260628T211000Z
+SUMMARY:Cubs @ Brewers (Marquee Sports Net / Brewers.TV)
+LOCATION:American Family Field\, Milwaukee\, Wisconsin
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Brewers.TV\nVenue: Ame
+ rican Family Field\, Milwaukee\, Wisconsin\nFinal: Cubs 4\, Brewers 3\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815959@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260630T000500Z
+DTEND:20260630T030500Z
+SUMMARY:Padres @ Cubs (Marquee Sports Net / Padres.TV)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Padres.TV\nVenue: Wrig
+ ley Field\, Chicago\, Illinois\nFinal: Padres 2\, Cubs 3\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815973@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260701T000500Z
+DTEND:20260701T030500Z
+SUMMARY:Padres @ Cubs (Marquee Sports Net / Padres.TV)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Padres.TV\nVenue: Wrig
+ ley Field\, Chicago\, Illinois\nFinal: Padres 7\, Cubs 9\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815988@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260701T182000Z
+DTEND:20260701T212000Z
+SUMMARY:Padres @ Cubs (Marquee Sports Net / Padres.TV)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Padres.TV\nVenue: Wrig
+ ley Field\, Chicago\, Illinois\nFinal: Padres 3\, Cubs 23\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816007@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260703T200500Z
+DTEND:20260703T230500Z
+SUMMARY:Cardinals @ Cubs (Marquee Sports Net / Cardinals.TV / KMOV-TV)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Cardinals.TV / KMOV-TV
+ \nVenue: Wrigley Field\, Chicago\, Illinois\nFinal: Cardinals 17\, Cubs 1\
+ nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816022@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260705T000800Z
+DTEND:20260705T030800Z
+SUMMARY:Cardinals @ Cubs (Fox)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Fox\nVenue: Wrigley Field\, Chicago\, Illin
+ ois\nFinal: Cardinals 3\, Cubs 0\nUnofficial calendar\; not affiliated wit
+ h the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816037@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260705T183000Z
+DTEND:20260705T213000Z
+SUMMARY:Cardinals @ Cubs (Peacock)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Peacock\nVenue: Wrigley Field\, Chicago\, I
+ llinois\nFinal: Cardinals 4\, Cubs 6\nUnofficial calendar\; not affiliated
+  with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816055@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260707T223500Z
+DTEND:20260708T013500Z
+SUMMARY:Cubs @ Orioles (Marquee Sports Net / MASN)
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / MASN\nVenue: Oriole Pa
+ rk at Camden Yards\, Baltimore\, Maryland\nFinal: Cubs 5\, Orioles 2\nUnof
+ ficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816070@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260708T223500Z
+DTEND:20260709T013500Z
+SUMMARY:Cubs @ Orioles (Marquee Sports Net / MASN)
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / MASN\nVenue: Oriole Pa
+ rk at Camden Yards\, Baltimore\, Maryland\nFinal: Cubs 9\, Orioles 7\nUnof
+ ficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816085@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260709T173000Z
+DTEND:20260709T203000Z
+SUMMARY:Cubs @ Orioles (ESPN Unlimited)
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Oriole Park at Camde
+ n Yards\, Baltimore\, Maryland\nFinal: Cubs 2\, Orioles 3\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816097@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260710T231000Z
+DTEND:20260711T021000Z
+SUMMARY:Cubs @ Reds (Marquee Sports Net / Reds.TV)
+LOCATION:Great American Ball Park\, Cincinnati\, Ohio
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Reds.TV\nVenue: Great 
+ American Ball Park\, Cincinnati\, Ohio\nFinal: Cubs 0\, Reds 4\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816112@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260711T231000Z
+DTEND:20260712T021000Z
+SUMMARY:Cubs @ Reds (ESPN Unlimited)
+LOCATION:Great American Ball Park\, Cincinnati\, Ohio
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Great American Ball 
+ Park\, Cincinnati\, Ohio\nFinal: Cubs 5\, Reds 3\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816127@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260712T174000Z
+DTEND:20260712T204000Z
+SUMMARY:Cubs @ Reds (Marquee Sports Net / Reds.TV)
+LOCATION:Great American Ball Park\, Cincinnati\, Ohio
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Reds.TV\nVenue: Great 
+ American Ball Park\, Cincinnati\, Ohio\nFinal: Cubs 8\, Reds 4\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816149@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260718T000500Z
+DTEND:20260718T030500Z
+SUMMARY:Twins @ Cubs (Twins.TV / Marquee Sports Net)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Twins.TV / Marquee Sports Net\nVenue: Wrigl
+ ey Field\, Chicago\, Illinois\nFinal: Twins 5\, Cubs 2\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816164@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260718T182000Z
+DTEND:20260718T212000Z
+SUMMARY:Twins @ Cubs (Twins.TV / Marquee Sports Net)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Twins.TV / Marquee Sports Net\nVenue: Wrigl
+ ey Field\, Chicago\, Illinois\nFinal: Twins 2\, Cubs 6\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816179@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260719T182000Z
+DTEND:20260719T212000Z
+SUMMARY:Twins @ Cubs (Twins.TV / Marquee Sports Net)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Twins.TV / Marquee Sports Net\nVenue: Wrigl
+ ey Field\, Chicago\, Illinois\nFinal: Twins 1\, Cubs 10\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816193@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260721T000500Z
+DTEND:20260721T030500Z
+SUMMARY:Tigers @ Cubs (Marquee Sports Net / Tigers.TV)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Tigers.TV\nVenue: Wrig
+ ley Field\, Chicago\, Illinois\nFinal: Tigers 8\, Cubs 6\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816208@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260722T000500Z
+DTEND:20260722T030500Z
+SUMMARY:Tigers @ Cubs (Marquee Sports Net / Tigers.TV)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Tigers.TV\nVenue: Wrig
+ ley Field\, Chicago\, Illinois\nFinal: Tigers 2\, Cubs 11\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816223@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260723T000000Z
+DTEND:20260723T030000Z
+SUMMARY:Tigers @ Cubs (ESPN)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Wrigley Field\, Chicago\, Illi
+ nois\nFinal: Tigers 5\, Cubs 1\nUnofficial calendar\; not affiliated with 
+ the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816237@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260724T224000Z
+DTEND:20260725T014000Z
+SUMMARY:Cubs @ Pirates (Marquee Sports Net)
+LOCATION:PNC Park\, Pittsburgh\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net\nVenue: PNC Park\, Pitts
+ burgh\, Pennsylvania\nFinal: Cubs 3\, Pirates 2\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816252@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260725T224000Z
+DTEND:20260726T014000Z
+SUMMARY:Cubs @ Pirates (Marquee Sports Net)
+LOCATION:PNC Park\, Pittsburgh\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net\nVenue: PNC Park\, Pitts
+ burgh\, Pennsylvania\nFinal: Cubs 11\, Pirates 0\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816267@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260726T173500Z
+DTEND:20260726T203500Z
+SUMMARY:Cubs @ Pirates (Marquee Sports Net)
+LOCATION:PNC Park\, Pittsburgh\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net\nVenue: PNC Park\, Pitts
+ burgh\, Pennsylvania\nFinal: Cubs 7\, Pirates 8\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816286@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260727T234500Z
+DTEND:20260728T024500Z
+SUMMARY:Cubs @ Cardinals (Marquee Sports Net / Cardinals.TV)
+LOCATION:Busch Stadium\, St. Louis\, Missouri
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Cardinals.TV\nVenue: B
+ usch Stadium\, St. Louis\, Missouri\nFinal: Cubs 7\, Cardinals 3\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816299@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260728T234500Z
+DTEND:20260729T024500Z
+SUMMARY:Cubs @ Cardinals (TBS)
+LOCATION:Busch Stadium\, St. Louis\, Missouri
+DESCRIPTION:Regular Season\nTV: TBS\nVenue: Busch Stadium\, St. Louis\, Mis
+ souri\nFinal: Cubs 10\, Cardinals 2\nUnofficial calendar\; not affiliated 
+ with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816314@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260729T234500Z
+DTEND:20260730T024500Z
+SUMMARY:Cubs @ Cardinals (Marquee Sports Net / Cardinals.TV)
+LOCATION:Busch Stadium\, St. Louis\, Missouri
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Cardinals.TV\nVenue: B
+ usch Stadium\, St. Louis\, Missouri\nFinal: Cubs 2\, Cardinals 3\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816326@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260730T181500Z
+DTEND:20260730T211500Z
+SUMMARY:Cubs @ Cardinals (ESPN Unlimited)
+LOCATION:Busch Stadium\, St. Louis\, Missouri
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Busch Stadium\, St. 
+ Louis\, Missouri\nFinal: Cubs 4\, Cardinals 2\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816339@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260731T182000Z
+DTEND:20260731T212000Z
+SUMMARY:Yankees @ Cubs (Marquee Sports Net / YES)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / YES\nVenue: Wrigley Fi
+ eld\, Chicago\, Illinois\nFinal: Yankees 2\, Cubs 0\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816354@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260801T231500Z
+DTEND:20260802T021500Z
+SUMMARY:Yankees @ Cubs (Fox)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Fox\nVenue: Wrigley Field\, Chicago\, Illin
+ ois\nFinal: Yankees 2\, Cubs 5\nUnofficial calendar\; not affiliated with 
+ the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816369@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260802T182000Z
+DTEND:20260802T212000Z
+SUMMARY:Yankees @ Cubs (Marquee Sports Net / YES)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / YES\nVenue: Wrigley Fi
+ eld\, Chicago\, Illinois\nFinal: Yankees 2\, Cubs 1\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816379@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260804T000500Z
+DTEND:20260804T030500Z
+SUMMARY:Dodgers @ Cubs (SportsNet LA / Marquee Sports Net)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Marquee Sports Net\nVenue: W
+ rigley Field\, Chicago\, Illinois\nFinal: Dodgers 5\, Cubs 10\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816391@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260805T000500Z
+DTEND:20260805T030500Z
+SUMMARY:Dodgers @ Cubs (TBS)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: TBS\nVenue: Wrigley Field\, Chicago\, Illin
+ ois\nFinal: Dodgers 1\, Cubs 5\nUnofficial calendar\; not affiliated with 
+ the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816406@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260805T182000Z
+DTEND:20260805T212000Z
+SUMMARY:Dodgers @ Cubs (MLB Network)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: MLB Network\nVenue: Wrigley Field\, Chicago
+ \, Illinois\nFinal: Dodgers 6\, Cubs 7\nUnofficial calendar\; not affiliat
+ ed with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401879389@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260806T182000Z
+DTEND:20260806T212000Z
+SUMMARY:Blue Jays @ Cubs (Marquee Sports Net / Sportsnet / TVA)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Makeup from June 21\nTV: Marquee Sports Net / Sportsnet / TVA\n
+ Venue: Wrigley Field\, Chicago\, Illinois\nFinal: Blue Jays 2\, Cubs 3\nUn
+ official calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816431@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260808T001000Z
+DTEND:20260808T031000Z
+SUMMARY:Cubs @ Royals (Marquee Sports Net / Royals.TV / KCTV5)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Royals.TV / KCTV5\nVen
+ ue: Kauffman Stadium\, Kansas City\, Missouri\nFinal: Cubs 6\, Royals 4\nU
+ nofficial calendar\; not affiliated with the MLB or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816446@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260808T231000Z
+DTEND:20260809T021000Z
+SUMMARY:Cubs @ Royals (Royals.TV / Marquee Sports Net)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / Marquee Sports Net\nVenue: Kauf
+ fman Stadium\, Kansas City\, Missouri\nFinal: Cubs 3\, Royals 6\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816461@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260809T181000Z
+DTEND:20260809T211000Z
+SUMMARY:Cubs @ Royals (Royals.TV / Marquee Sports Net)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / Marquee Sports Net\nVenue: Kauf
+ fman Stadium\, Kansas City\, Missouri\nFinal: Cubs 10\, Royals 2\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816480@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260811T224500Z
+DTEND:20260812T014500Z
+SUMMARY:Cubs @ Nationals (Marquee Sports Net / Nationals.TV)
+LOCATION:Nationals Park\, Washington\, District of Columbia
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Nationals.TV\nVenue: N
+ ationals Park\, Washington\, District of Columbia\nFinal: Cubs 8\, Nationa
+ ls 6\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816495@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260812T224500Z
+DTEND:20260813T014500Z
+SUMMARY:Cubs @ Nationals (Marquee Sports Net / Nationals.TV / Fox 5 WTTG / 
+ Gray Media)
+LOCATION:Nationals Park\, Washington\, District of Columbia
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Nationals.TV / Fox 5 W
+ TTG / Gray Media\nVenue: Nationals Park\, Washington\, District of Columbi
+ a\nFinal: Cubs 12\, Nationals 6\nUnofficial calendar\; not affiliated with
+  the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816510@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260813T200500Z
+DTEND:20260813T230500Z
+SUMMARY:Cubs @ Nationals (Marquee Sports Net / Nationals.TV)
+LOCATION:Nationals Park\, Washington\, District of Columbia
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Nationals.TV\nVenue: N
+ ationals Park\, Washington\, District of Columbia\nFinal: Cubs 0\, Nationa
+ ls 7\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816527@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260814T182000Z
+DTEND:20260814T212000Z
+SUMMARY:Cardinals @ Cubs (Apple TV)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: Wrigley Field\, Chicago\, 
+ Illinois\nFinal: Cardinals 0\, Cubs 3\nUnofficial calendar\; not affiliate
+ d with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816542@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260815T182000Z
+DTEND:20260815T212000Z
+SUMMARY:Cardinals @ Cubs (Marquee Sports Net / Cardinals.TV)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Cardinals.TV\nVenue: W
+ rigley Field\, Chicago\, Illinois\nFinal: Cardinals 8\, Cubs 4\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816557@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260816T190000Z
+DTEND:20260816T220000Z
+SUMMARY:Cardinals @ Cubs (ABC)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: ABC\nVenue: Wrigley Field\, Chicago\, Illin
+ ois\nFinal: Cardinals 11\, Cubs 4\nUnofficial calendar\; not affiliated wi
+ th the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816569@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260818T000500Z
+DTEND:20260818T030500Z
+SUMMARY:White Sox @ Cubs (Marquee Sports Net / CHSN / WCIU-TV)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / CHSN / WCIU-TV\nVenue:
+  Wrigley Field\, Chicago\, Illinois\nFinal: White Sox 5\, Cubs 7\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816582@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260819T000500Z
+DTEND:20260819T030500Z
+SUMMARY:White Sox @ Cubs (TBS)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: TBS\nVenue: Wrigley Field\, Chicago\, Illin
+ ois\nFinal: White Sox 3\, Cubs 4\nUnofficial calendar\; not affiliated wit
+ h the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816597@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260819T182000Z
+DTEND:20260819T212000Z
+SUMMARY:White Sox @ Cubs (Marquee Sports Net / CHSN)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / CHSN\nVenue: Wrigley F
+ ield\, Chicago\, Illinois\nFinal: White Sox 3\, Cubs 0\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816621@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260822T021000Z
+DTEND:20260822T051000Z
+SUMMARY:Cubs @ Mariners (Marquee Sports Net / Mariners.TV / KING 5)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Mariners.TV / KING 5\n
+ Venue: T-Mobile Park\, Seattle\, Washington\nFinal: Cubs 5\, Mariners 6\nU
+ nofficial calendar\; not affiliated with the MLB or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816636@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260822T231500Z
+DTEND:20260823T021500Z
+SUMMARY:Cubs @ Mariners (Fox)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Fox\nVenue: T-Mobile Park\, Seattle\, Washi
+ ngton\nFinal: Cubs 4\, Mariners 5\nUnofficial calendar\; not affiliated wi
+ th the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816651@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260823T201000Z
+DTEND:20260823T231000Z
+SUMMARY:Cubs @ Mariners (Marquee Sports Net / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Mariners.TV\nVenue: T-
+ Mobile Park\, Seattle\, Washington\nFinal: Cubs 19\, Mariners 2\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816659@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260825T014000Z
+DTEND:20260825T044000Z
+SUMMARY:Cubs @ Diamondbacks (Marquee Sports Net / DBACKS.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / DBACKS.TV\nVenue: Chas
+ e Field\, Phoenix\, Arizona\nFinal: Cubs 7\, Diamondbacks 0\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816674@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260826T014000Z
+DTEND:20260826T044000Z
+SUMMARY:Cubs @ Diamondbacks (Marquee Sports Net / DBACKS.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / DBACKS.TV\nVenue: Chas
+ e Field\, Phoenix\, Arizona\nFinal: Cubs 4\, Diamondbacks 5\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816689@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260826T194000Z
+DTEND:20260826T224000Z
+SUMMARY:Cubs @ Diamondbacks (ESPN Unlimited)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Chase Field\, Phoeni
+ x\, Arizona\nFinal: Cubs 0\, Diamondbacks 2\nUnofficial calendar\; not aff
+ iliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816711@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260828T182000Z
+DTEND:20260828T212000Z
+SUMMARY:Reds @ Cubs (ESPN Unlimited)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Wrigley Field\, Chic
+ ago\, Illinois\nFinal: Reds 10\, Cubs 8\nUnofficial calendar\; not affilia
+ ted with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816726@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260829T182000Z
+DTEND:20260829T212000Z
+SUMMARY:Reds @ Cubs (Marquee Sports Net / Reds.TV)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Reds.TV\nVenue: Wrigle
+ y Field\, Chicago\, Illinois\nFinal: Reds 5\, Cubs 17\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816741@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260830T232000Z
+DTEND:20260831T022000Z
+SUMMARY:Reds @ Cubs (NBC)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: Wrigley Field\, Chicago\, Illin
+ ois\nFinal: Reds 7\, Cubs 5\nUnofficial calendar\; not affiliated with the
+  MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816754@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260831T234000Z
+DTEND:20260901T024000Z
+SUMMARY:Brewers @ Cubs (Marquee Sports Net / Brewers.TV)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Brewers.TV\nVenue: Wri
+ gley Field\, Chicago\, Illinois\nFinal: Brewers 3\, Cubs 17\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816768@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260901T234000Z
+DTEND:20260902T024000Z
+SUMMARY:Brewers @ Cubs (TBS)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: TBS\nVenue: Wrigley Field\, Chicago\, Illin
+ ois\nFinal: Brewers 9\, Cubs 4\nUnofficial calendar\; not affiliated with 
+ the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816783@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260902T234000Z
+DTEND:20260903T024000Z
+SUMMARY:Brewers @ Cubs (MLB Network)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: MLB Network\nVenue: Wrigley Field\, Chicago
+ \, Illinois\nFinal: Brewers 9\, Cubs 5\nUnofficial calendar\; not affiliat
+ ed with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816793@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260903T231500Z
+DTEND:20260904T021500Z
+SUMMARY:Brewers @ Cubs (Fox)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Fox\nVenue: Wrigley Field\, Chicago\, Illin
+ ois\nFinal: Brewers 1\, Cubs 2\nUnofficial calendar\; not affiliated with 
+ the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816800@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260904T231000Z
+DTEND:20260905T021000Z
+SUMMARY:Cubs @ Marlins (Marquee Sports Net / Marlins.TV / WBFS)
+LOCATION:loanDepot park\, Miami\, Florida
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Marlins.TV / WBFS\nVen
+ ue: loanDepot park\, Miami\, Florida\nFinal: Cubs 6\, Marlins 1\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816815@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260905T201000Z
+DTEND:20260905T231000Z
+SUMMARY:Cubs @ Marlins (Marquee Sports Net / Marlins.TV)
+LOCATION:loanDepot park\, Miami\, Florida
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Marlins.TV\nVenue: loa
+ nDepot park\, Miami\, Florida\nFinal: Cubs 6\, Marlins 5\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816830@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260906T174000Z
+DTEND:20260906T204000Z
+SUMMARY:Cubs @ Marlins (Marquee Sports Net / Marlins.TV)
+LOCATION:loanDepot park\, Miami\, Florida
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Marlins.TV\nVenue: loa
+ nDepot park\, Miami\, Florida\nFinal: Cubs 3\, Marlins 10\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816848@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260907T181000Z
+DTEND:20260907T211000Z
+SUMMARY:Cubs @ Brewers (ESPN Unlimited)
+LOCATION:American Family Field\, Milwaukee\, Wisconsin
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: American Family Fiel
+ d\, Milwaukee\, Wisconsin\nFinal: Cubs 3\, Brewers 4\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816861@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260908T234000Z
+DTEND:20260909T024000Z
+SUMMARY:Cubs @ Brewers (Marquee Sports Net / Brewers.TV)
+LOCATION:American Family Field\, Milwaukee\, Wisconsin
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Brewers.TV\nVenue: Ame
+ rican Family Field\, Milwaukee\, Wisconsin\nFinal: Cubs 3\, Brewers 4\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816876@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260909T234000Z
+DTEND:20260910T024000Z
+SUMMARY:Cubs @ Brewers (ESPN Unlimited)
+LOCATION:American Family Field\, Milwaukee\, Wisconsin
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: American Family Fiel
+ d\, Milwaukee\, Wisconsin\nFinal: Cubs 6\, Brewers 8\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816899@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260911T182000Z
+DTEND:20260911T212000Z
+SUMMARY:Pirates @ Cubs (Marquee Sports Net)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net\nVenue: Wrigley Field\, 
+ Chicago\, Illinois\nFinal: Pirates 2\, Cubs 12\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816914@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260912T182000Z
+DTEND:20260912T212000Z
+SUMMARY:Pirates @ Cubs (Marquee Sports Net)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net\nVenue: Wrigley Field\, 
+ Chicago\, Illinois\nFinal: Pirates 3\, Cubs 4\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816929@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260913T182000Z
+DTEND:20260913T212000Z
+SUMMARY:Pirates @ Cubs (Marquee Sports Net)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net\nVenue: Wrigley Field\, 
+ Chicago\, Illinois\nFinal: Pirates 4\, Cubs 3\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816937@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260914T234000Z
+DTEND:20260915T024000Z
+SUMMARY:Braves @ Cubs (MLB Network)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: MLB Network\nVenue: Wrigley Field\, Chicago
+ \, Illinois\nFinal: Braves 3\, Cubs 7\nUnofficial calendar\; not affiliate
+ d with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816950@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260915T234000Z
+DTEND:20260916T024000Z
+SUMMARY:Braves @ Cubs (TBS)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: TBS\nVenue: Wrigley Field\, Chicago\, Illin
+ ois\nFinal: Braves 6\, Cubs 3\nUnofficial calendar\; not affiliated with t
+ he MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816965@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260916T234000Z
+DTEND:20260917T024000Z
+SUMMARY:Braves @ Cubs (Marquee Sports Net / BravesVision)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / BravesVision\nVenue: W
+ rigley Field\, Chicago\, Illinois\nFinal: Braves 4\, Cubs 8\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816984@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260918T224000Z
+DTEND:20260919T014000Z
+SUMMARY:Cubs @ Reds (Marquee Sports Net / Reds.TV)
+LOCATION:Great American Ball Park\, Cincinnati\, Ohio
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Reds.TV\nVenue: Great 
+ American Ball Park\, Cincinnati\, Ohio\nFinal: Cubs 4\, Reds 6\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816999@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260919T224000Z
+DTEND:20260920T014000Z
+SUMMARY:Cubs @ Reds (Marquee Sports Net / Reds.TV)
+LOCATION:Great American Ball Park\, Cincinnati\, Ohio
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Reds.TV\nVenue: Great 
+ American Ball Park\, Cincinnati\, Ohio\nFinal: Cubs 5\, Reds 2\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817014@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260920T174000Z
+DTEND:20260920T204000Z
+SUMMARY:Cubs @ Reds (Marquee Sports Net / Reds.TV)
+LOCATION:Great American Ball Park\, Cincinnati\, Ohio
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Reds.TV\nVenue: Great 
+ American Ball Park\, Cincinnati\, Ohio\nFinal: Cubs 9\, Reds 1\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817038@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260922T234000Z
+DTEND:20260923T024000Z
+SUMMARY:Marlins @ Cubs (Marquee Sports Net / Marlins.TV)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Marlins.TV\nVenue: Wri
+ gley Field\, Chicago\, Illinois\nFinal: Marlins 8\, Cubs 2\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817053@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260923T234000Z
+DTEND:20260924T024000Z
+SUMMARY:Marlins @ Cubs (Marquee Sports Net / Marlins.TV)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Marlins.TV\nVenue: Wri
+ gley Field\, Chicago\, Illinois\nFinal: Marlins 3\, Cubs 2\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817066@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260924T182000Z
+DTEND:20260924T212000Z
+SUMMARY:Marlins @ Cubs (ESPN Unlimited)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Wrigley Field\, Chic
+ ago\, Illinois\nFinal: Marlins 1\, Cubs 2\nUnofficial calendar\; not affil
+ iated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817104@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260925T170500Z
+DTEND:20260925T200500Z
+SUMMARY:Cubs @ Red Sox (Marquee Sports Net)
+LOCATION:Fenway Park\, Boston\, Massachusetts
+DESCRIPTION:Doubleheader - Game 1 - Rescheduled from Sep. 27\nTV: Marquee S
+ ports Net\nVenue: Fenway Park\, Boston\, Massachusetts\nFinal: Cubs 3\, Re
+ d Sox 4\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817074@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260925T213000Z
+DTEND:20260926T003000Z
+SUMMARY:Cubs @ Red Sox (ESPN Unlimited)
+LOCATION:Fenway Park\, Boston\, Massachusetts
+DESCRIPTION:Doubleheader - Game 2\nTV: ESPN Unlimited\nVenue: Fenway Park\,
+  Boston\, Massachusetts\nFinal: Cubs 0\, Red Sox 2\nUnofficial calendar\; 
+ not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817089@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260927T190500Z
+DTEND:20260927T220500Z
+SUMMARY:Cubs @ Red Sox (Marquee Sports Net)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:Rescheduled from 9/26\nTV: Marquee Sports Net\nVenue: Tropicana
+  Field\, St. Petersburg\, Florida\nFinal: Cubs 6\, Red Sox 2\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401907974@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260930T020000Z
+DTEND:20260930T050000Z
+SUMMARY:Cubs @ Padres (Peacock / NBCSN)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:NLWC - Game 1\nTV: Peacock / NBCSN\nVenue: Petco Park\, San Die
+ go\, California\nFinal: Cubs 0\, Padres 8\nUnofficial calendar\; not affil
+ iated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401907975@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20261001T020000Z
+DTEND:20261001T050000Z
+SUMMARY:Cubs @ Padres (Peacock / NBCSN)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:NLWC - Game 2\nTV: Peacock / NBCSN\nVenue: Petco Park\, San Die
+ go\, California\nFinal: Cubs 1\, Padres 4\nUnofficial calendar\; not affil
+ iated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

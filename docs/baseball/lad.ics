@@ -1,0 +1,2250 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jaxzn//MLB Calendars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Los Angeles Dodgers
+X-WR-CALDESC:Los Angeles Dodgers MLB schedule (unofficial\, auto-updated)
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:espn-401814699@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260327T003000Z
+DTEND:20260327T033000Z
+SUMMARY:Diamondbacks @ Dodgers (NBC / Peacock)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: NBC / Peacock\nVenue: Dodger Stadium\, Los 
+ Angeles\, California\nFinal: Diamondbacks 2\, Dodgers 8\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814704@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260328T021000Z
+DTEND:20260328T051000Z
+SUMMARY:Diamondbacks @ Dodgers (MLB Network)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: MLB Network\nVenue: Dodger Stadium\, Los An
+ geles\, California\nFinal: Diamondbacks 4\, Dodgers 5\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814718@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260329T011000Z
+DTEND:20260329T041000Z
+SUMMARY:Diamondbacks @ Dodgers (SportsNet LA / DBACKS.TV)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / DBACKS.TV\nVenue: Dodger Sta
+ dium\, Los Angeles\, California\nFinal: Diamondbacks 2\, Dodgers 3\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814746@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260331T021000Z
+DTEND:20260331T051000Z
+SUMMARY:Guardians @ Dodgers (CLEGuardians.TV / SportsNet LA)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / SportsNet LA\nVenue: Dodg
+ er Stadium\, Los Angeles\, California\nFinal: Guardians 4\, Dodgers 2\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814760@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260401T021000Z
+DTEND:20260401T051000Z
+SUMMARY:Guardians @ Dodgers (CLEGuardians.TV / SportsNet LA)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / SportsNet LA\nVenue: Dodg
+ er Stadium\, Los Angeles\, California\nFinal: Guardians 1\, Dodgers 4\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814775@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260402T002000Z
+DTEND:20260402T032000Z
+SUMMARY:Guardians @ Dodgers (CLEGuardians.TV / SportsNet LA)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / SportsNet LA\nVenue: Dodg
+ er Stadium\, Los Angeles\, California\nFinal: Guardians 4\, Dodgers 1\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814785@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260403T170500Z
+DTEND:20260403T200500Z
+SUMMARY:Dodgers @ Nationals (SportsNet LA / Nationals.TV)
+LOCATION:Nationals Park\, Washington\, District of Columbia
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Nationals.TV\nVenue: Nationa
+ ls Park\, Washington\, District of Columbia\nFinal: Dodgers 13\, Nationals
+  6\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may c
+ hange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814799@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260404T200500Z
+DTEND:20260404T230500Z
+SUMMARY:Dodgers @ Nationals (SportsNet LA / Nationals.TV)
+LOCATION:Nationals Park\, Washington\, District of Columbia
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Nationals.TV\nVenue: Nationa
+ ls Park\, Washington\, District of Columbia\nFinal: Dodgers 10\, Nationals
+  5\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may c
+ hange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814814@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260405T173500Z
+DTEND:20260405T203500Z
+SUMMARY:Dodgers @ Nationals (SportsNet LA / Nationals.TV)
+LOCATION:Nationals Park\, Washington\, District of Columbia
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Nationals.TV\nVenue: Nationa
+ ls Park\, Washington\, District of Columbia\nFinal: Dodgers 8\, Nationals 
+ 6\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may ch
+ ange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814830@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260406T230700Z
+DTEND:20260407T020700Z
+SUMMARY:Dodgers @ Blue Jays (FS1)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: FS1\nVenue: Rogers Centre\, Toronto\, Ontar
+ io\nFinal: Dodgers 14\, Blue Jays 2\nUnofficial calendar\; not affiliated 
+ with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814845@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260407T230700Z
+DTEND:20260408T020700Z
+SUMMARY:Dodgers @ Blue Jays (TBS)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: TBS\nVenue: Rogers Centre\, Toronto\, Ontar
+ io\nFinal: Dodgers 4\, Blue Jays 1\nUnofficial calendar\; not affiliated w
+ ith the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814860@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260408T190700Z
+DTEND:20260408T220700Z
+SUMMARY:Dodgers @ Blue Jays (SportsNet LA / Sportsnet)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Sportsnet\nVenue: Rogers Cen
+ tre\, Toronto\, Ontario\nFinal: Dodgers 3\, Blue Jays 4\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814890@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260411T021000Z
+DTEND:20260411T051000Z
+SUMMARY:Rangers @ Dodgers (SportsNet LA / CW33)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / CW33\nVenue: Dodger Stadium\
+ , Los Angeles\, California\nFinal: Rangers 7\, Dodgers 8\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814905@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260412T011000Z
+DTEND:20260412T041000Z
+SUMMARY:Rangers @ Dodgers (SportsNet LA / Rangers Sports Network)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Rangers Sports Network\nVenu
+ e: Dodger Stadium\, Los Angeles\, California\nFinal: Rangers 3\, Dodgers 6
+ \nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814920@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260412T201000Z
+DTEND:20260412T231000Z
+SUMMARY:Rangers @ Dodgers (SportsNet LA / Rangers Sports Network)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Rangers Sports Network\nVenu
+ e: Dodger Stadium\, Los Angeles\, California\nFinal: Rangers 5\, Dodgers 2
+ \nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814929@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260414T021000Z
+DTEND:20260414T051000Z
+SUMMARY:Mets @ Dodgers (ESPN Unlimited)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Dodger Stadium\, Los
+  Angeles\, California\nFinal: Mets 0\, Dodgers 4\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814943@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260415T021000Z
+DTEND:20260415T051000Z
+SUMMARY:Mets @ Dodgers (SportsNet LA / SNY)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / SNY\nVenue: Dodger Stadium\,
+  Los Angeles\, California\nFinal: Mets 1\, Dodgers 2\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814958@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260416T020000Z
+DTEND:20260416T050000Z
+SUMMARY:Mets @ Dodgers (ESPN)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Dodger Stadium\, Los Angeles\,
+  California\nFinal: Mets 2\, Dodgers 8\nUnofficial calendar\; not affiliat
+ ed with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814981@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260418T004000Z
+DTEND:20260418T034000Z
+SUMMARY:Dodgers @ Rockies (SportsNet LA / Rockies.TV)
+LOCATION:Coors Field\, Denver\, Colorado
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Rockies.TV\nVenue: Coors Fie
+ ld\, Denver\, Colorado\nFinal: Dodgers 7\, Rockies 1\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814996@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260419T001000Z
+DTEND:20260419T031000Z
+SUMMARY:Dodgers @ Rockies (SportsNet LA / Rockies.TV)
+LOCATION:Coors Field\, Denver\, Colorado
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Rockies.TV\nVenue: Coors Fie
+ ld\, Denver\, Colorado\nFinal: Dodgers 3\, Rockies 4\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815011@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260419T191000Z
+DTEND:20260419T221000Z
+SUMMARY:Dodgers @ Rockies (SportsNet LA / Rockies.TV)
+LOCATION:Coors Field\, Denver\, Colorado
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Rockies.TV\nVenue: Coors Fie
+ ld\, Denver\, Colorado\nFinal: Dodgers 6\, Rockies 9\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815023@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260421T004000Z
+DTEND:20260421T034000Z
+SUMMARY:Dodgers @ Rockies (SportsNet LA / Rockies.TV)
+LOCATION:Coors Field\, Denver\, Colorado
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Rockies.TV\nVenue: Coors Fie
+ ld\, Denver\, Colorado\nFinal: Dodgers 12\, Rockies 3\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815039@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260422T014500Z
+DTEND:20260422T044500Z
+SUMMARY:Dodgers @ Giants (NBC Sports BA / SportsNet LA)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / SportsNet LA\nVenue: Oracle
+  Park\, San Francisco\, California\nFinal: Dodgers 1\, Giants 3\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815054@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260423T014500Z
+DTEND:20260423T044500Z
+SUMMARY:Dodgers @ Giants (NBC Sports BA / SportsNet LA)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / SportsNet LA\nVenue: Oracle
+  Park\, San Francisco\, California\nFinal: Dodgers 0\, Giants 3\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815064@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260423T194500Z
+DTEND:20260423T224500Z
+SUMMARY:Dodgers @ Giants (NBC Sports BA / SportsNet LA)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / SportsNet LA\nVenue: Oracle
+  Park\, San Francisco\, California\nFinal: Dodgers 3\, Giants 0\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815077@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260425T021500Z
+DTEND:20260425T051500Z
+SUMMARY:Cubs @ Dodgers (Apple TV)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: Dodger Stadium\, Los Angel
+ es\, California\nFinal: Cubs 6\, Dodgers 4\nUnofficial calendar\; not affi
+ liated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815092@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260425T231500Z
+DTEND:20260426T021500Z
+SUMMARY:Cubs @ Dodgers (Fox)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: Fox\nVenue: Dodger Stadium\, Los Angeles\, 
+ California\nFinal: Cubs 4\, Dodgers 12\nUnofficial calendar\; not affiliat
+ ed with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815107@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260426T201000Z
+DTEND:20260426T231000Z
+SUMMARY:Cubs @ Dodgers (SportsNet LA / Marquee Sports Net)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Marquee Sports Net\nVenue: D
+ odger Stadium\, Los Angeles\, California\nFinal: Cubs 0\, Dodgers 6\nUnoff
+ icial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815117@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260428T021000Z
+DTEND:20260428T051000Z
+SUMMARY:Marlins @ Dodgers (ESPN Unlimited)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Dodger Stadium\, Los
+  Angeles\, California\nFinal: Marlins 4\, Dodgers 5\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815132@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260429T021000Z
+DTEND:20260429T051000Z
+SUMMARY:Marlins @ Dodgers (SportsNet LA / Marlins.TV)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Marlins.TV\nVenue: Dodger St
+ adium\, Los Angeles\, California\nFinal: Marlins 2\, Dodgers 1\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815147@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260429T191000Z
+DTEND:20260429T221000Z
+SUMMARY:Marlins @ Dodgers (SportsNet LA / Marlins.TV)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Marlins.TV\nVenue: Dodger St
+ adium\, Los Angeles\, California\nFinal: Marlins 3\, Dodgers 2\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815165@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260502T001500Z
+DTEND:20260502T031500Z
+SUMMARY:Dodgers @ Cardinals (SportsNet LA / Cardinals.TV)
+LOCATION:Busch Stadium\, St. Louis\, Missouri
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Cardinals.TV\nVenue: Busch S
+ tadium\, St. Louis\, Missouri\nFinal: Dodgers 2\, Cardinals 7\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815180@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260502T231500Z
+DTEND:20260503T021500Z
+SUMMARY:Dodgers @ Cardinals (Fox)
+LOCATION:Busch Stadium\, St. Louis\, Missouri
+DESCRIPTION:Regular Season\nTV: Fox\nVenue: Busch Stadium\, St. Louis\, Mis
+ souri\nFinal: Dodgers 2\, Cardinals 3\nUnofficial calendar\; not affiliate
+ d with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815195@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260503T181500Z
+DTEND:20260503T211500Z
+SUMMARY:Dodgers @ Cardinals (SportsNet LA / Cardinals.TV)
+LOCATION:Busch Stadium\, St. Louis\, Missouri
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Cardinals.TV\nVenue: Busch S
+ tadium\, St. Louis\, Missouri\nFinal: Dodgers 4\, Cardinals 1\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815208@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260505T001000Z
+DTEND:20260505T031000Z
+SUMMARY:Dodgers @ Astros (SportsNet LA / Space City Home Network / Space Ci
+ ty Home (Alt.))
+LOCATION:Daikin Park\, Houston\, Texas
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Space City Home Network / Sp
+ ace City Home (Alt.)\nVenue: Daikin Park\, Houston\, Texas\nFinal: Dodgers
+  8\, Astros 3\nUnofficial calendar\; not affiliated with the MLB or ESPN. 
+ Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815222@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260506T001000Z
+DTEND:20260506T031000Z
+SUMMARY:Dodgers @ Astros (TBS)
+LOCATION:Daikin Park\, Houston\, Texas
+DESCRIPTION:Regular Season\nTV: TBS\nVenue: Daikin Park\, Houston\, Texas\n
+ Final: Dodgers 1\, Astros 2\nUnofficial calendar\; not affiliated with the
+  MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815237@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260506T181000Z
+DTEND:20260506T211000Z
+SUMMARY:Dodgers @ Astros (SportsNet LA / Space City Home Network / Space Ci
+ ty Home (Alt.))
+LOCATION:Daikin Park\, Houston\, Texas
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Space City Home Network / Sp
+ ace City Home (Alt.)\nVenue: Daikin Park\, Houston\, Texas\nFinal: Dodgers
+  12\, Astros 2\nUnofficial calendar\; not affiliated with the MLB or ESPN.
+  Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815264@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260509T021000Z
+DTEND:20260509T051000Z
+SUMMARY:Braves @ Dodgers (ESPN Unlimited)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Dodger Stadium\, Los
+  Angeles\, California\nFinal: Braves 1\, Dodgers 3\nUnofficial calendar\; 
+ not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815279@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260510T011000Z
+DTEND:20260510T041000Z
+SUMMARY:Braves @ Dodgers (SportsNet LA / BravesVision)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / BravesVision\nVenue: Dodger 
+ Stadium\, Los Angeles\, California\nFinal: Braves 7\, Dodgers 2\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815294@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260510T201000Z
+DTEND:20260510T231000Z
+SUMMARY:Braves @ Dodgers (SportsNet LA / BravesVision / Gray Media)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / BravesVision / Gray Media\nV
+ enue: Dodger Stadium\, Los Angeles\, California\nFinal: Braves 7\, Dodgers
+  2\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may c
+ hange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815303@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260512T021000Z
+DTEND:20260512T051000Z
+SUMMARY:Giants @ Dodgers (NBC Sports BA / SportsNet LA)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / SportsNet LA\nVenue: Dodger
+  Stadium\, Los Angeles\, California\nFinal: Giants 9\, Dodgers 3\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815317@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260513T021000Z
+DTEND:20260513T051000Z
+SUMMARY:Giants @ Dodgers (NBC Sports BA / SportsNet LA)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / SportsNet LA\nVenue: Dodger
+  Stadium\, Los Angeles\, California\nFinal: Giants 6\, Dodgers 2\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815332@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260514T021000Z
+DTEND:20260514T051000Z
+SUMMARY:Giants @ Dodgers (NBC Sports BA / SportsNet LA)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / SportsNet LA\nVenue: Dodger
+  Stadium\, Los Angeles\, California\nFinal: Giants 0\, Dodgers 4\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815343@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260515T021000Z
+DTEND:20260515T051000Z
+SUMMARY:Giants @ Dodgers (MLB Network)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: MLB Network\nVenue: Dodger Stadium\, Los An
+ geles\, California\nFinal: Giants 2\, Dodgers 5\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815357@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260516T013800Z
+DTEND:20260516T043800Z
+SUMMARY:Dodgers @ Angels (SportsNet LA / KTTV / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / KTTV / Angels.TV\nVenue: Ang
+ el Stadium\, Anaheim\, California\nFinal: Dodgers 6\, Angels 0\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815372@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260517T013800Z
+DTEND:20260517T043800Z
+SUMMARY:Dodgers @ Angels (SportsNet LA / KCOP / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / KCOP / Angels.TV\nVenue: Ang
+ el Stadium\, Anaheim\, California\nFinal: Dodgers 15\, Angels 2\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815387@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260517T200700Z
+DTEND:20260517T230700Z
+SUMMARY:Dodgers @ Angels (SportsNet LA / KCOP / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / KCOP / Angels.TV\nVenue: Ang
+ el Stadium\, Anaheim\, California\nFinal: Dodgers 10\, Angels 1\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815402@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260519T014000Z
+DTEND:20260519T044000Z
+SUMMARY:Dodgers @ Padres (SportsNet LA / Padres.TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Padres.TV\nVenue: Petco Park
+ \, San Diego\, California\nFinal: Dodgers 0\, Padres 1\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815417@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260520T014000Z
+DTEND:20260520T044000Z
+SUMMARY:Dodgers @ Padres (SportsNet LA / Padres.TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Padres.TV\nVenue: Petco Park
+ \, San Diego\, California\nFinal: Dodgers 5\, Padres 4\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815432@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260521T004000Z
+DTEND:20260521T034000Z
+SUMMARY:Dodgers @ Padres (SportsNet LA / Padres.TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Padres.TV\nVenue: Petco Park
+ \, San Diego\, California\nFinal: Dodgers 4\, Padres 0\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815450@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260522T234000Z
+DTEND:20260523T024000Z
+SUMMARY:Dodgers @ Brewers (SportsNet LA / Brewers.TV)
+LOCATION:American Family Field\, Milwaukee\, Wisconsin
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Brewers.TV\nVenue: American 
+ Family Field\, Milwaukee\, Wisconsin\nFinal: Dodgers 1\, Brewers 5\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815465@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260523T231500Z
+DTEND:20260524T021500Z
+SUMMARY:Dodgers @ Brewers (Fox)
+LOCATION:American Family Field\, Milwaukee\, Wisconsin
+DESCRIPTION:Regular Season\nTV: Fox\nVenue: American Family Field\, Milwauk
+ ee\, Wisconsin\nFinal: Dodgers 11\, Brewers 3\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815480@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260524T181000Z
+DTEND:20260524T211000Z
+SUMMARY:Dodgers @ Brewers (SportsNet LA / Brewers.TV)
+LOCATION:American Family Field\, Milwaukee\, Wisconsin
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Brewers.TV\nVenue: American 
+ Family Field\, Milwaukee\, Wisconsin\nFinal: Dodgers 5\, Brewers 1\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815496@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260526T011000Z
+DTEND:20260526T041000Z
+SUMMARY:Rockies @ Dodgers (SportsNet LA / Rockies.TV)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Rockies.TV\nVenue: Dodger St
+ adium\, Los Angeles\, California\nFinal: Rockies 3\, Dodgers 5\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815511@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260527T021000Z
+DTEND:20260527T051000Z
+SUMMARY:Rockies @ Dodgers (SportsNet LA / Rockies.TV)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Rockies.TV\nVenue: Dodger St
+ adium\, Los Angeles\, California\nFinal: Rockies 6\, Dodgers 15\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815526@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260528T021000Z
+DTEND:20260528T051000Z
+SUMMARY:Rockies @ Dodgers (SportsNet LA / Rockies.TV)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Rockies.TV\nVenue: Dodger St
+ adium\, Los Angeles\, California\nFinal: Rockies 1\, Dodgers 4\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815549@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260530T021500Z
+DTEND:20260530T051500Z
+SUMMARY:Phillies @ Dodgers (Apple TV)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: Dodger Stadium\, Los Angel
+ es\, California\nFinal: Phillies 2\, Dodgers 4\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815564@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260531T021000Z
+DTEND:20260531T051000Z
+SUMMARY:Phillies @ Dodgers (SportsNet LA / NBC Sports Phil)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / NBC Sports Phil\nVenue: Dodg
+ er Stadium\, Los Angeles\, California\nFinal: Phillies 4\, Dodgers 3\nUnof
+ ficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815579@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260531T201000Z
+DTEND:20260531T231000Z
+SUMMARY:Phillies @ Dodgers (ESPN Unlimited)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Dodger Stadium\, Los
+  Angeles\, California\nFinal: Phillies 1\, Dodgers 9\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815587@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260602T014000Z
+DTEND:20260602T044000Z
+SUMMARY:Dodgers @ Diamondbacks (SportsNet LA / DBACKS.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: SportsNet LA / DBACKS.TV\nVenue: Chase Fiel
+ d\, Phoenix\, Arizona\nFinal: Dodgers 1\, Diamondbacks 4\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815602@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260603T014000Z
+DTEND:20260603T044000Z
+SUMMARY:Dodgers @ Diamondbacks (ESPN Unlimited)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Chase Field\, Phoeni
+ x\, Arizona\nFinal: Dodgers 6\, Diamondbacks 5\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815617@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260604T014000Z
+DTEND:20260604T044000Z
+SUMMARY:Dodgers @ Diamondbacks (MLB Network)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: MLB Network\nVenue: Chase Field\, Phoenix\,
+  Arizona\nFinal: Dodgers 7\, Diamondbacks 0\nUnofficial calendar\; not aff
+ iliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815627@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260605T014000Z
+DTEND:20260605T044000Z
+SUMMARY:Dodgers @ Diamondbacks (SportsNet LA / DBACKS.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: SportsNet LA / DBACKS.TV\nVenue: Chase Fiel
+ d\, Phoenix\, Arizona\nFinal: Dodgers 2\, Diamondbacks 3\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815640@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260606T021000Z
+DTEND:20260606T051000Z
+SUMMARY:Angels @ Dodgers (SportsNet LA / KTTV / Angels.TV)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / KTTV / Angels.TV\nVenue: Dod
+ ger Stadium\, Los Angeles\, California\nFinal: Angels 0\, Dodgers 1\nUnoff
+ icial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815655@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260607T021000Z
+DTEND:20260607T051000Z
+SUMMARY:Angels @ Dodgers (SportsNet LA / KCOP / Angels.TV)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / KCOP / Angels.TV\nVenue: Dod
+ ger Stadium\, Los Angeles\, California\nFinal: Angels 2\, Dodgers 9\nUnoff
+ icial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815670@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260607T201000Z
+DTEND:20260607T231000Z
+SUMMARY:Angels @ Dodgers (SportsNet LA / KCOP / Angels.TV)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / KCOP / Angels.TV\nVenue: Dod
+ ger Stadium\, Los Angeles\, California\nFinal: Angels 13\, Dodgers 5\nUnof
+ ficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815683@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260609T224000Z
+DTEND:20260610T014000Z
+SUMMARY:Dodgers @ Pirates (SportsNet LA)
+LOCATION:PNC Park\, Pittsburgh\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: SportsNet LA\nVenue: PNC Park\, Pittsburgh\
+ , Pennsylvania\nFinal: Dodgers 12\, Pirates 3\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815698@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260610T224000Z
+DTEND:20260611T014000Z
+SUMMARY:Dodgers @ Pirates (SportsNet LA)
+LOCATION:PNC Park\, Pittsburgh\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: SportsNet LA\nVenue: PNC Park\, Pittsburgh\
+ , Pennsylvania\nFinal: Dodgers 8\, Pirates 9\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815712@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260611T224000Z
+DTEND:20260612T014000Z
+SUMMARY:Dodgers @ Pirates (SportsNet LA)
+LOCATION:PNC Park\, Pittsburgh\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: SportsNet LA\nVenue: PNC Park\, Pittsburgh\
+ , Pennsylvania\nFinal: Dodgers 8\, Pirates 6\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815728@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260612T234000Z
+DTEND:20260613T024000Z
+SUMMARY:Dodgers @ White Sox (SportsNet LA / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: SportsNet LA / CHSN\nVenue: Rate Field\, Ch
+ icago\, Illinois\nFinal: Dodgers 2\, White Sox 8\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815743@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260613T201000Z
+DTEND:20260613T231000Z
+SUMMARY:Dodgers @ White Sox (SportsNet LA / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: SportsNet LA / CHSN\nVenue: Rate Field\, Ch
+ icago\, Illinois\nFinal: Dodgers 7\, White Sox 1\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815758@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260614T181000Z
+DTEND:20260614T211000Z
+SUMMARY:Dodgers @ White Sox (SportsNet LA / CHSN / WCIU-TV)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: SportsNet LA / CHSN / WCIU-TV\nVenue: Rate 
+ Field\, Chicago\, Illinois\nFinal: Dodgers 4\, White Sox 6\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815773@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260616T020000Z
+DTEND:20260616T050000Z
+SUMMARY:Rays @ Dodgers (ESPN)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Dodger Stadium\, Los Angeles\,
+  California\nFinal: Rays 3\, Dodgers 4\nUnofficial calendar\; not affiliat
+ ed with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815788@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260617T021000Z
+DTEND:20260617T051000Z
+SUMMARY:Rays @ Dodgers (ESPN Unlimited)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Dodger Stadium\, Los
+  Angeles\, California\nFinal: Rays 0\, Dodgers 1\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815802@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260617T191000Z
+DTEND:20260617T221000Z
+SUMMARY:Rays @ Dodgers (SportsNet LA / Rays.TV)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Rays.TV\nVenue: Dodger Stadi
+ um\, Los Angeles\, California\nFinal: Rays 4\, Dodgers 5\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815823@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260620T021000Z
+DTEND:20260620T051000Z
+SUMMARY:Orioles @ Dodgers (ESPN Unlimited)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Dodger Stadium\, Los
+  Angeles\, California\nFinal: Orioles 5\, Dodgers 6\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815836@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260621T021000Z
+DTEND:20260621T051000Z
+SUMMARY:Orioles @ Dodgers (SportsNet LA / MASN)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / MASN\nVenue: Dodger Stadium\
+ , Los Angeles\, California\nFinal: Orioles 3\, Dodgers 2\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815851@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260621T201000Z
+DTEND:20260621T231000Z
+SUMMARY:Orioles @ Dodgers (SportsNet LA / MASN)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / MASN\nVenue: Dodger Stadium\
+ , Los Angeles\, California\nFinal: Orioles 12\, Dodgers 1\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815863@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260622T234000Z
+DTEND:20260623T024000Z
+SUMMARY:Dodgers @ Twins (Twins.TV / SportsNet LA)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / SportsNet LA\nVenue: Target Fiel
+ d\, Minneapolis\, Minnesota\nFinal: Dodgers 2\, Twins 1\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815877@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260623T234000Z
+DTEND:20260624T024000Z
+SUMMARY:Dodgers @ Twins (TBS)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: TBS\nVenue: Target Field\, Minneapolis\, Mi
+ nnesota\nFinal: Dodgers 12\, Twins 3\nUnofficial calendar\; not affiliated
+  with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815892@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260624T234000Z
+DTEND:20260625T024000Z
+SUMMARY:Dodgers @ Twins (Twins.TV / SportsNet LA)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / SportsNet LA\nVenue: Target Fiel
+ d\, Minneapolis\, Minnesota\nFinal: Dodgers 4\, Twins 3\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815920@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260627T014500Z
+DTEND:20260627T044500Z
+SUMMARY:Dodgers @ Padres (Apple TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: Petco Park\, San Diego\, C
+ alifornia\nFinal: Dodgers 1\, Padres 7\nUnofficial calendar\; not affiliat
+ ed with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815935@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260628T004000Z
+DTEND:20260628T034000Z
+SUMMARY:Dodgers @ Padres (MLB Network)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: MLB Network\nVenue: Petco Park\, San Diego\
+ , California\nFinal: Dodgers 15\, Padres 3\nUnofficial calendar\; not affi
+ liated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815950@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260628T201000Z
+DTEND:20260628T231000Z
+SUMMARY:Dodgers @ Padres (SportsNet LA / Padres.TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Padres.TV\nVenue: Petco Park
+ \, San Diego\, California\nFinal: Dodgers 4\, Padres 2\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815962@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260630T014000Z
+DTEND:20260630T044000Z
+SUMMARY:Dodgers @ Athletics (SportsNet LA / NBC Sports CA)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / NBC Sports CA\nVenue: Sutter
+  Health Park\, Sacramento\, California\nFinal: Dodgers 9\, Athletics 4\nUn
+ official calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815977@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260701T014000Z
+DTEND:20260701T044000Z
+SUMMARY:Dodgers @ Athletics (ESPN Unlimited)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Sutter Health Park\,
+  Sacramento\, California\nFinal: Dodgers 9\, Athletics 3\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815991@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260702T014000Z
+DTEND:20260702T044000Z
+SUMMARY:Dodgers @ Athletics (SportsNet LA / NBC Sports CA)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / NBC Sports CA\nVenue: Sutter
+  Health Park\, Sacramento\, California\nFinal: Dodgers 1\, Athletics 7\nUn
+ official calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816001@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260703T021000Z
+DTEND:20260703T051000Z
+SUMMARY:Padres @ Dodgers (MLB Network)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: MLB Network\nVenue: Dodger Stadium\, Los An
+ geles\, California\nFinal: Padres 7\, Dodgers 12\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816013@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260704T021000Z
+DTEND:20260704T051000Z
+SUMMARY:Padres @ Dodgers (ESPN Unlimited)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Dodger Stadium\, Los
+  Angeles\, California\nFinal: Padres 3\, Dodgers 4\nUnofficial calendar\; 
+ not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816028@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260705T021000Z
+DTEND:20260705T051000Z
+SUMMARY:Padres @ Dodgers (SportsNet LA / Padres.TV / KFMB 8.1 (CBS) / TV Az
+ teca)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Padres.TV / KFMB 8.1 (CBS) /
+  TV Azteca\nVenue: Dodger Stadium\, Los Angeles\, California\nFinal: Padre
+ s 0\, Dodgers 3\nUnofficial calendar\; not affiliated with the MLB or ESPN
+ . Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816043@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260705T232000Z
+DTEND:20260706T022000Z
+SUMMARY:Padres @ Dodgers (NBC / Peacock)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: NBC / Peacock\nVenue: Dodger Stadium\, Los 
+ Angeles\, California\nFinal: Padres 5\, Dodgers 2\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816051@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260707T021000Z
+DTEND:20260707T051000Z
+SUMMARY:Rockies @ Dodgers (SportsNet LA / Rockies.TV)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Rockies.TV\nVenue: Dodger St
+ adium\, Los Angeles\, California\nFinal: Rockies 7\, Dodgers 8\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816066@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260708T021000Z
+DTEND:20260708T051000Z
+SUMMARY:Rockies @ Dodgers (SportsNet LA / Rockies.TV)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Rockies.TV\nVenue: Dodger St
+ adium\, Los Angeles\, California\nFinal: Rockies 4\, Dodgers 3\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816081@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260709T021000Z
+DTEND:20260709T051000Z
+SUMMARY:Rockies @ Dodgers (SportsNet LA / Rockies.TV)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Rockies.TV\nVenue: Dodger St
+ adium\, Los Angeles\, California\nFinal: Rockies 3\, Dodgers 4\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816108@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260711T021000Z
+DTEND:20260711T051000Z
+SUMMARY:Diamondbacks @ Dodgers (SportsNet LA / DBACKS.TV)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / DBACKS.TV\nVenue: Dodger Sta
+ dium\, Los Angeles\, California\nFinal: Diamondbacks 9\, Dodgers 3\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816123@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260712T011000Z
+DTEND:20260712T041000Z
+SUMMARY:Diamondbacks @ Dodgers (SportsNet LA / DBACKS.TV)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / DBACKS.TV\nVenue: Dodger Sta
+ dium\, Los Angeles\, California\nFinal: Diamondbacks 9\, Dodgers 2\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816138@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260712T201000Z
+DTEND:20260712T231000Z
+SUMMARY:Diamondbacks @ Dodgers (ESPN Unlimited)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Dodger Stadium\, Los
+  Angeles\, California\nFinal: Diamondbacks 5\, Dodgers 3\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816142@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260717T230500Z
+DTEND:20260718T020500Z
+SUMMARY:Dodgers @ Yankees (MLB Network)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: MLB Network\nVenue: Yankee Stadium\, Bronx\
+ , New York\nFinal: Dodgers 2\, Yankees 1\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816157@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260719T000800Z
+DTEND:20260719T030800Z
+SUMMARY:Postponed: Dodgers @ Yankees
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Inclement Weather - Makeup date July 19\nTV: TBD\nVenue: Yankee
+  Stadium\, Bronx\, New York\nPostponed. This listing stays cancelled under
+  the same id. The makeup\, when ESPN adds one\, is a separate game.\nUnoff
+ icial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401897386@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260719T163500Z
+DTEND:20260719T193500Z
+SUMMARY:Dodgers @ Yankees (SportsNet LA / YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Doubleheader - Game 1 - Makeup from July 18\nTV: SportsNet LA /
+  YES\nVenue: Yankee Stadium\, Bronx\, New York\nFinal: Dodgers 8\, Yankees
+  2\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may c
+ hange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816172@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260719T232000Z
+DTEND:20260720T022000Z
+SUMMARY:Dodgers @ Yankees (NBC / Peacock)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Doubleheader - Game 2\nTV: NBC / Peacock\nVenue: Yankee Stadium
+ \, Bronx\, New York\nFinal: Dodgers 1\, Yankees 2\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816187@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260720T230000Z
+DTEND:20260721T020000Z
+SUMMARY:Dodgers @ Phillies (ESPN)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Citizens Bank Park\, Philadelp
+ hia\, Pennsylvania\nFinal: Dodgers 7\, Phillies 10\nUnofficial calendar\; 
+ not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816202@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260721T224000Z
+DTEND:20260722T014000Z
+SUMMARY:Dodgers @ Phillies (TBS)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: TBS\nVenue: Citizens Bank Park\, Philadelph
+ ia\, Pennsylvania\nFinal: Dodgers 2\, Phillies 1\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816217@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260722T224000Z
+DTEND:20260723T014000Z
+SUMMARY:Dodgers @ Phillies (SportsNet LA / NBC Sports Phil)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: SportsNet LA / NBC Sports Phil\nVenue: Citi
+ zens Bank Park\, Philadelphia\, Pennsylvania\nFinal: Dodgers 9\, Phillies 
+ 5\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may ch
+ ange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816240@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260724T231000Z
+DTEND:20260725T021000Z
+SUMMARY:Dodgers @ Mets (ESPN Unlimited)
+LOCATION:Citi Field\, Queens\, New York
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Citi Field\, Queens\
+ , New York\nFinal: Dodgers 4\, Mets 2\nUnofficial calendar\; not affiliate
+ d with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816255@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260725T231500Z
+DTEND:20260726T021500Z
+SUMMARY:Dodgers @ Mets (Fox)
+LOCATION:Citi Field\, Queens\, New York
+DESCRIPTION:Regular Season\nTV: Fox\nVenue: Citi Field\, Queens\, New York\
+ nFinal: Dodgers 4\, Mets 3\nUnofficial calendar\; not affiliated with the 
+ MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816270@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260726T174000Z
+DTEND:20260726T204000Z
+SUMMARY:Dodgers @ Mets (SportsNet LA / SNY)
+LOCATION:Citi Field\, Queens\, New York
+DESCRIPTION:Regular Season\nTV: SportsNet LA / SNY\nVenue: Citi Field\, Que
+ ens\, New York\nFinal: Dodgers 3\, Mets 8\nUnofficial calendar\; not affil
+ iated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816306@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260729T021000Z
+DTEND:20260729T051000Z
+SUMMARY:Mariners @ Dodgers (SportsNet LA / Mariners.TV)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Mariners.TV\nVenue: Dodger S
+ tadium\, Los Angeles\, California\nFinal: Mariners 7\, Dodgers 6\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816321@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260730T021000Z
+DTEND:20260730T051000Z
+SUMMARY:Mariners @ Dodgers (SportsNet LA / Mariners.TV)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Mariners.TV\nVenue: Dodger S
+ tadium\, Los Angeles\, California\nFinal: Mariners 2\, Dodgers 4\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816330@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260731T021000Z
+DTEND:20260731T051000Z
+SUMMARY:Mariners @ Dodgers (MLB Network)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: MLB Network\nVenue: Dodger Stadium\, Los An
+ geles\, California\nFinal: Mariners 2\, Dodgers 6\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816342@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260801T021000Z
+DTEND:20260801T051000Z
+SUMMARY:Red Sox @ Dodgers (ESPN Unlimited)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Dodger Stadium\, Los
+  Angeles\, California\nFinal: Red Sox 9\, Dodgers 4\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816357@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260802T011000Z
+DTEND:20260802T041000Z
+SUMMARY:Red Sox @ Dodgers (ESPN Unlimited)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Dodger Stadium\, Los
+  Angeles\, California\nFinal: Red Sox 3\, Dodgers 2\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816372@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260802T232000Z
+DTEND:20260803T022000Z
+SUMMARY:Red Sox @ Dodgers (NBC / Peacock)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: NBC / Peacock\nVenue: Dodger Stadium\, Los 
+ Angeles\, California\nFinal: Red Sox 8\, Dodgers 4\nUnofficial calendar\; 
+ not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816379@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260804T000500Z
+DTEND:20260804T030500Z
+SUMMARY:Dodgers @ Cubs (SportsNet LA / Marquee Sports Net)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Marquee Sports Net\nVenue: W
+ rigley Field\, Chicago\, Illinois\nFinal: Dodgers 5\, Cubs 10\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816391@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260805T000500Z
+DTEND:20260805T030500Z
+SUMMARY:Dodgers @ Cubs (TBS)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: TBS\nVenue: Wrigley Field\, Chicago\, Illin
+ ois\nFinal: Dodgers 1\, Cubs 5\nUnofficial calendar\; not affiliated with 
+ the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816406@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260805T182000Z
+DTEND:20260805T212000Z
+SUMMARY:Dodgers @ Cubs (MLB Network)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: MLB Network\nVenue: Wrigley Field\, Chicago
+ \, Illinois\nFinal: Dodgers 6\, Cubs 7\nUnofficial calendar\; not affiliat
+ ed with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816437@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260808T014000Z
+DTEND:20260808T044000Z
+SUMMARY:Dodgers @ Diamondbacks (SportsNet LA / DBACKS.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: SportsNet LA / DBACKS.TV\nVenue: Chase Fiel
+ d\, Phoenix\, Arizona\nFinal: Dodgers 3\, Diamondbacks 4\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816452@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260809T001000Z
+DTEND:20260809T031000Z
+SUMMARY:Dodgers @ Diamondbacks (SportsNet LA / DBACKS.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: SportsNet LA / DBACKS.TV\nVenue: Chase Fiel
+ d\, Phoenix\, Arizona\nFinal: Dodgers 2\, Diamondbacks 1\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816467@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260809T201000Z
+DTEND:20260809T231000Z
+SUMMARY:Dodgers @ Diamondbacks (SportsNet LA / DBACKS.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: SportsNet LA / DBACKS.TV\nVenue: Chase Fiel
+ d\, Phoenix\, Arizona\nFinal: Dodgers 2\, Diamondbacks 4\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816475@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260811T021000Z
+DTEND:20260811T051000Z
+SUMMARY:Royals @ Dodgers (Royals.TV / SportsNet LA)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: Royals.TV / SportsNet LA\nVenue: Dodger Sta
+ dium\, Los Angeles\, California\nFinal: Royals 5\, Dodgers 6\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816490@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260812T021000Z
+DTEND:20260812T051000Z
+SUMMARY:Royals @ Dodgers (Royals.TV / SportsNet LA)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: Royals.TV / SportsNet LA\nVenue: Dodger Sta
+ dium\, Los Angeles\, California\nFinal: Royals 4\, Dodgers 5\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816505@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260813T021000Z
+DTEND:20260813T051000Z
+SUMMARY:Royals @ Dodgers (Royals.TV / SportsNet LA)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: Royals.TV / SportsNet LA\nVenue: Dodger Sta
+ dium\, Los Angeles\, California\nFinal: Royals 2\, Dodgers 4\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816515@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260814T021000Z
+DTEND:20260814T051000Z
+SUMMARY:Brewers @ Dodgers (SportsNet LA / Brewers.TV)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Brewers.TV\nVenue: Dodger St
+ adium\, Los Angeles\, California\nFinal: Brewers 5\, Dodgers 4\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816530@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260815T021000Z
+DTEND:20260815T051000Z
+SUMMARY:Brewers @ Dodgers (ESPN Unlimited)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Dodger Stadium\, Los
+  Angeles\, California\nFinal: Brewers 1\, Dodgers 3\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816545@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260815T231500Z
+DTEND:20260816T021500Z
+SUMMARY:Brewers @ Dodgers (Fox)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: Fox\nVenue: Dodger Stadium\, Los Angeles\, 
+ California\nFinal: Brewers 4\, Dodgers 1\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816560@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260816T201000Z
+DTEND:20260816T231000Z
+SUMMARY:Brewers @ Dodgers (SportsNet LA / Brewers.TV)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Brewers.TV\nVenue: Dodger St
+ adium\, Los Angeles\, California\nFinal: Brewers 6\, Dodgers 2\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816570@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260818T004000Z
+DTEND:20260818T034000Z
+SUMMARY:Dodgers @ Rockies (SportsNet LA / Rockies.TV)
+LOCATION:Coors Field\, Denver\, Colorado
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Rockies.TV\nVenue: Coors Fie
+ ld\, Denver\, Colorado\nFinal: Dodgers 11\, Rockies 5\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816585@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260819T004000Z
+DTEND:20260819T034000Z
+SUMMARY:Dodgers @ Rockies (SportsNet LA / Rockies.TV)
+LOCATION:Coors Field\, Denver\, Colorado
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Rockies.TV\nVenue: Coors Fie
+ ld\, Denver\, Colorado\nFinal: Dodgers 7\, Rockies 6\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816600@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260820T004000Z
+DTEND:20260820T034000Z
+SUMMARY:Dodgers @ Rockies (SportsNet LA / Rockies.TV)
+LOCATION:Coors Field\, Denver\, Colorado
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Rockies.TV\nVenue: Coors Fie
+ ld\, Denver\, Colorado\nFinal: Dodgers 6\, Rockies 4\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816624@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260822T021000Z
+DTEND:20260822T051000Z
+SUMMARY:Pirates @ Dodgers (SportsNet LA)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA\nVenue: Dodger Stadium\, Los A
+ ngeles\, California\nFinal: Pirates 4\, Dodgers 5\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816639@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260822T231500Z
+DTEND:20260823T021500Z
+SUMMARY:Pirates @ Dodgers (Fox)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: Fox\nVenue: Dodger Stadium\, Los Angeles\, 
+ California\nFinal: Pirates 3\, Dodgers 4\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816654@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260823T201000Z
+DTEND:20260823T231000Z
+SUMMARY:Pirates @ Dodgers (SportsNet LA)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA\nVenue: Dodger Stadium\, Los A
+ ngeles\, California\nFinal: Pirates 0\, Dodgers 4\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816669@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260825T231500Z
+DTEND:20260826T021500Z
+SUMMARY:Dodgers @ Braves (TBS)
+LOCATION:Truist Park\, Atlanta\, Georgia
+DESCRIPTION:Regular Season\nTV: TBS\nVenue: Truist Park\, Atlanta\, Georgia
+ \nFinal: Dodgers 3\, Braves 4\nUnofficial calendar\; not affiliated with t
+ he MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816684@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260826T231500Z
+DTEND:20260827T021500Z
+SUMMARY:Dodgers @ Braves (MLB Network)
+LOCATION:Truist Park\, Atlanta\, Georgia
+DESCRIPTION:Regular Season\nTV: MLB Network\nVenue: Truist Park\, Atlanta\,
+  Georgia\nFinal: Dodgers 5\, Braves 6\nUnofficial calendar\; not affiliate
+ d with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816698@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260827T231500Z
+DTEND:20260828T021500Z
+SUMMARY:Dodgers @ Braves (FS1)
+LOCATION:Truist Park\, Atlanta\, Georgia
+DESCRIPTION:Regular Season\nTV: FS1\nVenue: Truist Park\, Atlanta\, Georgia
+ \nFinal: Dodgers 0\, Braves 1\nUnofficial calendar\; not affiliated with t
+ he MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816706@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260828T224000Z
+DTEND:20260829T014000Z
+SUMMARY:Dodgers @ Tigers (SportsNet LA / Tigers.TV)
+LOCATION:Comerica Park\, Detroit\, Michigan
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Tigers.TV\nVenue: Comerica P
+ ark\, Detroit\, Michigan\nFinal: Dodgers 2\, Tigers 1\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816721@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260829T171000Z
+DTEND:20260829T201000Z
+SUMMARY:Dodgers @ Tigers (SportsNet LA / Tigers.TV)
+LOCATION:Comerica Park\, Detroit\, Michigan
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Tigers.TV\nVenue: Comerica P
+ ark\, Detroit\, Michigan\nFinal: Dodgers 1\, Tigers 2\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816736@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260830T174000Z
+DTEND:20260830T204000Z
+SUMMARY:Dodgers @ Tigers (SportsNet LA / Tigers.TV)
+LOCATION:Comerica Park\, Detroit\, Michigan
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Tigers.TV\nVenue: Comerica P
+ ark\, Detroit\, Michigan\nFinal: Dodgers 6\, Tigers 1\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816772@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260902T021000Z
+DTEND:20260902T051000Z
+SUMMARY:Cardinals @ Dodgers (ESPN Unlimited)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Dodger Stadium\, Los
+  Angeles\, California\nFinal: Cardinals 13\, Dodgers 8\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816787@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260903T021000Z
+DTEND:20260903T051000Z
+SUMMARY:Cardinals @ Dodgers (SportsNet LA / Cardinals.TV)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Cardinals.TV\nVenue: Dodger 
+ Stadium\, Los Angeles\, California\nFinal: Cardinals 8\, Dodgers 6\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816796@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260904T021000Z
+DTEND:20260904T051000Z
+SUMMARY:Cardinals @ Dodgers (SportsNet LA / Cardinals.TV)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Cardinals.TV\nVenue: Dodger 
+ Stadium\, Los Angeles\, California\nFinal: Cardinals 2\, Dodgers 3\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816811@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260905T021000Z
+DTEND:20260905T051000Z
+SUMMARY:Nationals @ Dodgers (SportsNet LA / Nationals.TV)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Nationals.TV\nVenue: Dodger 
+ Stadium\, Los Angeles\, California\nFinal: Nationals 3\, Dodgers 5\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816826@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260906T011000Z
+DTEND:20260906T041000Z
+SUMMARY:Nationals @ Dodgers (SportsNet LA / Nationals.TV)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Nationals.TV\nVenue: Dodger 
+ Stadium\, Los Angeles\, California\nFinal: Nationals 5\, Dodgers 6\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816841@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260907T021000Z
+DTEND:20260907T051000Z
+SUMMARY:Nationals @ Dodgers (SportsNet LA / Nationals.TV)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Nationals.TV\nVenue: Dodger 
+ Stadium\, Los Angeles\, California\nFinal: Nationals 5\, Dodgers 7\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816849@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260908T011000Z
+DTEND:20260908T041000Z
+SUMMARY:Reds @ Dodgers (SportsNet LA / Reds.TV)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Reds.TV\nVenue: Dodger Stadi
+ um\, Los Angeles\, California\nFinal: Reds 3\, Dodgers 6\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816863@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260909T021000Z
+DTEND:20260909T051000Z
+SUMMARY:Reds @ Dodgers (SportsNet LA / Reds.TV)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Reds.TV\nVenue: Dodger Stadi
+ um\, Los Angeles\, California\nFinal: Reds 2\, Dodgers 3\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816878@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260910T021000Z
+DTEND:20260910T051000Z
+SUMMARY:Reds @ Dodgers (SportsNet LA / Reds.TV)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Reds.TV\nVenue: Dodger Stadi
+ um\, Los Angeles\, California\nFinal: Reds 1\, Dodgers 14\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816893@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260911T231000Z
+DTEND:20260912T021000Z
+SUMMARY:Dodgers @ Marlins (SportsNet LA / Marlins.TV / WBFS)
+LOCATION:loanDepot park\, Miami\, Florida
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Marlins.TV / WBFS\nVenue: lo
+ anDepot park\, Miami\, Florida\nFinal: Dodgers 6\, Marlins 2\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816908@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260912T201000Z
+DTEND:20260912T231000Z
+SUMMARY:Dodgers @ Marlins (SportsNet LA / Marlins.TV)
+LOCATION:loanDepot park\, Miami\, Florida
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Marlins.TV\nVenue: loanDepot
+  park\, Miami\, Florida\nFinal: Dodgers 3\, Marlins 4\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816923@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260913T174000Z
+DTEND:20260913T204000Z
+SUMMARY:Dodgers @ Marlins (SportsNet LA / Marlins.TV)
+LOCATION:loanDepot park\, Miami\, Florida
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Marlins.TV\nVenue: loanDepot
+  park\, Miami\, Florida\nFinal: Dodgers 4\, Marlins 6\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816936@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260914T224000Z
+DTEND:20260915T014000Z
+SUMMARY:Dodgers @ Reds (SportsNet LA / Gray Media / WXIX FOX19 / Reds.TV)
+LOCATION:Great American Ball Park\, Cincinnati\, Ohio
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Gray Media / WXIX FOX19 / Re
+ ds.TV\nVenue: Great American Ball Park\, Cincinnati\, Ohio\nFinal: Dodgers
+  4\, Reds 1\nUnofficial calendar\; not affiliated with the MLB or ESPN. Ti
+ mes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816947@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260915T224000Z
+DTEND:20260916T014000Z
+SUMMARY:Dodgers @ Reds (SportsNet LA / Reds.TV)
+LOCATION:Great American Ball Park\, Cincinnati\, Ohio
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Reds.TV\nVenue: Great Americ
+ an Ball Park\, Cincinnati\, Ohio\nFinal: Dodgers 4\, Reds 0\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816962@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260916T224000Z
+DTEND:20260917T014000Z
+SUMMARY:Dodgers @ Reds (SportsNet LA / Reds.TV)
+LOCATION:Great American Ball Park\, Cincinnati\, Ohio
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Reds.TV\nVenue: Great Americ
+ an Ball Park\, Cincinnati\, Ohio\nFinal: Dodgers 2\, Reds 6\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816974@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260917T164000Z
+DTEND:20260917T194000Z
+SUMMARY:Dodgers @ Reds (SportsNet LA / Reds.TV)
+LOCATION:Great American Ball Park\, Cincinnati\, Ohio
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Reds.TV\nVenue: Great Americ
+ an Ball Park\, Cincinnati\, Ohio\nFinal: Dodgers 8\, Reds 2\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816996@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260919T021500Z
+DTEND:20260919T051500Z
+SUMMARY:Giants @ Dodgers (Apple TV)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: Dodger Stadium\, Los Angel
+ es\, California\nFinal: Giants 2\, Dodgers 8\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817011@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260920T011000Z
+DTEND:20260920T041000Z
+SUMMARY:Giants @ Dodgers (NBC Sports BA / SportsNet LA)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / SportsNet LA\nVenue: Dodger
+  Stadium\, Los Angeles\, California\nFinal: Giants 4\, Dodgers 10\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817026@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260920T201000Z
+DTEND:20260920T231000Z
+SUMMARY:Giants @ Dodgers (NBC Sports BA / SportsNet LA)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / SportsNet LA\nVenue: Dodger
+  Stadium\, Los Angeles\, California\nFinal: Giants 1\, Dodgers 3\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817044@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260923T021000Z
+DTEND:20260923T051000Z
+SUMMARY:Padres @ Dodgers (TBS)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: TBS\nVenue: Dodger Stadium\, Los Angeles\, 
+ California\nFinal: Padres 0\, Dodgers 7\nUnofficial calendar\; not affilia
+ ted with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817059@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260924T021000Z
+DTEND:20260924T051000Z
+SUMMARY:Padres @ Dodgers (SportsNet LA / Padres.TV)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Padres.TV\nVenue: Dodger Sta
+ dium\, Los Angeles\, California\nFinal: Padres 5\, Dodgers 1\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817071@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260925T021000Z
+DTEND:20260925T051000Z
+SUMMARY:Padres @ Dodgers (MLB Network)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: MLB Network\nVenue: Dodger Stadium\, Los An
+ geles\, California\nFinal: Padres 4\, Dodgers 2\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817086@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260926T021500Z
+DTEND:20260926T051500Z
+SUMMARY:Dodgers @ Giants (NBC Sports BA / SportsNet LA)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / SportsNet LA\nVenue: Oracle
+  Park\, San Francisco\, California\nFinal: Dodgers 2\, Giants 0\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817101@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260926T200500Z
+DTEND:20260926T230500Z
+SUMMARY:Dodgers @ Giants (NBC Sports BA / SportsNet LA)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / SportsNet LA\nVenue: Oracle
+  Park\, San Francisco\, California\nFinal: Dodgers 4\, Giants 3\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817116@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260927T190500Z
+DTEND:20260927T220500Z
+SUMMARY:Dodgers @ Giants (NBC Sports BA / SportsNet LA)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / SportsNet LA\nVenue: Oracle
+  Park\, San Francisco\, California\nFinal: Dodgers 5\, Giants 1\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401908007@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20261003T200000Z
+DTEND:20261003T230000Z
+SUMMARY:Braves @ Dodgers (Fox)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:NLDS - Game 1\nTV: Fox\nVenue: Dodger Stadium\, Los Angeles\, C
+ alifornia\nFinal: Braves 3\, Dodgers 5\nUnofficial calendar\; not affiliat
+ ed with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401908014@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20261005T000000Z
+DTEND:20261005T030000Z
+SUMMARY:Braves @ Dodgers (FS1)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:NLDS - Game 2\nTV: FS1\nVenue: Dodger Stadium\, Los Angeles\, C
+ alifornia\nFinal: Braves 3\, Dodgers 2\nUnofficial calendar\; not affiliat
+ ed with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401908015@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20261006T220000Z
+DTEND:20261007T010000Z
+SUMMARY:Dodgers @ Braves (FS1)
+LOCATION:Truist Park\, Atlanta\, Georgia
+DESCRIPTION:NLDS - Game 3\nTV: FS1\nVenue: Truist Park\, Atlanta\, Georgia\
+ nFinal: Dodgers 3\, Braves 1\nUnofficial calendar\; not affiliated with th
+ e MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401908016@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20261007T220000Z
+DTEND:20261008T010000Z
+SUMMARY:Dodgers @ Braves (FS1)
+LOCATION:Truist Park\, Atlanta\, Georgia
+DESCRIPTION:NLDS - Game 4\nTV: FS1\nVenue: Truist Park\, Atlanta\, Georgia\
+ nFinal: Dodgers 4\, Braves 1\nUnofficial calendar\; not affiliated with th
+ e MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401908030@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20261012T000000Z
+DTEND:20261012T030000Z
+SUMMARY:Dodgers @ Brewers (Fox)
+LOCATION:American Family Field\, Milwaukee\, Wisconsin
+DESCRIPTION:NLCS - Game 1\nTV: Fox\nVenue: American Family Field\, Milwauke
+ e\, Wisconsin\nFinal: Dodgers 1\, Brewers 2\nUnofficial calendar\; not aff
+ iliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401908031@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20261012T210000Z
+DTEND:20261013T000000Z
+SUMMARY:Dodgers @ Brewers (Fox / FS1)
+LOCATION:American Family Field\, Milwaukee\, Wisconsin
+DESCRIPTION:NLCS - Game 2\nTV: Fox / FS1\nVenue: American Family Field\, Mi
+ lwaukee\, Wisconsin\nFinal: Dodgers 4\, Brewers 7\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401908032@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20261015T000000Z
+DTEND:20261015T030000Z
+SUMMARY:Brewers @ Dodgers (FS1)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:NLCS - Game 3\nTV: FS1\nVenue: Dodger Stadium\, Los Angeles\, C
+ alifornia\nFinal: Brewers 6\, Dodgers 2\nUnofficial calendar\; not affilia
+ ted with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401908033@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20261016T000000Z
+DTEND:20261016T030000Z
+SUMMARY:Brewers @ Dodgers (FS1)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:NLCS - Game 4\nTV: FS1\nVenue: Dodger Stadium\, Los Angeles\, C
+ alifornia\nFinal: Brewers 6\, Dodgers 4\nUnofficial calendar\; not affilia
+ ted with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

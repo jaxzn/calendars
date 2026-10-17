@@ -1,0 +1,1105 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jaxzn//NHL Calendars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Anaheim Ducks
+X-WR-CALDESC:Anaheim Ducks NHL schedule (unofficial\, auto-updated)
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:espn-401892433@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261003T020000Z
+DTEND:20261003T043000Z
+SUMMARY:Ducks @ Golden Knights (ESPN+)
+LOCATION:T-Mobile Arena\, Las Vegas\, NV
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: T-Mobile Arena\, Las Vegas\, 
+ NV\nFinal: Ducks 4\, Golden Knights 3\nUnofficial calendar\; not affiliate
+ d with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401891778@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261005T000000Z
+DTEND:20261005T023000Z
+SUMMARY:Panthers @ Ducks (ESPN+)
+LOCATION:Honda Center\, Anaheim\, CA
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: Honda Center\, Anaheim\, CA\n
+ Final: Panthers 2\, Ducks 3\nUnofficial calendar\; not affiliated with the
+  NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892456@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261008T020000Z
+DTEND:20261008T043000Z
+SUMMARY:Oilers @ Ducks (ESPN+)
+LOCATION:Honda Center\, Anaheim\, CA
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: Honda Center\, Anaheim\, CA\n
+ Final: Oilers 5\, Ducks 2\nUnofficial calendar\; not affiliated with the N
+ HL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892468@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261010T000000Z
+DTEND:20261010T023000Z
+SUMMARY:Ducks @ Jets (ESPN+)
+LOCATION:Canada Life Centre\, Winnipeg\, MB
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: Canada Life Centre\, Winnipeg
+ \, MB\nFinal: Ducks 5\, Jets 1\nUnofficial calendar\; not affiliated with 
+ the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892480@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261011T020000Z
+DTEND:20261011T043000Z
+SUMMARY:Ducks @ Flames (ESPN+)
+LOCATION:Scotiabank Saddledome\, Calgary\, AB
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: Scotiabank Saddledome\, Calga
+ ry\, AB\nFinal: Ducks 4\, Flames 2\nUnofficial calendar\; not affiliated w
+ ith the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892501@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261014T014500Z
+DTEND:20261014T041500Z
+SUMMARY:Flames @ Ducks (ESPN+)
+LOCATION:Honda Center\, Anaheim\, CA
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: Honda Center\, Anaheim\, CA\n
+ Final: Flames 4\, Ducks 2\nUnofficial calendar\; not affiliated with the N
+ HL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892518@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261017T020000Z
+DTEND:20261017T043000Z
+SUMMARY:Bruins @ Ducks (ESPN+)
+LOCATION:Honda Center\, Anaheim\, CA
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: Honda Center\, Anaheim\, CA\n
+ Final: Bruins 4\, Ducks 2\nUnofficial calendar\; not affiliated with the N
+ HL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892535@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261019T230000Z
+DTEND:20261020T013000Z
+SUMMARY:Ducks @ Rangers (ESPN+)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: Madison Square Garden\, New Y
+ ork\, NY\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times
+  may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892541@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261020T230000Z
+DTEND:20261021T013000Z
+SUMMARY:Ducks @ Islanders (ESPN+)
+LOCATION:UBS Arena\, Elmont\, NY
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: UBS Arena\, Elmont\, NY\nUnof
+ ficial calendar\; not affiliated with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892555@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261022T230000Z
+DTEND:20261023T013000Z
+SUMMARY:Ducks @ Devils (ESPN+)
+LOCATION:Prudential Center\, Newark\, NJ
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: Prudential Center\, Newark\, 
+ NJ\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may c
+ hange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892566@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261024T170000Z
+DTEND:20261024T193000Z
+SUMMARY:Ducks @ Flyers (NHL Network)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: NHL Network\nVenue: Xfinity Mobile Arena\, 
+ Philadelphia\, PA\nUnofficial calendar\; not affiliated with the NHL or ES
+ PN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892594@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261028T020000Z
+DTEND:20261028T043000Z
+SUMMARY:Canucks @ Ducks (ESPN+)
+LOCATION:Honda Center\, Anaheim\, CA
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: Honda Center\, Anaheim\, CA\n
+ Unofficial calendar\; not affiliated with the NHL or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892608@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261030T020000Z
+DTEND:20261030T043000Z
+SUMMARY:Sabres @ Ducks (Disney+ / ESPN+ / Hulu)
+LOCATION:Honda Center\, Anaheim\, CA
+DESCRIPTION:Regular Season\nTV: Disney+ / ESPN+ / Hulu\nVenue: Honda Center
+ \, Anaheim\, CA\nUnofficial calendar\; not affiliated with the NHL or ESPN
+ . Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892628@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261102T010000Z
+DTEND:20261102T033000Z
+SUMMARY:Senators @ Ducks (KTTV / Prime Video (Local))
+LOCATION:Honda Center\, Anaheim\, CA
+DESCRIPTION:Regular Season\nTV: KTTV / Prime Video (Local)\nVenue: Honda Ce
+ nter\, Anaheim\, CA\nUnofficial calendar\; not affiliated with the NHL or 
+ ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892643@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261104T020000Z
+DTEND:20261104T043000Z
+SUMMARY:Ducks @ Canucks (Prime Video (Local))
+LOCATION:Rogers Arena\, Vancouver\, BC
+DESCRIPTION:Regular Season\nTV: Prime Video (Local)\nVenue: Rogers Arena\, 
+ Vancouver\, BC\nUnofficial calendar\; not affiliated with the NHL or ESPN.
+  Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892657@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261106T010000Z
+DTEND:20261106T033000Z
+SUMMARY:Ducks @ Oilers (Prime Video (Local))
+LOCATION:Rogers Place\, Edmonton\, AB
+DESCRIPTION:Regular Season\nTV: Prime Video (Local)\nVenue: Rogers Place\, 
+ Edmonton\, AB\nUnofficial calendar\; not affiliated with the NHL or ESPN. 
+ Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892661@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261107T010000Z
+DTEND:20261107T033000Z
+SUMMARY:Ducks @ Flames (Prime Video (Local))
+LOCATION:Scotiabank Saddledome\, Calgary\, AB
+DESCRIPTION:Regular Season\nTV: Prime Video (Local)\nVenue: Scotiabank Sadd
+ ledome\, Calgary\, AB\nUnofficial calendar\; not affiliated with the NHL o
+ r ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892679@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261109T010000Z
+DTEND:20261109T033000Z
+SUMMARY:Penguins @ Ducks (Prime Video (Local))
+LOCATION:Honda Center\, Anaheim\, CA
+DESCRIPTION:Regular Season\nTV: Prime Video (Local)\nVenue: Honda Center\, 
+ Anaheim\, CA\nUnofficial calendar\; not affiliated with the NHL or ESPN. T
+ imes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892694@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261112T030000Z
+DTEND:20261112T053000Z
+SUMMARY:Predators @ Ducks (Scripps Sports / KCOP / Prime Video (Local))
+LOCATION:Honda Center\, Anaheim\, CA
+DESCRIPTION:Regular Season\nTV: Scripps Sports / KCOP / Prime Video (Local)
+ \nVenue: Honda Center\, Anaheim\, CA\nUnofficial calendar\; not affiliated
+  with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892719@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261115T030000Z
+DTEND:20261115T053000Z
+SUMMARY:Islanders @ Ducks (MSGSN / KCOP / Prime Video (Local))
+LOCATION:Honda Center\, Anaheim\, CA
+DESCRIPTION:Regular Season\nTV: MSGSN / KCOP / Prime Video (Local)\nVenue: 
+ Honda Center\, Anaheim\, CA\nUnofficial calendar\; not affiliated with the
+  NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892723@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261116T010000Z
+DTEND:20261116T033000Z
+SUMMARY:Flames @ Ducks (KCOP / Prime Video (Local))
+LOCATION:Honda Center\, Anaheim\, CA
+DESCRIPTION:Regular Season\nTV: KCOP / Prime Video (Local)\nVenue: Honda Ce
+ nter\, Anaheim\, CA\nUnofficial calendar\; not affiliated with the NHL or 
+ ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892734@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261118T010000Z
+DTEND:20261118T033000Z
+SUMMARY:Ducks @ Blues (KTTV / Blues App / BN+ / Prime Video (Local))
+LOCATION:Enterprise Center\, St. Louis\, MO
+DESCRIPTION:Regular Season\nTV: KTTV / Blues App / BN+ / Prime Video (Local
+ )\nVenue: Enterprise Center\, St. Louis\, MO\nUnofficial calendar\; not af
+ filiated with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892751@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261120T020000Z
+DTEND:20261120T043000Z
+SUMMARY:Ducks @ Avalanche (KCOP / Altitude Sports / KTVD-TV (My20) / KUSA-T
+ V (9NEWS) / Prime Video (Local))
+LOCATION:Ball Arena\, Denver\, CO
+DESCRIPTION:Regular Season\nTV: KCOP / Altitude Sports / KTVD-TV (My20) / K
+ USA-TV (9NEWS) / Prime Video (Local)\nVenue: Ball Arena\, Denver\, CO\nUno
+ fficial calendar\; not affiliated with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892765@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261122T020000Z
+DTEND:20261122T043000Z
+SUMMARY:Ducks @ Mammoth (Utah 16 / KCOP / Prime Video (Local) / Mammoth+)
+LOCATION:Delta Center\, Salt Lake City\, UT
+DESCRIPTION:Regular Season\nTV: Utah 16 / KCOP / Prime Video (Local) / Mamm
+ oth+\nVenue: Delta Center\, Salt Lake City\, UT\nUnofficial calendar\; not
+  affiliated with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892778@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261124T024000Z
+DTEND:20261124T051000Z
+SUMMARY:Ducks @ Kraken (KCOP / KONG / Prime Video (Local))
+LOCATION:Climate Pledge Arena\, Seattle\, WA
+DESCRIPTION:Regular Season\nTV: KCOP / KONG / Prime Video (Local)\nVenue: C
+ limate Pledge Arena\, Seattle\, WA\nUnofficial calendar\; not affiliated w
+ ith the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892793@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261126T030000Z
+DTEND:20261126T053000Z
+SUMMARY:Sharks @ Ducks (NBC Sports BA / KCOP / Prime Video (Local))
+LOCATION:Honda Center\, Anaheim\, CA
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / KCOP / Prime Video (Local)\
+ nVenue: Honda Center\, Anaheim\, CA\nUnofficial calendar\; not affiliated 
+ with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892804@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261127T210000Z
+DTEND:20261127T233000Z
+SUMMARY:Kings @ Ducks (KCOP / ABTV / Prime Video (Local))
+LOCATION:Honda Center\, Anaheim\, CA
+DESCRIPTION:Regular Season\nTV: KCOP / ABTV / Prime Video (Local)\nVenue: H
+ onda Center\, Anaheim\, CA\nUnofficial calendar\; not affiliated with the 
+ NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892821@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261129T020000Z
+DTEND:20261129T043000Z
+SUMMARY:Ducks @ Kings (KCOP / ABTV / Prime Video (Local))
+LOCATION:crypto.com Arena\, Los Angeles\, CA
+DESCRIPTION:Regular Season\nTV: KCOP / ABTV / Prime Video (Local)\nVenue: c
+ rypto.com Arena\, Los Angeles\, CA\nUnofficial calendar\; not affiliated w
+ ith the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892838@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261202T030000Z
+DTEND:20261202T053000Z
+SUMMARY:Wild @ Ducks (MINNHL / Prime Video (Local))
+LOCATION:Honda Center\, Anaheim\, CA
+DESCRIPTION:Regular Season\nTV: MINNHL / Prime Video (Local)\nVenue: Honda 
+ Center\, Anaheim\, CA\nUnofficial calendar\; not affiliated with the NHL o
+ r ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892858@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261205T030000Z
+DTEND:20261205T053000Z
+SUMMARY:Kraken @ Ducks (KONG / Prime Video (Local))
+LOCATION:Honda Center\, Anaheim\, CA
+DESCRIPTION:Regular Season\nTV: KONG / Prime Video (Local)\nVenue: Honda Ce
+ nter\, Anaheim\, CA\nUnofficial calendar\; not affiliated with the NHL or 
+ ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892875@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261207T010000Z
+DTEND:20261207T033000Z
+SUMMARY:Jets @ Ducks (Prime Video (Local))
+LOCATION:Honda Center\, Anaheim\, CA
+DESCRIPTION:Regular Season\nTV: Prime Video (Local)\nVenue: Honda Center\, 
+ Anaheim\, CA\nUnofficial calendar\; not affiliated with the NHL or ESPN. T
+ imes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892882@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261209T000000Z
+DTEND:20261209T023000Z
+SUMMARY:Ducks @ Senators (Prime Video (Local))
+LOCATION:Canadian Tire Centre\, Ottawa\, ON
+DESCRIPTION:Regular Season\nTV: Prime Video (Local)\nVenue: Canadian Tire C
+ entre\, Ottawa\, ON\nUnofficial calendar\; not affiliated with the NHL or 
+ ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892895@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261211T000000Z
+DTEND:20261211T023000Z
+SUMMARY:Ducks @ Canadiens (KCOP / Prime Video (Local))
+LOCATION:Bell Centre\, Montreal\, QC
+DESCRIPTION:Regular Season\nTV: KCOP / Prime Video (Local)\nVenue: Bell Cen
+ tre\, Montreal\, QC\nUnofficial calendar\; not affiliated with the NHL or 
+ ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892913@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261213T000000Z
+DTEND:20261213T023000Z
+SUMMARY:Ducks @ Sabres (MSGB / KCOP / Prime Video (Local))
+LOCATION:KeyBank Center\, Buffalo\, NY
+DESCRIPTION:Regular Season\nTV: MSGB / KCOP / Prime Video (Local)\nVenue: K
+ eyBank Center\, Buffalo\, NY\nUnofficial calendar\; not affiliated with th
+ e NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892924@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261214T000000Z
+DTEND:20261214T023000Z
+SUMMARY:Ducks @ Maple Leafs (KCOP / Prime Video (Local))
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: KCOP / Prime Video (Local)\nVenue: Scotiaba
+ nk Arena\, Toronto\, ON\nUnofficial calendar\; not affiliated with the NHL
+  or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892944@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261217T020000Z
+DTEND:20261217T043000Z
+SUMMARY:Canucks @ Ducks (KCOP / Prime Video (Local))
+LOCATION:Honda Center\, Anaheim\, CA
+DESCRIPTION:Regular Season\nTV: KCOP / Prime Video (Local)\nVenue: Honda Ce
+ nter\, Anaheim\, CA\nUnofficial calendar\; not affiliated with the NHL or 
+ ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892958@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261219T010000Z
+DTEND:20261219T033000Z
+SUMMARY:Ducks @ Wild (KCOP / MINNHL / Prime Video (Local) / KSTP)
+LOCATION:Grand Casino Arena\, Saint Paul\, MN
+DESCRIPTION:Regular Season\nTV: KCOP / MINNHL / Prime Video (Local) / KSTP\
+ nVenue: Grand Casino Arena\, Saint Paul\, MN\nUnofficial calendar\; not af
+ filiated with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892976@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261221T000000Z
+DTEND:20261221T023000Z
+SUMMARY:Ducks @ Oilers (KCOP / Prime Video (Local))
+LOCATION:Rogers Place\, Edmonton\, AB
+DESCRIPTION:Regular Season\nTV: KCOP / Prime Video (Local)\nVenue: Rogers P
+ lace\, Edmonton\, AB\nUnofficial calendar\; not affiliated with the NHL or
+  ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892993@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261223T023000Z
+DTEND:20261223T050000Z
+SUMMARY:Golden Knights @ Ducks (TNT / truTV)
+LOCATION:Honda Center\, Anaheim\, CA
+DESCRIPTION:Regular Season\nTV: TNT / truTV\nVenue: Honda Center\, Anaheim\
+ , CA\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893011@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261228T010000Z
+DTEND:20261228T033000Z
+SUMMARY:Avalanche @ Ducks (KTTV / Altitude 2 Sports / Prime Video (Local))
+LOCATION:Honda Center\, Anaheim\, CA
+DESCRIPTION:Regular Season\nTV: KTTV / Altitude 2 Sports / Prime Video (Loc
+ al)\nVenue: Honda Center\, Anaheim\, CA\nUnofficial calendar\; not affilia
+ ted with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893029@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261230T030000Z
+DTEND:20261230T053000Z
+SUMMARY:Maple Leafs @ Ducks (KCOP / Prime Video (Local))
+LOCATION:Honda Center\, Anaheim\, CA
+DESCRIPTION:Regular Season\nTV: KCOP / Prime Video (Local)\nVenue: Honda Ce
+ nter\, Anaheim\, CA\nUnofficial calendar\; not affiliated with the NHL or 
+ ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893044@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270101T210000Z
+DTEND:20270101T233000Z
+SUMMARY:Devils @ Ducks (MSGSN / KCOP / Prime Video (Local))
+LOCATION:Honda Center\, Anaheim\, CA
+DESCRIPTION:Regular Season\nTV: MSGSN / KCOP / Prime Video (Local)\nVenue: 
+ Honda Center\, Anaheim\, CA\nUnofficial calendar\; not affiliated with the
+  NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893064@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270104T010000Z
+DTEND:20270104T033000Z
+SUMMARY:Flyers @ Ducks (NBC Sports Phil / KCOP / Prime Video (Local))
+LOCATION:Honda Center\, Anaheim\, CA
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / KCOP / Prime Video (Local
+ )\nVenue: Honda Center\, Anaheim\, CA\nUnofficial calendar\; not affiliate
+ d with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893081@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270106T030000Z
+DTEND:20270106T053000Z
+SUMMARY:Wild @ Ducks (Disney+ / ESPN+ / Hulu)
+LOCATION:Honda Center\, Anaheim\, CA
+DESCRIPTION:Regular Season\nTV: Disney+ / ESPN+ / Hulu\nVenue: Honda Center
+ \, Anaheim\, CA\nUnofficial calendar\; not affiliated with the NHL or ESPN
+ . Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893099@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270109T030000Z
+DTEND:20270109T053000Z
+SUMMARY:Stars @ Ducks (KCOP / Prime Video (Local))
+LOCATION:Honda Center\, Anaheim\, CA
+DESCRIPTION:Regular Season\nTV: KCOP / Prime Video (Local)\nVenue: Honda Ce
+ nter\, Anaheim\, CA\nUnofficial calendar\; not affiliated with the NHL or 
+ ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893116@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270110T203000Z
+DTEND:20270110T230000Z
+SUMMARY:Capitals @ Ducks (KCOP / Prime Video (Local))
+LOCATION:Honda Center\, Anaheim\, CA
+DESCRIPTION:Regular Season\nTV: KCOP / Prime Video (Local)\nVenue: Honda Ce
+ nter\, Anaheim\, CA\nUnofficial calendar\; not affiliated with the NHL or 
+ ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893129@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270113T030000Z
+DTEND:20270113T053000Z
+SUMMARY:Rangers @ Ducks (MSG / KCOP / Prime Video (Local))
+LOCATION:Honda Center\, Anaheim\, CA
+DESCRIPTION:Regular Season\nTV: MSG / KCOP / Prime Video (Local)\nVenue: Ho
+ nda Center\, Anaheim\, CA\nUnofficial calendar\; not affiliated with the N
+ HL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893145@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270115T030000Z
+DTEND:20270115T053000Z
+SUMMARY:Blues @ Ducks (Blues App / KCOP / Prime Video (Local) / BN+)
+LOCATION:Honda Center\, Anaheim\, CA
+DESCRIPTION:Regular Season\nTV: Blues App / KCOP / Prime Video (Local) / BN
+ +\nVenue: Honda Center\, Anaheim\, CA\nUnofficial calendar\; not affiliate
+ d with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893160@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270117T000000Z
+DTEND:20270117T023000Z
+SUMMARY:Ducks @ Jets (KCOP / Prime Video (Local))
+LOCATION:Canada Life Centre\, Winnipeg\, MB
+DESCRIPTION:Regular Season\nTV: KCOP / Prime Video (Local)\nVenue: Canada L
+ ife Centre\, Winnipeg\, MB\nUnofficial calendar\; not affiliated with the 
+ NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893178@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270120T000000Z
+DTEND:20270120T023000Z
+SUMMARY:Ducks @ Red Wings (KCOP / DSN / Prime Video (Local))
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: KCOP / DSN / Prime Video (Local)\nVenue: Li
+ ttle Caesars Arena\, Detroit\, MI\nUnofficial calendar\; not affiliated wi
+ th the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893195@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270122T000000Z
+DTEND:20270122T023000Z
+SUMMARY:Ducks @ Penguins (Prime Video (Local))
+LOCATION:PPG Paints Arena\, Pittsburgh\, PA
+DESCRIPTION:Regular Season\nTV: Prime Video (Local)\nVenue: PPG Paints Aren
+ a\, Pittsburgh\, PA\nUnofficial calendar\; not affiliated with the NHL or 
+ ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893209@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270124T000000Z
+DTEND:20270124T023000Z
+SUMMARY:Ducks @ Hurricanes (CARNHL / Prime Video (Local))
+LOCATION:Lenovo Center\, Raleigh\, NC
+DESCRIPTION:Regular Season\nTV: CARNHL / Prime Video (Local)\nVenue: Lenovo
+  Center\, Raleigh\, NC\nUnofficial calendar\; not affiliated with the NHL 
+ or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893217@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270124T220000Z
+DTEND:20270125T003000Z
+SUMMARY:Ducks @ Blue Jackets (CBJNHL / Prime Video (Local))
+LOCATION:Nationwide Arena\, Columbus\, OH
+DESCRIPTION:Regular Season\nTV: CBJNHL / Prime Video (Local)\nVenue: Nation
+ wide Arena\, Columbus\, OH\nUnofficial calendar\; not affiliated with the 
+ NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893235@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270127T010000Z
+DTEND:20270127T033000Z
+SUMMARY:Ducks @ Stars (Prime Video (Local))
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:Regular Season\nTV: Prime Video (Local)\nVenue: American Airlin
+ es Center\, Dallas\, TX\nUnofficial calendar\; not affiliated with the NHL
+  or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893251@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270129T030000Z
+DTEND:20270129T053000Z
+SUMMARY:Blackhawks @ Ducks (Disney+ / ESPN+ / Hulu)
+LOCATION:Honda Center\, Anaheim\, CA
+DESCRIPTION:Regular Season\nTV: Disney+ / ESPN+ / Hulu\nVenue: Honda Center
+ \, Anaheim\, CA\nUnofficial calendar\; not affiliated with the NHL or ESPN
+ . Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893269@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270131T030000Z
+DTEND:20270131T053000Z
+SUMMARY:Predators @ Ducks (Scripps Sports / KCOP / Prime Video (Local))
+LOCATION:Honda Center\, Anaheim\, CA
+DESCRIPTION:Regular Season\nTV: Scripps Sports / KCOP / Prime Video (Local)
+ \nVenue: Honda Center\, Anaheim\, CA\nUnofficial calendar\; not affiliated
+  with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893292@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270210T030000Z
+DTEND:20270210T053000Z
+SUMMARY:Red Wings @ Ducks (DSN / KCOP / Prime Video (Local))
+LOCATION:Honda Center\, Anaheim\, CA
+DESCRIPTION:Regular Season\nTV: DSN / KCOP / Prime Video (Local)\nVenue: Ho
+ nda Center\, Anaheim\, CA\nUnofficial calendar\; not affiliated with the N
+ HL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893297@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270212T030000Z
+DTEND:20270212T053000Z
+SUMMARY:Blackhawks @ Ducks (CHSN / KCOP / Prime Video (Local))
+LOCATION:Honda Center\, Anaheim\, CA
+DESCRIPTION:Regular Season\nTV: CHSN / KCOP / Prime Video (Local)\nVenue: H
+ onda Center\, Anaheim\, CA\nUnofficial calendar\; not affiliated with the 
+ NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893305@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270213T180000Z
+DTEND:20270213T203000Z
+SUMMARY:Ducks @ Predators (Scripps Sports / KTTV / Prime Video (Local))
+LOCATION:Bridgestone Arena\, Nashville\, TN
+DESCRIPTION:Regular Season\nTV: Scripps Sports / KTTV / Prime Video (Local)
+ \nVenue: Bridgestone Arena\, Nashville\, TN\nUnofficial calendar\; not aff
+ iliated with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893321@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270215T190000Z
+DTEND:20270215T213000Z
+SUMMARY:Ducks @ Bruins (KCOP / Prime Video (Local))
+LOCATION:TD Garden\, Boston\, MA
+DESCRIPTION:Regular Season\nTV: KCOP / Prime Video (Local)\nVenue: TD Garde
+ n\, Boston\, MA\nUnofficial calendar\; not affiliated with the NHL or ESPN
+ . Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893333@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270217T000000Z
+DTEND:20270217T023000Z
+SUMMARY:Ducks @ Capitals (KCOP / Prime Video (Local))
+LOCATION:Capital One Arena\, Washington\, DC
+DESCRIPTION:Regular Season\nTV: KCOP / Prime Video (Local)\nVenue: Capital 
+ One Arena\, Washington\, DC\nUnofficial calendar\; not affiliated with the
+  NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893345@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270219T000000Z
+DTEND:20270219T023000Z
+SUMMARY:Ducks @ Lightning (The Spot - MTN / KCOP / Prime Video (Local))
+LOCATION:Benchmark International Arena\, Tampa\, FL
+DESCRIPTION:Regular Season\nTV: The Spot - MTN / KCOP / Prime Video (Local)
+ \nVenue: Benchmark International Arena\, Tampa\, FL\nUnofficial calendar\;
+  not affiliated with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893362@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270220T220000Z
+DTEND:20270221T003000Z
+SUMMARY:Ducks @ Panthers (Scripps Sports / KCOP / Prime Video (Local))
+LOCATION:Amerant Bank Arena\, Sunrise\, FL
+DESCRIPTION:Regular Season\nTV: Scripps Sports / KCOP / Prime Video (Local)
+ \nVenue: Amerant Bank Arena\, Sunrise\, FL\nUnofficial calendar\; not affi
+ liated with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893393@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270225T030000Z
+DTEND:20270225T053000Z
+SUMMARY:Kraken @ Ducks (KCOP / KONG / Prime Video (Local))
+LOCATION:Honda Center\, Anaheim\, CA
+DESCRIPTION:Regular Season\nTV: KCOP / KONG / Prime Video (Local)\nVenue: H
+ onda Center\, Anaheim\, CA\nUnofficial calendar\; not affiliated with the 
+ NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893409@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270227T020000Z
+DTEND:20270227T043000Z
+SUMMARY:Ducks @ Golden Knights (Scripps Sports / KCOP / Prime Video (Local)
+ )
+LOCATION:T-Mobile Arena\, Las Vegas\, NV
+DESCRIPTION:Regular Season\nTV: Scripps Sports / KCOP / Prime Video (Local)
+ \nVenue: T-Mobile Arena\, Las Vegas\, NV\nUnofficial calendar\; not affili
+ ated with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893418@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270228T000000Z
+DTEND:20270228T023000Z
+SUMMARY:Canadiens @ Ducks (KCOP / Prime Video (Local))
+LOCATION:Honda Center\, Anaheim\, CA
+DESCRIPTION:Regular Season\nTV: KCOP / Prime Video (Local)\nVenue: Honda Ce
+ nter\, Anaheim\, CA\nUnofficial calendar\; not affiliated with the NHL or 
+ ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893432@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270302T030000Z
+DTEND:20270302T053000Z
+SUMMARY:Ducks @ Kings (KCOP / ABTV / Prime Video (Local))
+LOCATION:crypto.com Arena\, Los Angeles\, CA
+DESCRIPTION:Regular Season\nTV: KCOP / ABTV / Prime Video (Local)\nVenue: c
+ rypto.com Arena\, Los Angeles\, CA\nUnofficial calendar\; not affiliated w
+ ith the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893459@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270306T030000Z
+DTEND:20270306T053000Z
+SUMMARY:Lightning @ Ducks (The Spot - MTN / KCOP / Prime Video (Local))
+LOCATION:Honda Center\, Anaheim\, CA
+DESCRIPTION:Regular Season\nTV: The Spot - MTN / KCOP / Prime Video (Local)
+ \nVenue: Honda Center\, Anaheim\, CA\nUnofficial calendar\; not affiliated
+  with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893478@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270308T010000Z
+DTEND:20270308T033000Z
+SUMMARY:Blue Jackets @ Ducks (CBJNHL / KCOP / Prime Video (Local))
+LOCATION:Honda Center\, Anaheim\, CA
+DESCRIPTION:Regular Season\nTV: CBJNHL / KCOP / Prime Video (Local)\nVenue:
+  Honda Center\, Anaheim\, CA\nUnofficial calendar\; not affiliated with th
+ e NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893497@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270311T010000Z
+DTEND:20270311T033000Z
+SUMMARY:Ducks @ Stars (KCOP / Prime Video (Local))
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:Regular Season\nTV: KCOP / Prime Video (Local)\nVenue: American
+  Airlines Center\, Dallas\, TX\nUnofficial calendar\; not affiliated with 
+ the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893515@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270313T233000Z
+DTEND:20270314T020000Z
+SUMMARY:Ducks @ Blues (KCOP / Blues App / BN+ / Prime Video (Local))
+LOCATION:Enterprise Center\, St. Louis\, MO
+DESCRIPTION:Regular Season\nTV: KCOP / Blues App / BN+ / Prime Video (Local
+ )\nVenue: Enterprise Center\, St. Louis\, MO\nUnofficial calendar\; not af
+ filiated with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893526@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270314T203000Z
+DTEND:20270314T230000Z
+SUMMARY:Ducks @ Blackhawks (TNT / truTV)
+LOCATION:United Center\, Chicago\, IL
+DESCRIPTION:Regular Season\nTV: TNT / truTV\nVenue: United Center\, Chicago
+ \, IL\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times ma
+ y change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893543@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270317T023000Z
+DTEND:20270317T050000Z
+SUMMARY:Hurricanes @ Ducks (Disney+ / ESPN+ / Hulu)
+LOCATION:Honda Center\, Anaheim\, CA
+DESCRIPTION:Regular Season\nTV: Disney+ / ESPN+ / Hulu\nVenue: Honda Center
+ \, Anaheim\, CA\nUnofficial calendar\; not affiliated with the NHL or ESPN
+ . Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893560@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270319T020000Z
+DTEND:20270319T043000Z
+SUMMARY:Mammoth @ Ducks (Disney+ / ESPN+ / Hulu)
+LOCATION:Honda Center\, Anaheim\, CA
+DESCRIPTION:Regular Season\nTV: Disney+ / ESPN+ / Hulu\nVenue: Honda Center
+ \, Anaheim\, CA\nUnofficial calendar\; not affiliated with the NHL or ESPN
+ . Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893575@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270321T023000Z
+DTEND:20270321T050000Z
+SUMMARY:Golden Knights @ Ducks (Scripps Sports / KCOP / Prime Video (Local)
+ )
+LOCATION:Honda Center\, Anaheim\, CA
+DESCRIPTION:Regular Season\nTV: Scripps Sports / KCOP / Prime Video (Local)
+ \nVenue: Honda Center\, Anaheim\, CA\nUnofficial calendar\; not affiliated
+  with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893586@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270323T020000Z
+DTEND:20270323T043000Z
+SUMMARY:Sharks @ Ducks (NBC Sports BA / KCOP / Prime Video (Local))
+LOCATION:Honda Center\, Anaheim\, CA
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / KCOP / Prime Video (Local)\
+ nVenue: Honda Center\, Anaheim\, CA\nUnofficial calendar\; not affiliated 
+ with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893601@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270325T020000Z
+DTEND:20270325T043000Z
+SUMMARY:Ducks @ Sharks (NBC Sports BA / KCOP / Prime Video (Local))
+LOCATION:SAP Center at San Jose\, San Jose\, CA
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / KCOP / Prime Video (Local)\
+ nVenue: SAP Center at San Jose\, San Jose\, CA\nUnofficial calendar\; not 
+ affiliated with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893613@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270326T014000Z
+DTEND:20270326T041000Z
+SUMMARY:Ducks @ Kraken (KCOP / KONG / Prime Video (Local))
+LOCATION:Climate Pledge Arena\, Seattle\, WA
+DESCRIPTION:Regular Season\nTV: KCOP / KONG / Prime Video (Local)\nVenue: C
+ limate Pledge Arena\, Seattle\, WA\nUnofficial calendar\; not affiliated w
+ ith the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893620@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270327T200000Z
+DTEND:20270327T223000Z
+SUMMARY:Ducks @ Canucks (KCOP / Prime Video (Local))
+LOCATION:Rogers Arena\, Vancouver\, BC
+DESCRIPTION:Regular Season\nTV: KCOP / Prime Video (Local)\nVenue: Rogers A
+ rena\, Vancouver\, BC\nUnofficial calendar\; not affiliated with the NHL o
+ r ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893649@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270331T020000Z
+DTEND:20270331T043000Z
+SUMMARY:Avalanche @ Ducks (KCOP / Altitude Sports / Prime Video (Local))
+LOCATION:Honda Center\, Anaheim\, CA
+DESCRIPTION:Regular Season\nTV: KCOP / Altitude Sports / Prime Video (Local
+ )\nVenue: Honda Center\, Anaheim\, CA\nUnofficial calendar\; not affiliate
+ d with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893662@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270402T010000Z
+DTEND:20270402T033000Z
+SUMMARY:Ducks @ Mammoth (Utah 16 / KCOP / Prime Video (Local) / Mammoth+)
+LOCATION:Delta Center\, Salt Lake City\, UT
+DESCRIPTION:Regular Season\nTV: Utah 16 / KCOP / Prime Video (Local) / Mamm
+ oth+\nVenue: Delta Center\, Salt Lake City\, UT\nUnofficial calendar\; not
+  affiliated with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893679@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270404T020000Z
+DTEND:20270404T043000Z
+SUMMARY:Oilers @ Ducks (KCOP / Prime Video (Local))
+LOCATION:Honda Center\, Anaheim\, CA
+DESCRIPTION:Regular Season\nTV: KCOP / Prime Video (Local)\nVenue: Honda Ce
+ nter\, Anaheim\, CA\nUnofficial calendar\; not affiliated with the NHL or 
+ ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893702@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270407T021500Z
+DTEND:20270407T044500Z
+SUMMARY:Kings @ Ducks (KCOP / ABTV / Prime Video (Local))
+LOCATION:Honda Center\, Anaheim\, CA
+DESCRIPTION:Regular Season\nTV: KCOP / ABTV / Prime Video (Local)\nVenue: H
+ onda Center\, Anaheim\, CA\nUnofficial calendar\; not affiliated with the 
+ NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893722@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270410T200000Z
+DTEND:20270410T223000Z
+SUMMARY:Ducks @ Sharks (NBC Sports BA / KCOP / Prime Video (Local))
+LOCATION:SAP Center at San Jose\, San Jose\, CA
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / KCOP / Prime Video (Local)\
+ nVenue: SAP Center at San Jose\, San Jose\, CA\nUnofficial calendar\; not 
+ affiliated with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

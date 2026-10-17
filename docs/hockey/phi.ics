@@ -1,0 +1,1103 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jaxzn//NHL Calendars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Philadelphia Flyers
+X-WR-CALDESC:Philadelphia Flyers NHL schedule (unofficial\, auto-updated)
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:espn-401891821@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20260930T233000Z
+DTEND:20261001T020000Z
+SUMMARY:Penguins @ Flyers (TNT / truTV)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: TNT / truTV\nVenue: Xfinity Mobile Arena\, 
+ Philadelphia\, PA\nFinal: Penguins 7\, Flyers 0\nUnofficial calendar\; not
+  affiliated with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401891817@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261001T230000Z
+DTEND:20261002T013000Z
+SUMMARY:Flyers @ Devils (Disney+ / ESPN+ / Hulu)
+LOCATION:Prudential Center\, Newark\, NJ
+DESCRIPTION:Regular Season\nTV: Disney+ / ESPN+ / Hulu\nVenue: Prudential C
+ enter\, Newark\, NJ\nFinal: Flyers 2\, Devils 3\nUnofficial calendar\; not
+  affiliated with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892435@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261003T230000Z
+DTEND:20261004T013000Z
+SUMMARY:Hurricanes @ Flyers (ESPN+)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: Xfinity Mobile Arena\, Philad
+ elphia\, PA\nFinal: Hurricanes 3\, Flyers 2\nUnofficial calendar\; not aff
+ iliated with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892445@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261005T230000Z
+DTEND:20261006T013000Z
+SUMMARY:Flyers @ Lightning (NHL Network)
+LOCATION:Benchmark International Arena\, Tampa\, FL
+DESCRIPTION:Regular Season\nTV: NHL Network\nVenue: Benchmark International
+  Arena\, Tampa\, FL\nFinal: Flyers 1\, Lightning 4\nUnofficial calendar\; 
+ not affiliated with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401891820@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261008T230000Z
+DTEND:20261009T013000Z
+SUMMARY:Flyers @ Senators (ESPN+)
+LOCATION:Canadian Tire Centre\, Ottawa\, ON
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: Canadian Tire Centre\, Ottawa
+ \, ON\nFinal: Flyers 1\, Senators 2\nUnofficial calendar\; not affiliated 
+ with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892469@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261010T170000Z
+DTEND:20261010T193000Z
+SUMMARY:Flyers @ Bruins (NHL Network)
+LOCATION:TD Garden\, Boston\, MA
+DESCRIPTION:Regular Season\nTV: NHL Network\nVenue: TD Garden\, Boston\, MA
+ \nFinal: Flyers 1\, Bruins 5\nUnofficial calendar\; not affiliated with th
+ e NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892484@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261011T230000Z
+DTEND:20261012T013000Z
+SUMMARY:Hurricanes @ Flyers (NHL Network)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: NHL Network\nVenue: Xfinity Mobile Arena\, 
+ Philadelphia\, PA\nFinal: Hurricanes 4\, Flyers 1\nUnofficial calendar\; n
+ ot affiliated with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892492@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261013T230000Z
+DTEND:20261014T013000Z
+SUMMARY:Kraken @ Flyers (ESPN+)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: Xfinity Mobile Arena\, Philad
+ elphia\, PA\nFinal: Kraken 3\, Flyers 2\nUnofficial calendar\; not affilia
+ ted with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892508@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261015T233000Z
+DTEND:20261016T020000Z
+SUMMARY:Flyers @ Red Wings (Disney+ / ESPN+ / Hulu)
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: Disney+ / ESPN+ / Hulu\nVenue: Little Caesa
+ rs Arena\, Detroit\, MI\nFinal: Flyers 1\, Red Wings 2\nUnofficial calenda
+ r\; not affiliated with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892526@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261017T230000Z
+DTEND:20261018T013000Z
+SUMMARY:Senators @ Flyers (ESPN+)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: Xfinity Mobile Arena\, Philad
+ elphia\, PA\nUnofficial calendar\; not affiliated with the NHL or ESPN. Ti
+ mes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892536@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261019T230000Z
+DTEND:20261020T013000Z
+SUMMARY:Avalanche @ Flyers (ESPN+)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: Xfinity Mobile Arena\, Philad
+ elphia\, PA\nUnofficial calendar\; not affiliated with the NHL or ESPN. Ti
+ mes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892550@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261021T233000Z
+DTEND:20261022T020000Z
+SUMMARY:Flyers @ Sabres (TNT / truTV)
+LOCATION:KeyBank Center\, Buffalo\, NY
+DESCRIPTION:Regular Season\nTV: TNT / truTV\nVenue: KeyBank Center\, Buffal
+ o\, NY\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892566@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261024T170000Z
+DTEND:20261024T193000Z
+SUMMARY:Ducks @ Flyers (NHL Network)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: NHL Network\nVenue: Xfinity Mobile Arena\, 
+ Philadelphia\, PA\nUnofficial calendar\; not affiliated with the NHL or ES
+ PN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892585@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261027T230000Z
+DTEND:20261028T013000Z
+SUMMARY:Blue Jackets @ Flyers (ESPN+)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: Xfinity Mobile Arena\, Philad
+ elphia\, PA\nUnofficial calendar\; not affiliated with the NHL or ESPN. Ti
+ mes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892596@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261028T233000Z
+DTEND:20261029T020000Z
+SUMMARY:Flyers @ Capitals (TNT / truTV)
+LOCATION:Capital One Arena\, Washington\, DC
+DESCRIPTION:Regular Season\nTV: TNT / truTV\nVenue: Capital One Arena\, Was
+ hington\, DC\nUnofficial calendar\; not affiliated with the NHL or ESPN. T
+ imes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892626@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261101T210000Z
+DTEND:20261101T233000Z
+SUMMARY:Mammoth @ Flyers (NBC Sports Phil / Utah 16)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / Utah 16\nVenue: Xfinity M
+ obile Arena\, Philadelphia\, PA\nUnofficial calendar\; not affiliated with
+  the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892638@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261104T000000Z
+DTEND:20261104T023000Z
+SUMMARY:Wild @ Flyers (NBC Sports Phil / MINNHL)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / MINNHL\nVenue: Xfinity Mo
+ bile Arena\, Philadelphia\, PA\nUnofficial calendar\; not affiliated with 
+ the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892653@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261106T000000Z
+DTEND:20261106T023000Z
+SUMMARY:Flyers @ Rangers (NBC Sports Phil / MSG)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / MSG\nVenue: Madison Squar
+ e Garden\, New York\, NY\nUnofficial calendar\; not affiliated with the NH
+ L or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892678@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261109T000000Z
+DTEND:20261109T023000Z
+SUMMARY:Flyers @ Flames (NBC Sports Phil)
+LOCATION:Scotiabank Saddledome\, Calgary\, AB
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil\nVenue: Scotiabank Saddledo
+ me\, Calgary\, AB\nUnofficial calendar\; not affiliated with the NHL or ES
+ PN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892681@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261110T023000Z
+DTEND:20261110T050000Z
+SUMMARY:Flyers @ Canucks (NBC Sports Phil)
+LOCATION:Rogers Arena\, Vancouver\, BC
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil\nVenue: Rogers Arena\, Vanc
+ ouver\, BC\nUnofficial calendar\; not affiliated with the NHL or ESPN. Tim
+ es may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892692@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261112T020000Z
+DTEND:20261112T043000Z
+SUMMARY:Flyers @ Oilers (NBC Sports Phil)
+LOCATION:Rogers Place\, Edmonton\, AB
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil\nVenue: Rogers Place\, Edmo
+ nton\, AB\nUnofficial calendar\; not affiliated with the NHL or ESPN. Time
+ s may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892715@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261115T000000Z
+DTEND:20261115T023000Z
+SUMMARY:Flyers @ Blue Jackets (NBC Sports Phil / CBJNHL)
+LOCATION:Nationwide Arena\, Columbus\, OH
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / CBJNHL\nVenue: Nationwide
+  Arena\, Columbus\, OH\nUnofficial calendar\; not affiliated with the NHL 
+ or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892721@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261116T003000Z
+DTEND:20261116T030000Z
+SUMMARY:Oilers @ Flyers (NBC Sports Phil)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil\nVenue: Xfinity Mobile Aren
+ a\, Philadelphia\, PA\nUnofficial calendar\; not affiliated with the NHL o
+ r ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892732@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261118T000000Z
+DTEND:20261118T023000Z
+SUMMARY:Sabres @ Flyers (MSGB / NBC Sports Phil)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: MSGB / NBC Sports Phil\nVenue: Xfinity Mobi
+ le Arena\, Philadelphia\, PA\nUnofficial calendar\; not affiliated with th
+ e NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892743@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261120T000000Z
+DTEND:20261120T023000Z
+SUMMARY:Flyers @ Senators (NBC Sports Phil)
+LOCATION:Canadian Tire Centre\, Ottawa\, ON
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil\nVenue: Canadian Tire Centr
+ e\, Ottawa\, ON\nUnofficial calendar\; not affiliated with the NHL or ESPN
+ . Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892760@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261122T000000Z
+DTEND:20261122T023000Z
+SUMMARY:Flyers @ Canadiens (NBC Sports Phil)
+LOCATION:Bell Centre\, Montreal\, QC
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil\nVenue: Bell Centre\, Montr
+ eal\, QC\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times
+  may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892787@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261126T000000Z
+DTEND:20261126T023000Z
+SUMMARY:Flyers @ Capitals (NBC Sports Phil + / MNMT)
+LOCATION:Capital One Arena\, Washington\, DC
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil + / MNMT\nVenue: Capital On
+ e Arena\, Washington\, DC\nUnofficial calendar\; not affiliated with the N
+ HL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892800@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261127T200000Z
+DTEND:20261127T223000Z
+SUMMARY:Canucks @ Flyers (NBC Sports Phil)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil\nVenue: Xfinity Mobile Aren
+ a\, Philadelphia\, PA\nUnofficial calendar\; not affiliated with the NHL o
+ r ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892818@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261129T003000Z
+DTEND:20261129T030000Z
+SUMMARY:Islanders @ Flyers (MSG2 / NBC Sports Phil)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: MSG2 / NBC Sports Phil\nVenue: Xfinity Mobi
+ le Arena\, Philadelphia\, PA\nUnofficial calendar\; not affiliated with th
+ e NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892828@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261201T003000Z
+DTEND:20261201T030000Z
+SUMMARY:Flyers @ Maple Leafs (NBC Sports Phil)
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil\nVenue: Scotiabank Arena\, 
+ Toronto\, ON\nUnofficial calendar\; not affiliated with the NHL or ESPN. T
+ imes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892847@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261204T003000Z
+DTEND:20261204T030000Z
+SUMMARY:Islanders @ Flyers (Disney+ / ESPN+ / Hulu)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: Disney+ / ESPN+ / Hulu\nVenue: Xfinity Mobi
+ le Arena\, Philadelphia\, PA\nUnofficial calendar\; not affiliated with th
+ e NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892868@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261206T010000Z
+DTEND:20261206T033000Z
+SUMMARY:Flyers @ Wild (NBC Sports Phil / MINNHL)
+LOCATION:Grand Casino Arena\, Saint Paul\, MN
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / MINNHL\nVenue: Grand Casi
+ no Arena\, Saint Paul\, MN\nUnofficial calendar\; not affiliated with the 
+ NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892887@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261209T010000Z
+DTEND:20261209T033000Z
+SUMMARY:Flyers @ Jets (NBC Sports Phil)
+LOCATION:Canada Life Centre\, Winnipeg\, MB
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil\nVenue: Canada Life Centre\
+ , Winnipeg\, MB\nUnofficial calendar\; not affiliated with the NHL or ESPN
+ . Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892906@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261212T000000Z
+DTEND:20261212T023000Z
+SUMMARY:Flames @ Flyers (NBC Sports Phil)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil\nVenue: Xfinity Mobile Aren
+ a\, Philadelphia\, PA\nUnofficial calendar\; not affiliated with the NHL o
+ r ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892927@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261215T000000Z
+DTEND:20261215T023000Z
+SUMMARY:Panthers @ Flyers (Scripps Sports / NBC Sports Phil)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: Scripps Sports / NBC Sports Phil\nVenue: Xf
+ inity Mobile Arena\, Philadelphia\, PA\nUnofficial calendar\; not affiliat
+ ed with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892942@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261217T003000Z
+DTEND:20261217T030000Z
+SUMMARY:Rangers @ Flyers (TNT / truTV)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: TNT / truTV\nVenue: Xfinity Mobile Arena\, 
+ Philadelphia\, PA\nUnofficial calendar\; not affiliated with the NHL or ES
+ PN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892956@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261219T000000Z
+DTEND:20261219T023000Z
+SUMMARY:Red Wings @ Flyers (NBC Sports Phil / DSN)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / DSN\nVenue: Xfinity Mobil
+ e Arena\, Philadelphia\, PA\nUnofficial calendar\; not affiliated with the
+  NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892970@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261220T180000Z
+DTEND:20261220T203000Z
+SUMMARY:Flyers @ Bruins (NBC Sports Phil)
+LOCATION:TD Garden\, Boston\, MA
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil\nVenue: TD Garden\, Boston\
+ , MA\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892980@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261222T000000Z
+DTEND:20261222T023000Z
+SUMMARY:Blue Jackets @ Flyers (NBC Sports Phil / CBJNHL)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / CBJNHL\nVenue: Xfinity Mo
+ bile Arena\, Philadelphia\, PA\nUnofficial calendar\; not affiliated with 
+ the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893005@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261227T200000Z
+DTEND:20261227T223000Z
+SUMMARY:Flyers @ Blackhawks (NBC Sports Phil / CHSN)
+LOCATION:United Center\, Chicago\, IL
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / CHSN\nVenue: United Cente
+ r\, Chicago\, IL\nUnofficial calendar\; not affiliated with the NHL or ESP
+ N. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893028@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261230T024000Z
+DTEND:20261230T051000Z
+SUMMARY:Flyers @ Kraken (NBC Sports Phil / KONG / Prime Video (Local))
+LOCATION:Climate Pledge Arena\, Seattle\, WA
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / KONG / Prime Video (Local
+ )\nVenue: Climate Pledge Arena\, Seattle\, WA\nUnofficial calendar\; not a
+ ffiliated with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893045@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270101T210000Z
+DTEND:20270101T233000Z
+SUMMARY:Flyers @ Sharks (NBC Sports Phil / NBC Sports BA)
+LOCATION:SAP Center at San Jose\, San Jose\, CA
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / NBC Sports BA\nVenue: SAP
+  Center at San Jose\, San Jose\, CA\nUnofficial calendar\; not affiliated 
+ with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893064@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270104T010000Z
+DTEND:20270104T033000Z
+SUMMARY:Flyers @ Ducks (NBC Sports Phil / KCOP / Prime Video (Local))
+LOCATION:Honda Center\, Anaheim\, CA
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / KCOP / Prime Video (Local
+ )\nVenue: Honda Center\, Anaheim\, CA\nUnofficial calendar\; not affiliate
+ d with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893071@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270105T030000Z
+DTEND:20270105T053000Z
+SUMMARY:Flyers @ Kings (NBC Sports Phil + / ABTV)
+LOCATION:crypto.com Arena\, Los Angeles\, CA
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil + / ABTV\nVenue: crypto.com
+  Arena\, Los Angeles\, CA\nUnofficial calendar\; not affiliated with the N
+ HL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893089@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270108T000000Z
+DTEND:20270108T023000Z
+SUMMARY:Maple Leafs @ Flyers (NBC Sports Phil)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil\nVenue: Xfinity Mobile Aren
+ a\, Philadelphia\, PA\nUnofficial calendar\; not affiliated with the NHL o
+ r ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893105@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270110T000000Z
+DTEND:20270110T023000Z
+SUMMARY:Flyers @ Maple Leafs (NBC Sports Phil)
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil\nVenue: Scotiabank Arena\, 
+ Toronto\, ON\nUnofficial calendar\; not affiliated with the NHL or ESPN. T
+ imes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893114@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270111T003000Z
+DTEND:20270111T030000Z
+SUMMARY:Blackhawks @ Flyers (CHSN / NBC Sports Phil +)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: CHSN / NBC Sports Phil +\nVenue: Xfinity Mo
+ bile Arena\, Philadelphia\, PA\nUnofficial calendar\; not affiliated with 
+ the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893125@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270113T010000Z
+DTEND:20270113T033000Z
+SUMMARY:Flyers @ Predators (NBC Sports Phil / Scripps Sports)
+LOCATION:Bridgestone Arena\, Nashville\, TN
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / Scripps Sports\nVenue: Br
+ idgestone Arena\, Nashville\, TN\nUnofficial calendar\; not affiliated wit
+ h the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893147@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270116T000000Z
+DTEND:20270116T023000Z
+SUMMARY:Flyers @ Hurricanes (NBC Sports Phil / CARNHL)
+LOCATION:Lenovo Center\, Raleigh\, NC
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / CARNHL\nVenue: Lenovo Cen
+ ter\, Raleigh\, NC\nUnofficial calendar\; not affiliated with the NHL or E
+ SPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893156@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270117T000000Z
+DTEND:20270117T023000Z
+SUMMARY:Canadiens @ Flyers (NBC Sports Phil)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil\nVenue: Xfinity Mobile Aren
+ a\, Philadelphia\, PA\nUnofficial calendar\; not affiliated with the NHL o
+ r ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893180@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270120T000000Z
+DTEND:20270120T023000Z
+SUMMARY:Flyers @ Rangers (NBC Sports Phil / MSG)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / MSG\nVenue: Madison Squar
+ e Garden\, New York\, NY\nUnofficial calendar\; not affiliated with the NH
+ L or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893194@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270122T000000Z
+DTEND:20270122T023000Z
+SUMMARY:Predators @ Flyers (Scripps Sports / NBC Sports Phil)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: Scripps Sports / NBC Sports Phil\nVenue: Xf
+ inity Mobile Arena\, Philadelphia\, PA\nUnofficial calendar\; not affiliat
+ ed with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893212@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270124T003000Z
+DTEND:20270124T030000Z
+SUMMARY:Devils @ Flyers (MSG2 / NBC Sports Phil +)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: MSG2 / NBC Sports Phil +\nVenue: Xfinity Mo
+ bile Arena\, Philadelphia\, PA\nUnofficial calendar\; not affiliated with 
+ the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893231@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270127T000000Z
+DTEND:20270127T023000Z
+SUMMARY:Panthers @ Flyers (Scripps Sports / NBC Sports Phil)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: Scripps Sports / NBC Sports Phil\nVenue: Xf
+ inity Mobile Arena\, Philadelphia\, PA\nUnofficial calendar\; not affiliat
+ ed with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893242@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270129T003000Z
+DTEND:20270129T030000Z
+SUMMARY:Kings @ Flyers (Disney+ / ESPN+ / Hulu)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: Disney+ / ESPN+ / Hulu\nVenue: Xfinity Mobi
+ le Arena\, Philadelphia\, PA\nUnofficial calendar\; not affiliated with th
+ e NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893256@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270130T180000Z
+DTEND:20270130T203000Z
+SUMMARY:Jets @ Flyers (NBC Sports Phil)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil\nVenue: Xfinity Mobile Aren
+ a\, Philadelphia\, PA\nUnofficial calendar\; not affiliated with the NHL o
+ r ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893270@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270131T170000Z
+DTEND:20270131T193000Z
+SUMMARY:Flyers @ Penguins (ABC)
+LOCATION:PPG Paints Arena\, Pittsburgh\, PA
+DESCRIPTION:Regular Season\nTV: ABC\nVenue: PPG Paints Arena\, Pittsburgh\,
+  PA\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893282@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270204T003000Z
+DTEND:20270204T030000Z
+SUMMARY:Lightning @ Flyers (TNT / truTV)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: TNT / truTV\nVenue: Xfinity Mobile Arena\, 
+ Philadelphia\, PA\nUnofficial calendar\; not affiliated with the NHL or ES
+ PN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893315@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270214T003000Z
+DTEND:20270214T030000Z
+SUMMARY:Devils @ Flyers (MSG / NBC Sports Phil +)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: MSG / NBC Sports Phil +\nVenue: Xfinity Mob
+ ile Arena\, Philadelphia\, PA\nUnofficial calendar\; not affiliated with t
+ he NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893328@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270216T010000Z
+DTEND:20270216T033000Z
+SUMMARY:Flyers @ Blues (NBC Sports Phil / Blues App / BN+)
+LOCATION:Enterprise Center\, St. Louis\, MO
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / Blues App / BN+\nVenue: E
+ nterprise Center\, St. Louis\, MO\nUnofficial calendar\; not affiliated wi
+ th the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893349@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270219T020000Z
+DTEND:20270219T043000Z
+SUMMARY:Flyers @ Stars (ESPN)
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: American Airlines Center\, Dal
+ las\, TX\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times
+  may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893359@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270220T173000Z
+DTEND:20270220T200000Z
+SUMMARY:Rangers @ Flyers (ABC)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: ABC\nVenue: Xfinity Mobile Arena\, Philadel
+ phia\, PA\nUnofficial calendar\; not affiliated with the NHL or ESPN. Time
+ s may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893377@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270222T190000Z
+DTEND:20270222T213000Z
+SUMMARY:Canadiens @ Flyers (NBC Sports Phil)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil\nVenue: Xfinity Mobile Aren
+ a\, Philadelphia\, PA\nUnofficial calendar\; not affiliated with the NHL o
+ r ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893390@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270225T000000Z
+DTEND:20270225T023000Z
+SUMMARY:Sabres @ Flyers (TNT / truTV)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: TNT / truTV\nVenue: Xfinity Mobile Arena\, 
+ Philadelphia\, PA\nUnofficial calendar\; not affiliated with the NHL or ES
+ PN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893403@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270227T000000Z
+DTEND:20270227T023000Z
+SUMMARY:Flyers @ Islanders (NBC Sports Phil / MSGSN)
+LOCATION:UBS Arena\, Elmont\, NY
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / MSGSN\nVenue: UBS Arena\,
+  Elmont\, NY\nUnofficial calendar\; not affiliated with the NHL or ESPN. T
+ imes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893414@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270228T000000Z
+DTEND:20270228T023000Z
+SUMMARY:Sharks @ Flyers (NBC Sports BA / NBC Sports Phil)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / NBC Sports Phil\nVenue: Xfi
+ nity Mobile Arena\, Philadelphia\, PA\nUnofficial calendar\; not affiliate
+ d with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893437@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270303T000000Z
+DTEND:20270303T023000Z
+SUMMARY:Golden Knights @ Flyers (NBC Sports Phil / Scripps Sports)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / Scripps Sports\nVenue: Xf
+ inity Mobile Arena\, Philadelphia\, PA\nUnofficial calendar\; not affiliat
+ ed with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893455@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270306T000000Z
+DTEND:20270306T023000Z
+SUMMARY:Stars @ Flyers (NBC Sports Phil / Prime Video (Local))
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / Prime Video (Local)\nVenu
+ e: Xfinity Mobile Arena\, Philadelphia\, PA\nUnofficial calendar\; not aff
+ iliated with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893472@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270307T203000Z
+DTEND:20270307T230000Z
+SUMMARY:Blues @ Flyers (TNT / truTV)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: TNT / truTV\nVenue: Xfinity Mobile Arena\, 
+ Philadelphia\, PA\nUnofficial calendar\; not affiliated with the NHL or ES
+ PN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893492@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270310T020000Z
+DTEND:20270310T043000Z
+SUMMARY:Flyers @ Avalanche (NBC Sports Phil / Altitude Sports)
+LOCATION:Ball Arena\, Denver\, CO
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / Altitude Sports\nVenue: B
+ all Arena\, Denver\, CO\nUnofficial calendar\; not affiliated with the NHL
+  or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893507@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270312T030000Z
+DTEND:20270312T053000Z
+SUMMARY:Flyers @ Golden Knights (NBC Sports Phil + / Scripps Sports)
+LOCATION:T-Mobile Arena\, Las Vegas\, NV
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil + / Scripps Sports\nVenue: 
+ T-Mobile Arena\, Las Vegas\, NV\nUnofficial calendar\; not affiliated with
+  the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893513@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270313T220000Z
+DTEND:20270314T003000Z
+SUMMARY:Flyers @ Mammoth (NBC Sports Phil / Utah 16)
+LOCATION:Delta Center\, Salt Lake City\, UT
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / Utah 16\nVenue: Delta Cen
+ ter\, Salt Lake City\, UT\nUnofficial calendar\; not affiliated with the N
+ HL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893540@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270316T230000Z
+DTEND:20270317T013000Z
+SUMMARY:Red Wings @ Flyers (NBC Sports Phil / DSN)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / DSN\nVenue: Xfinity Mobil
+ e Arena\, Philadelphia\, PA\nUnofficial calendar\; not affiliated with the
+  NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893557@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270318T230000Z
+DTEND:20270319T013000Z
+SUMMARY:Bruins @ Flyers (NBC Sports Phil)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil\nVenue: Xfinity Mobile Aren
+ a\, Philadelphia\, PA\nUnofficial calendar\; not affiliated with the NHL o
+ r ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893567@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270320T190000Z
+DTEND:20270320T213000Z
+SUMMARY:Flyers @ Islanders (NBC Sports Phil / MSGSN)
+LOCATION:UBS Arena\, Elmont\, NY
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / MSGSN\nVenue: UBS Arena\,
+  Elmont\, NY\nUnofficial calendar\; not affiliated with the NHL or ESPN. T
+ imes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893589@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270323T230000Z
+DTEND:20270324T013000Z
+SUMMARY:Flyers @ Devils (NBC Sports Phil / MSGSN)
+LOCATION:Prudential Center\, Newark\, NJ
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / MSGSN\nVenue: Prudential 
+ Center\, Newark\, NJ\nUnofficial calendar\; not affiliated with the NHL or
+  ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893604@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270325T223000Z
+DTEND:20270326T010000Z
+SUMMARY:Flyers @ Lightning (ESPN)
+LOCATION:Benchmark International Arena\, Tampa\, FL
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Benchmark International Arena\
+ , Tampa\, FL\nUnofficial calendar\; not affiliated with the NHL or ESPN. T
+ imes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893621@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270327T220000Z
+DTEND:20270328T003000Z
+SUMMARY:Flyers @ Panthers (NBC Sports Phil / Scripps Sports)
+LOCATION:Amerant Bank Arena\, Sunrise\, FL
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / Scripps Sports\nVenue: Am
+ erant Bank Arena\, Sunrise\, FL\nUnofficial calendar\; not affiliated with
+  the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893644@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270330T230000Z
+DTEND:20270331T013000Z
+SUMMARY:Penguins @ Flyers (NBC Sports Phil)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil\nVenue: Xfinity Mobile Aren
+ a\, Philadelphia\, PA\nUnofficial calendar\; not affiliated with the NHL o
+ r ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893657@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270401T233000Z
+DTEND:20270402T020000Z
+SUMMARY:Capitals @ Flyers (TNT / truTV)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: TNT / truTV\nVenue: Xfinity Mobile Arena\, 
+ Philadelphia\, PA\nUnofficial calendar\; not affiliated with the NHL or ES
+ PN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893676@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270404T000000Z
+DTEND:20270404T023000Z
+SUMMARY:Flyers @ Penguins (ABC)
+LOCATION:PPG Paints Arena\, Pittsburgh\, PA
+DESCRIPTION:Regular Season\nTV: ABC\nVenue: PPG Paints Arena\, Pittsburgh\,
+  PA\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893687@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270405T180000Z
+DTEND:20270405T203000Z
+SUMMARY:Flyers @ Hurricanes (NBC Sports Phil / CARNHL)
+LOCATION:Lenovo Center\, Raleigh\, NC
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / CARNHL\nVenue: Lenovo Cen
+ ter\, Raleigh\, NC\nUnofficial calendar\; not affiliated with the NHL or E
+ SPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893710@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270408T233000Z
+DTEND:20270409T020000Z
+SUMMARY:Flyers @ Blue Jackets (TNT / truTV)
+LOCATION:Nationwide Arena\, Columbus\, OH
+DESCRIPTION:Regular Season\nTV: TNT / truTV\nVenue: Nationwide Arena\, Colu
+ mbus\, OH\nUnofficial calendar\; not affiliated with the NHL or ESPN. Time
+ s may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893720@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270410T163000Z
+DTEND:20270410T190000Z
+SUMMARY:Capitals @ Flyers (ABC)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: ABC\nVenue: Xfinity Mobile Arena\, Philadel
+ phia\, PA\nUnofficial calendar\; not affiliated with the NHL or ESPN. Time
+ s may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

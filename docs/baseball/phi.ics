@@ -1,0 +1,2225 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jaxzn//MLB Calendars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Philadelphia Phillies
+X-WR-CALDESC:Philadelphia Phillies MLB schedule (unofficial\, auto-updated)
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:espn-401814694@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260326T201500Z
+DTEND:20260326T231500Z
+SUMMARY:Rangers @ Phillies (ESPN Unlimited)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Citizens Bank Park\,
+  Philadelphia\, Pennsylvania\nFinal: Rangers 3\, Phillies 5\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814713@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260328T200500Z
+DTEND:20260328T230500Z
+SUMMARY:Rangers @ Phillies (Rangers Sports Network / NBC Sports Phil +)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / NBC Sports Phil +\
+ nVenue: Citizens Bank Park\, Philadelphia\, Pennsylvania\nFinal: Rangers 5
+ \, Phillies 4\nUnofficial calendar\; not affiliated with the MLB or ESPN. 
+ Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814728@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260329T173500Z
+DTEND:20260329T203500Z
+SUMMARY:Rangers @ Phillies (Rangers Sports Network / NBC Sports Phil)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / NBC Sports Phil\nV
+ enue: Citizens Bank Park\, Philadelphia\, Pennsylvania\nFinal: Rangers 8\,
+  Phillies 3\nUnofficial calendar\; not affiliated with the MLB or ESPN. Ti
+ mes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814740@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260330T224000Z
+DTEND:20260331T014000Z
+SUMMARY:Nationals @ Phillies (NBC Sports Phil + / Nationals.TV)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil + / Nationals.TV\nVenue: Ci
+ tizens Bank Park\, Philadelphia\, Pennsylvania\nFinal: Nationals 13\, Phil
+ lies 2\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814755@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260331T224000Z
+DTEND:20260401T014000Z
+SUMMARY:Nationals @ Phillies (NBC Sports Phil + / Nationals.TV / MLBN)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil + / Nationals.TV / MLBN\nVe
+ nue: Citizens Bank Park\, Philadelphia\, Pennsylvania\nFinal: Nationals 2\
+ , Phillies 3\nUnofficial calendar\; not affiliated with the MLB or ESPN. T
+ imes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814769@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260401T170500Z
+DTEND:20260401T200500Z
+SUMMARY:Nationals @ Phillies (NBC 10 / Nationals.TV)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: NBC 10 / Nationals.TV\nVenue: Citizens Bank
+  Park\, Philadelphia\, Pennsylvania\nFinal: Nationals 5\, Phillies 6\nUnof
+ ficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814792@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260403T201000Z
+DTEND:20260403T231000Z
+SUMMARY:Phillies @ Rockies (Rockies.TV / NBC Sports Phil)
+LOCATION:Coors Field\, Denver\, Colorado
+DESCRIPTION:Regular Season\nTV: Rockies.TV / NBC Sports Phil\nVenue: Coors 
+ Field\, Denver\, Colorado\nFinal: Phillies 10\, Rockies 1\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814807@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260405T001000Z
+DTEND:20260405T031000Z
+SUMMARY:Phillies @ Rockies (Rockies.TV / NBC Sports Phil +)
+LOCATION:Coors Field\, Denver\, Colorado
+DESCRIPTION:Regular Season\nTV: Rockies.TV / NBC Sports Phil +\nVenue: Coor
+ s Field\, Denver\, Colorado\nFinal: Phillies 2\, Rockies 1\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814822@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260405T191000Z
+DTEND:20260405T221000Z
+SUMMARY:Phillies @ Rockies (Rockies.TV / NBC Sports Phil +)
+LOCATION:Coors Field\, Denver\, Colorado
+DESCRIPTION:Regular Season\nTV: Rockies.TV / NBC Sports Phil +\nVenue: Coor
+ s Field\, Denver\, Colorado\nFinal: Phillies 1\, Rockies 4\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814839@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260407T014500Z
+DTEND:20260407T044500Z
+SUMMARY:Phillies @ Giants (NBC Sports BA / NBC Sports Phil +)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / NBC Sports Phil +\nVenue: O
+ racle Park\, San Francisco\, California\nFinal: Phillies 6\, Giants 4\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814854@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260408T014500Z
+DTEND:20260408T044500Z
+SUMMARY:Phillies @ Giants (NBC Sports BA + / NBC Sports Phil +)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA + / NBC Sports Phil +\nVenue:
+  Oracle Park\, San Francisco\, California\nFinal: Phillies 0\, Giants 6\nU
+ nofficial calendar\; not affiliated with the MLB or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814869@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260408T194500Z
+DTEND:20260408T224500Z
+SUMMARY:Phillies @ Giants (NBC Sports BA / NBC Sports Phil)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / NBC Sports Phil\nVenue: Ora
+ cle Park\, San Francisco\, California\nFinal: Phillies 0\, Giants 5\nUnoff
+ icial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814877@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260410T224000Z
+DTEND:20260411T014000Z
+SUMMARY:Diamondbacks @ Phillies (ESPN Unlimited)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Citizens Bank Park\,
+  Philadelphia\, Pennsylvania\nFinal: Diamondbacks 5\, Phillies 4\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814892@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260411T170500Z
+DTEND:20260411T200500Z
+SUMMARY:Diamondbacks @ Phillies (FS1)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: FS1\nVenue: Citizens Bank Park\, Philadelph
+ ia\, Pennsylvania\nFinal: Diamondbacks 3\, Phillies 4\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814907@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260412T173500Z
+DTEND:20260412T203500Z
+SUMMARY:Diamondbacks @ Phillies (DBACKS.TV / NBC Sports Phil)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / NBC Sports Phil\nVenue: Citizen
+ s Bank Park\, Philadelphia\, Pennsylvania\nFinal: Diamondbacks 4\, Phillie
+ s 3\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814923@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260413T224000Z
+DTEND:20260414T014000Z
+SUMMARY:Cubs @ Phillies (FS1)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: FS1\nVenue: Citizens Bank Park\, Philadelph
+ ia\, Pennsylvania\nFinal: Cubs 7\, Phillies 13\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814933@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260414T224000Z
+DTEND:20260415T014000Z
+SUMMARY:Cubs @ Phillies (TBS)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: TBS\nVenue: Citizens Bank Park\, Philadelph
+ ia\, Pennsylvania\nFinal: Cubs 10\, Phillies 4\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814948@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260415T224000Z
+DTEND:20260416T014000Z
+SUMMARY:Cubs @ Phillies (ESPN Unlimited)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Citizens Bank Park\,
+  Philadelphia\, Pennsylvania\nFinal: Cubs 11\, Phillies 2\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814971@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260417T224000Z
+DTEND:20260418T014000Z
+SUMMARY:Braves @ Phillies (BravesVision / NBC Sports Phil)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: BravesVision / NBC Sports Phil\nVenue: Citi
+ zens Bank Park\, Philadelphia\, Pennsylvania\nFinal: Braves 9\, Phillies 0
+ \nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814986@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260418T231500Z
+DTEND:20260419T021500Z
+SUMMARY:Braves @ Phillies (Fox)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: Fox\nVenue: Citizens Bank Park\, Philadelph
+ ia\, Pennsylvania\nFinal: Braves 3\, Phillies 1\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815001@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260419T232000Z
+DTEND:20260420T022000Z
+SUMMARY:Braves @ Phillies (Peacock)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: Peacock\nVenue: Citizens Bank Park\, Philad
+ elphia\, Pennsylvania\nFinal: Braves 4\, Phillies 2\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815022@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260420T234000Z
+DTEND:20260421T024000Z
+SUMMARY:Phillies @ Cubs (Marquee Sports Net / NBC Sports Phil +)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / NBC Sports Phil +\nVen
+ ue: Wrigley Field\, Chicago\, Illinois\nFinal: Phillies 1\, Cubs 5\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815034@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260421T234000Z
+DTEND:20260422T024000Z
+SUMMARY:Phillies @ Cubs (Marquee Sports Net / NBC Sports Phil)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / NBC Sports Phil\nVenue
+ : Wrigley Field\, Chicago\, Illinois\nFinal: Phillies 4\, Cubs 7\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815049@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260422T234000Z
+DTEND:20260423T024000Z
+SUMMARY:Phillies @ Cubs (Marquee Sports Net / NBC Sports Phil +)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / NBC Sports Phil +\nVen
+ ue: Wrigley Field\, Chicago\, Illinois\nFinal: Phillies 2\, Cubs 7\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815060@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260423T182000Z
+DTEND:20260423T212000Z
+SUMMARY:Phillies @ Cubs (Marquee Sports Net / NBC Sports Phil)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / NBC Sports Phil\nVenue
+ : Wrigley Field\, Chicago\, Illinois\nFinal: Phillies 7\, Cubs 8\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815070@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260424T231500Z
+DTEND:20260425T021500Z
+SUMMARY:Phillies @ Braves (Apple TV)
+LOCATION:Truist Park\, Atlanta\, Georgia
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: Truist Park\, Atlanta\, Ge
+ orgia\nFinal: Phillies 3\, Braves 5\nUnofficial calendar\; not affiliated 
+ with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815085@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260425T231500Z
+DTEND:20260426T021500Z
+SUMMARY:Phillies @ Braves (BravesVision / NBC Sports Phil +)
+LOCATION:Truist Park\, Atlanta\, Georgia
+DESCRIPTION:Regular Season\nTV: BravesVision / NBC Sports Phil +\nVenue: Tr
+ uist Park\, Atlanta\, Georgia\nFinal: Phillies 8\, Braves 5\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815100@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260426T173500Z
+DTEND:20260426T203500Z
+SUMMARY:Phillies @ Braves (BravesVision / NBC Sports Phil)
+LOCATION:Truist Park\, Atlanta\, Georgia
+DESCRIPTION:Regular Season\nTV: BravesVision / NBC Sports Phil\nVenue: Trui
+ st Park\, Atlanta\, Georgia\nFinal: Phillies 2\, Braves 6\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815122@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260428T224000Z
+DTEND:20260429T014000Z
+SUMMARY:Giants @ Phillies (NBC Sports BA / NBC Sports Phil)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / NBC Sports Phil\nVenue: Cit
+ izens Bank Park\, Philadelphia\, Pennsylvania\nFinal: Giants 0\, Phillies 
+ 7\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may ch
+ ange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815137@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260429T221000Z
+DTEND:20260430T011000Z
+SUMMARY:Postponed: Giants @ Phillies (MLB Network)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Inclement Weather - Makeup date April 30\nTV: MLB Network\nVenu
+ e: Citizens Bank Park\, Philadelphia\, Pennsylvania\nPostponed. This listi
+ ng stays cancelled under the same id. The makeup\, when ESPN adds one\, is
+  a separate game.\nUnofficial calendar\; not affiliated with the MLB or ES
+ PN. Times may change.
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815151@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260430T163500Z
+DTEND:20260430T193500Z
+SUMMARY:Giants @ Phillies (NBC Sports BA / NBC 10 / NBC Sports Phil)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Doubleheader - Game 1\nTV: NBC Sports BA / NBC 10 / NBC Sports 
+ Phil\nVenue: Citizens Bank Park\, Philadelphia\, Pennsylvania\nFinal: Gian
+ ts 2\, Phillies 3\nUnofficial calendar\; not affiliated with the MLB or ES
+ PN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401871107@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260430T213500Z
+DTEND:20260501T003500Z
+SUMMARY:Giants @ Phillies (MLB Network)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Doubleheader - Game 2 - Makeup from April 29\nTV: MLB Network\n
+ Venue: Citizens Bank Park\, Philadelphia\, Pennsylvania\nFinal: Giants 5\,
+  Phillies 6\nUnofficial calendar\; not affiliated with the MLB or ESPN. Ti
+ mes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815161@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260501T231000Z
+DTEND:20260502T021000Z
+SUMMARY:Phillies @ Marlins (Marlins.TV / NBC Sports Phil / WBFS)
+LOCATION:loanDepot park\, Miami\, Florida
+DESCRIPTION:Regular Season\nTV: Marlins.TV / NBC Sports Phil / WBFS\nVenue:
+  loanDepot park\, Miami\, Florida\nFinal: Phillies 6\, Marlins 5\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815176@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260502T201000Z
+DTEND:20260502T231000Z
+SUMMARY:Phillies @ Marlins (Marlins.TV / NBC Sports Phil)
+LOCATION:loanDepot park\, Miami\, Florida
+DESCRIPTION:Regular Season\nTV: Marlins.TV / NBC Sports Phil\nVenue: loanDe
+ pot park\, Miami\, Florida\nFinal: Phillies 0\, Marlins 4\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815191@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260503T174000Z
+DTEND:20260503T204000Z
+SUMMARY:Phillies @ Marlins (Marlins.TV / NBC Sports Phil)
+LOCATION:loanDepot park\, Miami\, Florida
+DESCRIPTION:Regular Season\nTV: Marlins.TV / NBC Sports Phil\nVenue: loanDe
+ pot park\, Miami\, Florida\nFinal: Phillies 7\, Marlins 2\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815204@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260504T224000Z
+DTEND:20260505T014000Z
+SUMMARY:Phillies @ Marlins (Marlins.TV / NBC Sports Phil)
+LOCATION:loanDepot park\, Miami\, Florida
+DESCRIPTION:Regular Season\nTV: Marlins.TV / NBC Sports Phil\nVenue: loanDe
+ pot park\, Miami\, Florida\nFinal: Phillies 1\, Marlins 0\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815214@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260505T224000Z
+DTEND:20260506T014000Z
+SUMMARY:Athletics @ Phillies (NBC Sports Phil / NBC Sports CA)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / NBC Sports CA\nVenue: Cit
+ izens Bank Park\, Philadelphia\, Pennsylvania\nFinal: Athletics 1\, Philli
+ es 9\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815229@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260506T224000Z
+DTEND:20260507T014000Z
+SUMMARY:Athletics @ Phillies (NBC Sports Phil / NBC Sports CA)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / NBC Sports CA\nVenue: Cit
+ izens Bank Park\, Philadelphia\, Pennsylvania\nFinal: Athletics 3\, Philli
+ es 6\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815244@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260507T224000Z
+DTEND:20260508T014000Z
+SUMMARY:Athletics @ Phillies (NBC Sports Phil / NBC Sports CA)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / NBC Sports CA\nVenue: Cit
+ izens Bank Park\, Philadelphia\, Pennsylvania\nFinal: Athletics 12\, Phill
+ ies 1\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times ma
+ y change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815255@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260508T224000Z
+DTEND:20260509T014000Z
+SUMMARY:Rockies @ Phillies (Rockies.TV / NBC Sports Phil)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: Rockies.TV / NBC Sports Phil\nVenue: Citize
+ ns Bank Park\, Philadelphia\, Pennsylvania\nFinal: Rockies 9\, Phillies 7\
+ nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815270@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260509T220500Z
+DTEND:20260510T010500Z
+SUMMARY:Rockies @ Phillies (Rockies.TV / NBC Sports Phil)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: Rockies.TV / NBC Sports Phil\nVenue: Citize
+ ns Bank Park\, Philadelphia\, Pennsylvania\nFinal: Rockies 3\, Phillies 9\
+ nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815285@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260510T173500Z
+DTEND:20260510T203500Z
+SUMMARY:Rockies @ Phillies (Rockies.TV / NBC Sports Phil)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: Rockies.TV / NBC Sports Phil\nVenue: Citize
+ ns Bank Park\, Philadelphia\, Pennsylvania\nFinal: Rockies 0\, Phillies 6\
+ nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815309@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260512T224500Z
+DTEND:20260513T014500Z
+SUMMARY:Phillies @ Red Sox (NBC Sports Phil / NESN)
+LOCATION:Fenway Park\, Boston\, Massachusetts
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / NESN\nVenue: Fenway Park\
+ , Boston\, Massachusetts\nFinal: Phillies 2\, Red Sox 1\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815324@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260513T224500Z
+DTEND:20260514T014500Z
+SUMMARY:Phillies @ Red Sox (NBC Sports Phil / NESN)
+LOCATION:Fenway Park\, Boston\, Massachusetts
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / NESN\nVenue: Fenway Park\
+ , Boston\, Massachusetts\nFinal: Phillies 1\, Red Sox 3\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815337@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260514T224500Z
+DTEND:20260515T014500Z
+SUMMARY:Phillies @ Red Sox (NBC Sports Phil / NESN)
+LOCATION:Fenway Park\, Boston\, Massachusetts
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / NESN\nVenue: Fenway Park\
+ , Boston\, Massachusetts\nFinal: Phillies 3\, Red Sox 1\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815350@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260515T224000Z
+DTEND:20260516T014000Z
+SUMMARY:Phillies @ Pirates (NBC Sports Phil)
+LOCATION:PNC Park\, Pittsburgh\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil\nVenue: PNC Park\, Pittsbur
+ gh\, Pennsylvania\nFinal: Phillies 11\, Pirates 9\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815365@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260516T200500Z
+DTEND:20260516T230500Z
+SUMMARY:Phillies @ Pirates (NBC Sports Phil)
+LOCATION:PNC Park\, Pittsburgh\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil\nVenue: PNC Park\, Pittsbur
+ gh\, Pennsylvania\nFinal: Phillies 6\, Pirates 0\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815380@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260517T173500Z
+DTEND:20260517T203500Z
+SUMMARY:Phillies @ Pirates (NBC Sports Phil)
+LOCATION:PNC Park\, Pittsburgh\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil\nVenue: PNC Park\, Pittsbur
+ gh\, Pennsylvania\nFinal: Phillies 6\, Pirates 0\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815392@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260518T224000Z
+DTEND:20260519T014000Z
+SUMMARY:Reds @ Phillies (Gray Media / WXIX FOX19 / Reds.TV / NBC Sports Phi
+ l)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: Gray Media / WXIX FOX19 / Reds.TV / NBC Spo
+ rts Phil\nVenue: Citizens Bank Park\, Philadelphia\, Pennsylvania\nFinal: 
+ Reds 4\, Phillies 5\nUnofficial calendar\; not affiliated with the MLB or 
+ ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815406@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260519T224000Z
+DTEND:20260520T014000Z
+SUMMARY:Reds @ Phillies (Reds.TV / NBC Sports Phil)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: Reds.TV / NBC Sports Phil\nVenue: Citizens 
+ Bank Park\, Philadelphia\, Pennsylvania\nFinal: Reds 4\, Phillies 1\nUnoff
+ icial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815421@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260520T170500Z
+DTEND:20260520T200500Z
+SUMMARY:Reds @ Phillies (Reds.TV / NBC 10)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: Reds.TV / NBC 10\nVenue: Citizens Bank Park
+ \, Philadelphia\, Pennsylvania\nFinal: Reds 9\, Phillies 4\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815441@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260522T224000Z
+DTEND:20260523T014000Z
+SUMMARY:Guardians @ Phillies (CLEGuardians.TV / NBC Sports Phil)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / NBC Sports Phil\nVenue: C
+ itizens Bank Park\, Philadelphia\, Pennsylvania\nFinal: Guardians 1\, Phil
+ lies 0\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815456@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260523T200500Z
+DTEND:20260523T230500Z
+SUMMARY:Guardians @ Phillies (CLEGuardians.TV / NBC Sports Phil)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / NBC Sports Phil\nVenue: C
+ itizens Bank Park\, Philadelphia\, Pennsylvania\nFinal: Guardians 0\, Phil
+ lies 3\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815471@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260524T173500Z
+DTEND:20260524T203500Z
+SUMMARY:Guardians @ Phillies (CLEGuardians.TV / NBC Sports Phil)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / NBC Sports Phil\nVenue: C
+ itizens Bank Park\, Philadelphia\, Pennsylvania\nFinal: Guardians 3\, Phil
+ lies 1\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815497@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260525T224000Z
+DTEND:20260526T014000Z
+SUMMARY:Phillies @ Padres (ESPN Unlimited)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Petco Park\, San Die
+ go\, California\nFinal: Phillies 3\, Padres 0\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815512@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260527T014000Z
+DTEND:20260527T044000Z
+SUMMARY:Phillies @ Padres (Padres.TV / NBC Sports Phil)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / NBC Sports Phil\nVenue: Petco P
+ ark\, San Diego\, California\nFinal: Phillies 4\, Padres 3\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815527@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260527T201000Z
+DTEND:20260527T231000Z
+SUMMARY:Phillies @ Padres (Padres.TV / NBC Sports Phil)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / NBC Sports Phil\nVenue: Petco P
+ ark\, San Diego\, California\nFinal: Phillies 3\, Padres 0\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815549@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260530T021500Z
+DTEND:20260530T051500Z
+SUMMARY:Phillies @ Dodgers (Apple TV)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: Dodger Stadium\, Los Angel
+ es\, California\nFinal: Phillies 2\, Dodgers 4\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815564@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260531T021000Z
+DTEND:20260531T051000Z
+SUMMARY:Phillies @ Dodgers (SportsNet LA / NBC Sports Phil)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / NBC Sports Phil\nVenue: Dodg
+ er Stadium\, Los Angeles\, California\nFinal: Phillies 4\, Dodgers 3\nUnof
+ ficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815579@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260531T201000Z
+DTEND:20260531T231000Z
+SUMMARY:Phillies @ Dodgers (ESPN Unlimited)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Dodger Stadium\, Los
+  Angeles\, California\nFinal: Phillies 1\, Dodgers 9\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815594@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260602T224000Z
+DTEND:20260603T014000Z
+SUMMARY:Padres @ Phillies (TBS)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: TBS\nVenue: Citizens Bank Park\, Philadelph
+ ia\, Pennsylvania\nFinal: Padres 2\, Phillies 3\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815609@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260603T224000Z
+DTEND:20260604T014000Z
+SUMMARY:Padres @ Phillies (Padres.TV / NBC Sports Phil)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: Padres.TV / NBC Sports Phil\nVenue: Citizen
+ s Bank Park\, Philadelphia\, Pennsylvania\nFinal: Padres 2\, Phillies 3\nU
+ nofficial calendar\; not affiliated with the MLB or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815621@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260604T170500Z
+DTEND:20260604T200500Z
+SUMMARY:Padres @ Phillies (Padres.TV / NBC Sports Phil)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: Padres.TV / NBC Sports Phil\nVenue: Citizen
+ s Bank Park\, Philadelphia\, Pennsylvania\nFinal: Padres 4\, Phillies 6\nU
+ nofficial calendar\; not affiliated with the MLB or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815630@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260605T224000Z
+DTEND:20260606T014000Z
+SUMMARY:White Sox @ Phillies (NBC Sports Phil / CHSN)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / CHSN\nVenue: Citizens Ban
+ k Park\, Philadelphia\, Pennsylvania\nFinal: White Sox 6\, Phillies 8\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815645@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260606T200500Z
+DTEND:20260606T230500Z
+SUMMARY:White Sox @ Phillies (NBC Sports Phil / CHSN)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / CHSN\nVenue: Citizens Ban
+ k Park\, Philadelphia\, Pennsylvania\nFinal: White Sox 6\, Phillies 3\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815660@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260607T173500Z
+DTEND:20260607T203500Z
+SUMMARY:White Sox @ Phillies (NBC Sports Phil / CHSN)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / CHSN\nVenue: Citizens Ban
+ k Park\, Philadelphia\, Pennsylvania\nFinal: White Sox 5\, Phillies 9\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815675@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260608T230700Z
+DTEND:20260609T020700Z
+SUMMARY:Phillies @ Blue Jays (NBC Sports Phil / Sportsnet One / TVA / Sport
+ snet)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / Sportsnet One / TVA / Spo
+ rtsnet\nVenue: Rogers Centre\, Toronto\, Ontario\nFinal: Phillies 5\, Blue
+  Jays 2\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815686@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260609T230700Z
+DTEND:20260610T020700Z
+SUMMARY:Phillies @ Blue Jays (NBC Sports Phil / Sportsnet One)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / Sportsnet One\nVenue: Rog
+ ers Centre\, Toronto\, Ontario\nFinal: Phillies 2\, Blue Jays 3\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815701@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260610T230700Z
+DTEND:20260611T020700Z
+SUMMARY:Phillies @ Blue Jays (NBC Sports Phil / Sportsnet One / TVA)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / Sportsnet One / TVA\nVenu
+ e: Rogers Centre\, Toronto\, Ontario\nFinal: Phillies 7\, Blue Jays 4\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815729@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260612T234000Z
+DTEND:20260613T024000Z
+SUMMARY:Phillies @ Brewers (Brewers.TV / NBC Sports Phil)
+LOCATION:American Family Field\, Milwaukee\, Wisconsin
+DESCRIPTION:Regular Season\nTV: Brewers.TV / NBC Sports Phil\nVenue: Americ
+ an Family Field\, Milwaukee\, Wisconsin\nFinal: Phillies 0\, Brewers 6\nUn
+ official calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815744@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260613T231000Z
+DTEND:20260614T021000Z
+SUMMARY:Phillies @ Brewers (FS1)
+LOCATION:American Family Field\, Milwaukee\, Wisconsin
+DESCRIPTION:Regular Season\nTV: FS1\nVenue: American Family Field\, Milwauk
+ ee\, Wisconsin\nFinal: Phillies 9\, Brewers 8\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815759@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260614T181000Z
+DTEND:20260614T211000Z
+SUMMARY:Phillies @ Brewers (ESPN Unlimited)
+LOCATION:American Family Field\, Milwaukee\, Wisconsin
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: American Family Fiel
+ d\, Milwaukee\, Wisconsin\nFinal: Phillies 0\, Brewers 4\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815765@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260615T224000Z
+DTEND:20260616T014000Z
+SUMMARY:Marlins @ Phillies (Marlins.TV / NBC Sports Phil)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: Marlins.TV / NBC Sports Phil\nVenue: Citize
+ ns Bank Park\, Philadelphia\, Pennsylvania\nFinal: Marlins 0\, Phillies 7\
+ nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815776@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260616T224000Z
+DTEND:20260617T014000Z
+SUMMARY:Marlins @ Phillies (Marlins.TV / NBC Sports Phil)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: Marlins.TV / NBC Sports Phil\nVenue: Citize
+ ns Bank Park\, Philadelphia\, Pennsylvania\nFinal: Marlins 2\, Phillies 8\
+ nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815791@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260617T170500Z
+DTEND:20260617T200500Z
+SUMMARY:Marlins @ Phillies (Marlins.TV / NBC Sports Phil)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: Marlins.TV / NBC Sports Phil\nVenue: Citize
+ ns Bank Park\, Philadelphia\, Pennsylvania\nFinal: Marlins 12\, Phillies 4
+ \nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815804@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260618T224000Z
+DTEND:20260619T014000Z
+SUMMARY:Mets @ Phillies (MLB Network)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: MLB Network\nVenue: Citizens Bank Park\, Ph
+ iladelphia\, Pennsylvania\nFinal: Mets 6\, Phillies 4\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815828@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260620T231500Z
+DTEND:20260621T021500Z
+SUMMARY:Mets @ Phillies (Fox)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: Fox\nVenue: Citizens Bank Park\, Philadelph
+ ia\, Pennsylvania\nFinal: Mets 3\, Phillies 15\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815842@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260621T232000Z
+DTEND:20260622T022000Z
+SUMMARY:Mets @ Phillies (NBC / Peacock)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: NBC / Peacock\nVenue: Citizens Bank Park\, 
+ Philadelphia\, Pennsylvania\nFinal: Mets 2\, Phillies 6\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815859@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260622T224500Z
+DTEND:20260623T014500Z
+SUMMARY:Phillies @ Nationals (NBC Sports Phil / Nationals.TV)
+LOCATION:Nationals Park\, Washington\, District of Columbia
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / Nationals.TV\nVenue: Nati
+ onals Park\, Washington\, District of Columbia\nFinal: Phillies 1\, Nation
+ als 4\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times ma
+ y change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815872@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260623T224500Z
+DTEND:20260624T014500Z
+SUMMARY:Phillies @ Nationals (NBC Sports Phil / Nationals.TV)
+LOCATION:Nationals Park\, Washington\, District of Columbia
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / Nationals.TV\nVenue: Nati
+ onals Park\, Washington\, District of Columbia\nFinal: Phillies 14\, Natio
+ nals 9\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815887@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260624T224500Z
+DTEND:20260625T014500Z
+SUMMARY:Phillies @ Nationals (NBC Sports Phil / Nationals.TV)
+LOCATION:Nationals Park\, Washington\, District of Columbia
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / Nationals.TV\nVenue: Nati
+ onals Park\, Washington\, District of Columbia\nFinal: Phillies 5\, Nation
+ als 4\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times ma
+ y change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815901@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260625T224500Z
+DTEND:20260626T014500Z
+SUMMARY:Phillies @ Nationals (NBC Sports Phil / Nationals.TV)
+LOCATION:Nationals Park\, Washington\, District of Columbia
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / Nationals.TV\nVenue: Nati
+ onals Park\, Washington\, District of Columbia\nFinal: Phillies 10\, Natio
+ nals 5\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815910@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260626T231000Z
+DTEND:20260627T021000Z
+SUMMARY:Phillies @ Mets (NBC Sports Phil / WPIX)
+LOCATION:Citi Field\, Queens\, New York
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / WPIX\nVenue: Citi Field\,
+  Queens\, New York\nFinal: Phillies 2\, Mets 1\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815925@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260627T201000Z
+DTEND:20260627T231000Z
+SUMMARY:Phillies @ Mets (NBC Sports Phil / SNY)
+LOCATION:Citi Field\, Queens\, New York
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / SNY\nVenue: Citi Field\, 
+ Queens\, New York\nFinal: Phillies 2\, Mets 6\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815940@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260628T174000Z
+DTEND:20260628T204000Z
+SUMMARY:Phillies @ Mets (ESPN Unlimited)
+LOCATION:Citi Field\, Queens\, New York
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Citi Field\, Queens\
+ , New York\nFinal: Phillies 5\, Mets 4\nUnofficial calendar\; not affiliat
+ ed with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815954@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260629T224000Z
+DTEND:20260630T014000Z
+SUMMARY:Pirates @ Phillies (NBC Sports Phil)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil\nVenue: Citizens Bank Park\
+ , Philadelphia\, Pennsylvania\nFinal: Pirates 11\, Phillies 7\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815967@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260630T224000Z
+DTEND:20260701T014000Z
+SUMMARY:Pirates @ Phillies (NBC Sports Phil)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil\nVenue: Citizens Bank Park\
+ , Philadelphia\, Pennsylvania\nFinal: Pirates 0\, Phillies 8\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815982@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260701T224000Z
+DTEND:20260702T014000Z
+SUMMARY:Pirates @ Phillies (NBC Sports Phil)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil\nVenue: Citizens Bank Park\
+ , Philadelphia\, Pennsylvania\nFinal: Pirates 6\, Phillies 10\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815994@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260702T163500Z
+DTEND:20260702T193500Z
+SUMMARY:Pirates @ Phillies (NBC Sports Phil)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil\nVenue: Citizens Bank Park\
+ , Philadelphia\, Pennsylvania\nFinal: Pirates 6\, Phillies 1\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816021@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260705T001000Z
+DTEND:20260705T031000Z
+SUMMARY:Phillies @ Royals (Royals.TV / NBC Sports Phil)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / NBC Sports Phil\nVenue: Kauffma
+ n Stadium\, Kansas City\, Missouri\nFinal: Phillies 6\, Royals 1\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816036@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260705T190000Z
+DTEND:20260705T220000Z
+SUMMARY:Phillies @ Royals (Peacock)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Peacock\nVenue: Kauffman Stadium\, Kansas C
+ ity\, Missouri\nFinal: Phillies 2\, Royals 5\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816049@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260706T181000Z
+DTEND:20260706T211000Z
+SUMMARY:Phillies @ Royals (ESPN Unlimited)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Kauffman Stadium\, K
+ ansas City\, Missouri\nFinal: Phillies 1\, Royals 15\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816059@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260707T231000Z
+DTEND:20260708T021000Z
+SUMMARY:Phillies @ Reds (Reds.TV / NBC Sports Phil)
+LOCATION:Great American Ball Park\, Cincinnati\, Ohio
+DESCRIPTION:Regular Season\nTV: Reds.TV / NBC Sports Phil\nVenue: Great Ame
+ rican Ball Park\, Cincinnati\, Ohio\nFinal: Phillies 4\, Reds 1\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816074@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260708T230000Z
+DTEND:20260709T020000Z
+SUMMARY:Phillies @ Reds (ESPN)
+LOCATION:Great American Ball Park\, Cincinnati\, Ohio
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Great American Ball Park\, Cin
+ cinnati\, Ohio\nFinal: Phillies 5\, Reds 11\nUnofficial calendar\; not aff
+ iliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816088@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260709T231000Z
+DTEND:20260710T021000Z
+SUMMARY:Phillies @ Reds (Reds.TV / NBC Sports Phil)
+LOCATION:Great American Ball Park\, Cincinnati\, Ohio
+DESCRIPTION:Regular Season\nTV: Reds.TV / NBC Sports Phil\nVenue: Great Ame
+ rican Ball Park\, Cincinnati\, Ohio\nFinal: Phillies 1\, Reds 0\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816102@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260710T224000Z
+DTEND:20260711T014000Z
+SUMMARY:Phillies @ Tigers (Tigers.TV / NBC Sports Phil)
+LOCATION:Comerica Park\, Detroit\, Michigan
+DESCRIPTION:Regular Season\nTV: Tigers.TV / NBC Sports Phil\nVenue: Comeric
+ a Park\, Detroit\, Michigan\nFinal: Phillies 2\, Tigers 10\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816117@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260711T221000Z
+DTEND:20260712T011000Z
+SUMMARY:Phillies @ Tigers (Tigers.TV / NBC Sports Phil)
+LOCATION:Comerica Park\, Detroit\, Michigan
+DESCRIPTION:Regular Season\nTV: Tigers.TV / NBC Sports Phil\nVenue: Comeric
+ a Park\, Detroit\, Michigan\nFinal: Phillies 4\, Tigers 2\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816132@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260712T174000Z
+DTEND:20260712T204000Z
+SUMMARY:Phillies @ Tigers (Tigers.TV / NBC Sports Phil)
+LOCATION:Comerica Park\, Detroit\, Michigan
+DESCRIPTION:Regular Season\nTV: Tigers.TV / NBC Sports Phil\nVenue: Comeric
+ a Park\, Detroit\, Michigan\nFinal: Phillies 5\, Tigers 0\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816143@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260716T220000Z
+DTEND:20260717T010000Z
+SUMMARY:Mets @ Phillies (ESPN)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Citizens Bank Park\, Philadelp
+ hia\, Pennsylvania\nFinal: Mets 4\, Phillies 1\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816158@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260718T190500Z
+DTEND:20260718T220500Z
+SUMMARY:Mets @ Phillies (NBC Sports Phil / SNY)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / SNY\nVenue: Citizens Bank
+  Park\, Philadelphia\, Pennsylvania\nFinal: Mets 1\, Phillies 6\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816173@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260719T173500Z
+DTEND:20260719T203500Z
+SUMMARY:Mets @ Phillies (NBC Sports Phil / SNY)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / SNY\nVenue: Citizens Bank
+  Park\, Philadelphia\, Pennsylvania\nFinal: Mets 6\, Phillies 1\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816187@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260720T230000Z
+DTEND:20260721T020000Z
+SUMMARY:Dodgers @ Phillies (ESPN)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Citizens Bank Park\, Philadelp
+ hia\, Pennsylvania\nFinal: Dodgers 7\, Phillies 10\nUnofficial calendar\; 
+ not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816202@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260721T224000Z
+DTEND:20260722T014000Z
+SUMMARY:Dodgers @ Phillies (TBS)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: TBS\nVenue: Citizens Bank Park\, Philadelph
+ ia\, Pennsylvania\nFinal: Dodgers 2\, Phillies 1\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816217@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260722T224000Z
+DTEND:20260723T014000Z
+SUMMARY:Dodgers @ Phillies (SportsNet LA / NBC Sports Phil)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: SportsNet LA / NBC Sports Phil\nVenue: Citi
+ zens Bank Park\, Philadelphia\, Pennsylvania\nFinal: Dodgers 9\, Phillies 
+ 5\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may ch
+ ange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816241@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260724T224500Z
+DTEND:20260725T014500Z
+SUMMARY:Yankees @ Phillies (Apple TV)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: Citizens Bank Park\, Phila
+ delphia\, Pennsylvania\nFinal: Yankees 1\, Phillies 0\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816256@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260725T220500Z
+DTEND:20260726T010500Z
+SUMMARY:Yankees @ Phillies (NBC Sports Phil / YES)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / YES\nVenue: Citizens Bank
+  Park\, Philadelphia\, Pennsylvania\nFinal: Yankees 3\, Phillies 1\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816271@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260726T232000Z
+DTEND:20260727T022000Z
+SUMMARY:Yankees @ Phillies (NBC / Peacock)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: NBC / Peacock\nVenue: Citizens Bank Park\, 
+ Philadelphia\, Pennsylvania\nFinal: Yankees 4\, Phillies 11\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816284@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260727T224000Z
+DTEND:20260728T014000Z
+SUMMARY:Phillies @ Marlins (Marlins.TV / NBC Sports Phil)
+LOCATION:loanDepot park\, Miami\, Florida
+DESCRIPTION:Regular Season\nTV: Marlins.TV / NBC Sports Phil\nVenue: loanDe
+ pot park\, Miami\, Florida\nFinal: Phillies 7\, Marlins 8\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816296@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260728T224000Z
+DTEND:20260729T014000Z
+SUMMARY:Phillies @ Marlins (Marlins.TV / NBC Sports Phil)
+LOCATION:loanDepot park\, Miami\, Florida
+DESCRIPTION:Regular Season\nTV: Marlins.TV / NBC Sports Phil\nVenue: loanDe
+ pot park\, Miami\, Florida\nFinal: Phillies 0\, Marlins 1\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816311@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260729T161000Z
+DTEND:20260729T191000Z
+SUMMARY:Phillies @ Marlins (Marlins.TV / NBC Sports Phil)
+LOCATION:loanDepot park\, Miami\, Florida
+DESCRIPTION:Regular Season\nTV: Marlins.TV / NBC Sports Phil\nVenue: loanDe
+ pot park\, Miami\, Florida\nFinal: Phillies 6\, Marlins 8\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816335@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260731T230500Z
+DTEND:20260801T020500Z
+SUMMARY:Phillies @ Orioles (NBC Sports Phil / MASN)
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / MASN\nVenue: Oriole Park 
+ at Camden Yards\, Baltimore\, Maryland\nFinal: Phillies 4\, Orioles 6\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816350@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260801T230500Z
+DTEND:20260802T020500Z
+SUMMARY:Phillies @ Orioles (NBC Sports Phil / MASN)
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / MASN\nVenue: Oriole Park 
+ at Camden Yards\, Baltimore\, Maryland\nFinal: Phillies 5\, Orioles 0\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816365@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260802T173500Z
+DTEND:20260802T203500Z
+SUMMARY:Phillies @ Orioles (NBC Sports Phil / MASN)
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / MASN\nVenue: Oriole Park 
+ at Camden Yards\, Baltimore\, Maryland\nFinal: Phillies 8\, Orioles 0\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816378@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260803T224000Z
+DTEND:20260804T014000Z
+SUMMARY:Nationals @ Phillies (NBC Sports Phil / Nationals.TV)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / Nationals.TV\nVenue: Citi
+ zens Bank Park\, Philadelphia\, Pennsylvania\nFinal: Nationals 3\, Phillie
+ s 6\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816390@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260804T224000Z
+DTEND:20260805T014000Z
+SUMMARY:Nationals @ Phillies (NBC Sports Phil / Nationals.TV)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / Nationals.TV\nVenue: Citi
+ zens Bank Park\, Philadelphia\, Pennsylvania\nFinal: Nationals 0\, Phillie
+ s 5\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816405@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260805T230500Z
+DTEND:20260806T020500Z
+SUMMARY:Nationals @ Phillies (NBC Sports Phil / Nationals.TV)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / Nationals.TV\nVenue: Citi
+ zens Bank Park\, Philadelphia\, Pennsylvania\nFinal: Nationals 10\, Philli
+ es 4\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816419@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260806T220500Z
+DTEND:20260807T010500Z
+SUMMARY:Nationals @ Phillies (NBC Sports Phil / Nationals.TV)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / Nationals.TV\nVenue: Citi
+ zens Bank Park\, Philadelphia\, Pennsylvania\nFinal: Nationals 3\, Phillie
+ s 7\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816429@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260807T224000Z
+DTEND:20260808T014000Z
+SUMMARY:Blue Jays @ Phillies (NBC Sports Phil / Sportsnet)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / Sportsnet\nVenue: Citizen
+ s Bank Park\, Philadelphia\, Pennsylvania\nFinal: Blue Jays 5\, Phillies 4
+ \nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816444@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260808T220500Z
+DTEND:20260809T010500Z
+SUMMARY:Blue Jays @ Phillies (NBC Sports Phil / Sportsnet)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / Sportsnet\nVenue: Citizen
+ s Bank Park\, Philadelphia\, Pennsylvania\nFinal: Blue Jays 7\, Phillies 5
+ \nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816459@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260809T173500Z
+DTEND:20260809T203500Z
+SUMMARY:Blue Jays @ Phillies (NBC Sports Phil / Sportsnet)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / Sportsnet\nVenue: Citizen
+ s Bank Park\, Philadelphia\, Pennsylvania\nFinal: Blue Jays 6\, Phillies 7
+ \nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816472@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260810T234500Z
+DTEND:20260811T024500Z
+SUMMARY:Phillies @ Cardinals (FS1)
+LOCATION:Busch Stadium\, St. Louis\, Missouri
+DESCRIPTION:Regular Season\nTV: FS1\nVenue: Busch Stadium\, St. Louis\, Mis
+ souri\nFinal: Phillies 6\, Cardinals 5\nUnofficial calendar\; not affiliat
+ ed with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816487@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260811T234500Z
+DTEND:20260812T024500Z
+SUMMARY:Phillies @ Cardinals (Cardinals.TV / NBC Sports Phil)
+LOCATION:Busch Stadium\, St. Louis\, Missouri
+DESCRIPTION:Regular Season\nTV: Cardinals.TV / NBC Sports Phil\nVenue: Busc
+ h Stadium\, St. Louis\, Missouri\nFinal: Phillies 0\, Cardinals 2\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816502@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260812T181500Z
+DTEND:20260812T211500Z
+SUMMARY:Phillies @ Cardinals (ESPN Unlimited)
+LOCATION:Busch Stadium\, St. Louis\, Missouri
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Busch Stadium\, St. 
+ Louis\, Missouri\nFinal: Phillies 1\, Cardinals 7\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816525@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260813T233000Z
+DTEND:20260814T023000Z
+SUMMARY:Phillies @ Twins (Netflix)
+LOCATION:Field of Dreams\, Dyersville\, Iowa
+DESCRIPTION:Field of Dreams Game\nTV: Netflix\nVenue: Field of Dreams\, Dye
+ rsville\, Iowa\nFinal: Phillies 7\, Twins 1\nUnofficial calendar\; not aff
+ iliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816540@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260815T231000Z
+DTEND:20260816T021000Z
+SUMMARY:Phillies @ Twins (Twins.TV / NBC Sports Phil)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / NBC Sports Phil\nVenue: Target F
+ ield\, Minneapolis\, Minnesota\nFinal: Phillies 9\, Twins 1\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816555@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260816T181000Z
+DTEND:20260816T211000Z
+SUMMARY:Phillies @ Twins (Twins.TV / NBC Sports Phil)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / NBC Sports Phil\nVenue: Target F
+ ield\, Minneapolis\, Minnesota\nFinal: Phillies 7\, Twins 5\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816565@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260817T224000Z
+DTEND:20260818T014000Z
+SUMMARY:Marlins @ Phillies (Marlins.TV / NBC Sports Phil)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: Marlins.TV / NBC Sports Phil\nVenue: Citize
+ ns Bank Park\, Philadelphia\, Pennsylvania\nFinal: Marlins 5\, Phillies 6\
+ nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816573@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260818T224000Z
+DTEND:20260819T014000Z
+SUMMARY:Marlins @ Phillies (ESPN Unlimited)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Citizens Bank Park\,
+  Philadelphia\, Pennsylvania\nFinal: Marlins 4\, Phillies 6\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816588@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260819T220500Z
+DTEND:20260820T010500Z
+SUMMARY:Marlins @ Phillies (Marlins.TV / NBC Sports Phil)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: Marlins.TV / NBC Sports Phil\nVenue: Citize
+ ns Bank Park\, Philadelphia\, Pennsylvania\nFinal: Marlins 1\, Phillies 4\
+ nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816611@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260821T224000Z
+DTEND:20260822T014000Z
+SUMMARY:Cardinals @ Phillies (Cardinals.TV / NBC Sports Phil)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: Cardinals.TV / NBC Sports Phil\nVenue: Citi
+ zens Bank Park\, Philadelphia\, Pennsylvania\nFinal: Cardinals 6\, Phillie
+ s 7\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816626@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260822T220500Z
+DTEND:20260823T010500Z
+SUMMARY:Cardinals @ Phillies (Cardinals.TV / NBC Sports Phil)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: Cardinals.TV / NBC Sports Phil\nVenue: Citi
+ zens Bank Park\, Philadelphia\, Pennsylvania\nFinal: Cardinals 3\, Phillie
+ s 12\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816641@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260823T173500Z
+DTEND:20260823T203500Z
+SUMMARY:Cardinals @ Phillies (Cardinals.TV / NBC Sports Phil)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: Cardinals.TV / NBC Sports Phil\nVenue: Citi
+ zens Bank Park\, Philadelphia\, Pennsylvania\nFinal: Cardinals 4\, Phillie
+ s 6\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816663@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260825T014000Z
+DTEND:20260825T044000Z
+SUMMARY:Phillies @ Mariners (NBC Sports Phil / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / Mariners.TV\nVenue: T-Mob
+ ile Park\, Seattle\, Washington\nFinal: Phillies 2\, Mariners 9\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816678@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260826T014000Z
+DTEND:20260826T044000Z
+SUMMARY:Phillies @ Mariners (NBC Sports Phil / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / Mariners.TV\nVenue: T-Mob
+ ile Park\, Seattle\, Washington\nFinal: Phillies 1\, Mariners 4\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816693@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260826T201000Z
+DTEND:20260826T231000Z
+SUMMARY:Phillies @ Mariners (Mariners.TV / NBC Sports Phil)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Mariners.TV / NBC Sports Phil\nVenue: T-Mob
+ ile Park\, Seattle\, Washington\nFinal: Phillies 6\, Mariners 0\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816716@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260829T013800Z
+DTEND:20260829T043800Z
+SUMMARY:Phillies @ Angels (NBC Sports Phil / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / Angels.TV\nVenue: Angel S
+ tadium\, Anaheim\, California\nFinal: Phillies 5\, Angels 3\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816731@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260830T020700Z
+DTEND:20260830T050700Z
+SUMMARY:Phillies @ Angels (NBC Sports Phil / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / Angels.TV\nVenue: Angel S
+ tadium\, Anaheim\, California\nFinal: Phillies 4\, Angels 2\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816746@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260830T200700Z
+DTEND:20260830T230700Z
+SUMMARY:Phillies @ Angels (NBC Sports Phil / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / Angels.TV\nVenue: Angel S
+ tadium\, Anaheim\, California\nFinal: Phillies 5\, Angels 2\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816757@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260901T014000Z
+DTEND:20260901T044000Z
+SUMMARY:Phillies @ Diamondbacks (ESPN Unlimited)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Chase Field\, Phoeni
+ x\, Arizona\nFinal: Phillies 2\, Diamondbacks 1\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816771@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260902T014000Z
+DTEND:20260902T044000Z
+SUMMARY:Phillies @ Diamondbacks (DBACKS.TV / NBC Sports Phil)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / NBC Sports Phil\nVenue: Chase F
+ ield\, Phoenix\, Arizona\nFinal: Phillies 7\, Diamondbacks 1\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816786@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260902T194000Z
+DTEND:20260902T224000Z
+SUMMARY:Phillies @ Diamondbacks (ESPN Unlimited)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Chase Field\, Phoeni
+ x\, Arizona\nFinal: Phillies 0\, Diamondbacks 1\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816798@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260904T224000Z
+DTEND:20260905T014000Z
+SUMMARY:Braves @ Phillies (ESPN Unlimited)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Citizens Bank Park\,
+  Philadelphia\, Pennsylvania\nFinal: Braves 5\, Phillies 2\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816813@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260905T220500Z
+DTEND:20260906T010500Z
+SUMMARY:Braves @ Phillies (BravesVision / NBC Sports Phil)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: BravesVision / NBC Sports Phil\nVenue: Citi
+ zens Bank Park\, Philadelphia\, Pennsylvania\nFinal: Braves 2\, Phillies 4
+ \nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816828@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260906T171000Z
+DTEND:20260906T201000Z
+SUMMARY:Braves @ Phillies (NBC)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: Citizens Bank Park\, Philadelph
+ ia\, Pennsylvania\nFinal: Braves 5\, Phillies 4\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816843@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260907T170500Z
+DTEND:20260907T200500Z
+SUMMARY:Braves @ Phillies (BravesVision / NBC 10)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: BravesVision / NBC 10\nVenue: Citizens Bank
+  Park\, Philadelphia\, Pennsylvania\nFinal: Braves 0\, Phillies 1\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816856@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260908T224000Z
+DTEND:20260909T014000Z
+SUMMARY:Astros @ Phillies (TBS)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: TBS\nVenue: Citizens Bank Park\, Philadelph
+ ia\, Pennsylvania\nFinal: Astros 6\, Phillies 5\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816871@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260909T224000Z
+DTEND:20260910T014000Z
+SUMMARY:Astros @ Phillies (NBC Sports Phil / Space City Home Network)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / Space City Home Network\n
+ Venue: Citizens Bank Park\, Philadelphia\, Pennsylvania\nFinal: Astros 7\,
+  Phillies 11\nUnofficial calendar\; not affiliated with the MLB or ESPN. T
+ imes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816884@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260910T170500Z
+DTEND:20260910T200500Z
+SUMMARY:Astros @ Phillies (NBC 10 / Space City Home Network / NBC Sports Ph
+ il)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: NBC 10 / Space City Home Network / NBC Spor
+ ts Phil\nVenue: Citizens Bank Park\, Philadelphia\, Pennsylvania\nFinal: A
+ stros 2\, Phillies 1\nUnofficial calendar\; not affiliated with the MLB or
+  ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816895@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260911T231500Z
+DTEND:20260912T021500Z
+SUMMARY:Phillies @ Braves (BravesVision / NBC Sports Phil)
+LOCATION:Truist Park\, Atlanta\, Georgia
+DESCRIPTION:Regular Season\nTV: BravesVision / NBC Sports Phil\nVenue: Trui
+ st Park\, Atlanta\, Georgia\nFinal: Phillies 5\, Braves 6\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816910@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260912T231500Z
+DTEND:20260913T021500Z
+SUMMARY:Phillies @ Braves (BravesVision / NBC Sports Phil)
+LOCATION:Truist Park\, Atlanta\, Georgia
+DESCRIPTION:Regular Season\nTV: BravesVision / NBC Sports Phil\nVenue: Trui
+ st Park\, Atlanta\, Georgia\nFinal: Phillies 2\, Braves 12\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816925@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260913T173500Z
+DTEND:20260913T203500Z
+SUMMARY:Phillies @ Braves (ESPN Unlimited)
+LOCATION:Truist Park\, Atlanta\, Georgia
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Truist Park\, Atlant
+ a\, Georgia\nFinal: Phillies 9\, Braves 4\nUnofficial calendar\; not affil
+ iated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816949@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260915T224500Z
+DTEND:20260916T014500Z
+SUMMARY:Phillies @ Nationals (NBC Sports Phil / Nationals.TV)
+LOCATION:Nationals Park\, Washington\, District of Columbia
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / Nationals.TV\nVenue: Nati
+ onals Park\, Washington\, District of Columbia\nFinal: Phillies 3\, Nation
+ als 6\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times ma
+ y change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816964@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260916T224500Z
+DTEND:20260917T014500Z
+SUMMARY:Phillies @ Nationals (NBC Sports Phil / Nationals.TV)
+LOCATION:Nationals Park\, Washington\, District of Columbia
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / Nationals.TV\nVenue: Nati
+ onals Park\, Washington\, District of Columbia\nFinal: Phillies 3\, Nation
+ als 0\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times ma
+ y change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816976@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260917T231500Z
+DTEND:20260918T021500Z
+SUMMARY:Phillies @ Mets (Fox)
+LOCATION:Citi Field\, Queens\, New York
+DESCRIPTION:Regular Season\nTV: Fox\nVenue: Citi Field\, Queens\, New York\
+ nFinal: Phillies 3\, Mets 0\nUnofficial calendar\; not affiliated with the
+  MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816987@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260918T231000Z
+DTEND:20260919T021000Z
+SUMMARY:Phillies @ Mets (Apple TV)
+LOCATION:Citi Field\, Queens\, New York
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: Citi Field\, Queens\, New 
+ York\nFinal: Phillies 3\, Mets 6\nUnofficial calendar\; not affiliated wit
+ h the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817002@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260919T201000Z
+DTEND:20260919T231000Z
+SUMMARY:Phillies @ Mets (ESPN Unlimited)
+LOCATION:Citi Field\, Queens\, New York
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Citi Field\, Queens\
+ , New York\nFinal: Phillies 3\, Mets 10\nUnofficial calendar\; not affilia
+ ted with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817017@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260920T171000Z
+DTEND:20260920T201000Z
+SUMMARY:Phillies @ Mets (NBC Sports Phil / WPIX)
+LOCATION:Citi Field\, Queens\, New York
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / WPIX\nVenue: Citi Field\,
+  Queens\, New York\nFinal: Phillies 7\, Mets 2\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817032@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260922T224000Z
+DTEND:20260923T014000Z
+SUMMARY:Brewers @ Phillies (Brewers.TV / NBC Sports Phil)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: Brewers.TV / NBC Sports Phil\nVenue: Citize
+ ns Bank Park\, Philadelphia\, Pennsylvania\nFinal: Brewers 4\, Phillies 6\
+ nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817047@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260923T224000Z
+DTEND:20260924T014000Z
+SUMMARY:Brewers @ Phillies (Brewers.TV / NBC Sports Phil)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: Brewers.TV / NBC Sports Phil\nVenue: Citize
+ ns Bank Park\, Philadelphia\, Pennsylvania\nFinal: Brewers 4\, Phillies 1\
+ nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817062@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260924T220500Z
+DTEND:20260925T010500Z
+SUMMARY:Brewers @ Phillies (Brewers.TV / NBC Sports Phil)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: Brewers.TV / NBC Sports Phil\nVenue: Citize
+ ns Bank Park\, Philadelphia\, Pennsylvania\nFinal: Brewers 5\, Phillies 1\
+ nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817078@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260925T224000Z
+DTEND:20260926T014000Z
+SUMMARY:Rays @ Phillies (Rays.TV / NBC Sports Phil)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: Rays.TV / NBC Sports Phil\nVenue: Citizens 
+ Bank Park\, Philadelphia\, Pennsylvania\nFinal: Rays 2\, Phillies 0\nUnoff
+ icial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817093@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260926T231500Z
+DTEND:20260927T021500Z
+SUMMARY:Rays @ Phillies (Fox)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: Fox\nVenue: Citizens Bank Park\, Philadelph
+ ia\, Pennsylvania\nFinal: Rays 12\, Phillies 1\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817108@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260927T183000Z
+DTEND:20260927T213000Z
+SUMMARY:Rays @ Phillies (Rays.TV / NBC Sports Phil)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: Rays.TV / NBC Sports Phil\nVenue: Citizens 
+ Bank Park\, Philadelphia\, Pennsylvania\nFinal: Rays 3\, Phillies 7\nUnoff
+ icial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401907965@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260929T180000Z
+DTEND:20260929T210000Z
+SUMMARY:Phillies @ Braves (NBC)
+LOCATION:Truist Park\, Atlanta\, Georgia
+DESCRIPTION:NLWC - Game 1\nTV: NBC\nVenue: Truist Park\, Atlanta\, Georgia\
+ nFinal: Phillies 3\, Braves 5\nUnofficial calendar\; not affiliated with t
+ he MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401907972@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260930T180000Z
+DTEND:20260930T210000Z
+SUMMARY:Phillies @ Braves (NBC)
+LOCATION:Truist Park\, Atlanta\, Georgia
+DESCRIPTION:NLWC - Game 2\nTV: NBC\nVenue: Truist Park\, Atlanta\, Georgia\
+ nFinal: Phillies 4\, Braves 3\nUnofficial calendar\; not affiliated with t
+ he MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401907973@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20261002T000000Z
+DTEND:20261002T030000Z
+SUMMARY:Phillies @ Braves (NBC / Peacock)
+LOCATION:Truist Park\, Atlanta\, Georgia
+DESCRIPTION:NLWC - Game 3\nTV: NBC / Peacock\nVenue: Truist Park\, Atlanta\
+ , Georgia\nFinal: Phillies 2\, Braves 6\nUnofficial calendar\; not affilia
+ ted with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

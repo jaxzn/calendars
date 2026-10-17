@@ -1,0 +1,1098 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jaxzn//NHL Calendars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Toronto Maple Leafs
+X-WR-CALDESC:Toronto Maple Leafs NHL schedule (unofficial\, auto-updated)
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:espn-401891827@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20260929T230000Z
+DTEND:20260930T013000Z
+SUMMARY:Canadiens @ Maple Leafs (ESPN+)
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: Scotiabank Arena\, Toronto\, 
+ ON\nFinal: Canadiens 3\, Maple Leafs 2\nUnofficial calendar\; not affiliat
+ ed with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892431@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20260930T233000Z
+DTEND:20261001T020000Z
+SUMMARY:Islanders @ Maple Leafs (ESPN+)
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: Scotiabank Arena\, Toronto\, 
+ ON\nFinal: Islanders 1\, Maple Leafs 2\nUnofficial calendar\; not affiliat
+ ed with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892434@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261003T230000Z
+DTEND:20261004T013000Z
+SUMMARY:Senators @ Maple Leafs (ESPN+)
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: Scotiabank Arena\, Toronto\, 
+ ON\nFinal: Senators 3\, Maple Leafs 2\nUnofficial calendar\; not affiliate
+ d with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892449@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261006T230000Z
+DTEND:20261007T013000Z
+SUMMARY:Predators @ Maple Leafs (ESPN+)
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: Scotiabank Arena\, Toronto\, 
+ ON\nFinal: Predators 4\, Maple Leafs 5\nUnofficial calendar\; not affiliat
+ ed with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892464@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261009T020000Z
+DTEND:20261009T043000Z
+SUMMARY:Maple Leafs @ Golden Knights (ESPN+)
+LOCATION:T-Mobile Arena\, Las Vegas\, NV
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: T-Mobile Arena\, Las Vegas\, 
+ NV\nFinal: Maple Leafs 3\, Golden Knights 4\nUnofficial calendar\; not aff
+ iliated with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892478@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261010T230000Z
+DTEND:20261011T013000Z
+SUMMARY:Maple Leafs @ Avalanche (NHL Network)
+LOCATION:Ball Arena\, Denver\, CO
+DESCRIPTION:Regular Season\nTV: NHL Network\nVenue: Ball Arena\, Denver\, C
+ O\nFinal: Maple Leafs 6\, Avalanche 3\nUnofficial calendar\; not affiliate
+ d with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892500@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261014T010000Z
+DTEND:20261014T033000Z
+SUMMARY:Maple Leafs @ Mammoth (ESPN+)
+LOCATION:Delta Center\, Salt Lake City\, UT
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: Delta Center\, Salt Lake City
+ \, UT\nFinal: Maple Leafs 4\, Mammoth 5\nUnofficial calendar\; not affilia
+ ted with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892506@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261015T230000Z
+DTEND:20261016T013000Z
+SUMMARY:Sabres @ Maple Leafs (ESPN+)
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: Scotiabank Arena\, Toronto\, 
+ ON\nFinal: Sabres 5\, Maple Leafs 4\nUnofficial calendar\; not affiliated 
+ with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892523@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261017T230000Z
+DTEND:20261018T013000Z
+SUMMARY:Islanders @ Maple Leafs (ESPN+)
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: Scotiabank Arena\, Toronto\, 
+ ON\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may c
+ hange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892537@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261019T233000Z
+DTEND:20261020T020000Z
+SUMMARY:Sharks @ Maple Leafs (ESPN+)
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: Scotiabank Arena\, Toronto\, 
+ ON\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may c
+ hange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892543@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261020T230000Z
+DTEND:20261021T013000Z
+SUMMARY:Maple Leafs @ Blue Jackets (ESPN+)
+LOCATION:Nationwide Arena\, Columbus\, OH
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: Nationwide Arena\, Columbus\,
+  OH\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892553@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261022T230000Z
+DTEND:20261023T013000Z
+SUMMARY:Rangers @ Maple Leafs (ESPN+)
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: Scotiabank Arena\, Toronto\, 
+ ON\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may c
+ hange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892574@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261024T230000Z
+DTEND:20261025T013000Z
+SUMMARY:Maple Leafs @ Oilers (ESPN+)
+LOCATION:Rogers Place\, Edmonton\, AB
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: Rogers Place\, Edmonton\, AB\
+ nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892583@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261027T003000Z
+DTEND:20261027T030000Z
+SUMMARY:Maple Leafs @ Flames (ESPN+)
+LOCATION:Scotiabank Saddledome\, Calgary\, AB
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: Scotiabank Saddledome\, Calga
+ ry\, AB\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892599@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261029T020000Z
+DTEND:20261029T043000Z
+SUMMARY:Maple Leafs @ Kraken (ESPN+)
+LOCATION:Climate Pledge Arena\, Seattle\, WA
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: Climate Pledge Arena\, Seattl
+ e\, WA\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892621@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261031T230000Z
+DTEND:20261101T013000Z
+SUMMARY:Maple Leafs @ Canucks (ESPN+)
+LOCATION:Rogers Arena\, Vancouver\, BC
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: Rogers Arena\, Vancouver\, BC
+ \nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892633@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261104T000000Z
+DTEND:20261104T023000Z
+SUMMARY:Mammoth @ Maple Leafs (Utah 16)
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: Utah 16\nVenue: Scotiabank Arena\, Toronto\
+ , ON\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892665@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261108T000000Z
+DTEND:20261108T023000Z
+SUMMARY:Canadiens @ Maple Leafs
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Scotiabank Arena\, Toronto\, ON
+ \nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892676@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261109T000000Z
+DTEND:20261109T023000Z
+SUMMARY:Devils @ Maple Leafs (MSGSN)
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: MSGSN\nVenue: Scotiabank Arena\, Toronto\, 
+ ON\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may c
+ hange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892683@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261111T000000Z
+DTEND:20261111T023000Z
+SUMMARY:Avalanche @ Maple Leafs (Altitude Sports)
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: Altitude Sports\nVenue: Scotiabank Arena\, 
+ Toronto\, ON\nUnofficial calendar\; not affiliated with the NHL or ESPN. T
+ imes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892697@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261113T000000Z
+DTEND:20261113T023000Z
+SUMMARY:Wild @ Maple Leafs (MINNHL)
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: MINNHL\nVenue: Scotiabank Arena\, Toronto\,
+  ON\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892710@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261115T000000Z
+DTEND:20261115T023000Z
+SUMMARY:Oilers @ Maple Leafs
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Scotiabank Arena\, Toronto\, ON
+ \nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892733@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261118T003000Z
+DTEND:20261118T030000Z
+SUMMARY:Maple Leafs @ Blackhawks (TNT / truTV)
+LOCATION:United Center\, Chicago\, IL
+DESCRIPTION:Regular Season\nTV: TNT / truTV\nVenue: United Center\, Chicago
+ \, IL\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times ma
+ y change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892742@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261120T000000Z
+DTEND:20261120T023000Z
+SUMMARY:Kings @ Maple Leafs (ABTV)
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: ABTV\nVenue: Scotiabank Arena\, Toronto\, O
+ N\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may ch
+ ange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892759@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261122T000000Z
+DTEND:20261122T023000Z
+SUMMARY:Blue Jackets @ Maple Leafs (CBJNHL)
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: CBJNHL\nVenue: Scotiabank Arena\, Toronto\,
+  ON\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892776@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261124T003000Z
+DTEND:20261124T030000Z
+SUMMARY:Maple Leafs @ Islanders (MSGSN)
+LOCATION:UBS Arena\, Elmont\, NY
+DESCRIPTION:Regular Season\nTV: MSGSN\nVenue: UBS Arena\, Elmont\, NY\nUnof
+ ficial calendar\; not affiliated with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892795@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261127T180000Z
+DTEND:20261127T203000Z
+SUMMARY:Maple Leafs @ Bruins
+LOCATION:TD Garden\, Boston\, MA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: TD Garden\, Boston\, MA\nUnoffi
+ cial calendar\; not affiliated with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892815@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261129T000000Z
+DTEND:20261129T023000Z
+SUMMARY:Maple Leafs @ Penguins
+LOCATION:PPG Paints Arena\, Pittsburgh\, PA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: PPG Paints Arena\, Pittsburgh\,
+  PA\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892828@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261201T003000Z
+DTEND:20261201T030000Z
+SUMMARY:Flyers @ Maple Leafs (NBC Sports Phil)
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil\nVenue: Scotiabank Arena\, 
+ Toronto\, ON\nUnofficial calendar\; not affiliated with the NHL or ESPN. T
+ imes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892843@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261204T000000Z
+DTEND:20261204T023000Z
+SUMMARY:Panthers @ Maple Leafs (Scripps Sports)
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: Scripps Sports\nVenue: Scotiabank Arena\, T
+ oronto\, ON\nUnofficial calendar\; not affiliated with the NHL or ESPN. Ti
+ mes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892866@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261206T000000Z
+DTEND:20261206T023000Z
+SUMMARY:Maple Leafs @ Hurricanes (CARNHL)
+LOCATION:Lenovo Center\, Raleigh\, NC
+DESCRIPTION:Regular Season\nTV: CARNHL\nVenue: Lenovo Center\, Raleigh\, NC
+ \nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892892@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261210T003000Z
+DTEND:20261210T030000Z
+SUMMARY:Maple Leafs @ Stars (KDFI / Prime Video (Local))
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:Regular Season\nTV: KDFI / Prime Video (Local)\nVenue: American
+  Airlines Center\, Dallas\, TX\nUnofficial calendar\; not affiliated with 
+ the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892914@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261213T000000Z
+DTEND:20261213T023000Z
+SUMMARY:Golden Knights @ Maple Leafs (Scripps Sports)
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: Scripps Sports\nVenue: Scotiabank Arena\, T
+ oronto\, ON\nUnofficial calendar\; not affiliated with the NHL or ESPN. Ti
+ mes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892924@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261214T000000Z
+DTEND:20261214T023000Z
+SUMMARY:Ducks @ Maple Leafs (KCOP / Prime Video (Local))
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: KCOP / Prime Video (Local)\nVenue: Scotiaba
+ nk Arena\, Toronto\, ON\nUnofficial calendar\; not affiliated with the NHL
+  or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892939@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261216T010000Z
+DTEND:20261216T033000Z
+SUMMARY:Maple Leafs @ Wild (MINNHL)
+LOCATION:Grand Casino Arena\, Saint Paul\, MN
+DESCRIPTION:Regular Season\nTV: MINNHL\nVenue: Grand Casino Arena\, Saint P
+ aul\, MN\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times
+  may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892948@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261218T003000Z
+DTEND:20261218T030000Z
+SUMMARY:Maple Leafs @ Devils (Disney+ / ESPN+ / Hulu)
+LOCATION:Prudential Center\, Newark\, NJ
+DESCRIPTION:Regular Season\nTV: Disney+ / ESPN+ / Hulu\nVenue: Prudential C
+ enter\, Newark\, NJ\nUnofficial calendar\; not affiliated with the NHL or 
+ ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892964@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261220T000000Z
+DTEND:20261220T023000Z
+SUMMARY:Lightning @ Maple Leafs (The Spot - MTN)
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: The Spot - MTN\nVenue: Scotiabank Arena\, T
+ oronto\, ON\nUnofficial calendar\; not affiliated with the NHL or ESPN. Ti
+ mes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892978@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261221T190000Z
+DTEND:20261221T213000Z
+SUMMARY:Capitals @ Maple Leafs
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Scotiabank Arena\, Toronto\, ON
+ \nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892988@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261223T000000Z
+DTEND:20261223T023000Z
+SUMMARY:Maple Leafs @ Red Wings (DSN)
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: DSN\nVenue: Little Caesars Arena\, Detroit\
+ , MI\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892997@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261227T000000Z
+DTEND:20261227T023000Z
+SUMMARY:Maple Leafs @ Canadiens
+LOCATION:Bell Centre\, Montreal\, QC
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Bell Centre\, Montreal\, QC\nUn
+ official calendar\; not affiliated with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893029@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261230T030000Z
+DTEND:20261230T053000Z
+SUMMARY:Maple Leafs @ Ducks (KCOP / Prime Video (Local))
+LOCATION:Honda Center\, Anaheim\, CA
+DESCRIPTION:Regular Season\nTV: KCOP / Prime Video (Local)\nVenue: Honda Ce
+ nter\, Anaheim\, CA\nUnofficial calendar\; not affiliated with the NHL or 
+ ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893034@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261231T030000Z
+DTEND:20261231T053000Z
+SUMMARY:Maple Leafs @ Kings (ABTV)
+LOCATION:crypto.com Arena\, Los Angeles\, CA
+DESCRIPTION:Regular Season\nTV: ABTV\nVenue: crypto.com Arena\, Los Angeles
+ \, CA\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times ma
+ y change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893055@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270103T000000Z
+DTEND:20270103T023000Z
+SUMMARY:Maple Leafs @ Sharks (NBC Sports BA)
+LOCATION:SAP Center at San Jose\, San Jose\, CA
+DESCRIPTION:Regular Season\nTV: NBC Sports BA\nVenue: SAP Center at San Jos
+ e\, San Jose\, CA\nUnofficial calendar\; not affiliated with the NHL or ES
+ PN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893068@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270105T003000Z
+DTEND:20270105T030000Z
+SUMMARY:Maple Leafs @ Capitals
+LOCATION:Capital One Arena\, Washington\, DC
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Capital One Arena\, Washington\
+ , DC\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893089@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270108T000000Z
+DTEND:20270108T023000Z
+SUMMARY:Maple Leafs @ Flyers (NBC Sports Phil)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil\nVenue: Xfinity Mobile Aren
+ a\, Philadelphia\, PA\nUnofficial calendar\; not affiliated with the NHL o
+ r ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893105@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270110T000000Z
+DTEND:20270110T023000Z
+SUMMARY:Flyers @ Maple Leafs (NBC Sports Phil)
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil\nVenue: Scotiabank Arena\, 
+ Toronto\, ON\nUnofficial calendar\; not affiliated with the NHL or ESPN. T
+ imes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893117@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270112T003000Z
+DTEND:20270112T030000Z
+SUMMARY:Jets @ Maple Leafs
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Scotiabank Arena\, Toronto\, ON
+ \nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893137@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270115T000000Z
+DTEND:20270115T023000Z
+SUMMARY:Blackhawks @ Maple Leafs (CHSN)
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: CHSN\nVenue: Scotiabank Arena\, Toronto\, O
+ N\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may ch
+ ange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893154@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270117T000000Z
+DTEND:20270117T023000Z
+SUMMARY:Penguins @ Maple Leafs
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Scotiabank Arena\, Toronto\, ON
+ \nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893175@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270119T003000Z
+DTEND:20270119T030000Z
+SUMMARY:Blues @ Maple Leafs (Blues App / BN+)
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: Blues App / BN+\nVenue: Scotiabank Arena\, 
+ Toronto\, ON\nUnofficial calendar\; not affiliated with the NHL or ESPN. T
+ imes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893186@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270121T003000Z
+DTEND:20270121T030000Z
+SUMMARY:Maple Leafs @ Senators
+LOCATION:Canadian Tire Centre\, Ottawa\, ON
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Canadian Tire Centre\, Ottawa\,
+  ON\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893210@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270124T000000Z
+DTEND:20270124T023000Z
+SUMMARY:Maple Leafs @ Blues (Blues App / BN+)
+LOCATION:Enterprise Center\, St. Louis\, MO
+DESCRIPTION:Regular Season\nTV: Blues App / BN+\nVenue: Enterprise Center\,
+  St. Louis\, MO\nUnofficial calendar\; not affiliated with the NHL or ESPN
+ . Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893227@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270127T000000Z
+DTEND:20270127T023000Z
+SUMMARY:Flames @ Maple Leafs
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Scotiabank Arena\, Toronto\, ON
+ \nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893238@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270128T003000Z
+DTEND:20270128T030000Z
+SUMMARY:Maple Leafs @ Red Wings (DSN)
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: DSN\nVenue: Little Caesars Arena\, Detroit\
+ , MI\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893261@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270131T000000Z
+DTEND:20270131T023000Z
+SUMMARY:Maple Leafs @ Bruins
+LOCATION:TD Garden\, Boston\, MA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: TD Garden\, Boston\, MA\nUnoffi
+ cial calendar\; not affiliated with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893287@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270209T003000Z
+DTEND:20270209T030000Z
+SUMMARY:Blue Jackets @ Maple Leafs (CBJNHL)
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: CBJNHL\nVenue: Scotiabank Arena\, Toronto\,
+  ON\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893293@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270211T003000Z
+DTEND:20270211T030000Z
+SUMMARY:Bruins @ Maple Leafs (TNT / truTV)
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: TNT / truTV\nVenue: Scotiabank Arena\, Toro
+ nto\, ON\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times
+  may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893310@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270214T000000Z
+DTEND:20270214T023000Z
+SUMMARY:Maple Leafs @ Senators
+LOCATION:Canadian Tire Centre\, Ottawa\, ON
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Canadian Tire Centre\, Ottawa\,
+  ON\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893331@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270217T000000Z
+DTEND:20270217T023000Z
+SUMMARY:Hurricanes @ Maple Leafs (CARNHL)
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: CARNHL\nVenue: Scotiabank Arena\, Toronto\,
+  ON\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893348@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270219T010000Z
+DTEND:20270219T033000Z
+SUMMARY:Maple Leafs @ Predators (Scripps Sports)
+LOCATION:Bridgestone Arena\, Nashville\, TN
+DESCRIPTION:Regular Season\nTV: Scripps Sports\nVenue: Bridgestone Arena\, 
+ Nashville\, TN\nUnofficial calendar\; not affiliated with the NHL or ESPN.
+  Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893365@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270221T000000Z
+DTEND:20270221T023000Z
+SUMMARY:Maple Leafs @ Lightning (The Spot - MTN)
+LOCATION:Benchmark International Arena\, Tampa\, FL
+DESCRIPTION:Regular Season\nTV: The Spot - MTN\nVenue: Benchmark Internatio
+ nal Arena\, Tampa\, FL\nUnofficial calendar\; not affiliated with the NHL 
+ or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893382@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270224T000000Z
+DTEND:20270224T023000Z
+SUMMARY:Red Wings @ Maple Leafs (DSN)
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: DSN\nVenue: Scotiabank Arena\, Toronto\, ON
+ \nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893396@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270226T000000Z
+DTEND:20270226T023000Z
+SUMMARY:Maple Leafs @ Penguins
+LOCATION:PPG Paints Arena\, Pittsburgh\, PA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: PPG Paints Arena\, Pittsburgh\,
+  PA\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893413@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270228T000000Z
+DTEND:20270228T023000Z
+SUMMARY:Maple Leafs @ Sabres (MSGB)
+LOCATION:KeyBank Center\, Buffalo\, NY
+DESCRIPTION:Regular Season\nTV: MSGB\nVenue: KeyBank Center\, Buffalo\, NY\
+ nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893427@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270302T000000Z
+DTEND:20270302T023000Z
+SUMMARY:Red Wings @ Maple Leafs (DSN)
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: DSN\nVenue: Scotiabank Arena\, Toronto\, ON
+ \nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893439@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270303T233000Z
+DTEND:20270304T020000Z
+SUMMARY:Kraken @ Maple Leafs (KONG / Prime Video (Local))
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: KONG / Prime Video (Local)\nVenue: Scotiaba
+ nk Arena\, Toronto\, ON\nUnofficial calendar\; not affiliated with the NHL
+  or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893456@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270306T000000Z
+DTEND:20270306T023000Z
+SUMMARY:Maple Leafs @ Hurricanes (CARNHL)
+LOCATION:Lenovo Center\, Raleigh\, NC
+DESCRIPTION:Regular Season\nTV: CARNHL\nVenue: Lenovo Center\, Raleigh\, NC
+ \nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893467@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270307T000000Z
+DTEND:20270307T023000Z
+SUMMARY:Maple Leafs @ Panthers (Scripps Sports)
+LOCATION:Amerant Bank Arena\, Sunrise\, FL
+DESCRIPTION:Regular Season\nTV: Scripps Sports\nVenue: Amerant Bank Arena\,
+  Sunrise\, FL\nUnofficial calendar\; not affiliated with the NHL or ESPN. 
+ Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893481@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270309T003000Z
+DTEND:20270309T030000Z
+SUMMARY:Stars @ Maple Leafs (Prime Video (Local) / KDFW 4)
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: Prime Video (Local) / KDFW 4\nVenue: Scotia
+ bank Arena\, Toronto\, ON\nUnofficial calendar\; not affiliated with the N
+ HL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893503@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270312T010000Z
+DTEND:20270312T033000Z
+SUMMARY:Maple Leafs @ Jets
+LOCATION:Canada Life Centre\, Winnipeg\, MB
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Canada Life Centre\, Winnipeg\,
+  MB\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893517@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270314T000000Z
+DTEND:20270314T023000Z
+SUMMARY:Canucks @ Maple Leafs
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Scotiabank Arena\, Toronto\, ON
+ \nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893532@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270315T233000Z
+DTEND:20270316T020000Z
+SUMMARY:Panthers @ Maple Leafs (Scripps Sports)
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: Scripps Sports\nVenue: Scotiabank Arena\, T
+ oronto\, ON\nUnofficial calendar\; not affiliated with the NHL or ESPN. Ti
+ mes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893546@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270317T233000Z
+DTEND:20270318T020000Z
+SUMMARY:Lightning @ Maple Leafs (The Spot - MTN)
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: The Spot - MTN\nVenue: Scotiabank Arena\, T
+ oronto\, ON\nUnofficial calendar\; not affiliated with the NHL or ESPN. Ti
+ mes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893556@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270318T230000Z
+DTEND:20270319T013000Z
+SUMMARY:Maple Leafs @ Rangers (MSG)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: MSG\nVenue: Madison Square Garden\, New Yor
+ k\, NY\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893571@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270320T230000Z
+DTEND:20270321T013000Z
+SUMMARY:Maple Leafs @ Devils (MSGSN)
+LOCATION:Prudential Center\, Newark\, NJ
+DESCRIPTION:Regular Season\nTV: MSGSN\nVenue: Prudential Center\, Newark\, 
+ NJ\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may c
+ hange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893585@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270322T233000Z
+DTEND:20270323T020000Z
+SUMMARY:Maple Leafs @ Canadiens
+LOCATION:Bell Centre\, Montreal\, QC
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Bell Centre\, Montreal\, QC\nUn
+ official calendar\; not affiliated with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893603@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270325T230000Z
+DTEND:20270326T013000Z
+SUMMARY:Maple Leafs @ Sabres (MSGB)
+LOCATION:KeyBank Center\, Buffalo\, NY
+DESCRIPTION:Regular Season\nTV: MSGB\nVenue: KeyBank Center\, Buffalo\, NY\
+ nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893622@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270327T230000Z
+DTEND:20270328T013000Z
+SUMMARY:Senators @ Maple Leafs
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Scotiabank Arena\, Toronto\, ON
+ \nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893632@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270328T230000Z
+DTEND:20270329T013000Z
+SUMMARY:Capitals @ Maple Leafs
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Scotiabank Arena\, Toronto\, ON
+ \nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893641@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270330T230000Z
+DTEND:20270331T013000Z
+SUMMARY:Maple Leafs @ Lightning (The Spot - MTN)
+LOCATION:Benchmark International Arena\, Tampa\, FL
+DESCRIPTION:Regular Season\nTV: The Spot - MTN\nVenue: Benchmark Internatio
+ nal Arena\, Tampa\, FL\nUnofficial calendar\; not affiliated with the NHL 
+ or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893656@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270401T230000Z
+DTEND:20270402T013000Z
+SUMMARY:Maple Leafs @ Panthers (Scripps Sports)
+LOCATION:Amerant Bank Arena\, Sunrise\, FL
+DESCRIPTION:Regular Season\nTV: Scripps Sports\nVenue: Amerant Bank Arena\,
+  Sunrise\, FL\nUnofficial calendar\; not affiliated with the NHL or ESPN. 
+ Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893674@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270403T230000Z
+DTEND:20270404T013000Z
+SUMMARY:Sabres @ Maple Leafs (MSGB)
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: MSGB\nVenue: Scotiabank Arena\, Toronto\, O
+ N\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may ch
+ ange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893689@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270405T230000Z
+DTEND:20270406T013000Z
+SUMMARY:Bruins @ Maple Leafs
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Scotiabank Arena\, Toronto\, ON
+ \nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893730@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270410T230000Z
+DTEND:20270411T013000Z
+SUMMARY:Maple Leafs @ Rangers (MSG)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: MSG\nVenue: Madison Square Garden\, New Yor
+ k\, NY\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

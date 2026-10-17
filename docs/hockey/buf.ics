@@ -1,0 +1,1102 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jaxzn//NHL Calendars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Buffalo Sabres
+X-WR-CALDESC:Buffalo Sabres NHL schedule (unofficial\, auto-updated)
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:espn-401891781@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261001T230000Z
+DTEND:20261002T013000Z
+SUMMARY:Sabres @ Blue Jackets (ESPN+)
+LOCATION:Nationwide Arena\, Columbus\, OH
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: Nationwide Arena\, Columbus\,
+  OH\nFinal: Sabres 3\, Blue Jackets 6\nUnofficial calendar\; not affiliate
+ d with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401891776@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261003T230000Z
+DTEND:20261004T013000Z
+SUMMARY:Blackhawks @ Sabres (ESPN+)
+LOCATION:KeyBank Center\, Buffalo\, NY
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: KeyBank Center\, Buffalo\, NY
+ \nFinal: Blackhawks 3\, Sabres 4\nUnofficial calendar\; not affiliated wit
+ h the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892453@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261006T230000Z
+DTEND:20261007T013000Z
+SUMMARY:Wild @ Sabres (ESPN+)
+LOCATION:KeyBank Center\, Buffalo\, NY
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: KeyBank Center\, Buffalo\, NY
+ \nFinal: Wild 2\, Sabres 3\nUnofficial calendar\; not affiliated with the 
+ NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892458@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261008T230000Z
+DTEND:20261009T013000Z
+SUMMARY:Stars @ Sabres (ESPN+)
+LOCATION:KeyBank Center\, Buffalo\, NY
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: KeyBank Center\, Buffalo\, NY
+ \nFinal: Stars 4\, Sabres 0\nUnofficial calendar\; not affiliated with the
+  NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892472@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261010T230000Z
+DTEND:20261011T013000Z
+SUMMARY:Mammoth @ Sabres (ESPN+)
+LOCATION:KeyBank Center\, Buffalo\, NY
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: KeyBank Center\, Buffalo\, NY
+ \nFinal: Mammoth 4\, Sabres 1\nUnofficial calendar\; not affiliated with t
+ he NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892485@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261012T170000Z
+DTEND:20261012T193000Z
+SUMMARY:Panthers @ Sabres (ESPN+)
+LOCATION:KeyBank Center\, Buffalo\, NY
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: KeyBank Center\, Buffalo\, NY
+ \nFinal: Panthers 3\, Sabres 5\nUnofficial calendar\; not affiliated with 
+ the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892490@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261013T223000Z
+DTEND:20261014T010000Z
+SUMMARY:Sabres @ Canadiens (ESPN+)
+LOCATION:Bell Centre\, Montreal\, QC
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: Bell Centre\, Montreal\, QC\n
+ Final: Sabres 3\, Canadiens 4\nUnofficial calendar\; not affiliated with t
+ he NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892506@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261015T230000Z
+DTEND:20261016T013000Z
+SUMMARY:Sabres @ Maple Leafs (ESPN+)
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: Scotiabank Arena\, Toronto\, 
+ ON\nFinal: Sabres 5\, Maple Leafs 4\nUnofficial calendar\; not affiliated 
+ with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892524@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261017T230000Z
+DTEND:20261018T013000Z
+SUMMARY:Sabres @ Canadiens (NHL Network)
+LOCATION:Bell Centre\, Montreal\, QC
+DESCRIPTION:Regular Season\nTV: NHL Network\nVenue: Bell Centre\, Montreal\
+ , QC\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892550@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261021T233000Z
+DTEND:20261022T020000Z
+SUMMARY:Flyers @ Sabres (TNT / truTV)
+LOCATION:KeyBank Center\, Buffalo\, NY
+DESCRIPTION:Regular Season\nTV: TNT / truTV\nVenue: KeyBank Center\, Buffal
+ o\, NY\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892571@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261024T230000Z
+DTEND:20261025T013000Z
+SUMMARY:Sabres @ Capitals (ESPN+)
+LOCATION:Capital One Arena\, Washington\, DC
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: Capital One Arena\, Washingto
+ n\, DC\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892595@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261028T023000Z
+DTEND:20261028T050000Z
+SUMMARY:Sabres @ Sharks (ESPN)
+LOCATION:SAP Center at San Jose\, San Jose\, CA
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: SAP Center at San Jose\, San J
+ ose\, CA\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times
+  may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892608@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261030T020000Z
+DTEND:20261030T043000Z
+SUMMARY:Sabres @ Ducks (Disney+ / ESPN+ / Hulu)
+LOCATION:Honda Center\, Anaheim\, CA
+DESCRIPTION:Regular Season\nTV: Disney+ / ESPN+ / Hulu\nVenue: Honda Center
+ \, Anaheim\, CA\nUnofficial calendar\; not affiliated with the NHL or ESPN
+ . Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892618@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261031T200000Z
+DTEND:20261031T223000Z
+SUMMARY:Sabres @ Kings (ESPN+)
+LOCATION:crypto.com Arena\, Los Angeles\, CA
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: crypto.com Arena\, Los Angele
+ s\, CA\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892644@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261105T003000Z
+DTEND:20261105T030000Z
+SUMMARY:Senators @ Sabres (MSGB)
+LOCATION:KeyBank Center\, Buffalo\, NY
+DESCRIPTION:Regular Season\nTV: MSGB\nVenue: KeyBank Center\, Buffalo\, NY\
+ nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892659@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261107T000000Z
+DTEND:20261107T023000Z
+SUMMARY:Blue Jackets @ Sabres (MSGB / CBJNHL)
+LOCATION:KeyBank Center\, Buffalo\, NY
+DESCRIPTION:Regular Season\nTV: MSGB / CBJNHL\nVenue: KeyBank Center\, Buff
+ alo\, NY\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times
+  may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892675@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261108T203000Z
+DTEND:20261108T230000Z
+SUMMARY:Golden Knights @ Sabres (MSGB / Scripps Sports)
+LOCATION:KeyBank Center\, Buffalo\, NY
+DESCRIPTION:Regular Season\nTV: MSGB / Scripps Sports\nVenue: KeyBank Cente
+ r\, Buffalo\, NY\nUnofficial calendar\; not affiliated with the NHL or ESP
+ N. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892690@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261112T000000Z
+DTEND:20261112T023000Z
+SUMMARY:Lightning @ Sabres (TNT / truTV)
+LOCATION:KeyBank Center\, Buffalo\, NY
+DESCRIPTION:Regular Season\nTV: TNT / truTV\nVenue: KeyBank Center\, Buffal
+ o\, NY\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892702@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261113T010000Z
+DTEND:20261113T033000Z
+SUMMARY:Sabres @ Blackhawks (MSGB / CHSN)
+LOCATION:United Center\, Chicago\, IL
+DESCRIPTION:Regular Season\nTV: MSGB / CHSN\nVenue: United Center\, Chicago
+ \, IL\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times ma
+ y change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892717@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261115T010000Z
+DTEND:20261115T033000Z
+SUMMARY:Sabres @ Stars (MSGB / Prime Video (Local))
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:Regular Season\nTV: MSGB / Prime Video (Local)\nVenue: American
+  Airlines Center\, Dallas\, TX\nUnofficial calendar\; not affiliated with 
+ the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892732@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261118T000000Z
+DTEND:20261118T023000Z
+SUMMARY:Sabres @ Flyers (MSGB / NBC Sports Phil)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: MSGB / NBC Sports Phil\nVenue: Xfinity Mobi
+ le Arena\, Philadelphia\, PA\nUnofficial calendar\; not affiliated with th
+ e NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892746@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261120T000000Z
+DTEND:20261120T023000Z
+SUMMARY:Sabres @ Capitals (MNMT / MSGB)
+LOCATION:Capital One Arena\, Washington\, DC
+DESCRIPTION:Regular Season\nTV: MNMT / MSGB\nVenue: Capital One Arena\, Was
+ hington\, DC\nUnofficial calendar\; not affiliated with the NHL or ESPN. T
+ imes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892756@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261121T230000Z
+DTEND:20261122T013000Z
+SUMMARY:Sabres @ Panthers (MSGB / Scripps Sports)
+LOCATION:Amerant Bank Arena\, Sunrise\, FL
+DESCRIPTION:Regular Season\nTV: MSGB / Scripps Sports\nVenue: Amerant Bank 
+ Arena\, Sunrise\, FL\nUnofficial calendar\; not affiliated with the NHL or
+  ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892769@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261122T220000Z
+DTEND:20261123T003000Z
+SUMMARY:Sabres @ Lightning (MSGB / The Spot - MTN)
+LOCATION:Benchmark International Arena\, Tampa\, FL
+DESCRIPTION:Regular Season\nTV: MSGB / The Spot - MTN\nVenue: Benchmark Int
+ ernational Arena\, Tampa\, FL\nUnofficial calendar\; not affiliated with t
+ he NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892782@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261126T000000Z
+DTEND:20261126T023000Z
+SUMMARY:Rangers @ Sabres (MSG2 / MSGB)
+LOCATION:KeyBank Center\, Buffalo\, NY
+DESCRIPTION:Regular Season\nTV: MSG2 / MSGB\nVenue: KeyBank Center\, Buffal
+ o\, NY\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892808@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261128T010000Z
+DTEND:20261128T033000Z
+SUMMARY:Penguins @ Sabres (TNT / truTV)
+LOCATION:KeyBank Center\, Buffalo\, NY
+DESCRIPTION:Regular Season\nTV: TNT / truTV\nVenue: KeyBank Center\, Buffal
+ o\, NY\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892836@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261202T010000Z
+DTEND:20261202T033000Z
+SUMMARY:Sabres @ Oilers (MSGB)
+LOCATION:Rogers Place\, Edmonton\, AB
+DESCRIPTION:Regular Season\nTV: MSGB\nVenue: Rogers Place\, Edmonton\, AB\n
+ Unofficial calendar\; not affiliated with the NHL or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892850@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261204T010000Z
+DTEND:20261204T033000Z
+SUMMARY:Sabres @ Flames (MSGB)
+LOCATION:Scotiabank Saddledome\, Calgary\, AB
+DESCRIPTION:Regular Season\nTV: MSGB\nVenue: Scotiabank Saddledome\, Calgar
+ y\, AB\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892857@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261205T020000Z
+DTEND:20261205T043000Z
+SUMMARY:Sabres @ Canucks (MSGB)
+LOCATION:Rogers Arena\, Vancouver\, BC
+DESCRIPTION:Regular Season\nTV: MSGB\nVenue: Rogers Arena\, Vancouver\, BC\
+ nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892876@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261207T010000Z
+DTEND:20261207T033000Z
+SUMMARY:Sabres @ Kraken (MSGB / KONG / Prime Video (Local))
+LOCATION:Climate Pledge Arena\, Seattle\, WA
+DESCRIPTION:Regular Season\nTV: MSGB / KONG / Prime Video (Local)\nVenue: C
+ limate Pledge Arena\, Seattle\, WA\nUnofficial calendar\; not affiliated w
+ ith the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892894@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261211T000000Z
+DTEND:20261211T023000Z
+SUMMARY:Oilers @ Sabres (MSGB)
+LOCATION:KeyBank Center\, Buffalo\, NY
+DESCRIPTION:Regular Season\nTV: MSGB\nVenue: KeyBank Center\, Buffalo\, NY\
+ nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892913@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261213T000000Z
+DTEND:20261213T023000Z
+SUMMARY:Ducks @ Sabres (MSGB / KCOP / Prime Video (Local))
+LOCATION:KeyBank Center\, Buffalo\, NY
+DESCRIPTION:Regular Season\nTV: MSGB / KCOP / Prime Video (Local)\nVenue: K
+ eyBank Center\, Buffalo\, NY\nUnofficial calendar\; not affiliated with th
+ e NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892926@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261214T190000Z
+DTEND:20261214T213000Z
+SUMMARY:Sabres @ Senators (MSGB)
+LOCATION:Canadian Tire Centre\, Ottawa\, ON
+DESCRIPTION:Regular Season\nTV: MSGB\nVenue: Canadian Tire Centre\, Ottawa\
+ , ON\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892932@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261216T000000Z
+DTEND:20261216T023000Z
+SUMMARY:Flames @ Sabres (MSGB)
+LOCATION:KeyBank Center\, Buffalo\, NY
+DESCRIPTION:Regular Season\nTV: MSGB\nVenue: KeyBank Center\, Buffalo\, NY\
+ nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892954@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261219T003000Z
+DTEND:20261219T030000Z
+SUMMARY:Canadiens @ Sabres (Disney+ / ESPN+ / Hulu)
+LOCATION:KeyBank Center\, Buffalo\, NY
+DESCRIPTION:Regular Season\nTV: Disney+ / ESPN+ / Hulu\nVenue: KeyBank Cent
+ er\, Buffalo\, NY\nUnofficial calendar\; not affiliated with the NHL or ES
+ PN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892972@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261220T230000Z
+DTEND:20261221T013000Z
+SUMMARY:Kings @ Sabres (MSGB / ABTV)
+LOCATION:KeyBank Center\, Buffalo\, NY
+DESCRIPTION:Regular Season\nTV: MSGB / ABTV\nVenue: KeyBank Center\, Buffal
+ o\, NY\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892986@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261223T000000Z
+DTEND:20261223T023000Z
+SUMMARY:Sabres @ Penguins (MSGB)
+LOCATION:PPG Paints Arena\, Pittsburgh\, PA
+DESCRIPTION:Regular Season\nTV: MSGB\nVenue: PPG Paints Arena\, Pittsburgh\
+ , PA\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892996@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261227T000000Z
+DTEND:20261227T023000Z
+SUMMARY:Devils @ Sabres (MSG / MSGB)
+LOCATION:KeyBank Center\, Buffalo\, NY
+DESCRIPTION:Regular Season\nTV: MSG / MSGB\nVenue: KeyBank Center\, Buffalo
+ \, NY\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times ma
+ y change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893013@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261229T000000Z
+DTEND:20261229T023000Z
+SUMMARY:Red Wings @ Sabres (MSGB / DSN)
+LOCATION:KeyBank Center\, Buffalo\, NY
+DESCRIPTION:Regular Season\nTV: MSGB / DSN\nVenue: KeyBank Center\, Buffalo
+ \, NY\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times ma
+ y change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893031@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261231T000000Z
+DTEND:20261231T023000Z
+SUMMARY:Sabres @ Panthers (MSGB / Scripps Sports)
+LOCATION:Amerant Bank Arena\, Sunrise\, FL
+DESCRIPTION:Regular Season\nTV: MSGB / Scripps Sports\nVenue: Amerant Bank 
+ Arena\, Sunrise\, FL\nUnofficial calendar\; not affiliated with the NHL or
+  ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893049@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270103T000000Z
+DTEND:20270103T023000Z
+SUMMARY:Sabres @ Lightning (MSGB / The Spot - MTN)
+LOCATION:Benchmark International Arena\, Tampa\, FL
+DESCRIPTION:Regular Season\nTV: MSGB / The Spot - MTN\nVenue: Benchmark Int
+ ernational Arena\, Tampa\, FL\nUnofficial calendar\; not affiliated with t
+ he NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893066@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270105T003000Z
+DTEND:20270105T030000Z
+SUMMARY:Jets @ Sabres (MSGB)
+LOCATION:KeyBank Center\, Buffalo\, NY
+DESCRIPTION:Regular Season\nTV: MSGB\nVenue: KeyBank Center\, Buffalo\, NY\
+ nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893075@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270106T003000Z
+DTEND:20270106T030000Z
+SUMMARY:Sabres @ Bruins (TNT / truTV)
+LOCATION:TD Garden\, Boston\, MA
+DESCRIPTION:Regular Season\nTV: TNT / truTV\nVenue: TD Garden\, Boston\, MA
+ \nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893096@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270109T000000Z
+DTEND:20270109T023000Z
+SUMMARY:Sabres @ Blue Jackets (MSGB / CBJNHL)
+LOCATION:Nationwide Arena\, Columbus\, OH
+DESCRIPTION:Regular Season\nTV: MSGB / CBJNHL\nVenue: Nationwide Arena\, Co
+ lumbus\, OH\nUnofficial calendar\; not affiliated with the NHL or ESPN. Ti
+ mes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893104@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270110T000000Z
+DTEND:20270110T023000Z
+SUMMARY:Hurricanes @ Sabres (MSGB / CARNHL)
+LOCATION:KeyBank Center\, Buffalo\, NY
+DESCRIPTION:Regular Season\nTV: MSGB / CARNHL\nVenue: KeyBank Center\, Buff
+ alo\, NY\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times
+  may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893121@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270113T000000Z
+DTEND:20270113T023000Z
+SUMMARY:Devils @ Sabres (MSGSN / MSGB)
+LOCATION:KeyBank Center\, Buffalo\, NY
+DESCRIPTION:Regular Season\nTV: MSGSN / MSGB\nVenue: KeyBank Center\, Buffa
+ lo\, NY\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893136@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270115T003000Z
+DTEND:20270115T030000Z
+SUMMARY:Avalanche @ Sabres (MSGB / Altitude 2 Sports)
+LOCATION:KeyBank Center\, Buffalo\, NY
+DESCRIPTION:Regular Season\nTV: MSGB / Altitude 2 Sports\nVenue: KeyBank Ce
+ nter\, Buffalo\, NY\nUnofficial calendar\; not affiliated with the NHL or 
+ ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893153@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270117T000000Z
+DTEND:20270117T023000Z
+SUMMARY:Predators @ Sabres (Scripps Sports / MSGB)
+LOCATION:KeyBank Center\, Buffalo\, NY
+DESCRIPTION:Regular Season\nTV: Scripps Sports / MSGB\nVenue: KeyBank Cente
+ r\, Buffalo\, NY\nUnofficial calendar\; not affiliated with the NHL or ESP
+ N. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893168@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270118T190000Z
+DTEND:20270118T213000Z
+SUMMARY:Canadiens @ Sabres (MSGB)
+LOCATION:KeyBank Center\, Buffalo\, NY
+DESCRIPTION:Regular Season\nTV: MSGB\nVenue: KeyBank Center\, Buffalo\, NY\
+ nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893185@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270121T000000Z
+DTEND:20270121T023000Z
+SUMMARY:Sabres @ Islanders (MSGB / MSGSN)
+LOCATION:UBS Arena\, Elmont\, NY
+DESCRIPTION:Regular Season\nTV: MSGB / MSGSN\nVenue: UBS Arena\, Elmont\, N
+ Y\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may ch
+ ange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893190@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270122T000000Z
+DTEND:20270122T023000Z
+SUMMARY:Kraken @ Sabres (MSGB / KONG / Prime Video (Local))
+LOCATION:KeyBank Center\, Buffalo\, NY
+DESCRIPTION:Regular Season\nTV: MSGB / KONG / Prime Video (Local)\nVenue: K
+ eyBank Center\, Buffalo\, NY\nUnofficial calendar\; not affiliated with th
+ e NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893216@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270124T200000Z
+DTEND:20270124T223000Z
+SUMMARY:Sabres @ Jets (MSGB)
+LOCATION:Canada Life Centre\, Winnipeg\, MB
+DESCRIPTION:Regular Season\nTV: MSGB\nVenue: Canada Life Centre\, Winnipeg\
+ , MB\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893240@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270128T020000Z
+DTEND:20270128T043000Z
+SUMMARY:Sabres @ Mammoth (MSGB / Utah 16)
+LOCATION:Delta Center\, Salt Lake City\, UT
+DESCRIPTION:Regular Season\nTV: MSGB / Utah 16\nVenue: Delta Center\, Salt 
+ Lake City\, UT\nUnofficial calendar\; not affiliated with the NHL or ESPN.
+  Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893250@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270129T030000Z
+DTEND:20270129T053000Z
+SUMMARY:Sabres @ Golden Knights (MSGB / Scripps Sports)
+LOCATION:T-Mobile Arena\, Las Vegas\, NV
+DESCRIPTION:Regular Season\nTV: MSGB / Scripps Sports\nVenue: T-Mobile Aren
+ a\, Las Vegas\, NV\nUnofficial calendar\; not affiliated with the NHL or E
+ SPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893260@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270130T220000Z
+DTEND:20270131T003000Z
+SUMMARY:Sabres @ Avalanche (MSGB / Altitude Sports)
+LOCATION:Ball Arena\, Denver\, CO
+DESCRIPTION:Regular Season\nTV: MSGB / Altitude Sports\nVenue: Ball Arena\,
+  Denver\, CO\nUnofficial calendar\; not affiliated with the NHL or ESPN. T
+ imes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893279@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270204T000000Z
+DTEND:20270204T023000Z
+SUMMARY:Islanders @ Sabres (MSGSN / MSGB)
+LOCATION:KeyBank Center\, Buffalo\, NY
+DESCRIPTION:Regular Season\nTV: MSGSN / MSGB\nVenue: KeyBank Center\, Buffa
+ lo\, NY\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893313@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270214T000000Z
+DTEND:20270214T023000Z
+SUMMARY:Sabres @ Hurricanes (MSGB / CARNHL)
+LOCATION:Lenovo Center\, Raleigh\, NC
+DESCRIPTION:Regular Season\nTV: MSGB / CARNHL\nVenue: Lenovo Center\, Ralei
+ gh\, NC\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893323@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270215T230000Z
+DTEND:20270216T013000Z
+SUMMARY:Sabres @ Rangers (MSGB / MSGSN)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: MSGB / MSGSN\nVenue: Madison Square Garden\
+ , New York\, NY\nUnofficial calendar\; not affiliated with the NHL or ESPN
+ . Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893343@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270219T000000Z
+DTEND:20270219T023000Z
+SUMMARY:Hurricanes @ Sabres (MSGB / CARNHL)
+LOCATION:KeyBank Center\, Buffalo\, NY
+DESCRIPTION:Regular Season\nTV: MSGB / CARNHL\nVenue: KeyBank Center\, Buff
+ alo\, NY\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times
+  may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893360@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270220T183000Z
+DTEND:20270220T210000Z
+SUMMARY:Sabres @ Devils (MSGB / MSGSN)
+LOCATION:Prudential Center\, Newark\, NJ
+DESCRIPTION:Regular Season\nTV: MSGB / MSGSN\nVenue: Prudential Center\, Ne
+ wark\, NJ\nUnofficial calendar\; not affiliated with the NHL or ESPN. Time
+ s may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893369@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270221T203000Z
+DTEND:20270221T230000Z
+SUMMARY:Sabres @ Red Wings (TNT / truTV)
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: TNT / truTV\nVenue: Little Caesars Arena\, 
+ Detroit\, MI\nUnofficial calendar\; not affiliated with the NHL or ESPN. T
+ imes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893390@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270225T000000Z
+DTEND:20270225T023000Z
+SUMMARY:Sabres @ Flyers (TNT / truTV)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: TNT / truTV\nVenue: Xfinity Mobile Arena\, 
+ Philadelphia\, PA\nUnofficial calendar\; not affiliated with the NHL or ES
+ PN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893406@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270227T003000Z
+DTEND:20270227T030000Z
+SUMMARY:Senators @ Sabres (MSGB)
+LOCATION:KeyBank Center\, Buffalo\, NY
+DESCRIPTION:Regular Season\nTV: MSGB\nVenue: KeyBank Center\, Buffalo\, NY\
+ nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893413@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270228T000000Z
+DTEND:20270228T023000Z
+SUMMARY:Maple Leafs @ Sabres (MSGB)
+LOCATION:KeyBank Center\, Buffalo\, NY
+DESCRIPTION:Regular Season\nTV: MSGB\nVenue: KeyBank Center\, Buffalo\, NY\
+ nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893434@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270303T000000Z
+DTEND:20270303T023000Z
+SUMMARY:Penguins @ Sabres (MSGB)
+LOCATION:KeyBank Center\, Buffalo\, NY
+DESCRIPTION:Regular Season\nTV: MSGB\nVenue: KeyBank Center\, Buffalo\, NY\
+ nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893447@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270305T000000Z
+DTEND:20270305T023000Z
+SUMMARY:Blues @ Sabres (MSGB / Blues App / BN+)
+LOCATION:KeyBank Center\, Buffalo\, NY
+DESCRIPTION:Regular Season\nTV: MSGB / Blues App / BN+\nVenue: KeyBank Cent
+ er\, Buffalo\, NY\nUnofficial calendar\; not affiliated with the NHL or ES
+ PN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893463@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270306T200000Z
+DTEND:20270306T223000Z
+SUMMARY:Rangers @ Sabres (ABC)
+LOCATION:KeyBank Center\, Buffalo\, NY
+DESCRIPTION:Regular Season\nTV: ABC\nVenue: KeyBank Center\, Buffalo\, NY\n
+ Unofficial calendar\; not affiliated with the NHL or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893476@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270307T200000Z
+DTEND:20270307T223000Z
+SUMMARY:Sabres @ Senators (MSGB)
+LOCATION:Canadian Tire Centre\, Ottawa\, ON
+DESCRIPTION:Regular Season\nTV: MSGB\nVenue: Canadian Tire Centre\, Ottawa\
+ , ON\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893483@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270310T000000Z
+DTEND:20270310T023000Z
+SUMMARY:Canucks @ Sabres (MSGB)
+LOCATION:KeyBank Center\, Buffalo\, NY
+DESCRIPTION:Regular Season\nTV: MSGB\nVenue: KeyBank Center\, Buffalo\, NY\
+ nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893508@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270313T000000Z
+DTEND:20270313T023000Z
+SUMMARY:Sabres @ Red Wings (MSGB / DSN)
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: MSGB / DSN\nVenue: Little Caesars Arena\, D
+ etroit\, MI\nUnofficial calendar\; not affiliated with the NHL or ESPN. Ti
+ mes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893528@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270314T230000Z
+DTEND:20270315T013000Z
+SUMMARY:Sabres @ Wild (TNT / truTV)
+LOCATION:Grand Casino Arena\, Saint Paul\, MN
+DESCRIPTION:Regular Season\nTV: TNT / truTV\nVenue: Grand Casino Arena\, Sa
+ int Paul\, MN\nUnofficial calendar\; not affiliated with the NHL or ESPN. 
+ Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893531@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270315T230000Z
+DTEND:20270316T013000Z
+SUMMARY:Sharks @ Sabres (NBC Sports BA / MSGB)
+LOCATION:KeyBank Center\, Buffalo\, NY
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / MSGB\nVenue: KeyBank Center
+ \, Buffalo\, NY\nUnofficial calendar\; not affiliated with the NHL or ESPN
+ . Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893551@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270318T233000Z
+DTEND:20270319T020000Z
+SUMMARY:Capitals @ Sabres (Disney+ / ESPN+ / Hulu)
+LOCATION:KeyBank Center\, Buffalo\, NY
+DESCRIPTION:Regular Season\nTV: Disney+ / ESPN+ / Hulu\nVenue: KeyBank Cent
+ er\, Buffalo\, NY\nUnofficial calendar\; not affiliated with the NHL or ES
+ PN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893565@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270320T170000Z
+DTEND:20270320T193000Z
+SUMMARY:Panthers @ Sabres (Scripps Sports / MSGB)
+LOCATION:KeyBank Center\, Buffalo\, NY
+DESCRIPTION:Regular Season\nTV: Scripps Sports / MSGB\nVenue: KeyBank Cente
+ r\, Buffalo\, NY\nUnofficial calendar\; not affiliated with the NHL or ESP
+ N. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893578@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270321T190000Z
+DTEND:20270321T213000Z
+SUMMARY:Sabres @ Islanders (MSGB / MSGSN)
+LOCATION:UBS Arena\, Elmont\, NY
+DESCRIPTION:Regular Season\nTV: MSGB / MSGSN\nVenue: UBS Arena\, Elmont\, N
+ Y\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may ch
+ ange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893587@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270323T230000Z
+DTEND:20270324T013000Z
+SUMMARY:Sabres @ Bruins (MSGB)
+LOCATION:TD Garden\, Boston\, MA
+DESCRIPTION:Regular Season\nTV: MSGB\nVenue: TD Garden\, Boston\, MA\nUnoff
+ icial calendar\; not affiliated with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893603@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270325T230000Z
+DTEND:20270326T013000Z
+SUMMARY:Maple Leafs @ Sabres (MSGB)
+LOCATION:KeyBank Center\, Buffalo\, NY
+DESCRIPTION:Regular Season\nTV: MSGB\nVenue: KeyBank Center\, Buffalo\, NY\
+ nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893634@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270329T003000Z
+DTEND:20270329T030000Z
+SUMMARY:Sabres @ Blues (ESPN)
+LOCATION:Enterprise Center\, St. Louis\, MO
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Enterprise Center\, St. Louis\
+ , MO\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893646@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270331T000000Z
+DTEND:20270331T023000Z
+SUMMARY:Sabres @ Predators (MSGB / Scripps Sports)
+LOCATION:Bridgestone Arena\, Nashville\, TN
+DESCRIPTION:Regular Season\nTV: MSGB / Scripps Sports\nVenue: Bridgestone A
+ rena\, Nashville\, TN\nUnofficial calendar\; not affiliated with the NHL o
+ r ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893659@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270401T230000Z
+DTEND:20270402T013000Z
+SUMMARY:Bruins @ Sabres (MSGB)
+LOCATION:KeyBank Center\, Buffalo\, NY
+DESCRIPTION:Regular Season\nTV: MSGB\nVenue: KeyBank Center\, Buffalo\, NY\
+ nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893674@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270403T230000Z
+DTEND:20270404T013000Z
+SUMMARY:Sabres @ Maple Leafs (MSGB)
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: MSGB\nVenue: Scotiabank Arena\, Toronto\, O
+ N\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may ch
+ ange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893688@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270405T230000Z
+DTEND:20270406T013000Z
+SUMMARY:Lightning @ Sabres (MSGB / The Spot - MTN)
+LOCATION:KeyBank Center\, Buffalo\, NY
+DESCRIPTION:Regular Season\nTV: MSGB / The Spot - MTN\nVenue: KeyBank Cente
+ r\, Buffalo\, NY\nUnofficial calendar\; not affiliated with the NHL or ESP
+ N. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893703@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270407T233000Z
+DTEND:20270408T020000Z
+SUMMARY:Bruins @ Sabres (TNT / truTV)
+LOCATION:KeyBank Center\, Buffalo\, NY
+DESCRIPTION:Regular Season\nTV: TNT / truTV\nVenue: KeyBank Center\, Buffal
+ o\, NY\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893724@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270410T220000Z
+DTEND:20270411T003000Z
+SUMMARY:Red Wings @ Sabres (MSGB / DSN)
+LOCATION:KeyBank Center\, Buffalo\, NY
+DESCRIPTION:Regular Season\nTV: MSGB / DSN\nVenue: KeyBank Center\, Buffalo
+ \, NY\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times ma
+ y change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,2145 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jaxzn//MLB Calendars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Kansas City Royals
+X-WR-CALDESC:Kansas City Royals MLB schedule (unofficial\, auto-updated)
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:espn-401814691@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260327T231500Z
+DTEND:20260328T021500Z
+SUMMARY:Royals @ Braves (Royals.TV / BravesVision / Gray Media)
+LOCATION:Truist Park\, Atlanta\, Georgia
+DESCRIPTION:Regular Season\nTV: Royals.TV / BravesVision / Gray Media\nVenu
+ e: Truist Park\, Atlanta\, Georgia\nFinal: Royals 0\, Braves 6\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814710@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260328T231500Z
+DTEND:20260329T021500Z
+SUMMARY:Royals @ Braves (Fox)
+LOCATION:Truist Park\, Atlanta\, Georgia
+DESCRIPTION:Regular Season\nTV: Fox\nVenue: Truist Park\, Atlanta\, Georgia
+ \nFinal: Royals 2\, Braves 6\nUnofficial calendar\; not affiliated with th
+ e MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814725@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260329T173500Z
+DTEND:20260329T203500Z
+SUMMARY:Royals @ Braves (MLB Network)
+LOCATION:Truist Park\, Atlanta\, Georgia
+DESCRIPTION:Regular Season\nTV: MLB Network\nVenue: Truist Park\, Atlanta\,
+  Georgia\nFinal: Royals 4\, Braves 1\nUnofficial calendar\; not affiliated
+  with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814743@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260330T201000Z
+DTEND:20260330T231000Z
+SUMMARY:Twins @ Royals (ESPN Unlimited)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Kauffman Stadium\, K
+ ansas City\, Missouri\nFinal: Twins 1\, Royals 3\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814772@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260401T234000Z
+DTEND:20260402T024000Z
+SUMMARY:Twins @ Royals (Twins.TV / Royals.TV)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Twins.TV / Royals.TV\nVenue: Kauffman Stadi
+ um\, Kansas City\, Missouri\nFinal: Twins 9\, Royals 13\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814779@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260402T181000Z
+DTEND:20260402T211000Z
+SUMMARY:Twins @ Royals (Twins.TV / Royals.TV)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Twins.TV / Royals.TV\nVenue: Kauffman Stadi
+ um\, Kansas City\, Missouri\nFinal: Twins 5\, Royals 1\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814790@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260403T234000Z
+DTEND:20260404T024000Z
+SUMMARY:Postponed: Brewers @ Royals (Apple TV)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Rain - Makeup on April 4\nTV: Apple TV\nVenue: Kauffman Stadium
+ \, Kansas City\, Missouri\nPostponed. This listing stays cancelled under t
+ he same id. The makeup\, when ESPN adds one\, is a separate game.\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814804@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260404T181000Z
+DTEND:20260404T211000Z
+SUMMARY:Brewers @ Royals (FS1)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Doubleheader - Game 1\nTV: FS1\nVenue: Kauffman Stadium\, Kansa
+ s City\, Missouri\nFinal: Brewers 5\, Royals 2\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401867376@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260404T231000Z
+DTEND:20260405T021000Z
+SUMMARY:Brewers @ Royals (Brewers.TV / Royals.TV)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Doubleheader - Game 2 - Makeup from April 3\nTV: Brewers.TV / R
+ oyals.TV\nVenue: Kauffman Stadium\, Kansas City\, Missouri\nFinal: Brewers
+  2\, Royals 8\nUnofficial calendar\; not affiliated with the MLB or ESPN. 
+ Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814819@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260405T181000Z
+DTEND:20260405T211000Z
+SUMMARY:Brewers @ Royals (Royals.TV / Brewers.TV)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / Brewers.TV\nVenue: Kauffman Sta
+ dium\, Kansas City\, Missouri\nFinal: Brewers 8\, Royals 5\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814829@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260406T221000Z
+DTEND:20260407T011000Z
+SUMMARY:Royals @ Guardians (CLEGuardians.TV / Royals.TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Royals.TV\nVenue: Progres
+ sive Field\, Cleveland\, Ohio\nFinal: Royals 4\, Guardians 2\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814844@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260407T171000Z
+DTEND:20260407T201000Z
+SUMMARY:Royals @ Guardians (ESPN Unlimited)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Progressive Field\, 
+ Cleveland\, Ohio\nFinal: Royals 1\, Guardians 2\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814859@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260408T171000Z
+DTEND:20260408T201000Z
+SUMMARY:Royals @ Guardians (CLEGuardians.TV / Royals.TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Royals.TV\nVenue: Progres
+ sive Field\, Cleveland\, Ohio\nFinal: Royals 2\, Guardians 10\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814873@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260409T234000Z
+DTEND:20260410T024000Z
+SUMMARY:White Sox @ Royals (Royals.TV / CSNA)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / CSNA\nVenue: Kauffman Stadium\,
+  Kansas City\, Missouri\nFinal: White Sox 2\, Royals 0\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814885@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260410T234000Z
+DTEND:20260411T024000Z
+SUMMARY:White Sox @ Royals (Royals.TV / SNC+)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / SNC+\nVenue: Kauffman Stadium\,
+  Kansas City\, Missouri\nFinal: White Sox 0\, Royals 2\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814900@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260411T201000Z
+DTEND:20260411T231000Z
+SUMMARY:White Sox @ Royals (Royals.TV / SNC+)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / SNC+\nVenue: Kauffman Stadium\,
+  Kansas City\, Missouri\nFinal: White Sox 0\, Royals 2\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814915@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260412T181000Z
+DTEND:20260412T211000Z
+SUMMARY:White Sox @ Royals (Royals.TV / CHSN)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / CHSN\nVenue: Kauffman Stadium\,
+  Kansas City\, Missouri\nFinal: White Sox 6\, Royals 5\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814934@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260414T224000Z
+DTEND:20260415T014000Z
+SUMMARY:Royals @ Tigers (Royals.TV / Tigers.TV)
+LOCATION:Comerica Park\, Detroit\, Michigan
+DESCRIPTION:Regular Season\nTV: Royals.TV / Tigers.TV\nVenue: Comerica Park
+ \, Detroit\, Michigan\nFinal: Royals 1\, Tigers 2\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814949@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260415T224000Z
+DTEND:20260416T014000Z
+SUMMARY:Royals @ Tigers (Royals.TV / Tigers.TV)
+LOCATION:Comerica Park\, Detroit\, Michigan
+DESCRIPTION:Regular Season\nTV: Royals.TV / Tigers.TV\nVenue: Comerica Park
+ \, Detroit\, Michigan\nFinal: Royals 1\, Tigers 2\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814963@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260416T171000Z
+DTEND:20260416T201000Z
+SUMMARY:Royals @ Tigers (Royals.TV / Tigers.TV)
+LOCATION:Comerica Park\, Detroit\, Michigan
+DESCRIPTION:Regular Season\nTV: Royals.TV / Tigers.TV\nVenue: Comerica Park
+ \, Detroit\, Michigan\nFinal: Royals 9\, Tigers 10\nUnofficial calendar\; 
+ not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814974@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260417T230500Z
+DTEND:20260418T020500Z
+SUMMARY:Royals @ Yankees (Royals.TV / YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: Royals.TV / YES\nVenue: Yankee Stadium\, Br
+ onx\, New York\nFinal: Royals 2\, Yankees 4\nUnofficial calendar\; not aff
+ iliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814989@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260418T173500Z
+DTEND:20260418T203500Z
+SUMMARY:Royals @ Yankees (Royals.TV / YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: Royals.TV / YES\nVenue: Yankee Stadium\, Br
+ onx\, New York\nFinal: Royals 4\, Yankees 13\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815004@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260419T173500Z
+DTEND:20260419T203500Z
+SUMMARY:Royals @ Yankees (Royals.TV / YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: Royals.TV / YES\nVenue: Yankee Stadium\, Br
+ onx\, New York\nFinal: Royals 0\, Yankees 7\nUnofficial calendar\; not aff
+ iliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815021@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260420T234000Z
+DTEND:20260421T024000Z
+SUMMARY:Orioles @ Royals (FS1)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: FS1\nVenue: Kauffman Stadium\, Kansas City\
+ , Missouri\nFinal: Orioles 7\, Royals 5\nUnofficial calendar\; not affilia
+ ted with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815033@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260421T234000Z
+DTEND:20260422T024000Z
+SUMMARY:Orioles @ Royals (Royals.TV / MASN)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / MASN\nVenue: Kauffman Stadium\,
+  Kansas City\, Missouri\nFinal: Orioles 5\, Royals 6\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815048@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260422T181000Z
+DTEND:20260422T211000Z
+SUMMARY:Orioles @ Royals (ESPN Unlimited)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Kauffman Stadium\, K
+ ansas City\, Missouri\nFinal: Orioles 8\, Royals 6\nUnofficial calendar\; 
+ not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815071@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260424T234000Z
+DTEND:20260425T024000Z
+SUMMARY:Angels @ Royals (FanDuel SN West / Royals.TV / KCTV5)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: FanDuel SN West / Royals.TV / KCTV5\nVenue:
+  Kauffman Stadium\, Kansas City\, Missouri\nFinal: Angels 3\, Royals 6\nUn
+ official calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815086@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260425T231000Z
+DTEND:20260426T021000Z
+SUMMARY:Angels @ Royals (FanDuel SN West / Royals.TV)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: FanDuel SN West / Royals.TV\nVenue: Kauffma
+ n Stadium\, Kansas City\, Missouri\nFinal: Angels 1\, Royals 12\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815101@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260426T201000Z
+DTEND:20260426T231000Z
+SUMMARY:Angels @ Royals (Peacock)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Peacock\nVenue: Kauffman Stadium\, Kansas C
+ ity\, Missouri\nFinal: Angels 9\, Royals 11\nUnofficial calendar\; not aff
+ iliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815131@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260429T014000Z
+DTEND:20260429T044000Z
+SUMMARY:Royals @ Athletics (ESPN Unlimited)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Sutter Health Park\,
+  Sacramento\, California\nFinal: Royals 4\, Athletics 1\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815146@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260430T014000Z
+DTEND:20260430T044000Z
+SUMMARY:Royals @ Athletics (Royals.TV / NBC Sports CA)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: Royals.TV / NBC Sports CA\nVenue: Sutter He
+ alth Park\, Sacramento\, California\nFinal: Royals 2\, Athletics 5\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815156@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260430T190500Z
+DTEND:20260430T220500Z
+SUMMARY:Royals @ Athletics (Royals.TV / NBC Sports CA)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: Royals.TV / NBC Sports CA\nVenue: Sutter He
+ alth Park\, Sacramento\, California\nFinal: Royals 3\, Athletics 6\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815170@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260502T014500Z
+DTEND:20260502T044500Z
+SUMMARY:Royals @ Mariners (Apple TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: T-Mobile Park\, Seattle\, 
+ Washington\nFinal: Royals 7\, Mariners 6\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815185@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260503T014000Z
+DTEND:20260503T044000Z
+SUMMARY:Royals @ Mariners (Royals.TV / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Royals.TV / Mariners.TV\nVenue: T-Mobile Pa
+ rk\, Seattle\, Washington\nFinal: Royals 3\, Mariners 2\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815200@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260503T201000Z
+DTEND:20260503T231000Z
+SUMMARY:Royals @ Mariners (Royals.TV / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Royals.TV / Mariners.TV\nVenue: T-Mobile Pa
+ rk\, Seattle\, Washington\nFinal: Royals 4\, Mariners 1\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815207@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260504T234000Z
+DTEND:20260505T024000Z
+SUMMARY:Guardians @ Royals (CLEGuardians.TV / Royals.TV)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Royals.TV\nVenue: Kauffma
+ n Stadium\, Kansas City\, Missouri\nFinal: Guardians 2\, Royals 6\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815221@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260505T234000Z
+DTEND:20260506T024000Z
+SUMMARY:Guardians @ Royals (CLEGuardians.TV / Royals.TV)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Royals.TV\nVenue: Kauffma
+ n Stadium\, Kansas City\, Missouri\nFinal: Guardians 3\, Royals 5\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815236@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260506T234000Z
+DTEND:20260507T024000Z
+SUMMARY:Guardians @ Royals (CLEGuardians.TV / Royals.TV)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Royals.TV\nVenue: Kauffma
+ n Stadium\, Kansas City\, Missouri\nFinal: Guardians 3\, Royals 1\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815250@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260507T181000Z
+DTEND:20260507T211000Z
+SUMMARY:Guardians @ Royals (CLEGuardians.TV / Royals.TV)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Royals.TV\nVenue: Kauffma
+ n Stadium\, Kansas City\, Missouri\nFinal: Guardians 8\, Royals 5\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815261@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260508T234000Z
+DTEND:20260509T024000Z
+SUMMARY:Tigers @ Royals (Royals.TV / Tigers.TV)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / Tigers.TV\nVenue: Kauffman Stad
+ ium\, Kansas City\, Missouri\nFinal: Tigers 3\, Royals 4\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815276@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260509T231000Z
+DTEND:20260510T021000Z
+SUMMARY:Tigers @ Royals (Royals.TV / Tigers.TV)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / Tigers.TV\nVenue: Kauffman Stad
+ ium\, Kansas City\, Missouri\nFinal: Tigers 1\, Royals 5\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815291@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260510T232000Z
+DTEND:20260511T022000Z
+SUMMARY:Tigers @ Royals (Peacock)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Peacock\nVenue: Kauffman Stadium\, Kansas C
+ ity\, Missouri\nFinal: Tigers 6\, Royals 3\nUnofficial calendar\; not affi
+ liated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815313@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260512T234000Z
+DTEND:20260513T024000Z
+SUMMARY:Royals @ White Sox (Royals.TV / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Royals.TV / CHSN\nVenue: Rate Field\, Chica
+ go\, Illinois\nFinal: Royals 5\, White Sox 6\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815328@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260513T234000Z
+DTEND:20260514T024000Z
+SUMMARY:Royals @ White Sox (Royals.TV / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Royals.TV / CHSN\nVenue: Rate Field\, Chica
+ go\, Illinois\nFinal: Royals 5\, White Sox 6\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815339@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260514T234000Z
+DTEND:20260515T024000Z
+SUMMARY:Royals @ White Sox (Royals.TV / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Royals.TV / CHSN\nVenue: Rate Field\, Chica
+ go\, Illinois\nFinal: Royals 2\, White Sox 6\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815353@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260516T001500Z
+DTEND:20260516T031500Z
+SUMMARY:Royals @ Cardinals (Royals.TV / Cardinals.TV)
+LOCATION:Busch Stadium\, St. Louis\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / Cardinals.TV\nVenue: Busch Stad
+ ium\, St. Louis\, Missouri\nFinal: Royals 4\, Cardinals 5\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815368@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260516T181500Z
+DTEND:20260516T211500Z
+SUMMARY:Royals @ Cardinals (Royals.TV / Cardinals.TV)
+LOCATION:Busch Stadium\, St. Louis\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / Cardinals.TV\nVenue: Busch Stad
+ ium\, St. Louis\, Missouri\nFinal: Royals 2\, Cardinals 4\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815383@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260517T181500Z
+DTEND:20260517T211500Z
+SUMMARY:Royals @ Cardinals (Royals.TV / Cardinals.TV)
+LOCATION:Busch Stadium\, St. Louis\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / Cardinals.TV\nVenue: Busch Stad
+ ium\, St. Louis\, Missouri\nFinal: Royals 2\, Cardinals 0\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815396@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260518T231000Z
+DTEND:20260519T021000Z
+SUMMARY:Red Sox @ Royals (Royals.TV / NESN)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / NESN\nVenue: Kauffman Stadium\,
+  Kansas City\, Missouri\nFinal: Red Sox 3\, Royals 1\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815410@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260519T234000Z
+DTEND:20260520T024000Z
+SUMMARY:Red Sox @ Royals (Royals.TV / NESN)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / NESN\nVenue: Kauffman Stadium\,
+  Kansas City\, Missouri\nFinal: Red Sox 7\, Royals 1\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815425@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260520T234000Z
+DTEND:20260521T024000Z
+SUMMARY:Red Sox @ Royals (Royals.TV / NESN)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / NESN\nVenue: Kauffman Stadium\,
+  Kansas City\, Missouri\nFinal: Red Sox 4\, Royals 3\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815451@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260522T234000Z
+DTEND:20260523T024000Z
+SUMMARY:Mariners @ Royals (Mariners.TV / Royals.TV / KCTV5)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Mariners.TV / Royals.TV / KCTV5\nVenue: Kau
+ ffman Stadium\, Kansas City\, Missouri\nFinal: Mariners 2\, Royals 0\nUnof
+ ficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815466@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260523T201000Z
+DTEND:20260523T231000Z
+SUMMARY:Mariners @ Royals (FS1)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: FS1\nVenue: Kauffman Stadium\, Kansas City\
+ , Missouri\nFinal: Mariners 0\, Royals 5\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815481@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260524T181000Z
+DTEND:20260524T211000Z
+SUMMARY:Mariners @ Royals (Royals.TV / Mariners.TV)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / Mariners.TV\nVenue: Kauffman St
+ adium\, Kansas City\, Missouri\nFinal: Mariners 6\, Royals 8\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815493@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260525T194000Z
+DTEND:20260525T224000Z
+SUMMARY:Yankees @ Royals (ESPN)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Kauffman Stadium\, Kansas City
+ \, Missouri\nFinal: Yankees 4\, Royals 3\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815508@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260526T234000Z
+DTEND:20260527T024000Z
+SUMMARY:Yankees @ Royals (Royals.TV / YES)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / YES\nVenue: Kauffman Stadium\, 
+ Kansas City\, Missouri\nFinal: Yankees 15\, Royals 1\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815523@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260527T234000Z
+DTEND:20260528T024000Z
+SUMMARY:Yankees @ Royals (Prime Video)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Prime Video\nVenue: Kauffman Stadium\, Kans
+ as City\, Missouri\nFinal: Yankees 7\, Royals 0\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815544@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260530T000500Z
+DTEND:20260530T030500Z
+SUMMARY:Royals @ Rangers (Royals.TV / CW33)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Royals.TV / CW33\nVenue: Globe Life Field\,
+  Arlington\, Texas\nFinal: Royals 1\, Rangers 9\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815559@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260530T200500Z
+DTEND:20260530T230500Z
+SUMMARY:Royals @ Rangers (FS1)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: FS1\nVenue: Globe Life Field\, Arlington\, 
+ Texas\nFinal: Royals 6\, Rangers 7\nUnofficial calendar\; not affiliated w
+ ith the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815574@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260531T183500Z
+DTEND:20260531T213500Z
+SUMMARY:Royals @ Rangers (Royals.TV / Rangers Sports Network)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Royals.TV / Rangers Sports Network\nVenue: 
+ Globe Life Field\, Arlington\, Texas\nFinal: Royals 3\, Rangers 6\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815581@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260601T231000Z
+DTEND:20260602T021000Z
+SUMMARY:Royals @ Reds (Royals.TV / Gray Media / WXIX FOX19 / Reds.TV)
+LOCATION:Great American Ball Park\, Cincinnati\, Ohio
+DESCRIPTION:Regular Season\nTV: Royals.TV / Gray Media / WXIX FOX19 / Reds.
+ TV\nVenue: Great American Ball Park\, Cincinnati\, Ohio\nFinal: Royals 9\,
+  Reds 2\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815592@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260602T231000Z
+DTEND:20260603T021000Z
+SUMMARY:Royals @ Reds (Royals.TV / Reds.TV)
+LOCATION:Great American Ball Park\, Cincinnati\, Ohio
+DESCRIPTION:Regular Season\nTV: Royals.TV / Reds.TV\nVenue: Great American 
+ Ball Park\, Cincinnati\, Ohio\nFinal: Royals 3\, Reds 4\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815607@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260603T231000Z
+DTEND:20260604T021000Z
+SUMMARY:Royals @ Reds (Royals.TV / Reds.TV)
+LOCATION:Great American Ball Park\, Cincinnati\, Ohio
+DESCRIPTION:Regular Season\nTV: Royals.TV / Reds.TV\nVenue: Great American 
+ Ball Park\, Cincinnati\, Ohio\nFinal: Royals 5\, Reds 2\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815624@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260604T234000Z
+DTEND:20260605T024000Z
+SUMMARY:Royals @ Twins (Twins.TV / Royals.TV)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Royals.TV\nVenue: Target Field\,
+  Minneapolis\, Minnesota\nFinal: Royals 8\, Twins 6\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815637@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260606T001500Z
+DTEND:20260606T031500Z
+SUMMARY:Royals @ Twins (Apple TV)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: Target Field\, Minneapolis
+ \, Minnesota\nFinal: Royals 3\, Twins 5\nUnofficial calendar\; not affilia
+ ted with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815652@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260606T181000Z
+DTEND:20260606T211000Z
+SUMMARY:Royals @ Twins (ESPN Unlimited)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Target Field\, Minne
+ apolis\, Minnesota\nFinal: Royals 3\, Twins 2\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815667@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260607T181000Z
+DTEND:20260607T211000Z
+SUMMARY:Royals @ Twins (Twins.TV / Royals.TV)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Royals.TV\nVenue: Target Field\,
+  Minneapolis\, Minnesota\nFinal: Royals 6\, Twins 5\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815690@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260609T234000Z
+DTEND:20260610T024000Z
+SUMMARY:Rangers @ Royals (Royals.TV / Rangers Sports Network)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / Rangers Sports Network\nVenue: 
+ Kauffman Stadium\, Kansas City\, Missouri\nFinal: Rangers 3\, Royals 5\nUn
+ official calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815705@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260610T234000Z
+DTEND:20260611T024000Z
+SUMMARY:Rangers @ Royals (Royals.TV / Rangers Sports Network)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / Rangers Sports Network\nVenue: 
+ Kauffman Stadium\, Kansas City\, Missouri\nFinal: Rangers 6\, Royals 4\nUn
+ official calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815717@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260611T181000Z
+DTEND:20260611T211000Z
+SUMMARY:Rangers @ Royals (Royals.TV / Rangers Sports Network)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / Rangers Sports Network\nVenue: 
+ Kauffman Stadium\, Kansas City\, Missouri\nFinal: Rangers 4\, Royals 2\nUn
+ official calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815727@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260613T001000Z
+DTEND:20260613T031000Z
+SUMMARY:Astros @ Royals (Space City Home Network / Royals.TV / KCTV5)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Space City Home Network / Royals.TV / KCTV5
+ \nVenue: Kauffman Stadium\, Kansas City\, Missouri\nFinal: Astros 10\, Roy
+ als 8\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times ma
+ y change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815742@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260613T231000Z
+DTEND:20260614T021000Z
+SUMMARY:Astros @ Royals (Royals.TV / Space City Home Network)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / Space City Home Network\nVenue:
+  Kauffman Stadium\, Kansas City\, Missouri\nFinal: Astros 8\, Royals 7\nUn
+ official calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815757@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260614T181000Z
+DTEND:20260614T211000Z
+SUMMARY:Astros @ Royals (Royals.TV / Space City Home Network)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / Space City Home Network\nVenue:
+  Kauffman Stadium\, Kansas City\, Missouri\nFinal: Astros 0\, Royals 4\nUn
+ official calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815764@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260615T224500Z
+DTEND:20260616T014500Z
+SUMMARY:Royals @ Nationals (ESPN Unlimited)
+LOCATION:Nationals Park\, Washington\, District of Columbia
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Nationals Park\, Was
+ hington\, District of Columbia\nFinal: Royals 3\, Nationals 7\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815775@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260616T224500Z
+DTEND:20260617T014500Z
+SUMMARY:Royals @ Nationals (Royals.TV / Nationals.TV)
+LOCATION:Nationals Park\, Washington\, District of Columbia
+DESCRIPTION:Regular Season\nTV: Royals.TV / Nationals.TV\nVenue: Nationals 
+ Park\, Washington\, District of Columbia\nFinal: Royals 4\, Nationals 6\nU
+ nofficial calendar\; not affiliated with the MLB or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815790@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260617T170500Z
+DTEND:20260617T200500Z
+SUMMARY:Royals @ Nationals (Royals.TV / Nationals.TV)
+LOCATION:Nationals Park\, Washington\, District of Columbia
+DESCRIPTION:Regular Season\nTV: Royals.TV / Nationals.TV\nVenue: Nationals 
+ Park\, Washington\, District of Columbia\nFinal: Royals 6\, Nationals 2\nU
+ nofficial calendar\; not affiliated with the MLB or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815809@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260618T234000Z
+DTEND:20260619T024000Z
+SUMMARY:Cardinals @ Royals (Cardinals.TV / Royals.TV / KCTV5)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Cardinals.TV / Royals.TV / KCTV5\nVenue: Ka
+ uffman Stadium\, Kansas City\, Missouri\nFinal: Cardinals 6\, Royals 14\nU
+ nofficial calendar\; not affiliated with the MLB or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815819@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260620T001500Z
+DTEND:20260620T031500Z
+SUMMARY:Cardinals @ Royals (Apple TV)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: Kauffman Stadium\, Kansas 
+ City\, Missouri\nFinal: Cardinals 5\, Royals 6\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815847@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260621T181000Z
+DTEND:20260621T211000Z
+SUMMARY:Cardinals @ Royals (Royals.TV / Cardinals.TV)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / Cardinals.TV\nVenue: Kauffman S
+ tadium\, Kansas City\, Missouri\nFinal: Cardinals 12\, Royals 10\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815856@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260622T224000Z
+DTEND:20260623T014000Z
+SUMMARY:Royals @ Rays (Royals.TV / Rays.TV)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:Regular Season\nTV: Royals.TV / Rays.TV\nVenue: Tropicana Field
+ \, St. Petersburg\, Florida\nFinal: Royals 2\, Rays 1\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815869@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260623T224000Z
+DTEND:20260624T014000Z
+SUMMARY:Royals @ Rays (Royals.TV / Rays.TV)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:Regular Season\nTV: Royals.TV / Rays.TV\nVenue: Tropicana Field
+ \, St. Petersburg\, Florida\nFinal: Royals 12\, Rays 5\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815884@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260624T224000Z
+DTEND:20260625T014000Z
+SUMMARY:Royals @ Rays (ESPN Unlimited)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Tropicana Field\, St
+ . Petersburg\, Florida\nFinal: Royals 3\, Rays 5\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815899@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260625T161000Z
+DTEND:20260625T191000Z
+SUMMARY:Royals @ Rays (Royals.TV / Rays.TV)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:Regular Season\nTV: Royals.TV / Rays.TV\nVenue: Tropicana Field
+ \, St. Petersburg\, Florida\nFinal: Royals 2\, Rays 13\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815916@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260626T234000Z
+DTEND:20260627T024000Z
+SUMMARY:Royals @ White Sox (Royals.TV / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Royals.TV / CHSN\nVenue: Rate Field\, Chica
+ go\, Illinois\nFinal: Royals 1\, White Sox 22\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815931@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260627T201000Z
+DTEND:20260627T231000Z
+SUMMARY:Royals @ White Sox (Royals.TV / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Royals.TV / CHSN\nVenue: Rate Field\, Chica
+ go\, Illinois\nFinal: Royals 1\, White Sox 2\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815946@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260628T181000Z
+DTEND:20260628T211000Z
+SUMMARY:Royals @ White Sox (Royals.TV / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Royals.TV / CHSN\nVenue: Rate Field\, Chica
+ go\, Illinois\nFinal: Royals 5\, White Sox 4\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815974@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260630T234000Z
+DTEND:20260701T024000Z
+SUMMARY:Rays @ Royals (Royals.TV / Rays.TV)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / Rays.TV\nVenue: Kauffman Stadiu
+ m\, Kansas City\, Missouri\nFinal: Rays 10\, Royals 4\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815989@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260701T234000Z
+DTEND:20260702T024000Z
+SUMMARY:Rays @ Royals (Royals.TV / Rays.TV)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / Rays.TV\nVenue: Kauffman Stadiu
+ m\, Kansas City\, Missouri\nFinal: Rays 4\, Royals 0\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815998@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260702T234000Z
+DTEND:20260703T024000Z
+SUMMARY:Rays @ Royals (Royals.TV / Rays.TV)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / Rays.TV\nVenue: Kauffman Stadiu
+ m\, Kansas City\, Missouri\nFinal: Rays 5\, Royals 2\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816021@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260705T001000Z
+DTEND:20260705T031000Z
+SUMMARY:Phillies @ Royals (Royals.TV / NBC Sports Phil)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / NBC Sports Phil\nVenue: Kauffma
+ n Stadium\, Kansas City\, Missouri\nFinal: Phillies 6\, Royals 1\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816036@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260705T190000Z
+DTEND:20260705T220000Z
+SUMMARY:Phillies @ Royals (Peacock)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Peacock\nVenue: Kauffman Stadium\, Kansas C
+ ity\, Missouri\nFinal: Phillies 2\, Royals 5\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816049@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260706T181000Z
+DTEND:20260706T211000Z
+SUMMARY:Phillies @ Royals (ESPN Unlimited)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Kauffman Stadium\, K
+ ansas City\, Missouri\nFinal: Phillies 1\, Royals 15\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816057@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260707T231000Z
+DTEND:20260708T021000Z
+SUMMARY:Royals @ Mets (Royals.TV / SNY)
+LOCATION:Citi Field\, Queens\, New York
+DESCRIPTION:Regular Season\nTV: Royals.TV / SNY\nVenue: Citi Field\, Queens
+ \, New York\nFinal: Royals 16\, Mets 12\nUnofficial calendar\; not affilia
+ ted with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816072@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260708T231000Z
+DTEND:20260709T021000Z
+SUMMARY:Royals @ Mets (Royals.TV / SNY)
+LOCATION:Citi Field\, Queens\, New York
+DESCRIPTION:Regular Season\nTV: Royals.TV / SNY\nVenue: Citi Field\, Queens
+ \, New York\nFinal: Royals 2\, Mets 6\nUnofficial calendar\; not affiliate
+ d with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816086@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260709T171000Z
+DTEND:20260709T201000Z
+SUMMARY:Royals @ Mets (Royals.TV / SNY)
+LOCATION:Citi Field\, Queens\, New York
+DESCRIPTION:Regular Season\nTV: Royals.TV / SNY\nVenue: Citi Field\, Queens
+ \, New York\nFinal: Royals 3\, Mets 7\nUnofficial calendar\; not affiliate
+ d with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816099@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260710T230500Z
+DTEND:20260711T020500Z
+SUMMARY:Royals @ Orioles (Royals.TV / MASN)
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+DESCRIPTION:Regular Season\nTV: Royals.TV / MASN\nVenue: Oriole Park at Cam
+ den Yards\, Baltimore\, Maryland\nFinal: Royals 3\, Orioles 5\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816114@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260711T230500Z
+DTEND:20260712T020500Z
+SUMMARY:Royals @ Orioles (Royals.TV / MASN)
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+DESCRIPTION:Regular Season\nTV: Royals.TV / MASN\nVenue: Oriole Park at Cam
+ den Yards\, Baltimore\, Maryland\nFinal: Royals 1\, Orioles 6\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816129@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260712T173500Z
+DTEND:20260712T203500Z
+SUMMARY:Royals @ Orioles (Royals.TV / MASN)
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+DESCRIPTION:Regular Season\nTV: Royals.TV / MASN\nVenue: Oriole Park at Cam
+ den Yards\, Baltimore\, Maryland\nFinal: Royals 2\, Orioles 8\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816150@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260718T001000Z
+DTEND:20260718T031000Z
+SUMMARY:Padres @ Royals (Padres.TV / Royals.TV / KCTV5 / TV Azteca / KFMB 8
+ .1 (CBS))
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Padres.TV / Royals.TV / KCTV5 / TV Azteca /
+  KFMB 8.1 (CBS)\nVenue: Kauffman Stadium\, Kansas City\, Missouri\nFinal: 
+ Padres 6\, Royals 7\nUnofficial calendar\; not affiliated with the MLB or 
+ ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816165@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260718T201000Z
+DTEND:20260718T231000Z
+SUMMARY:Padres @ Royals (Royals.TV / Padres.TV)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / Padres.TV\nVenue: Kauffman Stad
+ ium\, Kansas City\, Missouri\nFinal: Padres 1\, Royals 6\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816180@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260719T181000Z
+DTEND:20260719T211000Z
+SUMMARY:Padres @ Royals (Royals.TV / Padres.TV)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / Padres.TV\nVenue: Kauffman Stad
+ ium\, Kansas City\, Missouri\nFinal: Padres 19\, Royals 2\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816196@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260720T234000Z
+DTEND:20260721T024000Z
+SUMMARY:Giants @ Royals (NBC Sports BA / Royals.TV)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Royals.TV\nVenue: Kauffman 
+ Stadium\, Kansas City\, Missouri\nFinal: Giants 3\, Royals 4\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816211@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260721T234000Z
+DTEND:20260722T024000Z
+SUMMARY:Giants @ Royals (NBC Sports BA / Royals.TV)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Royals.TV\nVenue: Kauffman 
+ Stadium\, Kansas City\, Missouri\nFinal: Giants 2\, Royals 3\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816226@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260722T181000Z
+DTEND:20260722T211000Z
+SUMMARY:Giants @ Royals (NBC Sports BA / Royals.TV)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Royals.TV\nVenue: Kauffman 
+ Stadium\, Kansas City\, Missouri\nFinal: Giants 4\, Royals 5\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816231@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260723T224000Z
+DTEND:20260724T014000Z
+SUMMARY:Royals @ Tigers (MLB Network)
+LOCATION:Comerica Park\, Detroit\, Michigan
+DESCRIPTION:Regular Season\nTV: MLB Network\nVenue: Comerica Park\, Detroit
+ \, Michigan\nFinal: Royals 3\, Tigers 4\nUnofficial calendar\; not affilia
+ ted with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816239@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260724T224000Z
+DTEND:20260725T014000Z
+SUMMARY:Royals @ Tigers (Royals.TV / Tigers.TV)
+LOCATION:Comerica Park\, Detroit\, Michigan
+DESCRIPTION:Regular Season\nTV: Royals.TV / Tigers.TV\nVenue: Comerica Park
+ \, Detroit\, Michigan\nFinal: Royals 1\, Tigers 2\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816254@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260725T171000Z
+DTEND:20260725T201000Z
+SUMMARY:Royals @ Tigers (ESPN Unlimited)
+LOCATION:Comerica Park\, Detroit\, Michigan
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Comerica Park\, Detr
+ oit\, Michigan\nFinal: Royals 3\, Tigers 2\nUnofficial calendar\; not affi
+ liated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816269@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260726T174000Z
+DTEND:20260726T204000Z
+SUMMARY:Royals @ Tigers (Royals.TV / Tigers.TV)
+LOCATION:Comerica Park\, Detroit\, Michigan
+DESCRIPTION:Regular Season\nTV: Royals.TV / Tigers.TV\nVenue: Comerica Park
+ \, Detroit\, Michigan\nFinal: Royals 5\, Tigers 4\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816300@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260728T234000Z
+DTEND:20260729T024000Z
+SUMMARY:Royals @ Twins (Twins.TV / Royals.TV)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Royals.TV\nVenue: Target Field\,
+  Minneapolis\, Minnesota\nFinal: Royals 2\, Twins 3\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816315@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260729T234000Z
+DTEND:20260730T024000Z
+SUMMARY:Royals @ Twins (Twins.TV / Royals.TV / KMSP-TV / Gray Media)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Royals.TV / KMSP-TV / Gray Media
+ \nVenue: Target Field\, Minneapolis\, Minnesota\nFinal: Royals 4\, Twins 0
+ \nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816327@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260730T174000Z
+DTEND:20260730T204000Z
+SUMMARY:Royals @ Twins (Twins.TV / Royals.TV)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Royals.TV\nVenue: Target Field\,
+  Minneapolis\, Minnesota\nFinal: Royals 3\, Twins 4\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816341@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260801T004000Z
+DTEND:20260801T034000Z
+SUMMARY:Royals @ Rockies (Royals.TV / Rockies.TV)
+LOCATION:Coors Field\, Denver\, Colorado
+DESCRIPTION:Regular Season\nTV: Royals.TV / Rockies.TV\nVenue: Coors Field\
+ , Denver\, Colorado\nFinal: Royals 1\, Rockies 3\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816356@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260802T001000Z
+DTEND:20260802T031000Z
+SUMMARY:Royals @ Rockies (Royals.TV / Rockies.TV)
+LOCATION:Coors Field\, Denver\, Colorado
+DESCRIPTION:Regular Season\nTV: Royals.TV / Rockies.TV\nVenue: Coors Field\
+ , Denver\, Colorado\nFinal: Royals 6\, Rockies 12\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816371@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260802T191000Z
+DTEND:20260802T221000Z
+SUMMARY:Royals @ Rockies (Royals.TV / Rockies.TV)
+LOCATION:Coors Field\, Denver\, Colorado
+DESCRIPTION:Regular Season\nTV: Royals.TV / Rockies.TV\nVenue: Coors Field\
+ , Denver\, Colorado\nFinal: Royals 1\, Rockies 8\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816392@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260804T234000Z
+DTEND:20260805T024000Z
+SUMMARY:Twins @ Royals (Twins.TV / Royals.TV)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Twins.TV / Royals.TV\nVenue: Kauffman Stadi
+ um\, Kansas City\, Missouri\nFinal: Twins 2\, Royals 8\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816407@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260805T234000Z
+DTEND:20260806T024000Z
+SUMMARY:Twins @ Royals (Twins.TV / Royals.TV)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Twins.TV / Royals.TV\nVenue: Kauffman Stadi
+ um\, Kansas City\, Missouri\nFinal: Twins 1\, Royals 2\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816420@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260806T233000Z
+DTEND:20260807T023000Z
+SUMMARY:Twins @ Royals (ESPN)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Kauffman Stadium\, Kansas City
+ \, Missouri\nFinal: Twins 4\, Royals 3\nUnofficial calendar\; not affiliat
+ ed with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816431@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260808T001000Z
+DTEND:20260808T031000Z
+SUMMARY:Cubs @ Royals (Marquee Sports Net / Royals.TV / KCTV5)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Royals.TV / KCTV5\nVen
+ ue: Kauffman Stadium\, Kansas City\, Missouri\nFinal: Cubs 6\, Royals 4\nU
+ nofficial calendar\; not affiliated with the MLB or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816446@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260808T231000Z
+DTEND:20260809T021000Z
+SUMMARY:Cubs @ Royals (Royals.TV / Marquee Sports Net)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / Marquee Sports Net\nVenue: Kauf
+ fman Stadium\, Kansas City\, Missouri\nFinal: Cubs 3\, Royals 6\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816461@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260809T181000Z
+DTEND:20260809T211000Z
+SUMMARY:Cubs @ Royals (Royals.TV / Marquee Sports Net)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / Marquee Sports Net\nVenue: Kauf
+ fman Stadium\, Kansas City\, Missouri\nFinal: Cubs 10\, Royals 2\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816475@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260811T021000Z
+DTEND:20260811T051000Z
+SUMMARY:Royals @ Dodgers (Royals.TV / SportsNet LA)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: Royals.TV / SportsNet LA\nVenue: Dodger Sta
+ dium\, Los Angeles\, California\nFinal: Royals 5\, Dodgers 6\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816490@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260812T021000Z
+DTEND:20260812T051000Z
+SUMMARY:Royals @ Dodgers (Royals.TV / SportsNet LA)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: Royals.TV / SportsNet LA\nVenue: Dodger Sta
+ dium\, Los Angeles\, California\nFinal: Royals 4\, Dodgers 5\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816505@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260813T021000Z
+DTEND:20260813T051000Z
+SUMMARY:Royals @ Dodgers (Royals.TV / SportsNet LA)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: Royals.TV / SportsNet LA\nVenue: Dodger Sta
+ dium\, Los Angeles\, California\nFinal: Royals 2\, Dodgers 4\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816529@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260815T013800Z
+DTEND:20260815T043800Z
+SUMMARY:Royals @ Angels (Royals.TV / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: Royals.TV / Angels.TV\nVenue: Angel Stadium
+ \, Anaheim\, California\nFinal: Royals 7\, Angels 6\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816544@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260816T013800Z
+DTEND:20260816T043800Z
+SUMMARY:Royals @ Angels (Royals.TV / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: Royals.TV / Angels.TV\nVenue: Angel Stadium
+ \, Anaheim\, California\nFinal: Royals 0\, Angels 1\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816559@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260816T200700Z
+DTEND:20260816T230700Z
+SUMMARY:Royals @ Angels (Royals.TV / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: Royals.TV / Angels.TV\nVenue: Angel Stadium
+ \, Anaheim\, California\nFinal: Royals 3\, Angels 0\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816568@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260817T234000Z
+DTEND:20260818T024000Z
+SUMMARY:Athletics @ Royals (Royals.TV / NBC Sports CA)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / NBC Sports CA\nVenue: Kauffman 
+ Stadium\, Kansas City\, Missouri\nFinal: Athletics 5\, Royals 9\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816580@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260818T234000Z
+DTEND:20260819T024000Z
+SUMMARY:Athletics @ Royals (Royals.TV / NBC Sports CA)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / NBC Sports CA\nVenue: Kauffman 
+ Stadium\, Kansas City\, Missouri\nFinal: Athletics 3\, Royals 4\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816595@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260819T234000Z
+DTEND:20260820T024000Z
+SUMMARY:Athletics @ Royals (Royals.TV / NBC Sports CA)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / NBC Sports CA\nVenue: Kauffman 
+ Stadium\, Kansas City\, Missouri\nFinal: Athletics 7\, Royals 9\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816606@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260820T181000Z
+DTEND:20260820T211000Z
+SUMMARY:Athletics @ Royals (Royals.TV / NBC Sports CA)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / NBC Sports CA\nVenue: Kauffman 
+ Stadium\, Kansas City\, Missouri\nFinal: Athletics 2\, Royals 6\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816618@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260822T001000Z
+DTEND:20260822T031000Z
+SUMMARY:Tigers @ Royals (Tigers.TV / Royals.TV / KCTV5)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Tigers.TV / Royals.TV / KCTV5\nVenue: Kauff
+ man Stadium\, Kansas City\, Missouri\nFinal: Tigers 2\, Royals 5\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816633@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260822T231500Z
+DTEND:20260823T021500Z
+SUMMARY:Tigers @ Royals (Royals.TV / Tigers.TV)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / Tigers.TV\nVenue: Kauffman Stad
+ ium\, Kansas City\, Missouri\nFinal: Tigers 1\, Royals 3\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816648@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260823T181000Z
+DTEND:20260823T211000Z
+SUMMARY:Tigers @ Royals (Royals.TV / Tigers.TV)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / Tigers.TV\nVenue: Kauffman Stad
+ ium\, Kansas City\, Missouri\nFinal: Tigers 7\, Royals 11\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816668@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260825T230700Z
+DTEND:20260826T020700Z
+SUMMARY:Royals @ Blue Jays (Royals.TV / Sportsnet)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Royals.TV / Sportsnet\nVenue: Rogers Centre
+ \, Toronto\, Ontario\nFinal: Royals 5\, Blue Jays 3\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816683@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260826T230700Z
+DTEND:20260827T020700Z
+SUMMARY:Royals @ Blue Jays (Royals.TV / Sportsnet / TVA)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Royals.TV / Sportsnet / TVA\nVenue: Rogers 
+ Centre\, Toronto\, Ontario\nFinal: Royals 0\, Blue Jays 3\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816697@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260827T230700Z
+DTEND:20260828T020700Z
+SUMMARY:Royals @ Blue Jays (Royals.TV / Sportsnet)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Royals.TV / Sportsnet\nVenue: Rogers Centre
+ \, Toronto\, Ontario\nFinal: Royals 13\, Blue Jays 2\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816705@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260828T231000Z
+DTEND:20260829T021000Z
+SUMMARY:Royals @ Guardians (CLEGuardians.TV / Royals.TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Royals.TV\nVenue: Progres
+ sive Field\, Cleveland\, Ohio\nFinal: Royals 3\, Guardians 0\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816720@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260829T201000Z
+DTEND:20260829T231000Z
+SUMMARY:Royals @ Guardians (CLEGuardians.TV / Royals.TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Royals.TV\nVenue: Progres
+ sive Field\, Cleveland\, Ohio\nFinal: Royals 8\, Guardians 3\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816735@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260830T174000Z
+DTEND:20260830T204000Z
+SUMMARY:Royals @ Guardians (CLEGuardians.TV / Royals.TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Royals.TV\nVenue: Progres
+ sive Field\, Cleveland\, Ohio\nFinal: Royals 1\, Guardians 11\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816767@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260901T234000Z
+DTEND:20260902T024000Z
+SUMMARY:Marlins @ Royals (Royals.TV / Marlins.TV)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / Marlins.TV\nVenue: Kauffman Sta
+ dium\, Kansas City\, Missouri\nFinal: Marlins 6\, Royals 3\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816782@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260902T234000Z
+DTEND:20260903T024000Z
+SUMMARY:Marlins @ Royals (Royals.TV / Marlins.TV)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / Marlins.TV\nVenue: Kauffman Sta
+ dium\, Kansas City\, Missouri\nFinal: Marlins 9\, Royals 6\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816792@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260903T234000Z
+DTEND:20260904T024000Z
+SUMMARY:Marlins @ Royals (Royals.TV / Marlins.TV)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / Marlins.TV\nVenue: Kauffman Sta
+ dium\, Kansas City\, Missouri\nFinal: Marlins 3\, Royals 7\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816807@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260905T001000Z
+DTEND:20260905T031000Z
+SUMMARY:Blue Jays @ Royals (Sportsnet / Royals.TV / KCTV5)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Sportsnet / Royals.TV / KCTV5\nVenue: Kauff
+ man Stadium\, Kansas City\, Missouri\nFinal: Blue Jays 9\, Royals 2\nUnoff
+ icial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816822@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260905T231000Z
+DTEND:20260906T021000Z
+SUMMARY:Blue Jays @ Royals (Royals.TV / Sportsnet / TVA)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / Sportsnet / TVA\nVenue: Kauffma
+ n Stadium\, Kansas City\, Missouri\nFinal: Blue Jays 4\, Royals 3\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816837@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260906T181000Z
+DTEND:20260906T211000Z
+SUMMARY:Blue Jays @ Royals (Royals.TV / Sportsnet / TVA)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / Sportsnet / TVA\nVenue: Kauffma
+ n Stadium\, Kansas City\, Missouri\nFinal: Blue Jays 1\, Royals 6\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816847@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260907T181000Z
+DTEND:20260907T211000Z
+SUMMARY:Diamondbacks @ Royals (DBACKS.TV / Royals.TV / KCTV5)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Royals.TV / KCTV5\nVenue: Kauff
+ man Stadium\, Kansas City\, Missouri\nFinal: Diamondbacks 5\, Royals 4\nUn
+ official calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816860@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260908T234000Z
+DTEND:20260909T024000Z
+SUMMARY:Diamondbacks @ Royals (Royals.TV / DBACKS.TV)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / DBACKS.TV\nVenue: Kauffman Stad
+ ium\, Kansas City\, Missouri\nFinal: Diamondbacks 5\, Royals 3\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816875@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260909T234000Z
+DTEND:20260910T024000Z
+SUMMARY:Diamondbacks @ Royals (Royals.TV / DBACKS.TV)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / DBACKS.TV\nVenue: Kauffman Stad
+ ium\, Kansas City\, Missouri\nFinal: Diamondbacks 2\, Royals 5\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816892@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260911T231000Z
+DTEND:20260912T021000Z
+SUMMARY:Royals @ Red Sox (Royals.TV / NESN)
+LOCATION:Fenway Park\, Boston\, Massachusetts
+DESCRIPTION:Regular Season\nTV: Royals.TV / NESN\nVenue: Fenway Park\, Bost
+ on\, Massachusetts\nFinal: Royals 3\, Red Sox 2\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816907@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260912T201000Z
+DTEND:20260912T231000Z
+SUMMARY:Royals @ Red Sox (Royals.TV / NESN)
+LOCATION:Fenway Park\, Boston\, Massachusetts
+DESCRIPTION:Regular Season\nTV: Royals.TV / NESN\nVenue: Fenway Park\, Bost
+ on\, Massachusetts\nFinal: Royals 1\, Red Sox 5\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816922@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260913T190500Z
+DTEND:20260913T220500Z
+SUMMARY:Royals @ Red Sox (Royals.TV / NESN)
+LOCATION:Fenway Park\, Boston\, Massachusetts
+DESCRIPTION:Regular Season\nTV: Royals.TV / NESN\nVenue: Fenway Park\, Bost
+ on\, Massachusetts\nFinal: Royals 1\, Red Sox 4\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816952@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260916T001000Z
+DTEND:20260916T031000Z
+SUMMARY:Royals @ Astros (Royals.TV / Space City Home Network / Space City H
+ ome (Alt.))
+LOCATION:Daikin Park\, Houston\, Texas
+DESCRIPTION:Regular Season\nTV: Royals.TV / Space City Home Network / Space
+  City Home (Alt.)\nVenue: Daikin Park\, Houston\, Texas\nFinal: Royals 2\,
+  Astros 4\nUnofficial calendar\; not affiliated with the MLB or ESPN. Time
+ s may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816967@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260917T001000Z
+DTEND:20260917T031000Z
+SUMMARY:Royals @ Astros (Royals.TV / Space City Home Network / Space City H
+ ome (Alt.))
+LOCATION:Daikin Park\, Houston\, Texas
+DESCRIPTION:Regular Season\nTV: Royals.TV / Space City Home Network / Space
+  City Home (Alt.)\nVenue: Daikin Park\, Houston\, Texas\nFinal: Royals 5\,
+  Astros 2\nUnofficial calendar\; not affiliated with the MLB or ESPN. Time
+ s may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816979@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260917T231500Z
+DTEND:20260918T021500Z
+SUMMARY:Royals @ Astros (Fox)
+LOCATION:Daikin Park\, Houston\, Texas
+DESCRIPTION:Regular Season\nTV: Fox\nVenue: Daikin Park\, Houston\, Texas\n
+ Final: Royals 2\, Astros 6\nUnofficial calendar\; not affiliated with the 
+ MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816985@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260918T224000Z
+DTEND:20260919T014000Z
+SUMMARY:Royals @ Pirates (Royals.TV)
+LOCATION:PNC Park\, Pittsburgh\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: Royals.TV\nVenue: PNC Park\, Pittsburgh\, P
+ ennsylvania\nFinal: Royals 5\, Pirates 8\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817000@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260919T224000Z
+DTEND:20260920T014000Z
+SUMMARY:Royals @ Pirates (Royals.TV)
+LOCATION:PNC Park\, Pittsburgh\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: Royals.TV\nVenue: PNC Park\, Pittsburgh\, P
+ ennsylvania\nFinal: Royals 5\, Pirates 6\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817015@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260920T173500Z
+DTEND:20260920T203500Z
+SUMMARY:Royals @ Pirates (Royals.TV)
+LOCATION:PNC Park\, Pittsburgh\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: Royals.TV\nVenue: PNC Park\, Pittsburgh\, P
+ ennsylvania\nFinal: Royals 3\, Pirates 4\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817037@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260922T234000Z
+DTEND:20260923T024000Z
+SUMMARY:White Sox @ Royals (Royals.TV / CHSN)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / CHSN\nVenue: Kauffman Stadium\,
+  Kansas City\, Missouri\nFinal: White Sox 14\, Royals 11\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817052@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260923T234000Z
+DTEND:20260924T024000Z
+SUMMARY:White Sox @ Royals (Royals.TV / CHSN)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / CHSN\nVenue: Kauffman Stadium\,
+  Kansas City\, Missouri\nFinal: White Sox 4\, Royals 5\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817065@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260924T181000Z
+DTEND:20260924T211000Z
+SUMMARY:White Sox @ Royals (Royals.TV / CHSN)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / CHSN\nVenue: Kauffman Stadium\,
+  Kansas City\, Missouri\nFinal: White Sox 9\, Royals 1\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817079@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260925T234000Z
+DTEND:20260926T024000Z
+SUMMARY:Guardians @ Royals (CLEGuardians.TV / Royals.TV)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Royals.TV\nVenue: Kauffma
+ n Stadium\, Kansas City\, Missouri\nFinal: Guardians 12\, Royals 9\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817094@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260926T231000Z
+DTEND:20260927T021000Z
+SUMMARY:Guardians @ Royals (CLEGuardians.TV / Royals.TV)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Royals.TV\nVenue: Kauffma
+ n Stadium\, Kansas City\, Missouri\nFinal: Guardians 11\, Royals 5\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817109@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260927T191000Z
+DTEND:20260927T221000Z
+SUMMARY:Guardians @ Royals (ESPN Unlimited)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Kauffman Stadium\, K
+ ansas City\, Missouri\nFinal: Guardians 2\, Royals 3\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

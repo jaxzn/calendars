@@ -1,0 +1,1103 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jaxzn//NHL Calendars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:New York Rangers
+X-WR-CALDESC:New York Rangers NHL schedule (unofficial\, auto-updated)
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:espn-401891774@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20260930T000000Z
+DTEND:20260930T023000Z
+SUMMARY:Rangers @ Bruins (ESPN)
+LOCATION:TD Garden\, Boston\, MA
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: TD Garden\, Boston\, MA\nFinal
+ : Rangers 0\, Bruins 3\nUnofficial calendar\; not affiliated with the NHL 
+ or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401891819@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261001T230000Z
+DTEND:20261002T013000Z
+SUMMARY:Lightning @ Rangers (ESPN+)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: Madison Square Garden\, New Y
+ ork\, NY\nFinal: Lightning 1\, Rangers 5\nUnofficial calendar\; not affili
+ ated with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401891803@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261002T223000Z
+DTEND:20261003T010000Z
+SUMMARY:Rangers @ Red Wings (TNT / truTV)
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: TNT / truTV\nVenue: Little Caesars Arena\, 
+ Detroit\, MI\nFinal: Rangers 2\, Red Wings 0\nUnofficial calendar\; not af
+ filiated with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892443@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261004T220000Z
+DTEND:20261005T003000Z
+SUMMARY:Mammoth @ Rangers (ESPN+)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: Madison Square Garden\, New Y
+ ork\, NY\nFinal: Mammoth 2\, Rangers 4\nUnofficial calendar\; not affiliat
+ ed with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892452@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261006T233000Z
+DTEND:20261007T020000Z
+SUMMARY:Islanders @ Rangers (ESPN)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Madison Square Garden\, New Yo
+ rk\, NY\nFinal: Islanders 2\, Rangers 5\nUnofficial calendar\; not affilia
+ ted with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892466@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261009T230000Z
+DTEND:20261010T013000Z
+SUMMARY:Rangers @ Capitals (NHL Network)
+LOCATION:Capital One Arena\, Washington\, DC
+DESCRIPTION:Regular Season\nTV: NHL Network\nVenue: Capital One Arena\, Was
+ hington\, DC\nFinal: Rangers 1\, Capitals 3\nUnofficial calendar\; not aff
+ iliated with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892483@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261011T220000Z
+DTEND:20261012T003000Z
+SUMMARY:Canucks @ Rangers (ESPN+)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: Madison Square Garden\, New Y
+ ork\, NY\nFinal: Canucks 2\, Rangers 6\nUnofficial calendar\; not affiliat
+ ed with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892493@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261013T231500Z
+DTEND:20261014T014500Z
+SUMMARY:Lightning @ Rangers (ESPN+)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: Madison Square Garden\, New Y
+ ork\, NY\nFinal: Lightning 1\, Rangers 4\nUnofficial calendar\; not affili
+ ated with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892511@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261015T230000Z
+DTEND:20261016T013000Z
+SUMMARY:Rangers @ Devils (ESPN+)
+LOCATION:Prudential Center\, Newark\, NJ
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: Prudential Center\, Newark\, 
+ NJ\nFinal: Rangers 1\, Devils 7\nUnofficial calendar\; not affiliated with
+  the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892527@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261017T230000Z
+DTEND:20261018T013000Z
+SUMMARY:Rangers @ Blue Jackets (ESPN+)
+LOCATION:Nationwide Arena\, Columbus\, OH
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: Nationwide Arena\, Columbus\,
+  OH\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892535@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261019T230000Z
+DTEND:20261020T013000Z
+SUMMARY:Ducks @ Rangers (ESPN+)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: Madison Square Garden\, New Y
+ ork\, NY\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times
+  may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892553@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261022T230000Z
+DTEND:20261023T013000Z
+SUMMARY:Rangers @ Maple Leafs (ESPN+)
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: Scotiabank Arena\, Toronto\, 
+ ON\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may c
+ hange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892569@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261024T230000Z
+DTEND:20261025T013000Z
+SUMMARY:Rangers @ Senators (NHL Network)
+LOCATION:Canadian Tire Centre\, Ottawa\, ON
+DESCRIPTION:Regular Season\nTV: NHL Network\nVenue: Canadian Tire Centre\, 
+ Ottawa\, ON\nUnofficial calendar\; not affiliated with the NHL or ESPN. Ti
+ mes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892582@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261026T230000Z
+DTEND:20261027T013000Z
+SUMMARY:Kings @ Rangers (NHL Network)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: NHL Network\nVenue: Madison Square Garden\,
+  New York\, NY\nUnofficial calendar\; not affiliated with the NHL or ESPN.
+  Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892627@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261101T230000Z
+DTEND:20261102T013000Z
+SUMMARY:Oilers @ Rangers (NHL Network)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: NHL Network\nVenue: Madison Square Garden\,
+  New York\, NY\nUnofficial calendar\; not affiliated with the NHL or ESPN.
+  Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892637@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261104T000000Z
+DTEND:20261104T023000Z
+SUMMARY:Blues @ Rangers (MSG / Blues App / BN+)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: MSG / Blues App / BN+\nVenue: Madison Squar
+ e Garden\, New York\, NY\nUnofficial calendar\; not affiliated with the NH
+ L or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892653@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261106T000000Z
+DTEND:20261106T023000Z
+SUMMARY:Flyers @ Rangers (NBC Sports Phil / MSG)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / MSG\nVenue: Madison Squar
+ e Garden\, New York\, NY\nUnofficial calendar\; not affiliated with the NH
+ L or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892664@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261107T220000Z
+DTEND:20261108T003000Z
+SUMMARY:Rangers @ Kraken (MSG / MSG2 / KONG / Prime Video (Local))
+LOCATION:Climate Pledge Arena\, Seattle\, WA
+DESCRIPTION:Regular Season\nTV: MSG / MSG2 / KONG / Prime Video (Local)\nVe
+ nue: Climate Pledge Arena\, Seattle\, WA\nUnofficial calendar\; not affili
+ ated with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892680@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261110T010000Z
+DTEND:20261110T033000Z
+SUMMARY:Rangers @ Oilers (MSG)
+LOCATION:Rogers Place\, Edmonton\, AB
+DESCRIPTION:Regular Season\nTV: MSG\nVenue: Rogers Place\, Edmonton\, AB\nU
+ nofficial calendar\; not affiliated with the NHL or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892691@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261112T003000Z
+DTEND:20261112T030000Z
+SUMMARY:Rangers @ Flames (MSGSN)
+LOCATION:Scotiabank Saddledome\, Calgary\, AB
+DESCRIPTION:Regular Season\nTV: MSGSN\nVenue: Scotiabank Saddledome\, Calga
+ ry\, AB\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892706@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261114T020000Z
+DTEND:20261114T043000Z
+SUMMARY:Rangers @ Canucks (MSGSN)
+LOCATION:Rogers Arena\, Vancouver\, BC
+DESCRIPTION:Regular Season\nTV: MSGSN\nVenue: Rogers Arena\, Vancouver\, BC
+ \nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892726@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261117T003000Z
+DTEND:20261117T030000Z
+SUMMARY:Canadiens @ Rangers (TNT / truTV)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: TNT / truTV\nVenue: Madison Square Garden\,
+  New York\, NY\nUnofficial calendar\; not affiliated with the NHL or ESPN.
+  Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892768@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261122T173000Z
+DTEND:20261122T200000Z
+SUMMARY:Hurricanes @ Rangers (MSG / CARNHL)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: MSG / CARNHL\nVenue: Madison Square Garden\
+ , New York\, NY\nUnofficial calendar\; not affiliated with the NHL or ESPN
+ . Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892782@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261126T000000Z
+DTEND:20261126T023000Z
+SUMMARY:Rangers @ Sabres (MSG2 / MSGB)
+LOCATION:KeyBank Center\, Buffalo\, NY
+DESCRIPTION:Regular Season\nTV: MSG2 / MSGB\nVenue: KeyBank Center\, Buffal
+ o\, NY\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892806@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261127T223000Z
+DTEND:20261128T010000Z
+SUMMARY:Rangers @ Blackhawks (TNT / truTV)
+LOCATION:United Center\, Chicago\, IL
+DESCRIPTION:Regular Season\nTV: TNT / truTV\nVenue: United Center\, Chicago
+ \, IL\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times ma
+ y change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892814@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261129T000000Z
+DTEND:20261129T023000Z
+SUMMARY:Flames @ Rangers (MSG)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: MSG\nVenue: Madison Square Garden\, New Yor
+ k\, NY\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892826@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261201T000000Z
+DTEND:20261201T023000Z
+SUMMARY:Hurricanes @ Rangers (MSG / CARNHL)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: MSG / CARNHL\nVenue: Madison Square Garden\
+ , New York\, NY\nUnofficial calendar\; not affiliated with the NHL or ESPN
+ . Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892846@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261204T000000Z
+DTEND:20261204T023000Z
+SUMMARY:Sharks @ Rangers (NBC Sports BA / MSG)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / MSG\nVenue: Madison Square 
+ Garden\, New York\, NY\nUnofficial calendar\; not affiliated with the NHL 
+ or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892865@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261206T000000Z
+DTEND:20261206T023000Z
+SUMMARY:Avalanche @ Rangers (MSG / Altitude Sports)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: MSG / Altitude Sports\nVenue: Madison Squar
+ e Garden\, New York\, NY\nUnofficial calendar\; not affiliated with the NH
+ L or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892879@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261208T000000Z
+DTEND:20261208T023000Z
+SUMMARY:Devils @ Rangers (MSGSN / MSG)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: MSGSN / MSG\nVenue: Madison Square Garden\,
+  New York\, NY\nUnofficial calendar\; not affiliated with the NHL or ESPN.
+  Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892885@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261209T000000Z
+DTEND:20261209T023000Z
+SUMMARY:Rangers @ Hurricanes (MSG / CARNHL)
+LOCATION:Lenovo Center\, Raleigh\, NC
+DESCRIPTION:Regular Season\nTV: MSG / CARNHL\nVenue: Lenovo Center\, Raleig
+ h\, NC\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892905@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261212T000000Z
+DTEND:20261212T023000Z
+SUMMARY:Rangers @ Red Wings (MSG / DSN)
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: MSG / DSN\nVenue: Little Caesars Arena\, De
+ troit\, MI\nUnofficial calendar\; not affiliated with the NHL or ESPN. Tim
+ es may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892923@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261213T230000Z
+DTEND:20261214T013000Z
+SUMMARY:Blue Jackets @ Rangers (MSG / CBJNHL)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: MSG / CBJNHL\nVenue: Madison Square Garden\
+ , New York\, NY\nUnofficial calendar\; not affiliated with the NHL or ESPN
+ . Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892934@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261216T000000Z
+DTEND:20261216T023000Z
+SUMMARY:Rangers @ Devils (MSG / MSG2)
+LOCATION:Prudential Center\, Newark\, NJ
+DESCRIPTION:Regular Season\nTV: MSG / MSG2\nVenue: Prudential Center\, Newa
+ rk\, NJ\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892942@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261217T003000Z
+DTEND:20261217T030000Z
+SUMMARY:Rangers @ Flyers (TNT / truTV)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: TNT / truTV\nVenue: Xfinity Mobile Arena\, 
+ Philadelphia\, PA\nUnofficial calendar\; not affiliated with the NHL or ES
+ PN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892955@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261219T000000Z
+DTEND:20261219T023000Z
+SUMMARY:Predators @ Rangers (Scripps Sports / MSG2 / MSGSN)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: Scripps Sports / MSG2 / MSGSN\nVenue: Madis
+ on Square Garden\, New York\, NY\nUnofficial calendar\; not affiliated wit
+ h the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892975@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261221T000000Z
+DTEND:20261221T023000Z
+SUMMARY:Rangers @ Islanders (MSG / MSG2)
+LOCATION:UBS Arena\, Elmont\, NY
+DESCRIPTION:Regular Season\nTV: MSG / MSG2\nVenue: UBS Arena\, Elmont\, NY\
+ nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892985@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261223T000000Z
+DTEND:20261223T023000Z
+SUMMARY:Devils @ Rangers (MSG2 / MSG)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: MSG2 / MSG\nVenue: Madison Square Garden\, 
+ New York\, NY\nUnofficial calendar\; not affiliated with the NHL or ESPN. 
+ Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893007@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261227T220000Z
+DTEND:20261228T003000Z
+SUMMARY:Rangers @ Blues (MSG2 / Blues App / BN+)
+LOCATION:Enterprise Center\, St. Louis\, MO
+DESCRIPTION:Regular Season\nTV: MSG2 / Blues App / BN+\nVenue: Enterprise C
+ enter\, St. Louis\, MO\nUnofficial calendar\; not affiliated with the NHL 
+ or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893022@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261230T000000Z
+DTEND:20261230T023000Z
+SUMMARY:Red Wings @ Rangers (MSG / DSN)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: MSG / DSN\nVenue: Madison Square Garden\, N
+ ew York\, NY\nUnofficial calendar\; not affiliated with the NHL or ESPN. T
+ imes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893041@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270101T020000Z
+DTEND:20270101T043000Z
+SUMMARY:Rangers @ Stars (MSGSN / KDFI / Prime Video (Local))
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:Regular Season\nTV: MSGSN / KDFI / Prime Video (Local)\nVenue: 
+ American Airlines Center\, Dallas\, TX\nUnofficial calendar\; not affiliat
+ ed with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893062@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270103T230000Z
+DTEND:20270104T013000Z
+SUMMARY:Blue Jackets @ Rangers (MSG / CBJNHL)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: MSG / CBJNHL\nVenue: Madison Square Garden\
+ , New York\, NY\nUnofficial calendar\; not affiliated with the NHL or ESPN
+ . Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893074@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270106T000000Z
+DTEND:20270106T023000Z
+SUMMARY:Rangers @ Blue Jackets (MSG / CBJNHL)
+LOCATION:Nationwide Arena\, Columbus\, OH
+DESCRIPTION:Regular Season\nTV: MSG / CBJNHL\nVenue: Nationwide Arena\, Col
+ umbus\, OH\nUnofficial calendar\; not affiliated with the NHL or ESPN. Tim
+ es may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893088@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270108T000000Z
+DTEND:20270108T023000Z
+SUMMARY:Blackhawks @ Rangers (ESPN)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Madison Square Garden\, New Yo
+ rk\, NY\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893113@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270110T030000Z
+DTEND:20270110T053000Z
+SUMMARY:Rangers @ Sharks (MSG / NBC Sports BA)
+LOCATION:SAP Center at San Jose\, San Jose\, CA
+DESCRIPTION:Regular Season\nTV: MSG / NBC Sports BA\nVenue: SAP Center at S
+ an Jose\, San Jose\, CA\nUnofficial calendar\; not affiliated with the NHL
+  or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893119@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270112T030000Z
+DTEND:20270112T053000Z
+SUMMARY:Rangers @ Kings (MSG / ABTV)
+LOCATION:crypto.com Arena\, Los Angeles\, CA
+DESCRIPTION:Regular Season\nTV: MSG / ABTV\nVenue: crypto.com Arena\, Los A
+ ngeles\, CA\nUnofficial calendar\; not affiliated with the NHL or ESPN. Ti
+ mes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893129@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270113T030000Z
+DTEND:20270113T053000Z
+SUMMARY:Rangers @ Ducks (MSG / KCOP / Prime Video (Local))
+LOCATION:Honda Center\, Anaheim\, CA
+DESCRIPTION:Regular Season\nTV: MSG / KCOP / Prime Video (Local)\nVenue: Ho
+ nda Center\, Anaheim\, CA\nUnofficial calendar\; not affiliated with the N
+ HL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893150@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270116T170000Z
+DTEND:20270116T193000Z
+SUMMARY:Bruins @ Rangers (ABC)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: ABC\nVenue: Madison Square Garden\, New Yor
+ k\, NY\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893165@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270117T230000Z
+DTEND:20270118T013000Z
+SUMMARY:Stars @ Rangers (MSG / Prime Video (Local))
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: MSG / Prime Video (Local)\nVenue: Madison S
+ quare Garden\, New York\, NY\nUnofficial calendar\; not affiliated with th
+ e NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893180@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270120T000000Z
+DTEND:20270120T023000Z
+SUMMARY:Flyers @ Rangers (NBC Sports Phil / MSG)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / MSG\nVenue: Madison Squar
+ e Garden\, New York\, NY\nUnofficial calendar\; not affiliated with the NH
+ L or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893197@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270122T010000Z
+DTEND:20270122T033000Z
+SUMMARY:Rangers @ Jets (MSG)
+LOCATION:Canada Life Centre\, Winnipeg\, MB
+DESCRIPTION:Regular Season\nTV: MSG\nVenue: Canada Life Centre\, Winnipeg\,
+  MB\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893213@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270124T010000Z
+DTEND:20270124T033000Z
+SUMMARY:Rangers @ Wild (MSG / MINNHL)
+LOCATION:Grand Casino Arena\, Saint Paul\, MN
+DESCRIPTION:Regular Season\nTV: MSG / MINNHL\nVenue: Grand Casino Arena\, S
+ aint Paul\, MN\nUnofficial calendar\; not affiliated with the NHL or ESPN.
+  Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893223@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270126T000000Z
+DTEND:20270126T023000Z
+SUMMARY:Kraken @ Rangers (MSG / KONG / Prime Video (Local))
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: MSG / KONG / Prime Video (Local)\nVenue: Ma
+ dison Square Garden\, New York\, NY\nUnofficial calendar\; not affiliated 
+ with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893239@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270128T003000Z
+DTEND:20270128T030000Z
+SUMMARY:Panthers @ Rangers (TNT / truTV)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: TNT / truTV\nVenue: Madison Square Garden\,
+  New York\, NY\nUnofficial calendar\; not affiliated with the NHL or ESPN.
+  Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893254@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270130T000000Z
+DTEND:20270130T023000Z
+SUMMARY:Rangers @ Penguins (MSG)
+LOCATION:PPG Paints Arena\, Pittsburgh\, PA
+DESCRIPTION:Regular Season\nTV: MSG\nVenue: PPG Paints Arena\, Pittsburgh\,
+  PA\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893262@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270131T000000Z
+DTEND:20270131T023000Z
+SUMMARY:Rangers @ Senators (MSG)
+LOCATION:Canadian Tire Centre\, Ottawa\, ON
+DESCRIPTION:Regular Season\nTV: MSG\nVenue: Canadian Tire Centre\, Ottawa\,
+  ON\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893281@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270204T003000Z
+DTEND:20270204T030000Z
+SUMMARY:Jets @ Rangers (MSG2)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: MSG2\nVenue: Madison Square Garden\, New Yo
+ rk\, NY\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893301@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270213T000000Z
+DTEND:20270213T023000Z
+SUMMARY:Islanders @ Rangers (MSGSN / MSG)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: MSGSN / MSG\nVenue: Madison Square Garden\,
+  New York\, NY\nUnofficial calendar\; not affiliated with the NHL or ESPN.
+  Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893319@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270214T180000Z
+DTEND:20270214T203000Z
+SUMMARY:Rangers @ Canadiens (MSG)
+LOCATION:Bell Centre\, Montreal\, QC
+DESCRIPTION:Regular Season\nTV: MSG\nVenue: Bell Centre\, Montreal\, QC\nUn
+ official calendar\; not affiliated with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893323@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270215T230000Z
+DTEND:20270216T013000Z
+SUMMARY:Sabres @ Rangers (MSGB / MSGSN)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: MSGB / MSGSN\nVenue: Madison Square Garden\
+ , New York\, NY\nUnofficial calendar\; not affiliated with the NHL or ESPN
+ . Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893347@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270219T000000Z
+DTEND:20270219T023000Z
+SUMMARY:Rangers @ Islanders (MSG / MSG2)
+LOCATION:UBS Arena\, Elmont\, NY
+DESCRIPTION:Regular Season\nTV: MSG / MSG2\nVenue: UBS Arena\, Elmont\, NY\
+ nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893359@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270220T173000Z
+DTEND:20270220T200000Z
+SUMMARY:Rangers @ Flyers (ABC)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: ABC\nVenue: Xfinity Mobile Arena\, Philadel
+ phia\, PA\nUnofficial calendar\; not affiliated with the NHL or ESPN. Time
+ s may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893368@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270221T180000Z
+DTEND:20270221T203000Z
+SUMMARY:Rangers @ Hurricanes (TNT / truTV)
+LOCATION:Lenovo Center\, Raleigh\, NC
+DESCRIPTION:Regular Season\nTV: TNT / truTV\nVenue: Lenovo Center\, Raleigh
+ \, NC\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times ma
+ y change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893385@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270224T000000Z
+DTEND:20270224T023000Z
+SUMMARY:Rangers @ Capitals (MSG)
+LOCATION:Capital One Arena\, Washington\, DC
+DESCRIPTION:Regular Season\nTV: MSG\nVenue: Capital One Arena\, Washington\
+ , DC\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893404@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270227T000000Z
+DTEND:20270227T023000Z
+SUMMARY:Capitals @ Rangers (MSG)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: MSG\nVenue: Madison Square Garden\, New Yor
+ k\, NY\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893422@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270228T180000Z
+DTEND:20270228T203000Z
+SUMMARY:Rangers @ Penguins (TNT)
+LOCATION:PPG Paints Arena\, Pittsburgh\, PA
+DESCRIPTION:Regular Season\nTV: TNT\nVenue: PPG Paints Arena\, Pittsburgh\,
+  PA\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893440@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270304T000000Z
+DTEND:20270304T023000Z
+SUMMARY:Bruins @ Rangers (MSG)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: MSG\nVenue: Madison Square Garden\, New Yor
+ k\, NY\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893463@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270306T200000Z
+DTEND:20270306T223000Z
+SUMMARY:Rangers @ Sabres (ABC)
+LOCATION:KeyBank Center\, Buffalo\, NY
+DESCRIPTION:Regular Season\nTV: ABC\nVenue: KeyBank Center\, Buffalo\, NY\n
+ Unofficial calendar\; not affiliated with the NHL or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893477@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270308T000000Z
+DTEND:20270308T023000Z
+SUMMARY:Golden Knights @ Rangers (ESPN)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Madison Square Garden\, New Yo
+ rk\, NY\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893493@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270310T020000Z
+DTEND:20270310T043000Z
+SUMMARY:Rangers @ Mammoth (MSG / Utah 16)
+LOCATION:Delta Center\, Salt Lake City\, UT
+DESCRIPTION:Regular Season\nTV: MSG / Utah 16\nVenue: Delta Center\, Salt L
+ ake City\, UT\nUnofficial calendar\; not affiliated with the NHL or ESPN. 
+ Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893505@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270312T020000Z
+DTEND:20270312T043000Z
+SUMMARY:Rangers @ Avalanche (MSG2 / Altitude Sports / KTVD-TV (My20) / KUSA
+ -TV (9NEWS))
+LOCATION:Ball Arena\, Denver\, CO
+DESCRIPTION:Regular Season\nTV: MSG2 / Altitude Sports / KTVD-TV (My20) / K
+ USA-TV (9NEWS)\nVenue: Ball Arena\, Denver\, CO\nUnofficial calendar\; not
+  affiliated with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893523@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270314T030000Z
+DTEND:20270314T053000Z
+SUMMARY:Rangers @ Golden Knights (MSG / Scripps Sports)
+LOCATION:T-Mobile Arena\, Las Vegas\, NV
+DESCRIPTION:Regular Season\nTV: MSG / Scripps Sports\nVenue: T-Mobile Arena
+ \, Las Vegas\, NV\nUnofficial calendar\; not affiliated with the NHL or ES
+ PN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893539@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270316T230000Z
+DTEND:20270317T013000Z
+SUMMARY:Senators @ Rangers (MSGSN)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: MSGSN\nVenue: Madison Square Garden\, New Y
+ ork\, NY\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times
+  may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893556@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270318T230000Z
+DTEND:20270319T013000Z
+SUMMARY:Maple Leafs @ Rangers (MSG)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: MSG\nVenue: Madison Square Garden\, New Yor
+ k\, NY\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893573@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270321T000000Z
+DTEND:20270321T023000Z
+SUMMARY:Penguins @ Rangers (ABC)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: ABC\nVenue: Madison Square Garden\, New Yor
+ k\, NY\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893580@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270322T000000Z
+DTEND:20270322T023000Z
+SUMMARY:Capitals @ Rangers (TNT / truTV)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: TNT / truTV\nVenue: Madison Square Garden\,
+  New York\, NY\nUnofficial calendar\; not affiliated with the NHL or ESPN.
+  Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893591@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270324T000000Z
+DTEND:20270324T023000Z
+SUMMARY:Rangers @ Predators (MSG2 / Scripps Sports)
+LOCATION:Bridgestone Arena\, Nashville\, TN
+DESCRIPTION:Regular Season\nTV: MSG2 / Scripps Sports\nVenue: Bridgestone A
+ rena\, Nashville\, TN\nUnofficial calendar\; not affiliated with the NHL o
+ r ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893605@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270325T230000Z
+DTEND:20270326T013000Z
+SUMMARY:Rangers @ Panthers (MSG / Scripps Sports)
+LOCATION:Amerant Bank Arena\, Sunrise\, FL
+DESCRIPTION:Regular Season\nTV: MSG / Scripps Sports\nVenue: Amerant Bank A
+ rena\, Sunrise\, FL\nUnofficial calendar\; not affiliated with the NHL or 
+ ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893624@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270327T230000Z
+DTEND:20270328T013000Z
+SUMMARY:Rangers @ Lightning (MSG / The Spot - MTN)
+LOCATION:Benchmark International Arena\, Tampa\, FL
+DESCRIPTION:Regular Season\nTV: MSG / The Spot - MTN\nVenue: Benchmark Inte
+ rnational Arena\, Tampa\, FL\nUnofficial calendar\; not affiliated with th
+ e NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893636@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270329T230000Z
+DTEND:20270330T013000Z
+SUMMARY:Wild @ Rangers (MSG / MINNHL)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: MSG / MINNHL\nVenue: Madison Square Garden\
+ , New York\, NY\nUnofficial calendar\; not affiliated with the NHL or ESPN
+ . Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893654@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270401T230000Z
+DTEND:20270402T013000Z
+SUMMARY:Rangers @ Canadiens (MSG2)
+LOCATION:Bell Centre\, Montreal\, QC
+DESCRIPTION:Regular Season\nTV: MSG2\nVenue: Bell Centre\, Montreal\, QC\nU
+ nofficial calendar\; not affiliated with the NHL or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893668@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270403T163000Z
+DTEND:20270403T190000Z
+SUMMARY:Panthers @ Rangers (ABC)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: ABC\nVenue: Madison Square Garden\, New Yor
+ k\, NY\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893697@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270406T230000Z
+DTEND:20270407T013000Z
+SUMMARY:Penguins @ Rangers (ESPN)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Madison Square Garden\, New Yo
+ rk\, NY\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893730@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270410T230000Z
+DTEND:20270411T013000Z
+SUMMARY:Maple Leafs @ Rangers (MSG)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: MSG\nVenue: Madison Square Garden\, New Yor
+ k\, NY\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

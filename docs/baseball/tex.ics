@@ -1,0 +1,2163 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jaxzn//MLB Calendars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Texas Rangers
+X-WR-CALDESC:Texas Rangers MLB schedule (unofficial\, auto-updated)
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:espn-401814694@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260326T201500Z
+DTEND:20260326T231500Z
+SUMMARY:Rangers @ Phillies (ESPN Unlimited)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Citizens Bank Park\,
+  Philadelphia\, Pennsylvania\nFinal: Rangers 3\, Phillies 5\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814713@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260328T200500Z
+DTEND:20260328T230500Z
+SUMMARY:Rangers @ Phillies (Rangers Sports Network / NBC Sports Phil +)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / NBC Sports Phil +\
+ nVenue: Citizens Bank Park\, Philadelphia\, Pennsylvania\nFinal: Rangers 5
+ \, Phillies 4\nUnofficial calendar\; not affiliated with the MLB or ESPN. 
+ Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814728@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260329T173500Z
+DTEND:20260329T203500Z
+SUMMARY:Rangers @ Phillies (Rangers Sports Network / NBC Sports Phil)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / NBC Sports Phil\nV
+ enue: Citizens Bank Park\, Philadelphia\, Pennsylvania\nFinal: Rangers 8\,
+  Phillies 3\nUnofficial calendar\; not affiliated with the MLB or ESPN. Ti
+ mes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814739@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260330T223500Z
+DTEND:20260331T013500Z
+SUMMARY:Rangers @ Orioles (Rangers Sports Network / MASN)
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / MASN\nVenue: Oriol
+ e Park at Camden Yards\, Baltimore\, Maryland\nFinal: Rangers 5\, Orioles 
+ 2\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may ch
+ ange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814754@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260331T223500Z
+DTEND:20260401T013500Z
+SUMMARY:Rangers @ Orioles (ESPN Unlimited)
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Oriole Park at Camde
+ n Yards\, Baltimore\, Maryland\nFinal: Rangers 8\, Orioles 5\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814768@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260401T163500Z
+DTEND:20260401T193500Z
+SUMMARY:Rangers @ Orioles (Rangers Sports Network / MASN)
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / MASN\nVenue: Oriol
+ e Park at Camden Yards\, Baltimore\, Maryland\nFinal: Rangers 3\, Orioles 
+ 8\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may ch
+ ange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814789@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260403T200500Z
+DTEND:20260403T230500Z
+SUMMARY:Reds @ Rangers (Reds.TV / Rangers Sports Network)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Reds.TV / Rangers Sports Network\nVenue: Gl
+ obe Life Field\, Arlington\, Texas\nFinal: Reds 5\, Rangers 3\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814803@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260404T230500Z
+DTEND:20260405T020500Z
+SUMMARY:Reds @ Rangers (Reds.TV / Rangers Sports Network)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Reds.TV / Rangers Sports Network\nVenue: Gl
+ obe Life Field\, Arlington\, Texas\nFinal: Reds 2\, Rangers 0\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814818@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260405T183500Z
+DTEND:20260405T213500Z
+SUMMARY:Reds @ Rangers (Reds.TV / Rangers Sports Network)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Reds.TV / Rangers Sports Network\nVenue: Gl
+ obe Life Field\, Arlington\, Texas\nFinal: Reds 2\, Rangers 1\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814836@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260407T000500Z
+DTEND:20260407T030500Z
+SUMMARY:Mariners @ Rangers (Rangers Sports Network / Mariners.TV)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Mariners.TV\nVenue
+ : Globe Life Field\, Arlington\, Texas\nFinal: Mariners 1\, Rangers 2\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814851@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260408T000500Z
+DTEND:20260408T030500Z
+SUMMARY:Mariners @ Rangers (Rangers Sports Network / Mariners.TV)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Mariners.TV\nVenue
+ : Globe Life Field\, Arlington\, Texas\nFinal: Mariners 2\, Rangers 3\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814866@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260408T183500Z
+DTEND:20260408T213500Z
+SUMMARY:Mariners @ Rangers (Rangers Sports Network / Mariners.TV)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Mariners.TV\nVenue
+ : Globe Life Field\, Arlington\, Texas\nFinal: Mariners 0\, Rangers 3\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814890@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260411T021000Z
+DTEND:20260411T051000Z
+SUMMARY:Rangers @ Dodgers (SportsNet LA / CW33)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / CW33\nVenue: Dodger Stadium\
+ , Los Angeles\, California\nFinal: Rangers 7\, Dodgers 8\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814905@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260412T011000Z
+DTEND:20260412T041000Z
+SUMMARY:Rangers @ Dodgers (SportsNet LA / Rangers Sports Network)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Rangers Sports Network\nVenu
+ e: Dodger Stadium\, Los Angeles\, California\nFinal: Rangers 3\, Dodgers 6
+ \nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814920@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260412T201000Z
+DTEND:20260412T231000Z
+SUMMARY:Rangers @ Dodgers (SportsNet LA / Rangers Sports Network)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Rangers Sports Network\nVenu
+ e: Dodger Stadium\, Los Angeles\, California\nFinal: Rangers 5\, Dodgers 2
+ \nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814930@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260414T014000Z
+DTEND:20260414T044000Z
+SUMMARY:Rangers @ Athletics (Rangers Sports Network / NBCSCA+)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / NBCSCA+\nVenue: Su
+ tter Health Park\, Sacramento\, California\nFinal: Rangers 8\, Athletics 1
+ \nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814945@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260415T014000Z
+DTEND:20260415T044000Z
+SUMMARY:Rangers @ Athletics (Rangers Sports Network / NBC Sports CA)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / NBC Sports CA\nVen
+ ue: Sutter Health Park\, Sacramento\, California\nFinal: Rangers 1\, Athle
+ tics 2\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814960@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260416T014000Z
+DTEND:20260416T044000Z
+SUMMARY:Rangers @ Athletics (Rangers Sports Network / NBCSCA+)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / NBCSCA+\nVenue: Su
+ tter Health Park\, Sacramento\, California\nFinal: Rangers 5\, Athletics 6
+ \nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814970@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260416T190500Z
+DTEND:20260416T220500Z
+SUMMARY:Rangers @ Athletics (Rangers Sports Network / NBC Sports CA)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / NBC Sports CA\nVen
+ ue: Sutter Health Park\, Sacramento\, California\nFinal: Rangers 9\, Athle
+ tics 6\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814984@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260418T014000Z
+DTEND:20260418T044000Z
+SUMMARY:Rangers @ Mariners (Rangers Sports Network / Mariners.TV / KING 5)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Mariners.TV / KING
+  5\nVenue: T-Mobile Park\, Seattle\, Washington\nFinal: Rangers 5\, Marine
+ rs 0\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814999@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260418T231500Z
+DTEND:20260419T021500Z
+SUMMARY:Rangers @ Mariners (Fox)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Fox\nVenue: T-Mobile Park\, Seattle\, Washi
+ ngton\nFinal: Rangers 3\, Mariners 7\nUnofficial calendar\; not affiliated
+  with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815014@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260419T201000Z
+DTEND:20260419T231000Z
+SUMMARY:Rangers @ Mariners (Rangers Sports Network / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Mariners.TV\nVenue
+ : T-Mobile Park\, Seattle\, Washington\nFinal: Rangers 2\, Mariners 5\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815035@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260422T000500Z
+DTEND:20260422T030500Z
+SUMMARY:Pirates @ Rangers (Rangers Sports Network)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network\nVenue: Globe Life F
+ ield\, Arlington\, Texas\nFinal: Pirates 1\, Rangers 5\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815050@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260423T000500Z
+DTEND:20260423T030500Z
+SUMMARY:Pirates @ Rangers (Rangers Sports Network)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network\nVenue: Globe Life F
+ ield\, Arlington\, Texas\nFinal: Pirates 8\, Rangers 4\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815061@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260424T000500Z
+DTEND:20260424T030500Z
+SUMMARY:Pirates @ Rangers (Rangers Sports Network)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network\nVenue: Globe Life F
+ ield\, Arlington\, Texas\nFinal: Pirates 1\, Rangers 6\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815072@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260425T000500Z
+DTEND:20260425T030500Z
+SUMMARY:Athletics @ Rangers (CW33 / NBC Sports CA)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: CW33 / NBC Sports CA\nVenue: Globe Life Fie
+ ld\, Arlington\, Texas\nFinal: Athletics 8\, Rangers 1\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815087@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260425T230500Z
+DTEND:20260426T020500Z
+SUMMARY:Athletics @ Rangers (Rangers Sports Network / NBC Sports CA)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / NBC Sports CA\nVen
+ ue: Globe Life Field\, Arlington\, Texas\nFinal: Athletics 3\, Rangers 4\n
+ Unofficial calendar\; not affiliated with the MLB or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815102@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260426T183500Z
+DTEND:20260426T213500Z
+SUMMARY:Athletics @ Rangers (Rangers Sports Network / NBC Sports CA)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / NBC Sports CA\nVen
+ ue: Globe Life Field\, Arlington\, Texas\nFinal: Athletics 2\, Rangers 1\n
+ Unofficial calendar\; not affiliated with the MLB or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815114@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260428T000500Z
+DTEND:20260428T030500Z
+SUMMARY:Yankees @ Rangers (Rangers Sports Network / YES)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / YES\nVenue: Globe 
+ Life Field\, Arlington\, Texas\nFinal: Yankees 4\, Rangers 2\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815128@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260429T000500Z
+DTEND:20260429T030500Z
+SUMMARY:Yankees @ Rangers (Prime Video)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Prime Video\nVenue: Globe Life Field\, Arli
+ ngton\, Texas\nFinal: Yankees 3\, Rangers 2\nUnofficial calendar\; not aff
+ iliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815143@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260429T183500Z
+DTEND:20260429T213500Z
+SUMMARY:Yankees @ Rangers (Rangers Sports Network / YES)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / YES\nVenue: Globe 
+ Life Field\, Arlington\, Texas\nFinal: Yankees 0\, Rangers 3\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815163@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260501T224000Z
+DTEND:20260502T014000Z
+SUMMARY:Rangers @ Tigers (Rangers Sports Network / Tigers.TV)
+LOCATION:Comerica Park\, Detroit\, Michigan
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Tigers.TV\nVenue: 
+ Comerica Park\, Detroit\, Michigan\nFinal: Rangers 5\, Tigers 4\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815178@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260502T231500Z
+DTEND:20260503T021500Z
+SUMMARY:Rangers @ Tigers (Fox)
+LOCATION:Comerica Park\, Detroit\, Michigan
+DESCRIPTION:Regular Season\nTV: Fox\nVenue: Comerica Park\, Detroit\, Michi
+ gan\nFinal: Rangers 1\, Tigers 5\nUnofficial calendar\; not affiliated wit
+ h the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815193@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260503T232000Z
+DTEND:20260504T022000Z
+SUMMARY:Rangers @ Tigers (Peacock)
+LOCATION:Comerica Park\, Detroit\, Michigan
+DESCRIPTION:Regular Season\nTV: Peacock\nVenue: Comerica Park\, Detroit\, M
+ ichigan\nFinal: Rangers 1\, Tigers 7\nUnofficial calendar\; not affiliated
+  with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815218@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260505T230500Z
+DTEND:20260506T020500Z
+SUMMARY:Rangers @ Yankees (Rangers Sports Network / YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / YES\nVenue: Yankee
+  Stadium\, Bronx\, New York\nFinal: Rangers 4\, Yankees 7\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815233@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260506T230500Z
+DTEND:20260507T020500Z
+SUMMARY:Rangers @ Yankees (MLB Network / Prime Video)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: MLB Network / Prime Video\nVenue: Yankee St
+ adium\, Bronx\, New York\nFinal: Rangers 6\, Yankees 1\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815248@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260507T163500Z
+DTEND:20260507T193500Z
+SUMMARY:Rangers @ Yankees (ESPN Unlimited)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Yankee Stadium\, Bro
+ nx\, New York\nFinal: Rangers 2\, Yankees 9\nUnofficial calendar\; not aff
+ iliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815260@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260509T000500Z
+DTEND:20260509T030500Z
+SUMMARY:Cubs @ Rangers (Marquee Sports Net / CW33)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / CW33\nVenue: Globe Lif
+ e Field\, Arlington\, Texas\nFinal: Cubs 7\, Rangers 1\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815275@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260509T230500Z
+DTEND:20260510T020500Z
+SUMMARY:Cubs @ Rangers (Marquee Sports Net / Rangers Sports Network)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Rangers Sports Network
+ \nVenue: Globe Life Field\, Arlington\, Texas\nFinal: Cubs 0\, Rangers 6\n
+ Unofficial calendar\; not affiliated with the MLB or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815290@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260510T183500Z
+DTEND:20260510T213500Z
+SUMMARY:Cubs @ Rangers (Marquee Sports Net / Rangers Sports Network)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Rangers Sports Network
+ \nVenue: Globe Life Field\, Arlington\, Texas\nFinal: Cubs 0\, Rangers 3\n
+ Unofficial calendar\; not affiliated with the MLB or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815301@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260512T000500Z
+DTEND:20260512T030500Z
+SUMMARY:Diamondbacks @ Rangers (DBACKS.TV / Rangers Sports Network)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Rangers Sports Network\nVenue: 
+ Globe Life Field\, Arlington\, Texas\nFinal: Diamondbacks 1\, Rangers 0\nU
+ nofficial calendar\; not affiliated with the MLB or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815312@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260513T000500Z
+DTEND:20260513T030500Z
+SUMMARY:Diamondbacks @ Rangers (DBACKS.TV / Rangers Sports Network)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Rangers Sports Network\nVenue: 
+ Globe Life Field\, Arlington\, Texas\nFinal: Diamondbacks 4\, Rangers 7\nU
+ nofficial calendar\; not affiliated with the MLB or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815327@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260514T000500Z
+DTEND:20260514T030500Z
+SUMMARY:Diamondbacks @ Rangers (DBACKS.TV / Rangers Sports Network)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Rangers Sports Network\nVenue: 
+ Globe Life Field\, Arlington\, Texas\nFinal: Diamondbacks 5\, Rangers 6\nU
+ nofficial calendar\; not affiliated with the MLB or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815355@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260516T001000Z
+DTEND:20260516T031000Z
+SUMMARY:Rangers @ Astros (CW33 / Space City Home Network)
+LOCATION:Daikin Park\, Houston\, Texas
+DESCRIPTION:Regular Season\nTV: CW33 / Space City Home Network\nVenue: Daik
+ in Park\, Houston\, Texas\nFinal: Rangers 0\, Astros 2\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815370@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260516T231000Z
+DTEND:20260517T021000Z
+SUMMARY:Rangers @ Astros (Rangers Sports Network / Space City Home Network)
+LOCATION:Daikin Park\, Houston\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Space City Home Ne
+ twork\nVenue: Daikin Park\, Houston\, Texas\nFinal: Rangers 1\, Astros 4\n
+ Unofficial calendar\; not affiliated with the MLB or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815385@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260517T181000Z
+DTEND:20260517T211000Z
+SUMMARY:Rangers @ Astros (Rangers Sports Network / Space City Home Network)
+LOCATION:Daikin Park\, Houston\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Space City Home Ne
+ twork\nVenue: Daikin Park\, Houston\, Texas\nFinal: Rangers 8\, Astros 0\n
+ Unofficial calendar\; not affiliated with the MLB or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815399@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260519T004000Z
+DTEND:20260519T034000Z
+SUMMARY:Rangers @ Rockies (Rockies.TV / Rangers Sports Network)
+LOCATION:Coors Field\, Denver\, Colorado
+DESCRIPTION:Regular Season\nTV: Rockies.TV / Rangers Sports Network\nVenue:
+  Coors Field\, Denver\, Colorado\nFinal: Rangers 6\, Rockies 7\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815414@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260520T004000Z
+DTEND:20260520T034000Z
+SUMMARY:Rangers @ Rockies (Rockies.TV / Rangers Sports Network)
+LOCATION:Coors Field\, Denver\, Colorado
+DESCRIPTION:Regular Season\nTV: Rockies.TV / Rangers Sports Network\nVenue:
+  Coors Field\, Denver\, Colorado\nFinal: Rangers 10\, Rockies 0\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815429@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260520T191000Z
+DTEND:20260520T221000Z
+SUMMARY:Rangers @ Rockies (Rockies.TV / Rangers Sports Network)
+LOCATION:Coors Field\, Denver\, Colorado
+DESCRIPTION:Regular Season\nTV: Rockies.TV / Rangers Sports Network\nVenue:
+  Coors Field\, Denver\, Colorado\nFinal: Rangers 5\, Rockies 4\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815455@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260523T013800Z
+DTEND:20260523T043800Z
+SUMMARY:Rangers @ Angels (CW33 / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: CW33 / Angels.TV\nVenue: Angel Stadium\, An
+ aheim\, California\nFinal: Rangers 6\, Angels 9\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815470@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260524T020500Z
+DTEND:20260524T050500Z
+SUMMARY:Rangers @ Angels (Rangers Sports Network / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Angels.TV\nVenue: 
+ Angel Stadium\, Anaheim\, California\nFinal: Rangers 2\, Angels 5\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815485@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260524T232000Z
+DTEND:20260525T022000Z
+SUMMARY:Rangers @ Angels (Peacock)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: Peacock\nVenue: Angel Stadium\, Anaheim\, C
+ alifornia\nFinal: Rangers 1\, Angels 2\nUnofficial calendar\; not affiliat
+ ed with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815491@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260525T230500Z
+DTEND:20260526T020500Z
+SUMMARY:Astros @ Rangers (Rangers Sports Network / Space City Home Network)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Space City Home Ne
+ twork\nVenue: Globe Life Field\, Arlington\, Texas\nFinal: Astros 9\, Rang
+ ers 0\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times ma
+ y change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815506@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260527T000500Z
+DTEND:20260527T030500Z
+SUMMARY:Astros @ Rangers (Rangers Sports Network / Space City Home Network)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Space City Home Ne
+ twork\nVenue: Globe Life Field\, Arlington\, Texas\nFinal: Astros 7\, Rang
+ ers 10\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815521@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260528T000500Z
+DTEND:20260528T030500Z
+SUMMARY:Astros @ Rangers (Rangers Sports Network / Space City Home Network)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Space City Home Ne
+ twork\nVenue: Globe Life Field\, Arlington\, Texas\nFinal: Astros 4\, Rang
+ ers 3\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times ma
+ y change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815533@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260529T000500Z
+DTEND:20260529T030500Z
+SUMMARY:Astros @ Rangers (ESPN Unlimited)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Globe Life Field\, A
+ rlington\, Texas\nFinal: Astros 5\, Rangers 1\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815544@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260530T000500Z
+DTEND:20260530T030500Z
+SUMMARY:Royals @ Rangers (Royals.TV / CW33)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Royals.TV / CW33\nVenue: Globe Life Field\,
+  Arlington\, Texas\nFinal: Royals 1\, Rangers 9\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815559@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260530T200500Z
+DTEND:20260530T230500Z
+SUMMARY:Royals @ Rangers (FS1)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: FS1\nVenue: Globe Life Field\, Arlington\, 
+ Texas\nFinal: Royals 6\, Rangers 7\nUnofficial calendar\; not affiliated w
+ ith the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815574@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260531T183500Z
+DTEND:20260531T213500Z
+SUMMARY:Royals @ Rangers (Royals.TV / Rangers Sports Network)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Royals.TV / Rangers Sports Network\nVenue: 
+ Globe Life Field\, Arlington\, Texas\nFinal: Royals 3\, Rangers 6\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815585@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260601T234500Z
+DTEND:20260602T024500Z
+SUMMARY:Rangers @ Cardinals (Rangers Sports Network / Cardinals.TV)
+LOCATION:Busch Stadium\, St. Louis\, Missouri
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Cardinals.TV\nVenu
+ e: Busch Stadium\, St. Louis\, Missouri\nFinal: Rangers 2\, Cardinals 1\nU
+ nofficial calendar\; not affiliated with the MLB or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815600@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260602T234500Z
+DTEND:20260603T024500Z
+SUMMARY:Rangers @ Cardinals (Rangers Sports Network / Cardinals.TV)
+LOCATION:Busch Stadium\, St. Louis\, Missouri
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Cardinals.TV\nVenu
+ e: Busch Stadium\, St. Louis\, Missouri\nFinal: Rangers 7\, Cardinals 4\nU
+ nofficial calendar\; not affiliated with the MLB or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815615@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260603T234500Z
+DTEND:20260604T024500Z
+SUMMARY:Rangers @ Cardinals (ESPN Unlimited)
+LOCATION:Busch Stadium\, St. Louis\, Missouri
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Busch Stadium\, St. 
+ Louis\, Missouri\nFinal: Rangers 3\, Cardinals 5\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815636@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260606T001500Z
+DTEND:20260606T031500Z
+SUMMARY:Guardians @ Rangers (Apple TV)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: Globe Life Field\, Arlingt
+ on\, Texas\nFinal: Guardians 2\, Rangers 3\nUnofficial calendar\; not affi
+ liated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815651@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260606T233500Z
+DTEND:20260607T023500Z
+SUMMARY:Guardians @ Rangers (Fox)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Fox\nVenue: Globe Life Field\, Arlington\, 
+ Texas\nFinal: Guardians 6\, Rangers 0\nUnofficial calendar\; not affiliate
+ d with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815666@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260607T183500Z
+DTEND:20260607T213500Z
+SUMMARY:Guardians @ Rangers (CLEGuardians.TV / Rangers Sports Network)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Rangers Sports Network\nV
+ enue: Globe Life Field\, Arlington\, Texas\nFinal: Guardians 0\, Rangers 1
+ 0\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may ch
+ ange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815690@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260609T234000Z
+DTEND:20260610T024000Z
+SUMMARY:Rangers @ Royals (Royals.TV / Rangers Sports Network)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / Rangers Sports Network\nVenue: 
+ Kauffman Stadium\, Kansas City\, Missouri\nFinal: Rangers 3\, Royals 5\nUn
+ official calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815705@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260610T234000Z
+DTEND:20260611T024000Z
+SUMMARY:Rangers @ Royals (Royals.TV / Rangers Sports Network)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / Rangers Sports Network\nVenue: 
+ Kauffman Stadium\, Kansas City\, Missouri\nFinal: Rangers 6\, Royals 4\nUn
+ official calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815717@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260611T181000Z
+DTEND:20260611T211000Z
+SUMMARY:Rangers @ Royals (Royals.TV / Rangers Sports Network)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / Rangers Sports Network\nVenue: 
+ Kauffman Stadium\, Kansas City\, Missouri\nFinal: Rangers 4\, Royals 2\nUn
+ official calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815726@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260612T231000Z
+DTEND:20260613T021000Z
+SUMMARY:Rangers @ Red Sox (CW33 / NESN)
+LOCATION:Fenway Park\, Boston\, Massachusetts
+DESCRIPTION:Regular Season\nTV: CW33 / NESN\nVenue: Fenway Park\, Boston\, 
+ Massachusetts\nFinal: Rangers 1\, Red Sox 10\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815741@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260613T201000Z
+DTEND:20260613T231000Z
+SUMMARY:Rangers @ Red Sox (Rangers Sports Network / NESN)
+LOCATION:Fenway Park\, Boston\, Massachusetts
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / NESN\nVenue: Fenwa
+ y Park\, Boston\, Massachusetts\nFinal: Rangers 3\, Red Sox 6\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815756@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260614T232000Z
+DTEND:20260615T022000Z
+SUMMARY:Rangers @ Red Sox (NBC / Peacock)
+LOCATION:Fenway Park\, Boston\, Massachusetts
+DESCRIPTION:Regular Season\nTV: NBC / Peacock\nVenue: Fenway Park\, Boston\
+ , Massachusetts\nFinal: Rangers 6\, Red Sox 4\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815769@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260616T000500Z
+DTEND:20260616T030500Z
+SUMMARY:Twins @ Rangers (Twins.TV / Rangers Sports Network)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Twins.TV / Rangers Sports Network\nVenue: G
+ lobe Life Field\, Arlington\, Texas\nFinal: Twins 4\, Rangers 2\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815783@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260617T000500Z
+DTEND:20260617T030500Z
+SUMMARY:Twins @ Rangers (Twins.TV / Rangers Sports Network)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Twins.TV / Rangers Sports Network\nVenue: G
+ lobe Life Field\, Arlington\, Texas\nFinal: Twins 12\, Rangers 2\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815808@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260618T183500Z
+DTEND:20260618T213500Z
+SUMMARY:Twins @ Rangers (ESPN Unlimited)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Globe Life Field\, A
+ rlington\, Texas\nFinal: Twins 9\, Rangers 3\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815818@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260620T000500Z
+DTEND:20260620T030500Z
+SUMMARY:Padres @ Rangers (Padres.TV / Rangers Sports Network)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Padres.TV / Rangers Sports Network\nVenue: 
+ Globe Life Field\, Arlington\, Texas\nFinal: Padres 7\, Rangers 9\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815832@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260620T200500Z
+DTEND:20260620T230500Z
+SUMMARY:Padres @ Rangers (Padres.TV / Rangers Sports Network)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Padres.TV / Rangers Sports Network\nVenue: 
+ Globe Life Field\, Arlington\, Texas\nFinal: Padres 6\, Rangers 4\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815846@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260621T183500Z
+DTEND:20260621T213500Z
+SUMMARY:Padres @ Rangers (Padres.TV / Rangers Sports Network)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Padres.TV / Rangers Sports Network\nVenue: 
+ Globe Life Field\, Arlington\, Texas\nFinal: Padres 3\, Rangers 4\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815860@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260622T224000Z
+DTEND:20260623T014000Z
+SUMMARY:Rangers @ Marlins (Rangers Sports Network / Marlins.TV)
+LOCATION:loanDepot park\, Miami\, Florida
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Marlins.TV\nVenue:
+  loanDepot park\, Miami\, Florida\nFinal: Rangers 4\, Marlins 3\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815874@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260623T224000Z
+DTEND:20260624T014000Z
+SUMMARY:Rangers @ Marlins (Rangers Sports Network / Marlins.TV)
+LOCATION:loanDepot park\, Miami\, Florida
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Marlins.TV\nVenue:
+  loanDepot park\, Miami\, Florida\nFinal: Rangers 4\, Marlins 6\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815889@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260624T161000Z
+DTEND:20260624T191000Z
+SUMMARY:Rangers @ Marlins (Rangers Sports Network / Marlins.TV)
+LOCATION:loanDepot park\, Miami\, Florida
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Marlins.TV\nVenue:
+  loanDepot park\, Miami\, Florida\nFinal: Rangers 2\, Marlins 4\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815903@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260625T230700Z
+DTEND:20260626T020700Z
+SUMMARY:Rangers @ Blue Jays (Rangers Sports Network / Sportsnet)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Sportsnet\nVenue: 
+ Rogers Centre\, Toronto\, Ontario\nFinal: Rangers 6\, Blue Jays 5\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815912@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260626T230700Z
+DTEND:20260627T020700Z
+SUMMARY:Rangers @ Blue Jays (CW33 / Sportsnet One)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: CW33 / Sportsnet One\nVenue: Rogers Centre\
+ , Toronto\, Ontario\nFinal: Rangers 5\, Blue Jays 4\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815927@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260627T190700Z
+DTEND:20260627T220700Z
+SUMMARY:Rangers @ Blue Jays (Rangers Sports Network / Sportsnet / TVA)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Sportsnet / TVA\nV
+ enue: Rogers Centre\, Toronto\, Ontario\nFinal: Rangers 7\, Blue Jays 4\nU
+ nofficial calendar\; not affiliated with the MLB or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815942@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260628T173700Z
+DTEND:20260628T203700Z
+SUMMARY:Rangers @ Blue Jays (Rangers Sports Network / Sportsnet / TVA)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Sportsnet / TVA\nV
+ enue: Rogers Centre\, Toronto\, Ontario\nFinal: Rangers 3\, Blue Jays 2\nU
+ nofficial calendar\; not affiliated with the MLB or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815955@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260629T230000Z
+DTEND:20260630T020000Z
+SUMMARY:Rangers @ Guardians (ESPN)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Progressive Field\, Cleveland\
+ , Ohio\nFinal: Rangers 6\, Guardians 3\nUnofficial calendar\; not affiliat
+ ed with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815969@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260630T224000Z
+DTEND:20260701T014000Z
+SUMMARY:Rangers @ Guardians (CLEGuardians.TV / Rangers Sports Network)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Rangers Sports Network\nV
+ enue: Progressive Field\, Cleveland\, Ohio\nFinal: Rangers 4\, Guardians 2
+ \nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815984@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260701T171000Z
+DTEND:20260701T201000Z
+SUMMARY:Rangers @ Guardians (CLEGuardians.TV / Rangers Sports Network)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Rangers Sports Network\nV
+ enue: Progressive Field\, Cleveland\, Ohio\nFinal: Rangers 4\, Guardians 9
+ \nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815997@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260703T000500Z
+DTEND:20260703T030500Z
+SUMMARY:Tigers @ Rangers (ESPN Unlimited)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Globe Life Field\, A
+ rlington\, Texas\nFinal: Tigers 4\, Rangers 10\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816020@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260704T200500Z
+DTEND:20260704T230500Z
+SUMMARY:Tigers @ Rangers (Rangers Sports Network / Tigers.TV)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Tigers.TV\nVenue: 
+ Globe Life Field\, Arlington\, Texas\nFinal: Tigers 3\, Rangers 0\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816035@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260705T193000Z
+DTEND:20260705T223000Z
+SUMMARY:Tigers @ Rangers (Peacock)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Peacock\nVenue: Globe Life Field\, Arlingto
+ n\, Texas\nFinal: Tigers 6\, Rangers 3\nUnofficial calendar\; not affiliat
+ ed with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816061@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260708T000500Z
+DTEND:20260708T030500Z
+SUMMARY:Angels @ Rangers (Rangers Sports Network / Angels.TV)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Angels.TV\nVenue: 
+ Globe Life Field\, Arlington\, Texas\nFinal: Angels 3\, Rangers 8\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816076@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260709T000500Z
+DTEND:20260709T030500Z
+SUMMARY:Angels @ Rangers (Rangers Sports Network / Angels.TV)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Angels.TV\nVenue: 
+ Globe Life Field\, Arlington\, Texas\nFinal: Angels 13\, Rangers 1\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816090@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260710T000500Z
+DTEND:20260710T030500Z
+SUMMARY:Angels @ Rangers (Rangers Sports Network / Angels.TV)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Angels.TV\nVenue: 
+ Globe Life Field\, Arlington\, Texas\nFinal: Angels 6\, Rangers 7\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816107@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260711T000500Z
+DTEND:20260711T030500Z
+SUMMARY:Astros @ Rangers (CW33 / Space City Home Network)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: CW33 / Space City Home Network\nVenue: Glob
+ e Life Field\, Arlington\, Texas\nFinal: Astros 3\, Rangers 7\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816122@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260711T230500Z
+DTEND:20260712T020500Z
+SUMMARY:Astros @ Rangers (Rangers Sports Network / Space City Home Network)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Space City Home Ne
+ twork\nVenue: Globe Life Field\, Arlington\, Texas\nFinal: Astros 9\, Rang
+ ers 3\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times ma
+ y change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816137@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260712T183500Z
+DTEND:20260712T213500Z
+SUMMARY:Astros @ Rangers (Rangers Sports Network / Space City Home Network)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Space City Home Ne
+ twork\nVenue: Globe Life Field\, Arlington\, Texas\nFinal: Astros 5\, Rang
+ ers 6\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times ma
+ y change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816146@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260717T231500Z
+DTEND:20260718T021500Z
+SUMMARY:Rangers @ Braves (ESPN Unlimited)
+LOCATION:Truist Park\, Atlanta\, Georgia
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Truist Park\, Atlant
+ a\, Georgia\nFinal: Rangers 1\, Braves 15\nUnofficial calendar\; not affil
+ iated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816161@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260718T201000Z
+DTEND:20260718T231000Z
+SUMMARY:Rangers @ Braves (BravesVision / Rangers Sports Network)
+LOCATION:Truist Park\, Atlanta\, Georgia
+DESCRIPTION:Regular Season\nTV: BravesVision / Rangers Sports Network\nVenu
+ e: Truist Park\, Atlanta\, Georgia\nFinal: Rangers 7\, Braves 6\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816176@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260719T173500Z
+DTEND:20260719T203500Z
+SUMMARY:Rangers @ Braves (BravesVision / Rangers Sports Network)
+LOCATION:Truist Park\, Atlanta\, Georgia
+DESCRIPTION:Regular Season\nTV: BravesVision / Rangers Sports Network\nVenu
+ e: Truist Park\, Atlanta\, Georgia\nFinal: Rangers 5\, Braves 8\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816192@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260721T000500Z
+DTEND:20260721T030500Z
+SUMMARY:White Sox @ Rangers (Rangers Sports Network / CHSN)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / CHSN\nVenue: Globe
+  Life Field\, Arlington\, Texas\nFinal: White Sox 10\, Rangers 3\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816207@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260722T000500Z
+DTEND:20260722T030500Z
+SUMMARY:White Sox @ Rangers (Rangers Sports Network / CHSN)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / CHSN\nVenue: Globe
+  Life Field\, Arlington\, Texas\nFinal: White Sox 0\, Rangers 10\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816222@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260723T000500Z
+DTEND:20260723T030500Z
+SUMMARY:White Sox @ Rangers (Rangers Sports Network / CHSN)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / CHSN\nVenue: Globe
+  Life Field\, Arlington\, Texas\nFinal: White Sox 4\, Rangers 2\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816248@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260725T000500Z
+DTEND:20260725T030500Z
+SUMMARY:Mariners @ Rangers (CW33 / Mariners.TV)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: CW33 / Mariners.TV\nVenue: Globe Life Field
+ \, Arlington\, Texas\nFinal: Mariners 4\, Rangers 5\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816263@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260725T231500Z
+DTEND:20260726T021500Z
+SUMMARY:Mariners @ Rangers (Fox)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Fox\nVenue: Globe Life Field\, Arlington\, 
+ Texas\nFinal: Mariners 1\, Rangers 7\nUnofficial calendar\; not affiliated
+  with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816278@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260726T183500Z
+DTEND:20260726T213500Z
+SUMMARY:Mariners @ Rangers (Rangers Sports Network / Mariners.TV)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Mariners.TV\nVenue
+ : Globe Life Field\, Arlington\, Texas\nFinal: Mariners 6\, Rangers 4\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816288@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260727T183500Z
+DTEND:20260727T213500Z
+SUMMARY:Mariners @ Rangers (ESPN Unlimited)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Globe Life Field\, A
+ rlington\, Texas\nFinal: Mariners 3\, Rangers 7\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816297@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260728T224000Z
+DTEND:20260729T014000Z
+SUMMARY:Rangers @ Rays (Rangers Sports Network / Rays.TV)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Rays.TV\nVenue: Tr
+ opicana Field\, St. Petersburg\, Florida\nFinal: Rangers 4\, Rays 1\nUnoff
+ icial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816312@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260729T224000Z
+DTEND:20260730T014000Z
+SUMMARY:Rangers @ Rays (Rangers Sports Network / Rays.TV)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Rays.TV\nVenue: Tr
+ opicana Field\, St. Petersburg\, Florida\nFinal: Rangers 0\, Rays 3\nUnoff
+ icial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816324@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260730T161000Z
+DTEND:20260730T191000Z
+SUMMARY:Rangers @ Rays (Rangers Sports Network / Rays.TV)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Rays.TV\nVenue: Tr
+ opicana Field\, St. Petersburg\, Florida\nFinal: Rangers 2\, Rays 3\nUnoff
+ icial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816340@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260801T001500Z
+DTEND:20260801T031500Z
+SUMMARY:Rangers @ Astros (Apple TV)
+LOCATION:Daikin Park\, Houston\, Texas
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: Daikin Park\, Houston\, Te
+ xas\nFinal: Rangers 2\, Astros 11\nUnofficial calendar\; not affiliated wi
+ th the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816355@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260801T231000Z
+DTEND:20260802T021000Z
+SUMMARY:Rangers @ Astros (Rangers Sports Network / Space City Home Network)
+LOCATION:Daikin Park\, Houston\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Space City Home Ne
+ twork\nVenue: Daikin Park\, Houston\, Texas\nFinal: Rangers 4\, Astros 5\n
+ Unofficial calendar\; not affiliated with the MLB or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816370@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260802T181000Z
+DTEND:20260802T211000Z
+SUMMARY:Rangers @ Astros (Rangers Sports Network / Space City Home Network)
+LOCATION:Daikin Park\, Houston\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Space City Home Ne
+ twork\nVenue: Daikin Park\, Houston\, Texas\nFinal: Rangers 3\, Astros 7\n
+ Unofficial calendar\; not affiliated with the MLB or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816381@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260804T000000Z
+DTEND:20260804T030000Z
+SUMMARY:Giants @ Rangers (ESPN)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Globe Life Field\, Arlington\,
+  Texas\nFinal: Giants 5\, Rangers 1\nUnofficial calendar\; not affiliated 
+ with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816394@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260805T000500Z
+DTEND:20260805T030500Z
+SUMMARY:Giants @ Rangers (NBC Sports BA / Rangers Sports Network)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Rangers Sports Network\nVen
+ ue: Globe Life Field\, Arlington\, Texas\nFinal: Giants 4\, Rangers 5\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816409@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260805T183500Z
+DTEND:20260805T213500Z
+SUMMARY:Giants @ Rangers (ESPN Unlimited)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Globe Life Field\, A
+ rlington\, Texas\nFinal: Giants 0\, Rangers 6\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816430@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260808T001500Z
+DTEND:20260808T031500Z
+SUMMARY:Orioles @ Rangers (Apple TV)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: Globe Life Field\, Arlingt
+ on\, Texas\nFinal: Orioles 1\, Rangers 2\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816445@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260808T231500Z
+DTEND:20260809T021500Z
+SUMMARY:Orioles @ Rangers (Fox)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Fox\nVenue: Globe Life Field\, Arlington\, 
+ Texas\nFinal: Orioles 1\, Rangers 5\nUnofficial calendar\; not affiliated 
+ with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816460@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260809T183500Z
+DTEND:20260809T213500Z
+SUMMARY:Orioles @ Rangers (Rangers Sports Network / MASN)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / MASN\nVenue: Globe
+  Life Field\, Arlington\, Texas\nFinal: Orioles 10\, Rangers 5\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816478@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260811T013800Z
+DTEND:20260811T043800Z
+SUMMARY:Rangers @ Angels (Rangers Sports Network / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Angels.TV\nVenue: 
+ Angel Stadium\, Anaheim\, California\nFinal: Rangers 4\, Angels 1\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816493@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260812T013800Z
+DTEND:20260812T043800Z
+SUMMARY:Rangers @ Angels (ESPN Unlimited)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Angel Stadium\, Anah
+ eim\, California\nFinal: Rangers 2\, Angels 3\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816508@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260813T020000Z
+DTEND:20260813T050000Z
+SUMMARY:Rangers @ Angels (ESPN)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Angel Stadium\, Anaheim\, Cali
+ fornia\nFinal: Rangers 2\, Angels 5\nUnofficial calendar\; not affiliated 
+ with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816516@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260814T020700Z
+DTEND:20260814T050700Z
+SUMMARY:Rangers @ Angels (Rangers Sports Network / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Angels.TV\nVenue: 
+ Angel Stadium\, Anaheim\, California\nFinal: Rangers 0\, Angels 7\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816531@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260815T014000Z
+DTEND:20260815T044000Z
+SUMMARY:Rangers @ Athletics (CW33 / NBC Sports CA)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: CW33 / NBC Sports CA\nVenue: Sutter Health 
+ Park\, Sacramento\, California\nFinal: Rangers 3\, Athletics 8\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816546@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260816T014000Z
+DTEND:20260816T044000Z
+SUMMARY:Rangers @ Athletics (ESPN Unlimited)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Sutter Health Park\,
+  Sacramento\, California\nFinal: Rangers 5\, Athletics 3\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816561@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260816T200500Z
+DTEND:20260816T230500Z
+SUMMARY:Rangers @ Athletics (Rangers Sports Network / NBC Sports CA)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / NBC Sports CA\nVen
+ ue: Sutter Health Park\, Sacramento\, California\nFinal: Rangers 2\, Athle
+ tics 5\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816584@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260819T000500Z
+DTEND:20260819T030500Z
+SUMMARY:Nationals @ Rangers (Rangers Sports Network / Nationals.TV)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Nationals.TV\nVenu
+ e: Globe Life Field\, Arlington\, Texas\nFinal: Nationals 0\, Rangers 5\nU
+ nofficial calendar\; not affiliated with the MLB or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816599@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260820T000500Z
+DTEND:20260820T030500Z
+SUMMARY:Nationals @ Rangers (Rangers Sports Network / Nationals.TV)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Nationals.TV\nVenu
+ e: Globe Life Field\, Arlington\, Texas\nFinal: Nationals 6\, Rangers 0\nU
+ nofficial calendar\; not affiliated with the MLB or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816609@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260821T000500Z
+DTEND:20260821T030500Z
+SUMMARY:Nationals @ Rangers (FS1)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: FS1\nVenue: Globe Life Field\, Arlington\, 
+ Texas\nFinal: Nationals 0\, Rangers 2\nUnofficial calendar\; not affiliate
+ d with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816615@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260822T001500Z
+DTEND:20260822T031500Z
+SUMMARY:Angels @ Rangers (Apple TV)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: Globe Life Field\, Arlingt
+ on\, Texas\nFinal: Angels 1\, Rangers 2\nUnofficial calendar\; not affilia
+ ted with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816630@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260822T230500Z
+DTEND:20260823T020500Z
+SUMMARY:Angels @ Rangers (Rangers Sports Network / Angels.TV)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Angels.TV\nVenue: 
+ Globe Life Field\, Arlington\, Texas\nFinal: Angels 3\, Rangers 0\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816645@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260823T183500Z
+DTEND:20260823T213500Z
+SUMMARY:Angels @ Rangers (Rangers Sports Network / Angels.TV)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Angels.TV\nVenue: 
+ Globe Life Field\, Arlington\, Texas\nFinal: Angels 3\, Rangers 5\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816658@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260824T234000Z
+DTEND:20260825T024000Z
+SUMMARY:Rangers @ White Sox (Rangers Sports Network / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / CHSN\nVenue: Rate 
+ Field\, Chicago\, Illinois\nFinal: Rangers 11\, White Sox 2\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816673@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260825T234000Z
+DTEND:20260826T024000Z
+SUMMARY:Rangers @ White Sox (Rangers Sports Network / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / CHSN\nVenue: Rate 
+ Field\, Chicago\, Illinois\nFinal: Rangers 7\, White Sox 11\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816688@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260826T234000Z
+DTEND:20260827T024000Z
+SUMMARY:Rangers @ White Sox (Rangers Sports Network / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / CHSN\nVenue: Rate 
+ Field\, Chicago\, Illinois\nFinal: Rangers 4\, White Sox 10\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816713@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260828T234000Z
+DTEND:20260829T024000Z
+SUMMARY:Rangers @ Brewers (Brewers.TV / Rangers Sports Network)
+LOCATION:American Family Field\, Milwaukee\, Wisconsin
+DESCRIPTION:Regular Season\nTV: Brewers.TV / Rangers Sports Network\nVenue:
+  American Family Field\, Milwaukee\, Wisconsin\nFinal: Rangers 1\, Brewers
+  6\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may c
+ hange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816728@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260829T231500Z
+DTEND:20260830T021500Z
+SUMMARY:Rangers @ Brewers (Fox)
+LOCATION:American Family Field\, Milwaukee\, Wisconsin
+DESCRIPTION:Regular Season\nTV: Fox\nVenue: American Family Field\, Milwauk
+ ee\, Wisconsin\nFinal: Rangers 3\, Brewers 5\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816743@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260830T181000Z
+DTEND:20260830T211000Z
+SUMMARY:Rangers @ Brewers (Brewers.TV / Rangers Sports Network)
+LOCATION:American Family Field\, Milwaukee\, Wisconsin
+DESCRIPTION:Regular Season\nTV: Brewers.TV / Rangers Sports Network\nVenue:
+  American Family Field\, Milwaukee\, Wisconsin\nFinal: Rangers 7\, Brewers
+  4\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may c
+ hange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816751@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260901T000500Z
+DTEND:20260901T030500Z
+SUMMARY:Athletics @ Rangers (Rangers Sports Network / NBC Sports CA)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / NBC Sports CA\nVen
+ ue: Globe Life Field\, Arlington\, Texas\nFinal: Athletics 1\, Rangers 8\n
+ Unofficial calendar\; not affiliated with the MLB or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816764@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260902T000500Z
+DTEND:20260902T030500Z
+SUMMARY:Athletics @ Rangers (Rangers Sports Network / NBC Sports CA)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / NBC Sports CA\nVen
+ ue: Globe Life Field\, Arlington\, Texas\nFinal: Athletics 5\, Rangers 8\n
+ Unofficial calendar\; not affiliated with the MLB or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816779@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260902T183500Z
+DTEND:20260902T213500Z
+SUMMARY:Athletics @ Rangers (Rangers Sports Network / NBC Sports CA)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / NBC Sports CA\nVen
+ ue: Globe Life Field\, Arlington\, Texas\nFinal: Athletics 9\, Rangers 2\n
+ Unofficial calendar\; not affiliated with the MLB or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816794@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260904T000500Z
+DTEND:20260904T030500Z
+SUMMARY:Rays @ Rangers (Rays.TV / Rangers Sports Network)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rays.TV / Rangers Sports Network\nVenue: Gl
+ obe Life Field\, Arlington\, Texas\nFinal: Rays 0\, Rangers 6\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816806@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260905T000500Z
+DTEND:20260905T030500Z
+SUMMARY:Rays @ Rangers (Rays.TV / CW33)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rays.TV / CW33\nVenue: Globe Life Field\, A
+ rlington\, Texas\nFinal: Rays 7\, Rangers 6\nUnofficial calendar\; not aff
+ iliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816821@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260905T230500Z
+DTEND:20260906T020500Z
+SUMMARY:Rays @ Rangers (Rangers Sports Network / Rays.TV)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Rays.TV\nVenue: Gl
+ obe Life Field\, Arlington\, Texas\nFinal: Rays 6\, Rangers 3\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816836@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260906T183500Z
+DTEND:20260906T213500Z
+SUMMARY:Rays @ Rangers (Rangers Sports Network / Rays.TV)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Rays.TV\nVenue: Gl
+ obe Life Field\, Arlington\, Texas\nFinal: Rays 6\, Rangers 8\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816865@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260909T014000Z
+DTEND:20260909T044000Z
+SUMMARY:Rangers @ Mariners (Rangers Sports Network / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Mariners.TV\nVenue
+ : T-Mobile Park\, Seattle\, Washington\nFinal: Rangers 10\, Mariners 5\nUn
+ official calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816880@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260909T201000Z
+DTEND:20260909T231000Z
+SUMMARY:Rangers @ Mariners (Rangers Sports Network / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Mariners.TV\nVenue
+ : T-Mobile Park\, Seattle\, Washington\nFinal: Rangers 2\, Mariners 3\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816887@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260910T201000Z
+DTEND:20260910T231000Z
+SUMMARY:Rangers @ Mariners (Rangers Sports Network / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Mariners.TV\nVenue
+ : T-Mobile Park\, Seattle\, Washington\nFinal: Rangers 3\, Mariners 4\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816902@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260912T014000Z
+DTEND:20260912T044000Z
+SUMMARY:Rangers @ Diamondbacks (DBACKS.TV / Rangers Sports Network / CW33)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Rangers Sports Network / CW33\n
+ Venue: Chase Field\, Phoenix\, Arizona\nFinal: Rangers 1\, Diamondbacks 9\
+ nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816917@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260913T001000Z
+DTEND:20260913T031000Z
+SUMMARY:Rangers @ Diamondbacks (DBACKS.TV / Rangers Sports Network)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Rangers Sports Network\nVenue: 
+ Chase Field\, Phoenix\, Arizona\nFinal: Rangers 6\, Diamondbacks 2\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816932@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260913T201000Z
+DTEND:20260913T231000Z
+SUMMARY:Rangers @ Diamondbacks (DBACKS.TV / Rangers Sports Network)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Rangers Sports Network\nVenue: 
+ Chase Field\, Phoenix\, Arizona\nFinal: Rangers 7\, Diamondbacks 6\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816951@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260916T000500Z
+DTEND:20260916T030500Z
+SUMMARY:Red Sox @ Rangers (Rangers Sports Network / NESN)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / NESN\nVenue: Globe
+  Life Field\, Arlington\, Texas\nFinal: Red Sox 2\, Rangers 4\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816966@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260917T000500Z
+DTEND:20260917T030500Z
+SUMMARY:Red Sox @ Rangers (Rangers Sports Network / NESN)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / NESN\nVenue: Globe
+  Life Field\, Arlington\, Texas\nFinal: Red Sox 3\, Rangers 7\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816977@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260918T000500Z
+DTEND:20260918T030500Z
+SUMMARY:Red Sox @ Rangers (Rangers Sports Network / NESN)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / NESN\nVenue: Globe
+  Life Field\, Arlington\, Texas\nFinal: Red Sox 4\, Rangers 3\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816990@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260919T000500Z
+DTEND:20260919T030500Z
+SUMMARY:Blue Jays @ Rangers (Rangers Sports Network / Sportsnet)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Sportsnet\nVenue: 
+ Globe Life Field\, Arlington\, Texas\nFinal: Blue Jays 1\, Rangers 7\nUnof
+ ficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817005@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260919T230500Z
+DTEND:20260920T020500Z
+SUMMARY:Blue Jays @ Rangers (Rangers Sports Network / Sportsnet / TVA)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Sportsnet / TVA\nV
+ enue: Globe Life Field\, Arlington\, Texas\nFinal: Blue Jays 2\, Rangers 6
+ \nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817020@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260920T183500Z
+DTEND:20260920T213500Z
+SUMMARY:Blue Jays @ Rangers (Rangers Sports Network / Sportsnet / TVA)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Sportsnet / TVA\nV
+ enue: Globe Life Field\, Arlington\, Texas\nFinal: Blue Jays 7\, Rangers 2
+ \nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817039@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260923T000500Z
+DTEND:20260923T030500Z
+SUMMARY:Mets @ Rangers (Rangers Sports Network / SNY)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / SNY\nVenue: Globe 
+ Life Field\, Arlington\, Texas\nFinal: Mets 6\, Rangers 3\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817054@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260924T000500Z
+DTEND:20260924T030500Z
+SUMMARY:Mets @ Rangers (Rangers Sports Network / SNY)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / SNY\nVenue: Globe 
+ Life Field\, Arlington\, Texas\nFinal: Mets 7\, Rangers 2\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817067@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260924T183500Z
+DTEND:20260924T213500Z
+SUMMARY:Mets @ Rangers (Rangers Sports Network / SNY)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / SNY\nVenue: Globe 
+ Life Field\, Arlington\, Texas\nFinal: Mets 1\, Rangers 3\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817082@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260926T001000Z
+DTEND:20260926T031000Z
+SUMMARY:Rangers @ Twins (Twins.TV / Rangers Sports Network / CW33)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Rangers Sports Network / CW33\nV
+ enue: Target Field\, Minneapolis\, Minnesota\nFinal: Rangers 2\, Twins 10\
+ nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817097@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260926T201000Z
+DTEND:20260926T231000Z
+SUMMARY:Rangers @ Twins (Twins.TV / Rangers Sports Network)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Rangers Sports Network\nVenue: T
+ arget Field\, Minneapolis\, Minnesota\nFinal: Rangers 6\, Twins 2\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817112@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260927T191000Z
+DTEND:20260927T221000Z
+SUMMARY:Rangers @ Twins (Twins.TV / Rangers Sports Network)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Rangers Sports Network\nVenue: T
+ arget Field\, Minneapolis\, Minnesota\nFinal: Rangers 4\, Twins 6\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

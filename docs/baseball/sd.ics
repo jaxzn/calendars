@@ -1,0 +1,2217 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jaxzn//MLB Calendars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:San Diego Padres
+X-WR-CALDESC:San Diego Padres MLB schedule (unofficial\, auto-updated)
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:espn-401814701@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260326T201000Z
+DTEND:20260326T231000Z
+SUMMARY:Tigers @ Padres (MLB Network)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: MLB Network\nVenue: Petco Park\, San Diego\
+ , California\nFinal: Tigers 8\, Padres 2\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814706@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260328T014000Z
+DTEND:20260328T044000Z
+SUMMARY:Tigers @ Padres (Padres.TV / Tigers.TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / Tigers.TV\nVenue: Petco Park\, 
+ San Diego\, California\nFinal: Tigers 5\, Padres 2\nUnofficial calendar\; 
+ not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814720@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260329T004000Z
+DTEND:20260329T034000Z
+SUMMARY:Tigers @ Padres (Padres.TV / Tigers.TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / Tigers.TV\nVenue: Petco Park\, 
+ San Diego\, California\nFinal: Tigers 0\, Padres 3\nUnofficial calendar\; 
+ not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814749@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260331T014000Z
+DTEND:20260331T044000Z
+SUMMARY:Giants @ Padres (FS1)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: FS1\nVenue: Petco Park\, San Diego\, Califo
+ rnia\nFinal: Giants 3\, Padres 2\nUnofficial calendar\; not affiliated wit
+ h the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814763@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260401T014000Z
+DTEND:20260401T044000Z
+SUMMARY:Giants @ Padres (NBC Sports BA / Padres.TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Padres.TV\nVenue: Petco Par
+ k\, San Diego\, California\nFinal: Giants 9\, Padres 3\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814778@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260401T201000Z
+DTEND:20260401T231000Z
+SUMMARY:Giants @ Padres (NBC Sports BA / Padres.TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Padres.TV\nVenue: Petco Par
+ k\, San Diego\, California\nFinal: Giants 1\, Padres 7\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814787@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260403T181000Z
+DTEND:20260403T211000Z
+SUMMARY:Padres @ Red Sox (Padres.TV / NESN)
+LOCATION:Fenway Park\, Boston\, Massachusetts
+DESCRIPTION:Regular Season\nTV: Padres.TV / NESN\nVenue: Fenway Park\, Bost
+ on\, Massachusetts\nFinal: Padres 2\, Red Sox 5\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814801@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260404T201000Z
+DTEND:20260404T231000Z
+SUMMARY:Padres @ Red Sox (Padres.TV / NESN)
+LOCATION:Fenway Park\, Boston\, Massachusetts
+DESCRIPTION:Regular Season\nTV: Padres.TV / NESN\nVenue: Fenway Park\, Bost
+ on\, Massachusetts\nFinal: Padres 3\, Red Sox 2\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814816@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260405T173500Z
+DTEND:20260405T203500Z
+SUMMARY:Padres @ Red Sox (ESPN Unlimited)
+LOCATION:Fenway Park\, Boston\, Massachusetts
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Fenway Park\, Boston
+ \, Massachusetts\nFinal: Padres 8\, Red Sox 6\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814832@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260406T224000Z
+DTEND:20260407T014000Z
+SUMMARY:Padres @ Pirates (Padres.TV)
+LOCATION:PNC Park\, Pittsburgh\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: Padres.TV\nVenue: PNC Park\, Pittsburgh\, P
+ ennsylvania\nFinal: Padres 5\, Pirates 0\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814847@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260407T224000Z
+DTEND:20260408T014000Z
+SUMMARY:Padres @ Pirates (Padres.TV)
+LOCATION:PNC Park\, Pittsburgh\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: Padres.TV\nVenue: PNC Park\, Pittsburgh\, P
+ ennsylvania\nFinal: Padres 1\, Pirates 7\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814862@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260408T163500Z
+DTEND:20260408T193500Z
+SUMMARY:Padres @ Pirates (Padres.TV)
+LOCATION:PNC Park\, Pittsburgh\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: Padres.TV\nVenue: PNC Park\, Pittsburgh\, P
+ ennsylvania\nFinal: Padres 8\, Pirates 2\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814875@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260410T014000Z
+DTEND:20260410T044000Z
+SUMMARY:Rockies @ Padres (Padres.TV / Rockies.TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / Rockies.TV\nVenue: Petco Park\,
+  San Diego\, California\nFinal: Rockies 3\, Padres 7\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814888@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260411T014000Z
+DTEND:20260411T044000Z
+SUMMARY:Rockies @ Padres (Padres.TV / Rockies.TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / Rockies.TV\nVenue: Petco Park\,
+  San Diego\, California\nFinal: Rockies 2\, Padres 5\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814903@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260412T004000Z
+DTEND:20260412T034000Z
+SUMMARY:Rockies @ Padres (Padres.TV / Rockies.TV / KFMB 8.1 (CBS))
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / Rockies.TV / KFMB 8.1 (CBS)\nVe
+ nue: Petco Park\, San Diego\, California\nFinal: Rockies 5\, Padres 9\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814918@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260412T201000Z
+DTEND:20260412T231000Z
+SUMMARY:Rockies @ Padres (Padres.TV / Rockies.TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / Rockies.TV\nVenue: Petco Park\,
+  San Diego\, California\nFinal: Rockies 2\, Padres 7\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814944@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260415T014000Z
+DTEND:20260415T044000Z
+SUMMARY:Mariners @ Padres (ESPN Unlimited)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Petco Park\, San Die
+ go\, California\nFinal: Mariners 1\, Padres 4\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814959@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260416T014000Z
+DTEND:20260416T044000Z
+SUMMARY:Mariners @ Padres (Padres.TV / Mariners.TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / Mariners.TV\nVenue: Petco Park\
+ , San Diego\, California\nFinal: Mariners 6\, Padres 7\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814969@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260417T004000Z
+DTEND:20260417T034000Z
+SUMMARY:Mariners @ Padres (MLB Network)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: MLB Network\nVenue: Petco Park\, San Diego\
+ , California\nFinal: Mariners 2\, Padres 5\nUnofficial calendar\; not affi
+ liated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814983@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260418T013800Z
+DTEND:20260418T043800Z
+SUMMARY:Padres @ Angels (FanDuel SN West / Padres.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: FanDuel SN West / Padres.TV\nVenue: Angel S
+ tadium\, Anaheim\, California\nFinal: Padres 0\, Angels 8\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814998@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260419T013800Z
+DTEND:20260419T043800Z
+SUMMARY:Padres @ Angels (FanDuel SN West / Padres.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: FanDuel SN West / Padres.TV\nVenue: Angel S
+ tadium\, Anaheim\, California\nFinal: Padres 4\, Angels 1\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815013@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260419T200700Z
+DTEND:20260419T230700Z
+SUMMARY:Padres @ Angels (ESPN Unlimited)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Angel Stadium\, Anah
+ eim\, California\nFinal: Padres 2\, Angels 1\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815036@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260422T004000Z
+DTEND:20260422T034000Z
+SUMMARY:Padres @ Rockies (Padres.TV / Rockies.TV)
+LOCATION:Coors Field\, Denver\, Colorado
+DESCRIPTION:Regular Season\nTV: Padres.TV / Rockies.TV\nVenue: Coors Field\
+ , Denver\, Colorado\nFinal: Padres 1\, Rockies 0\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815051@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260423T004000Z
+DTEND:20260423T034000Z
+SUMMARY:Padres @ Rockies (Padres.TV / Rockies.TV)
+LOCATION:Coors Field\, Denver\, Colorado
+DESCRIPTION:Regular Season\nTV: Padres.TV / Rockies.TV\nVenue: Coors Field\
+ , Denver\, Colorado\nFinal: Padres 3\, Rockies 8\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815062@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260423T191000Z
+DTEND:20260423T221000Z
+SUMMARY:Padres @ Rockies (Padres.TV / Rockies.TV)
+LOCATION:Coors Field\, Denver\, Colorado
+DESCRIPTION:Regular Season\nTV: Padres.TV / Rockies.TV\nVenue: Coors Field\
+ , Denver\, Colorado\nFinal: Padres 10\, Rockies 8\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815094@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260425T220500Z
+DTEND:20260426T010500Z
+SUMMARY:Padres @ Diamondbacks (Padres.TV / DBACKS.TV)
+LOCATION:Estadio Alfredo Harp Helú\, Mexico City
+DESCRIPTION:MLB World Tour: Mexico City Series\nTV: Padres.TV / DBACKS.TV\n
+ Venue: Estadio Alfredo Harp Helú\, Mexico City\nFinal: Padres 6\, Diamond
+ backs 4\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815109@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260426T200500Z
+DTEND:20260426T230500Z
+SUMMARY:Padres @ Diamondbacks (Padres.TV / DBACKS.TV)
+LOCATION:Estadio Alfredo Harp Helú\, Mexico City
+DESCRIPTION:MLB World Tour: Mexico City Series\nTV: Padres.TV / DBACKS.TV\n
+ Venue: Estadio Alfredo Harp Helú\, Mexico City\nFinal: Padres 7\, Diamond
+ backs 12\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times
+  may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815116@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260428T014000Z
+DTEND:20260428T044000Z
+SUMMARY:Cubs @ Padres (Marquee Sports Net / Padres.TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Padres.TV\nVenue: Petc
+ o Park\, San Diego\, California\nFinal: Cubs 7\, Padres 9\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815130@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260429T014000Z
+DTEND:20260429T044000Z
+SUMMARY:Cubs @ Padres (Marquee Sports Net / Padres.TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Padres.TV\nVenue: Petc
+ o Park\, San Diego\, California\nFinal: Cubs 8\, Padres 3\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815145@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260429T201000Z
+DTEND:20260429T231000Z
+SUMMARY:Cubs @ Padres (Marquee Sports Net / Padres.TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Padres.TV\nVenue: Petc
+ o Park\, San Diego\, California\nFinal: Cubs 5\, Padres 4\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815168@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260502T014000Z
+DTEND:20260502T044000Z
+SUMMARY:White Sox @ Padres (Padres.TV / CHSN)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / CHSN\nVenue: Petco Park\, San D
+ iego\, California\nFinal: White Sox 8\, Padres 2\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815183@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260503T004000Z
+DTEND:20260503T034000Z
+SUMMARY:White Sox @ Padres (Padres.TV / CHSN / KFMB 8.1 (CBS))
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / CHSN / KFMB 8.1 (CBS)\nVenue: P
+ etco Park\, San Diego\, California\nFinal: White Sox 4\, Padres 0\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815198@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260503T201000Z
+DTEND:20260503T231000Z
+SUMMARY:White Sox @ Padres (Padres.TV / CHSN)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / CHSN\nVenue: Petco Park\, San D
+ iego\, California\nFinal: White Sox 3\, Padres 4\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815213@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260505T014500Z
+DTEND:20260505T044500Z
+SUMMARY:Padres @ Giants (ESPN Unlimited)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Oracle Park\, San Fr
+ ancisco\, California\nFinal: Padres 2\, Giants 3\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815228@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260506T014500Z
+DTEND:20260506T044500Z
+SUMMARY:Padres @ Giants (NBC Sports BA / Padres.TV)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Padres.TV\nVenue: Oracle Pa
+ rk\, San Francisco\, California\nFinal: Padres 10\, Giants 5\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815243@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260506T194500Z
+DTEND:20260506T224500Z
+SUMMARY:Padres @ Giants (NBC Sports BA / Padres.TV)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Padres.TV\nVenue: Oracle Pa
+ rk\, San Francisco\, California\nFinal: Padres 5\, Giants 1\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815252@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260508T020000Z
+DTEND:20260508T050000Z
+SUMMARY:Cardinals @ Padres (ESPN)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Petco Park\, San Diego\, Calif
+ ornia\nFinal: Cardinals 2\, Padres 1\nUnofficial calendar\; not affiliated
+  with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815267@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260509T014500Z
+DTEND:20260509T044500Z
+SUMMARY:Cardinals @ Padres (Apple TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: Petco Park\, San Diego\, C
+ alifornia\nFinal: Cardinals 6\, Padres 0\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815282@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260509T231500Z
+DTEND:20260510T021500Z
+SUMMARY:Cardinals @ Padres (Fox)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Fox\nVenue: Petco Park\, San Diego\, Califo
+ rnia\nFinal: Cardinals 2\, Padres 4\nUnofficial calendar\; not affiliated 
+ with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815297@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260510T201000Z
+DTEND:20260510T231000Z
+SUMMARY:Cardinals @ Padres (Padres.TV / Cardinals.TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / Cardinals.TV\nVenue: Petco Park
+ \, San Diego\, California\nFinal: Cardinals 2\, Padres 3\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815315@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260512T234000Z
+DTEND:20260513T024000Z
+SUMMARY:Padres @ Brewers (Padres.TV / Brewers.TV)
+LOCATION:American Family Field\, Milwaukee\, Wisconsin
+DESCRIPTION:Regular Season\nTV: Padres.TV / Brewers.TV\nVenue: American Fam
+ ily Field\, Milwaukee\, Wisconsin\nFinal: Padres 4\, Brewers 6\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815330@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260513T234000Z
+DTEND:20260514T024000Z
+SUMMARY:Padres @ Brewers (Padres.TV / Brewers.TV)
+LOCATION:American Family Field\, Milwaukee\, Wisconsin
+DESCRIPTION:Regular Season\nTV: Padres.TV / Brewers.TV\nVenue: American Fam
+ ily Field\, Milwaukee\, Wisconsin\nFinal: Padres 3\, Brewers 1\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815341@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260514T174000Z
+DTEND:20260514T204000Z
+SUMMARY:Padres @ Brewers (Padres.TV / Brewers.TV)
+LOCATION:American Family Field\, Milwaukee\, Wisconsin
+DESCRIPTION:Regular Season\nTV: Padres.TV / Brewers.TV\nVenue: American Fam
+ ily Field\, Milwaukee\, Wisconsin\nFinal: Padres 1\, Brewers 7\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815358@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260516T014000Z
+DTEND:20260516T044000Z
+SUMMARY:Padres @ Mariners (Padres.TV / Mariners.TV / KING 5)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Padres.TV / Mariners.TV / KING 5\nVenue: T-
+ Mobile Park\, Seattle\, Washington\nFinal: Padres 2\, Mariners 0\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815373@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260516T231500Z
+DTEND:20260517T021500Z
+SUMMARY:Padres @ Mariners (Fox)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Fox\nVenue: T-Mobile Park\, Seattle\, Washi
+ ngton\nFinal: Padres 7\, Mariners 4\nUnofficial calendar\; not affiliated 
+ with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815388@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260517T232000Z
+DTEND:20260518T022000Z
+SUMMARY:Padres @ Mariners (Peacock / NBC)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Peacock / NBC\nVenue: T-Mobile Park\, Seatt
+ le\, Washington\nFinal: Padres 8\, Mariners 3\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815402@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260519T014000Z
+DTEND:20260519T044000Z
+SUMMARY:Dodgers @ Padres (SportsNet LA / Padres.TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Padres.TV\nVenue: Petco Park
+ \, San Diego\, California\nFinal: Dodgers 0\, Padres 1\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815417@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260520T014000Z
+DTEND:20260520T044000Z
+SUMMARY:Dodgers @ Padres (SportsNet LA / Padres.TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Padres.TV\nVenue: Petco Park
+ \, San Diego\, California\nFinal: Dodgers 5\, Padres 4\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815432@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260521T004000Z
+DTEND:20260521T034000Z
+SUMMARY:Dodgers @ Padres (SportsNet LA / Padres.TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Padres.TV\nVenue: Petco Park
+ \, San Diego\, California\nFinal: Dodgers 4\, Padres 0\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815452@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260523T014000Z
+DTEND:20260523T044000Z
+SUMMARY:Athletics @ Padres (Padres.TV / NBC Sports CA)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / NBC Sports CA\nVenue: Petco Par
+ k\, San Diego\, California\nFinal: Athletics 3\, Padres 7\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815467@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260524T014000Z
+DTEND:20260524T044000Z
+SUMMARY:Athletics @ Padres (Padres.TV / NBC Sports CA)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / NBC Sports CA\nVenue: Petco Par
+ k\, San Diego\, California\nFinal: Athletics 0\, Padres 2\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815482@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260524T201000Z
+DTEND:20260524T231000Z
+SUMMARY:Athletics @ Padres (Padres.TV / NBC Sports CA)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / NBC Sports CA\nVenue: Petco Par
+ k\, San Diego\, California\nFinal: Athletics 5\, Padres 2\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815497@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260525T224000Z
+DTEND:20260526T014000Z
+SUMMARY:Phillies @ Padres (ESPN Unlimited)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Petco Park\, San Die
+ go\, California\nFinal: Phillies 3\, Padres 0\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815512@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260527T014000Z
+DTEND:20260527T044000Z
+SUMMARY:Phillies @ Padres (Padres.TV / NBC Sports Phil)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / NBC Sports Phil\nVenue: Petco P
+ ark\, San Diego\, California\nFinal: Phillies 4\, Padres 3\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815527@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260527T201000Z
+DTEND:20260527T231000Z
+SUMMARY:Phillies @ Padres (Padres.TV / NBC Sports Phil)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / NBC Sports Phil\nVenue: Petco P
+ ark\, San Diego\, California\nFinal: Phillies 3\, Padres 0\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815540@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260529T224500Z
+DTEND:20260530T014500Z
+SUMMARY:Padres @ Nationals (Padres.TV / Nationals.TV / Fox 5 WTTG / Gray Me
+ dia)
+LOCATION:Nationals Park\, Washington\, District of Columbia
+DESCRIPTION:Regular Season\nTV: Padres.TV / Nationals.TV / Fox 5 WTTG / Gra
+ y Media\nVenue: Nationals Park\, Washington\, District of Columbia\nFinal:
+  Padres 7\, Nationals 5\nUnofficial calendar\; not affiliated with the MLB
+  or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815555@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260530T200500Z
+DTEND:20260530T230500Z
+SUMMARY:Padres @ Nationals (Padres.TV / Nationals.TV)
+LOCATION:Nationals Park\, Washington\, District of Columbia
+DESCRIPTION:Regular Season\nTV: Padres.TV / Nationals.TV\nVenue: Nationals 
+ Park\, Washington\, District of Columbia\nFinal: Padres 4\, Nationals 9\nU
+ nofficial calendar\; not affiliated with the MLB or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815570@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260531T173500Z
+DTEND:20260531T203500Z
+SUMMARY:Padres @ Nationals (Padres.TV / Nationals.TV)
+LOCATION:Nationals Park\, Washington\, District of Columbia
+DESCRIPTION:Regular Season\nTV: Padres.TV / Nationals.TV\nVenue: Nationals 
+ Park\, Washington\, District of Columbia\nFinal: Padres 2\, Nationals 4\nU
+ nofficial calendar\; not affiliated with the MLB or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815594@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260602T224000Z
+DTEND:20260603T014000Z
+SUMMARY:Padres @ Phillies (TBS)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: TBS\nVenue: Citizens Bank Park\, Philadelph
+ ia\, Pennsylvania\nFinal: Padres 2\, Phillies 3\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815609@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260603T224000Z
+DTEND:20260604T014000Z
+SUMMARY:Padres @ Phillies (Padres.TV / NBC Sports Phil)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: Padres.TV / NBC Sports Phil\nVenue: Citizen
+ s Bank Park\, Philadelphia\, Pennsylvania\nFinal: Padres 2\, Phillies 3\nU
+ nofficial calendar\; not affiliated with the MLB or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815621@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260604T170500Z
+DTEND:20260604T200500Z
+SUMMARY:Padres @ Phillies (Padres.TV / NBC Sports Phil)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: Padres.TV / NBC Sports Phil\nVenue: Citizen
+ s Bank Park\, Philadelphia\, Pennsylvania\nFinal: Padres 4\, Phillies 6\nU
+ nofficial calendar\; not affiliated with the MLB or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815641@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260606T014000Z
+DTEND:20260606T044000Z
+SUMMARY:Mets @ Padres (Padres.TV / WPIX)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / WPIX\nVenue: Petco Park\, San D
+ iego\, California\nFinal: Mets 5\, Padres 0\nUnofficial calendar\; not aff
+ iliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815656@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260607T021000Z
+DTEND:20260607T051000Z
+SUMMARY:Mets @ Padres (Padres.TV / SNY)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / SNY\nVenue: Petco Park\, San Di
+ ego\, California\nFinal: Mets 2\, Padres 3\nUnofficial calendar\; not affi
+ liated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815671@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260607T201000Z
+DTEND:20260607T231000Z
+SUMMARY:Mets @ Padres (Padres.TV / SNY)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / SNY\nVenue: Petco Park\, San Di
+ ego\, California\nFinal: Mets 7\, Padres 3\nUnofficial calendar\; not affi
+ liated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815677@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260609T014000Z
+DTEND:20260609T044000Z
+SUMMARY:Reds @ Padres (ESPN Unlimited)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Petco Park\, San Die
+ go\, California\nFinal: Reds 2\, Padres 6\nUnofficial calendar\; not affil
+ iated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815692@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260610T014000Z
+DTEND:20260610T044000Z
+SUMMARY:Reds @ Padres (Padres.TV / Reds.TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / Reds.TV\nVenue: Petco Park\, Sa
+ n Diego\, California\nFinal: Reds 5\, Padres 3\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815707@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260610T201000Z
+DTEND:20260610T231000Z
+SUMMARY:Reds @ Padres (Padres.TV / Reds.TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / Reds.TV\nVenue: Petco Park\, Sa
+ n Diego\, California\nFinal: Reds 4\, Padres 5\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815724@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260612T230500Z
+DTEND:20260613T020500Z
+SUMMARY:Padres @ Orioles (Padres.TV / MASN)
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+DESCRIPTION:Regular Season\nTV: Padres.TV / MASN\nVenue: Oriole Park at Cam
+ den Yards\, Baltimore\, Maryland\nFinal: Padres 3\, Orioles 7\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815739@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260613T200500Z
+DTEND:20260613T230500Z
+SUMMARY:Padres @ Orioles (Padres.TV / MASN)
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+DESCRIPTION:Regular Season\nTV: Padres.TV / MASN\nVenue: Oriole Park at Cam
+ den Yards\, Baltimore\, Maryland\nFinal: Padres 9\, Orioles 3\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815754@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260614T173500Z
+DTEND:20260614T203500Z
+SUMMARY:Padres @ Orioles (Padres.TV / MASN)
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+DESCRIPTION:Regular Season\nTV: Padres.TV / MASN\nVenue: Oriole Park at Cam
+ den Yards\, Baltimore\, Maryland\nFinal: Padres 5\, Orioles 2\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815770@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260615T234500Z
+DTEND:20260616T024500Z
+SUMMARY:Padres @ Cardinals (Padres.TV / Cardinals.TV)
+LOCATION:Busch Stadium\, St. Louis\, Missouri
+DESCRIPTION:Regular Season\nTV: Padres.TV / Cardinals.TV\nVenue: Busch Stad
+ ium\, St. Louis\, Missouri\nFinal: Padres 0\, Cardinals 3\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815784@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260616T234500Z
+DTEND:20260617T024500Z
+SUMMARY:Padres @ Cardinals (TBS)
+LOCATION:Busch Stadium\, St. Louis\, Missouri
+DESCRIPTION:Regular Season\nTV: TBS\nVenue: Busch Stadium\, St. Louis\, Mis
+ souri\nFinal: Padres 2\, Cardinals 3\nUnofficial calendar\; not affiliated
+  with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815798@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260617T181500Z
+DTEND:20260617T211500Z
+SUMMARY:Padres @ Cardinals (Padres.TV / Cardinals.TV)
+LOCATION:Busch Stadium\, St. Louis\, Missouri
+DESCRIPTION:Regular Season\nTV: Padres.TV / Cardinals.TV\nVenue: Busch Stad
+ ium\, St. Louis\, Missouri\nFinal: Padres 6\, Cardinals 1\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815818@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260620T000500Z
+DTEND:20260620T030500Z
+SUMMARY:Padres @ Rangers (Padres.TV / Rangers Sports Network)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Padres.TV / Rangers Sports Network\nVenue: 
+ Globe Life Field\, Arlington\, Texas\nFinal: Padres 7\, Rangers 9\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815832@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260620T200500Z
+DTEND:20260620T230500Z
+SUMMARY:Padres @ Rangers (Padres.TV / Rangers Sports Network)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Padres.TV / Rangers Sports Network\nVenue: 
+ Globe Life Field\, Arlington\, Texas\nFinal: Padres 6\, Rangers 4\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815846@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260621T183500Z
+DTEND:20260621T213500Z
+SUMMARY:Padres @ Rangers (Padres.TV / Rangers Sports Network)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Padres.TV / Rangers Sports Network\nVenue: 
+ Globe Life Field\, Arlington\, Texas\nFinal: Padres 3\, Rangers 4\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815865@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260623T020000Z
+DTEND:20260623T050000Z
+SUMMARY:Braves @ Padres (ESPN)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Petco Park\, San Diego\, Calif
+ ornia\nFinal: Braves 0\, Padres 1\nUnofficial calendar\; not affiliated wi
+ th the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815880@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260624T014000Z
+DTEND:20260624T044000Z
+SUMMARY:Braves @ Padres (ESPN Unlimited)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Petco Park\, San Die
+ go\, California\nFinal: Braves 6\, Padres 7\nUnofficial calendar\; not aff
+ iliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815895@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260625T004000Z
+DTEND:20260625T034000Z
+SUMMARY:Braves @ Padres (BravesVision / Padres.TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: BravesVision / Padres.TV\nVenue: Petco Park
+ \, San Diego\, California\nFinal: Braves 2\, Padres 5\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815920@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260627T014500Z
+DTEND:20260627T044500Z
+SUMMARY:Dodgers @ Padres (Apple TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: Petco Park\, San Diego\, C
+ alifornia\nFinal: Dodgers 1\, Padres 7\nUnofficial calendar\; not affiliat
+ ed with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815935@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260628T004000Z
+DTEND:20260628T034000Z
+SUMMARY:Dodgers @ Padres (MLB Network)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: MLB Network\nVenue: Petco Park\, San Diego\
+ , California\nFinal: Dodgers 15\, Padres 3\nUnofficial calendar\; not affi
+ liated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815950@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260628T201000Z
+DTEND:20260628T231000Z
+SUMMARY:Dodgers @ Padres (SportsNet LA / Padres.TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Padres.TV\nVenue: Petco Park
+ \, San Diego\, California\nFinal: Dodgers 4\, Padres 2\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815959@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260630T000500Z
+DTEND:20260630T030500Z
+SUMMARY:Padres @ Cubs (Marquee Sports Net / Padres.TV)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Padres.TV\nVenue: Wrig
+ ley Field\, Chicago\, Illinois\nFinal: Padres 2\, Cubs 3\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815973@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260701T000500Z
+DTEND:20260701T030500Z
+SUMMARY:Padres @ Cubs (Marquee Sports Net / Padres.TV)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Padres.TV\nVenue: Wrig
+ ley Field\, Chicago\, Illinois\nFinal: Padres 7\, Cubs 9\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815988@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260701T182000Z
+DTEND:20260701T212000Z
+SUMMARY:Padres @ Cubs (Marquee Sports Net / Padres.TV)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Padres.TV\nVenue: Wrig
+ ley Field\, Chicago\, Illinois\nFinal: Padres 3\, Cubs 23\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816001@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260703T021000Z
+DTEND:20260703T051000Z
+SUMMARY:Padres @ Dodgers (MLB Network)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: MLB Network\nVenue: Dodger Stadium\, Los An
+ geles\, California\nFinal: Padres 7\, Dodgers 12\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816013@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260704T021000Z
+DTEND:20260704T051000Z
+SUMMARY:Padres @ Dodgers (ESPN Unlimited)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Dodger Stadium\, Los
+  Angeles\, California\nFinal: Padres 3\, Dodgers 4\nUnofficial calendar\; 
+ not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816028@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260705T021000Z
+DTEND:20260705T051000Z
+SUMMARY:Padres @ Dodgers (SportsNet LA / Padres.TV / KFMB 8.1 (CBS) / TV Az
+ teca)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Padres.TV / KFMB 8.1 (CBS) /
+  TV Azteca\nVenue: Dodger Stadium\, Los Angeles\, California\nFinal: Padre
+ s 0\, Dodgers 3\nUnofficial calendar\; not affiliated with the MLB or ESPN
+ . Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816043@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260705T232000Z
+DTEND:20260706T022000Z
+SUMMARY:Padres @ Dodgers (NBC / Peacock)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: NBC / Peacock\nVenue: Dodger Stadium\, Los 
+ Angeles\, California\nFinal: Padres 5\, Dodgers 2\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816050@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260707T014000Z
+DTEND:20260707T044000Z
+SUMMARY:Diamondbacks @ Padres (FS1)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: FS1\nVenue: Petco Park\, San Diego\, Califo
+ rnia\nFinal: Diamondbacks 8\, Padres 0\nUnofficial calendar\; not affiliat
+ ed with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816065@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260708T014000Z
+DTEND:20260708T044000Z
+SUMMARY:Diamondbacks @ Padres (ESPN Unlimited)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Petco Park\, San Die
+ go\, California\nFinal: Diamondbacks 1\, Padres 4\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816080@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260709T020000Z
+DTEND:20260709T050000Z
+SUMMARY:Diamondbacks @ Padres (ESPN)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Petco Park\, San Diego\, Calif
+ ornia\nFinal: Diamondbacks 4\, Padres 10\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816094@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260710T014000Z
+DTEND:20260710T044000Z
+SUMMARY:Diamondbacks @ Padres (Padres.TV / DBACKS.TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / DBACKS.TV\nVenue: Petco Park\, 
+ San Diego\, California\nFinal: Diamondbacks 3\, Padres 1\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816110@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260711T014000Z
+DTEND:20260711T044000Z
+SUMMARY:Blue Jays @ Padres (Padres.TV / Sportsnet / TVA)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / Sportsnet / TVA\nVenue: Petco P
+ ark\, San Diego\, California\nFinal: Blue Jays 5\, Padres 3\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816125@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260712T004000Z
+DTEND:20260712T034000Z
+SUMMARY:Blue Jays @ Padres (Padres.TV / Sportsnet / TVA / KFMB 8.1 (CBS) / 
+ TV Azteca)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / Sportsnet / TVA / KFMB 8.1 (CBS
+ ) / TV Azteca\nVenue: Petco Park\, San Diego\, California\nFinal: Blue Jay
+ s 7\, Padres 8\nUnofficial calendar\; not affiliated with the MLB or ESPN.
+  Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816140@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260712T201000Z
+DTEND:20260712T231000Z
+SUMMARY:Blue Jays @ Padres (Padres.TV / Sportsnet / TVA)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / Sportsnet / TVA\nVenue: Petco P
+ ark\, San Diego\, California\nFinal: Blue Jays 4\, Padres 5\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816150@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260718T001000Z
+DTEND:20260718T031000Z
+SUMMARY:Padres @ Royals (Padres.TV / Royals.TV / KCTV5 / TV Azteca / KFMB 8
+ .1 (CBS))
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Padres.TV / Royals.TV / KCTV5 / TV Azteca /
+  KFMB 8.1 (CBS)\nVenue: Kauffman Stadium\, Kansas City\, Missouri\nFinal: 
+ Padres 6\, Royals 7\nUnofficial calendar\; not affiliated with the MLB or 
+ ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816165@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260718T201000Z
+DTEND:20260718T231000Z
+SUMMARY:Padres @ Royals (Royals.TV / Padres.TV)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / Padres.TV\nVenue: Kauffman Stad
+ ium\, Kansas City\, Missouri\nFinal: Padres 1\, Royals 6\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816180@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260719T181000Z
+DTEND:20260719T211000Z
+SUMMARY:Padres @ Royals (Royals.TV / Padres.TV)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / Padres.TV\nVenue: Kauffman Stad
+ ium\, Kansas City\, Missouri\nFinal: Padres 19\, Royals 2\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816190@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260720T231500Z
+DTEND:20260721T021500Z
+SUMMARY:Padres @ Braves (BravesVision / Padres.TV / Gray Media)
+LOCATION:Truist Park\, Atlanta\, Georgia
+DESCRIPTION:Regular Season\nTV: BravesVision / Padres.TV / Gray Media\nVenu
+ e: Truist Park\, Atlanta\, Georgia\nFinal: Padres 2\, Braves 3\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816205@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260721T231500Z
+DTEND:20260722T021500Z
+SUMMARY:Padres @ Braves (BravesVision / Gray Media / Padres.TV)
+LOCATION:Truist Park\, Atlanta\, Georgia
+DESCRIPTION:Regular Season\nTV: BravesVision / Gray Media / Padres.TV\nVenu
+ e: Truist Park\, Atlanta\, Georgia\nFinal: Padres 8\, Braves 3\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816220@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260722T231500Z
+DTEND:20260723T021500Z
+SUMMARY:Padres @ Braves (BravesVision / Padres.TV)
+LOCATION:Truist Park\, Atlanta\, Georgia
+DESCRIPTION:Regular Season\nTV: BravesVision / Padres.TV\nVenue: Truist Par
+ k\, Atlanta\, Georgia\nFinal: Padres 6\, Braves 7\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816233@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260723T161500Z
+DTEND:20260723T191500Z
+SUMMARY:Padres @ Braves (BravesVision / Padres.TV)
+LOCATION:Truist Park\, Atlanta\, Georgia
+DESCRIPTION:Regular Season\nTV: BravesVision / Padres.TV\nVenue: Truist Par
+ k\, Atlanta\, Georgia\nFinal: Padres 5\, Braves 6\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816242@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260724T231000Z
+DTEND:20260725T021000Z
+SUMMARY:Padres @ Marlins (Padres.TV / Marlins.TV)
+LOCATION:loanDepot park\, Miami\, Florida
+DESCRIPTION:Regular Season\nTV: Padres.TV / Marlins.TV\nVenue: loanDepot pa
+ rk\, Miami\, Florida\nFinal: Padres 4\, Marlins 2\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816257@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260725T201000Z
+DTEND:20260725T231000Z
+SUMMARY:Padres @ Marlins (FS1)
+LOCATION:loanDepot park\, Miami\, Florida
+DESCRIPTION:Regular Season\nTV: FS1\nVenue: loanDepot park\, Miami\, Florid
+ a\nFinal: Padres 7\, Marlins 2\nUnofficial calendar\; not affiliated with 
+ the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816272@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260726T174000Z
+DTEND:20260726T204000Z
+SUMMARY:Padres @ Marlins (Padres.TV / Marlins.TV)
+LOCATION:loanDepot park\, Miami\, Florida
+DESCRIPTION:Regular Season\nTV: Padres.TV / Marlins.TV\nVenue: loanDepot pa
+ rk\, Miami\, Florida\nFinal: Padres 5\, Marlins 3\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816303@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260729T014000Z
+DTEND:20260729T044000Z
+SUMMARY:Rockies @ Padres (Padres.TV / Rockies.TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / Rockies.TV\nVenue: Petco Park\,
+  San Diego\, California\nFinal: Rockies 7\, Padres 8\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816318@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260729T201000Z
+DTEND:20260729T231000Z
+SUMMARY:Rockies @ Padres (Padres.TV / Rockies.TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / Rockies.TV\nVenue: Petco Park\,
+  San Diego\, California\nFinal: Rockies 1\, Padres 3\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816331@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260731T014000Z
+DTEND:20260731T044000Z
+SUMMARY:Giants @ Padres (NBC Sports BA / Padres.TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Padres.TV\nVenue: Petco Par
+ k\, San Diego\, California\nFinal: Giants 4\, Padres 1\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816346@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260801T014500Z
+DTEND:20260801T044500Z
+SUMMARY:Giants @ Padres (Apple TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: Petco Park\, San Diego\, C
+ alifornia\nFinal: Giants 0\, Padres 7\nUnofficial calendar\; not affiliate
+ d with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816361@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260802T004000Z
+DTEND:20260802T034000Z
+SUMMARY:Giants @ Padres (NBC Sports BA / Padres.TV / KFMB 8.1 (CBS) / TV Az
+ teca)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Padres.TV / KFMB 8.1 (CBS) 
+ / TV Azteca\nVenue: Petco Park\, San Diego\, California\nFinal: Giants 5\,
+  Padres 6\nUnofficial calendar\; not affiliated with the MLB or ESPN. Time
+ s may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816376@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260802T201000Z
+DTEND:20260802T231000Z
+SUMMARY:Giants @ Padres (NBC Sports BA / Padres.TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Padres.TV\nVenue: Petco Par
+ k\, San Diego\, California\nFinal: Giants 4\, Padres 5\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815079@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260804T014000Z
+DTEND:20260804T044000Z
+SUMMARY:Padres @ Diamondbacks (Padres.TV / DBACKS.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: Padres.TV / DBACKS.TV\nVenue: Chase Field\,
+  Phoenix\, Arizona\nFinal: Padres 1\, Diamondbacks 5\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816398@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260805T014000Z
+DTEND:20260805T044000Z
+SUMMARY:Padres @ Diamondbacks (ESPN Unlimited)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Chase Field\, Phoeni
+ x\, Arizona\nFinal: Padres 9\, Diamondbacks 4\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816413@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260806T014000Z
+DTEND:20260806T044000Z
+SUMMARY:Padres @ Diamondbacks (Padres.TV / DBACKS.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: Padres.TV / DBACKS.TV\nVenue: Chase Field\,
+  Phoenix\, Arizona\nFinal: Padres 4\, Diamondbacks 10\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816423@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260807T014000Z
+DTEND:20260807T044000Z
+SUMMARY:Padres @ Diamondbacks (Padres.TV / DBACKS.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: Padres.TV / DBACKS.TV\nVenue: Chase Field\,
+  Phoenix\, Arizona\nFinal: Padres 5\, Diamondbacks 1\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816436@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260808T014000Z
+DTEND:20260808T044000Z
+SUMMARY:Astros @ Padres (Padres.TV / Space City Home Network)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / Space City Home Network\nVenue:
+  Petco Park\, San Diego\, California\nFinal: Astros 6\, Padres 3\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816451@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260808T231500Z
+DTEND:20260809T021500Z
+SUMMARY:Astros @ Padres (Padres.TV / Space City Home Network / KFMB 8.1 (CB
+ S))
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / Space City Home Network / KFMB 
+ 8.1 (CBS)\nVenue: Petco Park\, San Diego\, California\nFinal: Astros 2\, P
+ adres 3\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816466@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260810T002000Z
+DTEND:20260810T032000Z
+SUMMARY:Astros @ Padres (NBC)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: Petco Park\, San Diego\, Califo
+ rnia\nFinal: Astros 2\, Padres 7\nUnofficial calendar\; not affiliated wit
+ h the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816476@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260811T014000Z
+DTEND:20260811T044000Z
+SUMMARY:Brewers @ Padres (ESPN Unlimited)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Petco Park\, San Die
+ go\, California\nFinal: Brewers 2\, Padres 3\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816491@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260812T014000Z
+DTEND:20260812T044000Z
+SUMMARY:Brewers @ Padres (Padres.TV / Brewers.TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / Brewers.TV\nVenue: Petco Park\,
+  San Diego\, California\nFinal: Brewers 2\, Padres 11\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816506@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260812T201000Z
+DTEND:20260812T231000Z
+SUMMARY:Brewers @ Padres (Padres.TV / Brewers.TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / Brewers.TV\nVenue: Petco Park\,
+  San Diego\, California\nFinal: Brewers 3\, Padres 4\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816523@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260814T231000Z
+DTEND:20260815T021000Z
+SUMMARY:Padres @ Guardians (CLEGuardians.TV / Padres.TV / WKYC 3)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Padres.TV / WKYC 3\nVenue
+ : Progressive Field\, Cleveland\, Ohio\nFinal: Padres 7\, Guardians 5\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816538@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260815T231000Z
+DTEND:20260816T021000Z
+SUMMARY:Padres @ Guardians (CLEGuardians.TV / Padres.TV / KFMB 8.1 (CBS) / 
+ TV Azteca)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Padres.TV / KFMB 8.1 (CBS
+ ) / TV Azteca\nVenue: Progressive Field\, Cleveland\, Ohio\nFinal: Padres 
+ 1\, Guardians 6\nUnofficial calendar\; not affiliated with the MLB or ESPN
+ . Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816553@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260816T174000Z
+DTEND:20260816T204000Z
+SUMMARY:Padres @ Guardians (CLEGuardians.TV / Padres.TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Padres.TV\nVenue: Progres
+ sive Field\, Cleveland\, Ohio\nFinal: Padres 5\, Guardians 0\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816566@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260817T231000Z
+DTEND:20260818T021000Z
+SUMMARY:Padres @ Mets (Padres.TV / SNY)
+LOCATION:Citi Field\, Queens\, New York
+DESCRIPTION:Regular Season\nTV: Padres.TV / SNY\nVenue: Citi Field\, Queens
+ \, New York\nFinal: Padres 1\, Mets 2\nUnofficial calendar\; not affiliate
+ d with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816575@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260818T231000Z
+DTEND:20260819T021000Z
+SUMMARY:Padres @ Mets (Padres.TV / SNY)
+LOCATION:Citi Field\, Queens\, New York
+DESCRIPTION:Regular Season\nTV: Padres.TV / SNY\nVenue: Citi Field\, Queens
+ \, New York\nFinal: Padres 5\, Mets 2\nUnofficial calendar\; not affiliate
+ d with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816590@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260819T171000Z
+DTEND:20260819T201000Z
+SUMMARY:Padres @ Mets (Padres.TV / SNY)
+LOCATION:Citi Field\, Queens\, New York
+DESCRIPTION:Regular Season\nTV: Padres.TV / SNY\nVenue: Citi Field\, Queens
+ \, New York\nFinal: Padres 2\, Mets 4\nUnofficial calendar\; not affiliate
+ d with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816623@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260822T014000Z
+DTEND:20260822T044000Z
+SUMMARY:Twins @ Padres (Twins.TV / Padres.TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Twins.TV / Padres.TV\nVenue: Petco Park\, S
+ an Diego\, California\nFinal: Twins 2\, Padres 6\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816638@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260823T004000Z
+DTEND:20260823T034000Z
+SUMMARY:Twins @ Padres (Twins.TV / Padres.TV / KFMB 8.1 (CBS) / TV Azteca)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Twins.TV / Padres.TV / KFMB 8.1 (CBS) / TV 
+ Azteca\nVenue: Petco Park\, San Diego\, California\nFinal: Twins 5\, Padre
+ s 7\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816653@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260823T201000Z
+DTEND:20260823T231000Z
+SUMMARY:Twins @ Padres (Twins.TV / Padres.TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Twins.TV / Padres.TV\nVenue: Petco Park\, S
+ an Diego\, California\nFinal: Twins 1\, Padres 8\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816664@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260825T014000Z
+DTEND:20260825T044000Z
+SUMMARY:Pirates @ Padres (Padres.TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV\nVenue: Petco Park\, San Diego\, 
+ California\nFinal: Pirates 3\, Padres 2\nUnofficial calendar\; not affilia
+ ted with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816679@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260826T014000Z
+DTEND:20260826T044000Z
+SUMMARY:Pirates @ Padres (ESPN Unlimited)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Petco Park\, San Die
+ go\, California\nFinal: Pirates 1\, Padres 0\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816694@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260826T201000Z
+DTEND:20260826T231000Z
+SUMMARY:Pirates @ Padres (Padres.TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV\nVenue: Petco Park\, San Diego\, 
+ California\nFinal: Pirates 0\, Padres 3\nUnofficial calendar\; not affilia
+ ted with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816708@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260828T231000Z
+DTEND:20260829T021000Z
+SUMMARY:Padres @ Rays (Padres.TV / Rays.TV)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:Regular Season\nTV: Padres.TV / Rays.TV\nVenue: Tropicana Field
+ \, St. Petersburg\, Florida\nFinal: Padres 4\, Rays 9\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816723@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260829T201000Z
+DTEND:20260829T231000Z
+SUMMARY:Padres @ Rays (Padres.TV / Rays.TV)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:Regular Season\nTV: Padres.TV / Rays.TV\nVenue: Tropicana Field
+ \, St. Petersburg\, Florida\nFinal: Padres 6\, Rays 7\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816738@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260830T174000Z
+DTEND:20260830T204000Z
+SUMMARY:Padres @ Rays (Padres.TV / Rays.TV)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:Regular Season\nTV: Padres.TV / Rays.TV\nVenue: Tropicana Field
+ \, St. Petersburg\, Florida\nFinal: Padres 4\, Rays 5\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816749@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260831T224000Z
+DTEND:20260901T014000Z
+SUMMARY:Padres @ Reds (Gray Media / WXIX FOX19 / Padres.TV / Reds.TV)
+LOCATION:Great American Ball Park\, Cincinnati\, Ohio
+DESCRIPTION:Regular Season\nTV: Gray Media / WXIX FOX19 / Padres.TV / Reds.
+ TV\nVenue: Great American Ball Park\, Cincinnati\, Ohio\nFinal: Padres 5\,
+  Reds 0\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816760@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260901T224000Z
+DTEND:20260902T014000Z
+SUMMARY:Padres @ Reds (Padres.TV / Reds.TV)
+LOCATION:Great American Ball Park\, Cincinnati\, Ohio
+DESCRIPTION:Regular Season\nTV: Padres.TV / Reds.TV\nVenue: Great American 
+ Ball Park\, Cincinnati\, Ohio\nFinal: Padres 3\, Reds 4\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816775@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260902T164000Z
+DTEND:20260902T194000Z
+SUMMARY:Padres @ Reds (Padres.TV / Reds.TV)
+LOCATION:Great American Ball Park\, Cincinnati\, Ohio
+DESCRIPTION:Regular Season\nTV: Padres.TV / Reds.TV\nVenue: Great American 
+ Ball Park\, Cincinnati\, Ohio\nFinal: Padres 3\, Reds 7\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816810@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260905T014000Z
+DTEND:20260905T044000Z
+SUMMARY:Yankees @ Padres (Padres.TV / YES)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / YES\nVenue: Petco Park\, San Di
+ ego\, California\nFinal: Yankees 2\, Padres 3\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816825@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260905T231500Z
+DTEND:20260906T021500Z
+SUMMARY:Yankees @ Padres (Fox)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Fox\nVenue: Petco Park\, San Diego\, Califo
+ rnia\nFinal: Yankees 5\, Padres 1\nUnofficial calendar\; not affiliated wi
+ th the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816840@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260906T201000Z
+DTEND:20260906T231000Z
+SUMMARY:Yankees @ Padres (Padres.TV / YES)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / YES\nVenue: Petco Park\, San Di
+ ego\, California\nFinal: Yankees 3\, Padres 4\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816852@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260907T211000Z
+DTEND:20260908T001000Z
+SUMMARY:Nationals @ Padres (Padres.TV / Nationals.TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / Nationals.TV\nVenue: Petco Park
+ \, San Diego\, California\nFinal: Nationals 2\, Padres 3\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816867@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260909T014000Z
+DTEND:20260909T044000Z
+SUMMARY:Nationals @ Padres (ESPN Unlimited)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Petco Park\, San Die
+ go\, California\nFinal: Nationals 4\, Padres 5\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816882@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260909T201000Z
+DTEND:20260909T231000Z
+SUMMARY:Nationals @ Padres (Padres.TV / Nationals.TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / Nationals.TV\nVenue: Petco Park
+ \, San Diego\, California\nFinal: Nationals 2\, Padres 9\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816900@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260912T021500Z
+DTEND:20260912T051500Z
+SUMMARY:Padres @ Giants (Apple TV)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: Oracle Park\, San Francisc
+ o\, California\nFinal: Padres 7\, Giants 5\nUnofficial calendar\; not affi
+ liated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816915@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260912T200500Z
+DTEND:20260912T230500Z
+SUMMARY:Padres @ Giants (NBC Sports BA / Padres.TV)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Padres.TV\nVenue: Oracle Pa
+ rk\, San Francisco\, California\nFinal: Padres 7\, Giants 6\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816930@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260913T232000Z
+DTEND:20260914T022000Z
+SUMMARY:Padres @ Giants (Peacock)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: Peacock\nVenue: Oracle Park\, San Francisco
+ \, California\nFinal: Padres 6\, Giants 4\nUnofficial calendar\; not affil
+ iated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816940@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260915T004000Z
+DTEND:20260915T034000Z
+SUMMARY:Padres @ Rockies (Padres.TV / Rockies.TV)
+LOCATION:Coors Field\, Denver\, Colorado
+DESCRIPTION:Regular Season\nTV: Padres.TV / Rockies.TV\nVenue: Coors Field\
+ , Denver\, Colorado\nFinal: Padres 8\, Rockies 7\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816955@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260916T004000Z
+DTEND:20260916T034000Z
+SUMMARY:Padres @ Rockies (Padres.TV / Rockies.TV)
+LOCATION:Coors Field\, Denver\, Colorado
+DESCRIPTION:Regular Season\nTV: Padres.TV / Rockies.TV\nVenue: Coors Field\
+ , Denver\, Colorado\nFinal: Padres 3\, Rockies 9\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816970@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260917T004000Z
+DTEND:20260917T034000Z
+SUMMARY:Padres @ Rockies (Padres.TV / Rockies.TV)
+LOCATION:Coors Field\, Denver\, Colorado
+DESCRIPTION:Regular Season\nTV: Padres.TV / Rockies.TV\nVenue: Coors Field\
+ , Denver\, Colorado\nFinal: Padres 9\, Rockies 3\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816980@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260917T191000Z
+DTEND:20260917T221000Z
+SUMMARY:Padres @ Rockies (ESPN Unlimited)
+LOCATION:Coors Field\, Denver\, Colorado
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Coors Field\, Denver
+ \, Colorado\nFinal: Padres 9\, Rockies 2\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816993@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260919T014000Z
+DTEND:20260919T044000Z
+SUMMARY:Marlins @ Padres (Padres.TV / Marlins.TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / Marlins.TV\nVenue: Petco Park\,
+  San Diego\, California\nFinal: Marlins 2\, Padres 8\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817008@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260920T004000Z
+DTEND:20260920T034000Z
+SUMMARY:Marlins @ Padres (Padres.TV / Marlins.TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / Marlins.TV\nVenue: Petco Park\,
+  San Diego\, California\nFinal: Marlins 6\, Padres 7\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817023@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260920T201000Z
+DTEND:20260920T231000Z
+SUMMARY:Marlins @ Padres (ESPN Unlimited)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Petco Park\, San Die
+ go\, California\nFinal: Marlins 3\, Padres 7\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817044@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260923T021000Z
+DTEND:20260923T051000Z
+SUMMARY:Padres @ Dodgers (TBS)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: TBS\nVenue: Dodger Stadium\, Los Angeles\, 
+ California\nFinal: Padres 0\, Dodgers 7\nUnofficial calendar\; not affilia
+ ted with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817059@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260924T021000Z
+DTEND:20260924T051000Z
+SUMMARY:Padres @ Dodgers (SportsNet LA / Padres.TV)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Padres.TV\nVenue: Dodger Sta
+ dium\, Los Angeles\, California\nFinal: Padres 5\, Dodgers 1\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817071@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260925T021000Z
+DTEND:20260925T051000Z
+SUMMARY:Padres @ Dodgers (MLB Network)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: MLB Network\nVenue: Dodger Stadium\, Los An
+ geles\, California\nFinal: Padres 4\, Dodgers 2\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817084@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260926T014000Z
+DTEND:20260926T044000Z
+SUMMARY:Diamondbacks @ Padres (Padres.TV / DBACKS.TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / DBACKS.TV\nVenue: Petco Park\, 
+ San Diego\, California\nFinal: Diamondbacks 11\, Padres 4\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817099@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260927T004000Z
+DTEND:20260927T034000Z
+SUMMARY:Diamondbacks @ Padres (Padres.TV / DBACKS.TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / DBACKS.TV\nVenue: Petco Park\, 
+ San Diego\, California\nFinal: Diamondbacks 7\, Padres 10\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817114@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260927T191000Z
+DTEND:20260927T221000Z
+SUMMARY:Diamondbacks @ Padres (Padres.TV / DBACKS.TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / DBACKS.TV\nVenue: Petco Park\, 
+ San Diego\, California\nFinal: Diamondbacks 4\, Padres 9\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401907974@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260930T020000Z
+DTEND:20260930T050000Z
+SUMMARY:Cubs @ Padres (Peacock / NBCSN)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:NLWC - Game 1\nTV: Peacock / NBCSN\nVenue: Petco Park\, San Die
+ go\, California\nFinal: Cubs 0\, Padres 8\nUnofficial calendar\; not affil
+ iated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401907975@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20261001T020000Z
+DTEND:20261001T050000Z
+SUMMARY:Cubs @ Padres (Peacock / NBCSN)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:NLWC - Game 2\nTV: Peacock / NBCSN\nVenue: Petco Park\, San Die
+ go\, California\nFinal: Cubs 1\, Padres 4\nUnofficial calendar\; not affil
+ iated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401908002@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20261004T003000Z
+DTEND:20261004T033000Z
+SUMMARY:Padres @ Brewers (FS1)
+LOCATION:American Family Field\, Milwaukee\, Wisconsin
+DESCRIPTION:NLDS - Game 1\nTV: FS1\nVenue: American Family Field\, Milwauke
+ e\, Wisconsin\nFinal: Padres 2\, Brewers 3\nUnofficial calendar\; not affi
+ liated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401908003@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20261004T200000Z
+DTEND:20261004T230000Z
+SUMMARY:Padres @ Brewers (FS1)
+LOCATION:American Family Field\, Milwaukee\, Wisconsin
+DESCRIPTION:NLDS - Game 2\nTV: FS1\nVenue: American Family Field\, Milwauke
+ e\, Wisconsin\nFinal: Padres 3\, Brewers 4\nUnofficial calendar\; not affi
+ liated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401908004@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20261007T013000Z
+DTEND:20261007T043000Z
+SUMMARY:Brewers @ Padres (FS1)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:NLDS - Game 3\nTV: FS1\nVenue: Petco Park\, San Diego\, Califor
+ nia\nFinal: Brewers 3\, Padres 4\nUnofficial calendar\; not affiliated wit
+ h the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401908005@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20261008T020000Z
+DTEND:20261008T050000Z
+SUMMARY:Brewers @ Padres (FS1)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:NLDS - Game 4\nTV: FS1\nVenue: Petco Park\, San Diego\, Califor
+ nia\nFinal: Brewers 3\, Padres 1\nUnofficial calendar\; not affiliated wit
+ h the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

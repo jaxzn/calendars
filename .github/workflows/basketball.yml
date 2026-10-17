@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: calendars   # shared with football so the two jobs never push at once
+  group: calendars   # shared with football, hockey, and baseball so the jobs never push at once
   cancel-in-progress: false
 
 jobs:

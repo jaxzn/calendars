@@ -1,0 +1,2150 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jaxzn//MLB Calendars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Athletics
+X-WR-CALDESC:Athletics MLB schedule (unofficial\, auto-updated)
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:espn-401814688@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260327T230700Z
+DTEND:20260328T020700Z
+SUMMARY:Athletics @ Blue Jays (MLB Network)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: MLB Network\nVenue: Rogers Centre\, Toronto
+ \, Ontario\nFinal: Athletics 2\, Blue Jays 3\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814707@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260328T190700Z
+DTEND:20260328T220700Z
+SUMMARY:Athletics @ Blue Jays (NBC Sports CA / Sportsnet)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Sportsnet\nVenue: Rogers Ce
+ ntre\, Toronto\, Ontario\nFinal: Athletics 7\, Blue Jays 8\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814722@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260329T173700Z
+DTEND:20260329T203700Z
+SUMMARY:Athletics @ Blue Jays (NBC Sports CA / Sportsnet)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Sportsnet\nVenue: Rogers Ce
+ ntre\, Toronto\, Ontario\nFinal: Athletics 2\, Blue Jays 5\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814735@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260330T231500Z
+DTEND:20260331T021500Z
+SUMMARY:Athletics @ Braves (BravesVision / NBC Sports CA)
+LOCATION:Truist Park\, Atlanta\, Georgia
+DESCRIPTION:Regular Season\nTV: BravesVision / NBC Sports CA\nVenue: Truist
+  Park\, Atlanta\, Georgia\nFinal: Athletics 0\, Braves 4\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814750@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260331T231500Z
+DTEND:20260401T021500Z
+SUMMARY:Athletics @ Braves (BravesVision / Gray Media / NBC Sports CA)
+LOCATION:Truist Park\, Atlanta\, Georgia
+DESCRIPTION:Regular Season\nTV: BravesVision / Gray Media / NBC Sports CA\n
+ Venue: Truist Park\, Atlanta\, Georgia\nFinal: Athletics 5\, Braves 2\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814764@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260401T161500Z
+DTEND:20260401T191500Z
+SUMMARY:Athletics @ Braves (BravesVision / NBC Sports CA)
+LOCATION:Truist Park\, Atlanta\, Georgia
+DESCRIPTION:Regular Season\nTV: BravesVision / NBC Sports CA\nVenue: Truist
+  Park\, Atlanta\, Georgia\nFinal: Athletics 1\, Braves 5\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814794@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260404T014000Z
+DTEND:20260404T044000Z
+SUMMARY:Astros @ Athletics (NBC Sports CA / Space City Home Network 2)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Space City Home Network 2\n
+ Venue: Sutter Health Park\, Sacramento\, California\nFinal: Astros 4\, Ath
+ letics 11\nUnofficial calendar\; not affiliated with the MLB or ESPN. Time
+ s may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814809@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260404T200500Z
+DTEND:20260404T230500Z
+SUMMARY:Astros @ Athletics (NBC Sports CA / Space City Home Network)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Space City Home Network\nVe
+ nue: Sutter Health Park\, Sacramento\, California\nFinal: Astros 11\, Athl
+ etics 0\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814824@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260405T200500Z
+DTEND:20260405T230500Z
+SUMMARY:Astros @ Athletics (NBC Sports CA / Space City Home Network)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Space City Home Network\nVe
+ nue: Sutter Health Park\, Sacramento\, California\nFinal: Astros 10\, Athl
+ etics 12\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times
+  may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814841@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260407T230500Z
+DTEND:20260408T020500Z
+SUMMARY:Athletics @ Yankees (NBC Sports CA / YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / YES\nVenue: Yankee Stadium\
+ , Bronx\, New York\nFinal: Athletics 3\, Yankees 5\nUnofficial calendar\; 
+ not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814856@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260408T230500Z
+DTEND:20260409T020500Z
+SUMMARY:Athletics @ Yankees (Prime Video)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: Prime Video\nVenue: Yankee Stadium\, Bronx\
+ , New York\nFinal: Athletics 3\, Yankees 2\nUnofficial calendar\; not affi
+ liated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814871@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260409T173500Z
+DTEND:20260409T203500Z
+SUMMARY:Athletics @ Yankees (NBC Sports CA / YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / YES\nVenue: Yankee Stadium\
+ , Bronx\, New York\nFinal: Athletics 1\, Yankees 0\nUnofficial calendar\; 
+ not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814878@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260410T231000Z
+DTEND:20260411T021000Z
+SUMMARY:Athletics @ Mets (NBC Sports CA / WPIX)
+LOCATION:Citi Field\, Queens\, New York
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / WPIX\nVenue: Citi Field\, Q
+ ueens\, New York\nFinal: Athletics 4\, Mets 0\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814893@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260411T201000Z
+DTEND:20260411T231000Z
+SUMMARY:Athletics @ Mets (NBC Sports CA / SNY)
+LOCATION:Citi Field\, Queens\, New York
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / SNY\nVenue: Citi Field\, Qu
+ eens\, New York\nFinal: Athletics 11\, Mets 6\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814908@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260412T174000Z
+DTEND:20260412T204000Z
+SUMMARY:Athletics @ Mets (NBC Sports CA / SNY)
+LOCATION:Citi Field\, Queens\, New York
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / SNY\nVenue: Citi Field\, Qu
+ eens\, New York\nFinal: Athletics 1\, Mets 0\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814930@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260414T014000Z
+DTEND:20260414T044000Z
+SUMMARY:Rangers @ Athletics (Rangers Sports Network / NBCSCA+)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / NBCSCA+\nVenue: Su
+ tter Health Park\, Sacramento\, California\nFinal: Rangers 8\, Athletics 1
+ \nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814945@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260415T014000Z
+DTEND:20260415T044000Z
+SUMMARY:Rangers @ Athletics (Rangers Sports Network / NBC Sports CA)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / NBC Sports CA\nVen
+ ue: Sutter Health Park\, Sacramento\, California\nFinal: Rangers 1\, Athle
+ tics 2\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814960@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260416T014000Z
+DTEND:20260416T044000Z
+SUMMARY:Rangers @ Athletics (Rangers Sports Network / NBCSCA+)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / NBCSCA+\nVenue: Su
+ tter Health Park\, Sacramento\, California\nFinal: Rangers 5\, Athletics 6
+ \nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814970@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260416T190500Z
+DTEND:20260416T220500Z
+SUMMARY:Rangers @ Athletics (Rangers Sports Network / NBC Sports CA)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / NBC Sports CA\nVen
+ ue: Sutter Health Park\, Sacramento\, California\nFinal: Rangers 9\, Athle
+ tics 6\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814982@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260418T014000Z
+DTEND:20260418T044000Z
+SUMMARY:White Sox @ Athletics (NBC Sports CA / CHSN)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / CHSN\nVenue: Sutter Health 
+ Park\, Sacramento\, California\nFinal: White Sox 9\, Athletics 2\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814997@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260418T200500Z
+DTEND:20260418T230500Z
+SUMMARY:White Sox @ Athletics (NBC Sports CA / CHSN)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / CHSN\nVenue: Sutter Health 
+ Park\, Sacramento\, California\nFinal: White Sox 6\, Athletics 7\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815012@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260419T200500Z
+DTEND:20260419T230500Z
+SUMMARY:White Sox @ Athletics (NBC Sports CA / CHSN)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / CHSN\nVenue: Sutter Health 
+ Park\, Sacramento\, California\nFinal: White Sox 7\, Athletics 4\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815024@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260421T014000Z
+DTEND:20260421T044000Z
+SUMMARY:Athletics @ Mariners (NBC Sports CA / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Mariners.TV\nVenue: T-Mobil
+ e Park\, Seattle\, Washington\nFinal: Athletics 6\, Mariners 4\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815037@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260422T014000Z
+DTEND:20260422T044000Z
+SUMMARY:Athletics @ Mariners (NBC Sports CA / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Mariners.TV\nVenue: T-Mobil
+ e Park\, Seattle\, Washington\nFinal: Athletics 5\, Mariners 2\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815052@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260422T201000Z
+DTEND:20260422T231000Z
+SUMMARY:Athletics @ Mariners (NBC Sports CA / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Mariners.TV\nVenue: T-Mobil
+ e Park\, Seattle\, Washington\nFinal: Athletics 4\, Mariners 5\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815072@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260425T000500Z
+DTEND:20260425T030500Z
+SUMMARY:Athletics @ Rangers (CW33 / NBC Sports CA)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: CW33 / NBC Sports CA\nVenue: Globe Life Fie
+ ld\, Arlington\, Texas\nFinal: Athletics 8\, Rangers 1\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815087@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260425T230500Z
+DTEND:20260426T020500Z
+SUMMARY:Athletics @ Rangers (Rangers Sports Network / NBC Sports CA)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / NBC Sports CA\nVen
+ ue: Globe Life Field\, Arlington\, Texas\nFinal: Athletics 3\, Rangers 4\n
+ Unofficial calendar\; not affiliated with the MLB or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815102@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260426T183500Z
+DTEND:20260426T213500Z
+SUMMARY:Athletics @ Rangers (Rangers Sports Network / NBC Sports CA)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / NBC Sports CA\nVen
+ ue: Globe Life Field\, Arlington\, Texas\nFinal: Athletics 2\, Rangers 1\n
+ Unofficial calendar\; not affiliated with the MLB or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815131@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260429T014000Z
+DTEND:20260429T044000Z
+SUMMARY:Royals @ Athletics (ESPN Unlimited)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Sutter Health Park\,
+  Sacramento\, California\nFinal: Royals 4\, Athletics 1\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815146@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260430T014000Z
+DTEND:20260430T044000Z
+SUMMARY:Royals @ Athletics (Royals.TV / NBC Sports CA)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: Royals.TV / NBC Sports CA\nVenue: Sutter He
+ alth Park\, Sacramento\, California\nFinal: Royals 2\, Athletics 5\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815156@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260430T190500Z
+DTEND:20260430T220500Z
+SUMMARY:Royals @ Athletics (Royals.TV / NBC Sports CA)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: Royals.TV / NBC Sports CA\nVenue: Sutter He
+ alth Park\, Sacramento\, California\nFinal: Royals 3\, Athletics 6\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815169@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260502T014000Z
+DTEND:20260502T044000Z
+SUMMARY:Guardians @ Athletics (CLEGuardians.TV / NBC Sports CA)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / NBC Sports CA\nVenue: Sut
+ ter Health Park\, Sacramento\, California\nFinal: Guardians 8\, Athletics 
+ 5\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may ch
+ ange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815184@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260502T200500Z
+DTEND:20260502T230500Z
+SUMMARY:Guardians @ Athletics (CLEGuardians.TV / NBC Sports CA)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / NBC Sports CA\nVenue: Sut
+ ter Health Park\, Sacramento\, California\nFinal: Guardians 14\, Athletics
+  6\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may c
+ hange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815199@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260503T200500Z
+DTEND:20260503T230500Z
+SUMMARY:Guardians @ Athletics (ESPN Unlimited)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Sutter Health Park\,
+  Sacramento\, California\nFinal: Guardians 1\, Athletics 7\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815214@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260505T224000Z
+DTEND:20260506T014000Z
+SUMMARY:Athletics @ Phillies (NBC Sports Phil / NBC Sports CA)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / NBC Sports CA\nVenue: Cit
+ izens Bank Park\, Philadelphia\, Pennsylvania\nFinal: Athletics 1\, Philli
+ es 9\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815229@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260506T224000Z
+DTEND:20260507T014000Z
+SUMMARY:Athletics @ Phillies (NBC Sports Phil / NBC Sports CA)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / NBC Sports CA\nVenue: Cit
+ izens Bank Park\, Philadelphia\, Pennsylvania\nFinal: Athletics 3\, Philli
+ es 6\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815244@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260507T224000Z
+DTEND:20260508T014000Z
+SUMMARY:Athletics @ Phillies (NBC Sports Phil / NBC Sports CA)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / NBC Sports CA\nVenue: Cit
+ izens Bank Park\, Philadelphia\, Pennsylvania\nFinal: Athletics 12\, Phill
+ ies 1\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times ma
+ y change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815254@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260508T230500Z
+DTEND:20260509T020500Z
+SUMMARY:Athletics @ Orioles (MASN / NBC Sports CA)
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+DESCRIPTION:Regular Season\nTV: MASN / NBC Sports CA\nVenue: Oriole Park at
+  Camden Yards\, Baltimore\, Maryland\nFinal: Athletics 4\, Orioles 3\nUnof
+ ficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815269@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260509T200500Z
+DTEND:20260509T230500Z
+SUMMARY:Athletics @ Orioles (MASN / NBC Sports CA)
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+DESCRIPTION:Regular Season\nTV: MASN / NBC Sports CA\nVenue: Oriole Park at
+  Camden Yards\, Baltimore\, Maryland\nFinal: Athletics 6\, Orioles 2\nUnof
+ ficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815284@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260510T173500Z
+DTEND:20260510T203500Z
+SUMMARY:Athletics @ Orioles (MASN / NBC Sports CA)
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+DESCRIPTION:Regular Season\nTV: MASN / NBC Sports CA\nVenue: Oriole Park at
+  Camden Yards\, Baltimore\, Maryland\nFinal: Athletics 1\, Orioles 2\nUnof
+ ficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815318@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260513T014000Z
+DTEND:20260513T044000Z
+SUMMARY:Cardinals @ Athletics (ESPN Unlimited)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Sutter Health Park\,
+  Sacramento\, California\nFinal: Cardinals 6\, Athletics 4\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815333@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260514T014000Z
+DTEND:20260514T044000Z
+SUMMARY:Cardinals @ Athletics (Cardinals.TV / NBC Sports CA)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: Cardinals.TV / NBC Sports CA\nVenue: Sutter
+  Health Park\, Sacramento\, California\nFinal: Cardinals 2\, Athletics 6\n
+ Unofficial calendar\; not affiliated with the MLB or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815344@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260514T190500Z
+DTEND:20260514T220500Z
+SUMMARY:Cardinals @ Athletics (Cardinals.TV / NBC Sports CA)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: Cardinals.TV / NBC Sports CA\nVenue: Sutter
+  Health Park\, Sacramento\, California\nFinal: Cardinals 5\, Athletics 4\n
+ Unofficial calendar\; not affiliated with the MLB or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815359@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260516T014000Z
+DTEND:20260516T044000Z
+SUMMARY:Giants @ Athletics (NBC Sports BA / KNTV / NBC Sports CA)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / KNTV / NBC Sports CA\nVenue
+ : Sutter Health Park\, Sacramento\, California\nFinal: Giants 2\, Athletic
+ s 5\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815374@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260517T014000Z
+DTEND:20260517T044000Z
+SUMMARY:Giants @ Athletics (NBC Sports BA / NBC Sports CA)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / NBC Sports CA\nVenue: Sutte
+ r Health Park\, Sacramento\, California\nFinal: Giants 6\, Athletics 4\nUn
+ official calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815389@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260517T200500Z
+DTEND:20260517T230500Z
+SUMMARY:Giants @ Athletics (NBC Sports BA / NBC Sports CA)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / NBC Sports CA\nVenue: Sutte
+ r Health Park\, Sacramento\, California\nFinal: Giants 10\, Athletics 1\nU
+ nofficial calendar\; not affiliated with the MLB or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815400@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260519T013800Z
+DTEND:20260519T043800Z
+SUMMARY:Athletics @ Angels (NBC Sports CA / KCOP / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / KCOP / Angels.TV\nVenue: An
+ gel Stadium\, Anaheim\, California\nFinal: Athletics 1\, Angels 2\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815415@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260520T013800Z
+DTEND:20260520T043800Z
+SUMMARY:Athletics @ Angels (NBC Sports CA / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Angels.TV\nVenue: Angel Sta
+ dium\, Anaheim\, California\nFinal: Athletics 14\, Angels 6\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815430@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260521T013800Z
+DTEND:20260521T043800Z
+SUMMARY:Athletics @ Angels (NBC Sports CA / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Angels.TV\nVenue: Angel Sta
+ dium\, Anaheim\, California\nFinal: Athletics 6\, Angels 5\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815439@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260522T013800Z
+DTEND:20260522T043800Z
+SUMMARY:Athletics @ Angels (NBC Sports CA / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Angels.TV\nVenue: Angel Sta
+ dium\, Anaheim\, California\nFinal: Athletics 3\, Angels 2\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815452@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260523T014000Z
+DTEND:20260523T044000Z
+SUMMARY:Athletics @ Padres (Padres.TV / NBC Sports CA)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / NBC Sports CA\nVenue: Petco Par
+ k\, San Diego\, California\nFinal: Athletics 3\, Padres 7\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815467@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260524T014000Z
+DTEND:20260524T044000Z
+SUMMARY:Athletics @ Padres (Padres.TV / NBC Sports CA)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / NBC Sports CA\nVenue: Petco Par
+ k\, San Diego\, California\nFinal: Athletics 0\, Padres 2\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815482@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260524T201000Z
+DTEND:20260524T231000Z
+SUMMARY:Athletics @ Padres (Padres.TV / NBC Sports CA)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / NBC Sports CA\nVenue: Petco Par
+ k\, San Diego\, California\nFinal: Athletics 5\, Padres 2\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815498@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260526T014000Z
+DTEND:20260526T044000Z
+SUMMARY:Mariners @ Athletics (NBC Sports CA / Mariners.TV)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Mariners.TV\nVenue: Sutter 
+ Health Park\, Sacramento\, California\nFinal: Mariners 9\, Athletics 2\nUn
+ official calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815513@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260527T014000Z
+DTEND:20260527T044000Z
+SUMMARY:Mariners @ Athletics (ESPN Unlimited)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Sutter Health Park\,
+  Sacramento\, California\nFinal: Mariners 4\, Athletics 1\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815528@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260527T190500Z
+DTEND:20260527T220500Z
+SUMMARY:Mariners @ Athletics (NBC Sports CA / Mariners.TV)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Mariners.TV\nVenue: Sutter 
+ Health Park\, Sacramento\, California\nFinal: Mariners 9\, Athletics 1\nUn
+ official calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815548@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260530T014000Z
+DTEND:20260530T044000Z
+SUMMARY:Yankees @ Athletics (NBC Sports CA / YES)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / YES\nVenue: Sutter Health P
+ ark\, Sacramento\, California\nFinal: Yankees 8\, Athletics 2\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815563@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260531T020500Z
+DTEND:20260531T050500Z
+SUMMARY:Yankees @ Athletics (NBC Sports CA / YES)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / YES\nVenue: Sutter Health P
+ ark\, Sacramento\, California\nFinal: Yankees 4\, Athletics 6\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815578@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260531T200500Z
+DTEND:20260531T230500Z
+SUMMARY:Yankees @ Athletics (NBC Sports CA / YES)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / YES\nVenue: Sutter Health P
+ ark\, Sacramento\, California\nFinal: Yankees 13\, Athletics 8\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815596@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260603T000500Z
+DTEND:20260603T030500Z
+SUMMARY:Athletics @ Cubs (Marquee Sports Net / NBC Sports CA)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / NBC Sports CA\nVenue: 
+ Wrigley Field\, Chicago\, Illinois\nFinal: Athletics 2\, Cubs 1\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815611@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260604T000500Z
+DTEND:20260604T030500Z
+SUMMARY:Athletics @ Cubs (Marquee Sports Net / NBC Sports CA)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / NBC Sports CA\nVenue: 
+ Wrigley Field\, Chicago\, Illinois\nFinal: Athletics 5\, Cubs 4\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815623@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260605T000500Z
+DTEND:20260605T030500Z
+SUMMARY:Athletics @ Cubs (Marquee Sports Net / NBC Sports CA)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / NBC Sports CA\nVenue: 
+ Wrigley Field\, Chicago\, Illinois\nFinal: Athletics 6\, Cubs 7\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815634@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260606T001000Z
+DTEND:20260606T031000Z
+SUMMARY:Athletics @ Astros (NBC Sports CA / Space City Home Network)
+LOCATION:Daikin Park\, Houston\, Texas
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Space City Home Network\nVe
+ nue: Daikin Park\, Houston\, Texas\nFinal: Athletics 1\, Astros 5\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815649@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260606T201000Z
+DTEND:20260606T231000Z
+SUMMARY:Athletics @ Astros (NBC Sports CA / Space City Home Network)
+LOCATION:Daikin Park\, Houston\, Texas
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Space City Home Network\nVe
+ nue: Daikin Park\, Houston\, Texas\nFinal: Athletics 2\, Astros 13\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815664@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260607T181000Z
+DTEND:20260607T211000Z
+SUMMARY:Athletics @ Astros (NBC Sports CA / Space City Home Network)
+LOCATION:Daikin Park\, Houston\, Texas
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Space City Home Network\nVe
+ nue: Daikin Park\, Houston\, Texas\nFinal: Athletics 5\, Astros 0\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815679@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260609T020500Z
+DTEND:20260609T050500Z
+SUMMARY:Brewers @ Athletics (Brewers.TV / NBC Sports CA)
+LOCATION:Las Vegas Ballpark\, Las Vegas\, Nevada
+DESCRIPTION:Regular Season\nTV: Brewers.TV / NBC Sports CA\nVenue: Las Vega
+ s Ballpark\, Las Vegas\, Nevada\nFinal: Brewers 15\, Athletics 14\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815694@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260610T020500Z
+DTEND:20260610T050500Z
+SUMMARY:Brewers @ Athletics (Brewers.TV / NBC Sports CA)
+LOCATION:Las Vegas Ballpark\, Las Vegas\, Nevada
+DESCRIPTION:Regular Season\nTV: Brewers.TV / NBC Sports CA\nVenue: Las Vega
+ s Ballpark\, Las Vegas\, Nevada\nFinal: Brewers 5\, Athletics 7\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815709@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260611T010500Z
+DTEND:20260611T040500Z
+SUMMARY:Brewers @ Athletics (Brewers.TV / NBC Sports CA)
+LOCATION:Las Vegas Ballpark\, Las Vegas\, Nevada
+DESCRIPTION:Regular Season\nTV: Brewers.TV / NBC Sports CA\nVenue: Las Vega
+ s Ballpark\, Las Vegas\, Nevada\nFinal: Brewers 3\, Athletics 4\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815732@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260613T020500Z
+DTEND:20260613T050500Z
+SUMMARY:Rockies @ Athletics (Rockies.TV / NBC Sports CA)
+LOCATION:Las Vegas Ballpark\, Las Vegas\, Nevada
+DESCRIPTION:Regular Season\nTV: Rockies.TV / NBC Sports CA\nVenue: Las Vega
+ s Ballpark\, Las Vegas\, Nevada\nFinal: Rockies 4\, Athletics 6\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815747@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260614T020500Z
+DTEND:20260614T050500Z
+SUMMARY:Rockies @ Athletics (Rockies.TV / NBC Sports CA)
+LOCATION:Las Vegas Ballpark\, Las Vegas\, Nevada
+DESCRIPTION:Regular Season\nTV: Rockies.TV / NBC Sports CA\nVenue: Las Vega
+ s Ballpark\, Las Vegas\, Nevada\nFinal: Rockies 5\, Athletics 7\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815762@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260614T190500Z
+DTEND:20260614T220500Z
+SUMMARY:Rockies @ Athletics (Rockies.TV / NBC Sports CA)
+LOCATION:Las Vegas Ballpark\, Las Vegas\, Nevada
+DESCRIPTION:Regular Season\nTV: Rockies.TV / NBC Sports CA\nVenue: Las Vega
+ s Ballpark\, Las Vegas\, Nevada\nFinal: Rockies 23\, Athletics 9\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815772@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260616T014000Z
+DTEND:20260616T044000Z
+SUMMARY:Pirates @ Athletics (NBC Sports CA)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA\nVenue: Sutter Health Park\, 
+ Sacramento\, California\nFinal: Pirates 2\, Athletics 11\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815787@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260617T014000Z
+DTEND:20260617T044000Z
+SUMMARY:Pirates @ Athletics (NBC Sports CA)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA\nVenue: Sutter Health Park\, 
+ Sacramento\, California\nFinal: Pirates 6\, Athletics 5\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815801@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260618T014000Z
+DTEND:20260618T044000Z
+SUMMARY:Pirates @ Athletics (NBC Sports CA)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA\nVenue: Sutter Health Park\, 
+ Sacramento\, California\nFinal: Pirates 12\, Athletics 4\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815810@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260619T014000Z
+DTEND:20260619T044000Z
+SUMMARY:Angels @ Athletics (NBC Sports CA / Angels.TV)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Angels.TV\nVenue: Sutter He
+ alth Park\, Sacramento\, California\nFinal: Angels 0\, Athletics 5\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815822@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260620T014000Z
+DTEND:20260620T044000Z
+SUMMARY:Angels @ Athletics (NBC Sports CA / Angels.TV)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Angels.TV\nVenue: Sutter He
+ alth Park\, Sacramento\, California\nFinal: Angels 11\, Athletics 12\nUnof
+ ficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815835@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260621T020500Z
+DTEND:20260621T050500Z
+SUMMARY:Angels @ Athletics (NBC Sports CA / Angels.TV)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Angels.TV\nVenue: Sutter He
+ alth Park\, Sacramento\, California\nFinal: Angels 7\, Athletics 0\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815850@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260621T200500Z
+DTEND:20260621T230500Z
+SUMMARY:Angels @ Athletics (NBC Sports CA / Angels.TV)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Angels.TV\nVenue: Sutter He
+ alth Park\, Sacramento\, California\nFinal: Angels 9\, Athletics 7\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815879@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260624T014500Z
+DTEND:20260624T044500Z
+SUMMARY:Athletics @ Giants (NBC Sports BA / NBC Sports CA)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / NBC Sports CA\nVenue: Oracl
+ e Park\, San Francisco\, California\nFinal: Athletics 1\, Giants 3\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815894@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260625T014500Z
+DTEND:20260625T044500Z
+SUMMARY:Athletics @ Giants (NBC Sports BA / NBC Sports CA)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / NBC Sports CA\nVenue: Oracl
+ e Park\, San Francisco\, California\nFinal: Athletics 1\, Giants 2\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815905@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260625T194500Z
+DTEND:20260625T224500Z
+SUMMARY:Athletics @ Giants (NBC Sports BA / NBC Sports CA)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / NBC Sports CA\nVenue: Oracl
+ e Park\, San Francisco\, California\nFinal: Athletics 9\, Giants 6\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815918@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260627T013800Z
+DTEND:20260627T043800Z
+SUMMARY:Athletics @ Angels (NBC Sports CA / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Angels.TV\nVenue: Angel Sta
+ dium\, Anaheim\, California\nFinal: Athletics 9\, Angels 3\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815933@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260628T013800Z
+DTEND:20260628T043800Z
+SUMMARY:Athletics @ Angels (NBC Sports CA / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Angels.TV\nVenue: Angel Sta
+ dium\, Anaheim\, California\nFinal: Athletics 2\, Angels 5\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815948@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260628T191500Z
+DTEND:20260628T221500Z
+SUMMARY:Athletics @ Angels (Peacock)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: Peacock\nVenue: Angel Stadium\, Anaheim\, C
+ alifornia\nFinal: Athletics 1\, Angels 4\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815962@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260630T014000Z
+DTEND:20260630T044000Z
+SUMMARY:Dodgers @ Athletics (SportsNet LA / NBC Sports CA)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / NBC Sports CA\nVenue: Sutter
+  Health Park\, Sacramento\, California\nFinal: Dodgers 9\, Athletics 4\nUn
+ official calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815977@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260701T014000Z
+DTEND:20260701T044000Z
+SUMMARY:Dodgers @ Athletics (ESPN Unlimited)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Sutter Health Park\,
+  Sacramento\, California\nFinal: Dodgers 9\, Athletics 3\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815991@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260702T014000Z
+DTEND:20260702T044000Z
+SUMMARY:Dodgers @ Athletics (SportsNet LA / NBC Sports CA)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / NBC Sports CA\nVenue: Sutter
+  Health Park\, Sacramento\, California\nFinal: Dodgers 1\, Athletics 7\nUn
+ official calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816011@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260704T014000Z
+DTEND:20260704T044000Z
+SUMMARY:Marlins @ Athletics (Marlins.TV / NBC Sports CA)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: Marlins.TV / NBC Sports CA\nVenue: Sutter H
+ ealth Park\, Sacramento\, California\nFinal: Marlins 12\, Athletics 5\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816026@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260705T014000Z
+DTEND:20260705T044000Z
+SUMMARY:Marlins @ Athletics (Marlins.TV / NBC Sports CA)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: Marlins.TV / NBC Sports CA\nVenue: Sutter H
+ ealth Park\, Sacramento\, California\nFinal: Marlins 7\, Athletics 2\nUnof
+ ficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816041@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260705T203000Z
+DTEND:20260705T233000Z
+SUMMARY:Marlins @ Athletics (Peacock)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: Peacock\nVenue: Sutter Health Park\, Sacram
+ ento\, California\nFinal: Marlins 9\, Athletics 8\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816053@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260707T224000Z
+DTEND:20260708T014000Z
+SUMMARY:Athletics @ Tigers (Tigers.TV / NBC Sports CA)
+LOCATION:Comerica Park\, Detroit\, Michigan
+DESCRIPTION:Regular Season\nTV: Tigers.TV / NBC Sports CA\nVenue: Comerica 
+ Park\, Detroit\, Michigan\nFinal: Athletics 2\, Tigers 6\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816068@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260708T224000Z
+DTEND:20260709T014000Z
+SUMMARY:Athletics @ Tigers (Tigers.TV / NBC Sports CA)
+LOCATION:Comerica Park\, Detroit\, Michigan
+DESCRIPTION:Regular Season\nTV: Tigers.TV / NBC Sports CA\nVenue: Comerica 
+ Park\, Detroit\, Michigan\nFinal: Athletics 1\, Tigers 6\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816083@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260709T224000Z
+DTEND:20260710T014000Z
+SUMMARY:Athletics @ Tigers (Tigers.TV / NBC Sports CA)
+LOCATION:Comerica Park\, Detroit\, Michigan
+DESCRIPTION:Regular Season\nTV: Tigers.TV / NBC Sports CA\nVenue: Comerica 
+ Park\, Detroit\, Michigan\nFinal: Athletics 1\, Tigers 4\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816105@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260710T234000Z
+DTEND:20260711T024000Z
+SUMMARY:Athletics @ White Sox (NBC Sports CA / CHSN / WCIU-TV)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / CHSN / WCIU-TV\nVenue: Rate
+  Field\, Chicago\, Illinois\nFinal: Athletics 1\, White Sox 14\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816120@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260711T181000Z
+DTEND:20260711T211000Z
+SUMMARY:Athletics @ White Sox (NBC Sports CA / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / CHSN\nVenue: Rate Field\, C
+ hicago\, Illinois\nFinal: Athletics 0\, White Sox 1\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816135@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260712T181000Z
+DTEND:20260712T211000Z
+SUMMARY:Athletics @ White Sox (NBC Sports CA / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / CHSN\nVenue: Rate Field\, C
+ hicago\, Illinois\nFinal: Athletics 1\, White Sox 9\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816155@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260718T014000Z
+DTEND:20260718T044000Z
+SUMMARY:Nationals @ Athletics (NBC Sports CA / Nationals.TV)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Nationals.TV\nVenue: Sutter
+  Health Park\, Sacramento\, California\nFinal: Nationals 23\, Athletics 4\
+ nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816170@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260719T020500Z
+DTEND:20260719T050500Z
+SUMMARY:Nationals @ Athletics (NBC Sports CA / Nationals.TV)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Nationals.TV\nVenue: Sutter
+  Health Park\, Sacramento\, California\nFinal: Nationals 1\, Athletics 15\
+ nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816185@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260719T200500Z
+DTEND:20260719T230500Z
+SUMMARY:Nationals @ Athletics (NBC Sports CA / Nationals.TV)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Nationals.TV\nVenue: Sutter
+  Health Park\, Sacramento\, California\nFinal: Nationals 5\, Athletics 2\n
+ Unofficial calendar\; not affiliated with the MLB or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816198@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260721T014000Z
+DTEND:20260721T044000Z
+SUMMARY:Athletics @ Diamondbacks (DBACKS.TV / NBC Sports CA)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / NBC Sports CA\nVenue: Chase Fie
+ ld\, Phoenix\, Arizona\nFinal: Athletics 5\, Diamondbacks 2\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816213@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260722T014000Z
+DTEND:20260722T044000Z
+SUMMARY:Athletics @ Diamondbacks (DBACKS.TV / NBC Sports CA)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / NBC Sports CA\nVenue: Chase Fie
+ ld\, Phoenix\, Arizona\nFinal: Athletics 5\, Diamondbacks 6\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816228@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260722T194000Z
+DTEND:20260722T224000Z
+SUMMARY:Athletics @ Diamondbacks (ESPN Unlimited)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Chase Field\, Phoeni
+ x\, Arizona\nFinal: Athletics 5\, Diamondbacks 15\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816244@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260725T001000Z
+DTEND:20260725T031000Z
+SUMMARY:Athletics @ Twins (Twins.TV / NBC Sports CA)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / NBC Sports CA\nVenue: Target Fie
+ ld\, Minneapolis\, Minnesota\nFinal: Athletics 2\, Twins 0\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816259@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260725T231000Z
+DTEND:20260726T021000Z
+SUMMARY:Athletics @ Twins (Twins.TV / NBC Sports CA)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / NBC Sports CA\nVenue: Target Fie
+ ld\, Minneapolis\, Minnesota\nFinal: Athletics 0\, Twins 2\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816274@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260726T181000Z
+DTEND:20260726T211000Z
+SUMMARY:Athletics @ Twins (Twins.TV / NBC Sports CA)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / NBC Sports CA\nVenue: Target Fie
+ ld\, Minneapolis\, Minnesota\nFinal: Athletics 8\, Twins 11\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816289@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260728T014000Z
+DTEND:20260728T044000Z
+SUMMARY:Red Sox @ Athletics (NBC Sports CA / NESN)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / NESN\nVenue: Sutter Health 
+ Park\, Sacramento\, California\nFinal: Red Sox 4\, Athletics 2\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816302@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260729T014000Z
+DTEND:20260729T044000Z
+SUMMARY:Red Sox @ Athletics (NBC Sports CA / NESN)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / NESN\nVenue: Sutter Health 
+ Park\, Sacramento\, California\nFinal: Red Sox 3\, Athletics 4\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816317@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260730T014000Z
+DTEND:20260730T044000Z
+SUMMARY:Red Sox @ Athletics (NBC Sports CA / NESN)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / NESN\nVenue: Sutter Health 
+ Park\, Sacramento\, California\nFinal: Red Sox 4\, Athletics 2\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816329@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260731T014000Z
+DTEND:20260731T044000Z
+SUMMARY:Red Sox @ Athletics (NBC Sports CA / NESN)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / NESN\nVenue: Sutter Health 
+ Park\, Sacramento\, California\nFinal: Red Sox 5\, Athletics 4\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816343@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260801T014000Z
+DTEND:20260801T044000Z
+SUMMARY:Tigers @ Athletics (Tigers.TV / NBC Sports CA)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: Tigers.TV / NBC Sports CA\nVenue: Sutter He
+ alth Park\, Sacramento\, California\nFinal: Tigers 13\, Athletics 1\nUnoff
+ icial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816358@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260802T014000Z
+DTEND:20260802T044000Z
+SUMMARY:Tigers @ Athletics (Tigers.TV / NBC Sports CA)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: Tigers.TV / NBC Sports CA\nVenue: Sutter He
+ alth Park\, Sacramento\, California\nFinal: Tigers 8\, Athletics 6\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816373@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260802T200500Z
+DTEND:20260802T230500Z
+SUMMARY:Tigers @ Athletics (Tigers.TV / NBC Sports CA)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: Tigers.TV / NBC Sports CA\nVenue: Sutter He
+ alth Park\, Sacramento\, California\nFinal: Tigers 11\, Athletics 0\nUnoff
+ icial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816385@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260804T224000Z
+DTEND:20260805T014000Z
+SUMMARY:Athletics @ Reds (Reds.TV / NBC Sports CA)
+LOCATION:Great American Ball Park\, Cincinnati\, Ohio
+DESCRIPTION:Regular Season\nTV: Reds.TV / NBC Sports CA\nVenue: Great Ameri
+ can Ball Park\, Cincinnati\, Ohio\nFinal: Athletics 4\, Reds 5\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816400@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260805T224000Z
+DTEND:20260806T014000Z
+SUMMARY:Athletics @ Reds (Reds.TV / NBC Sports CA)
+LOCATION:Great American Ball Park\, Cincinnati\, Ohio
+DESCRIPTION:Regular Season\nTV: Reds.TV / NBC Sports CA\nVenue: Great Ameri
+ can Ball Park\, Cincinnati\, Ohio\nFinal: Athletics 2\, Reds 3\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816415@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260806T164000Z
+DTEND:20260806T194000Z
+SUMMARY:Athletics @ Reds (Reds.TV / NBC Sports CA)
+LOCATION:Great American Ball Park\, Cincinnati\, Ohio
+DESCRIPTION:Regular Season\nTV: Reds.TV / NBC Sports CA\nVenue: Great Ameri
+ can Ball Park\, Cincinnati\, Ohio\nFinal: Athletics 5\, Reds 6\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816425@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260807T231000Z
+DTEND:20260808T021000Z
+SUMMARY:Athletics @ Red Sox (NBC Sports CA / NESN)
+LOCATION:Fenway Park\, Boston\, Massachusetts
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / NESN\nVenue: Fenway Park\, 
+ Boston\, Massachusetts\nFinal: Athletics 1\, Red Sox 13\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816440@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260808T201000Z
+DTEND:20260808T231000Z
+SUMMARY:Athletics @ Red Sox (FS1)
+LOCATION:Fenway Park\, Boston\, Massachusetts
+DESCRIPTION:Regular Season\nTV: FS1\nVenue: Fenway Park\, Boston\, Massachu
+ setts\nFinal: Athletics 7\, Red Sox 3\nUnofficial calendar\; not affiliate
+ d with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816455@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260809T173500Z
+DTEND:20260809T203500Z
+SUMMARY:Athletics @ Red Sox (NBC Sports CA / NESN)
+LOCATION:Fenway Park\, Boston\, Massachusetts
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / NESN\nVenue: Fenway Park\, 
+ Boston\, Massachusetts\nFinal: Athletics 4\, Red Sox 3\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816477@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260811T014000Z
+DTEND:20260811T044000Z
+SUMMARY:Rays @ Athletics (Rays.TV / NBC Sports CA)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: Rays.TV / NBC Sports CA\nVenue: Sutter Heal
+ th Park\, Sacramento\, California\nFinal: Rays 10\, Athletics 6\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816492@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260812T014000Z
+DTEND:20260812T044000Z
+SUMMARY:Rays @ Athletics (Rays.TV / NBC Sports CA)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: Rays.TV / NBC Sports CA\nVenue: Sutter Heal
+ th Park\, Sacramento\, California\nFinal: Rays 12\, Athletics 4\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816507@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260812T190500Z
+DTEND:20260812T220500Z
+SUMMARY:Rays @ Athletics (Rays.TV / NBC Sports CA / WMOR)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: Rays.TV / NBC Sports CA / WMOR\nVenue: Sutt
+ er Health Park\, Sacramento\, California\nFinal: Rays 8\, Athletics 4\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816531@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260815T014000Z
+DTEND:20260815T044000Z
+SUMMARY:Rangers @ Athletics (CW33 / NBC Sports CA)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: CW33 / NBC Sports CA\nVenue: Sutter Health 
+ Park\, Sacramento\, California\nFinal: Rangers 3\, Athletics 8\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816546@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260816T014000Z
+DTEND:20260816T044000Z
+SUMMARY:Rangers @ Athletics (ESPN Unlimited)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Sutter Health Park\,
+  Sacramento\, California\nFinal: Rangers 5\, Athletics 3\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816561@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260816T200500Z
+DTEND:20260816T230500Z
+SUMMARY:Rangers @ Athletics (Rangers Sports Network / NBC Sports CA)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / NBC Sports CA\nVen
+ ue: Sutter Health Park\, Sacramento\, California\nFinal: Rangers 2\, Athle
+ tics 5\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816568@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260817T234000Z
+DTEND:20260818T024000Z
+SUMMARY:Athletics @ Royals (Royals.TV / NBC Sports CA)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / NBC Sports CA\nVenue: Kauffman 
+ Stadium\, Kansas City\, Missouri\nFinal: Athletics 5\, Royals 9\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816580@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260818T234000Z
+DTEND:20260819T024000Z
+SUMMARY:Athletics @ Royals (Royals.TV / NBC Sports CA)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / NBC Sports CA\nVenue: Kauffman 
+ Stadium\, Kansas City\, Missouri\nFinal: Athletics 3\, Royals 4\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816595@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260819T234000Z
+DTEND:20260820T024000Z
+SUMMARY:Athletics @ Royals (Royals.TV / NBC Sports CA)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / NBC Sports CA\nVenue: Kauffman 
+ Stadium\, Kansas City\, Missouri\nFinal: Athletics 7\, Royals 9\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816606@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260820T181000Z
+DTEND:20260820T211000Z
+SUMMARY:Athletics @ Royals (Royals.TV / NBC Sports CA)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / NBC Sports CA\nVenue: Kauffman 
+ Stadium\, Kansas City\, Missouri\nFinal: Athletics 2\, Royals 6\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816616@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260822T001000Z
+DTEND:20260822T031000Z
+SUMMARY:Athletics @ Astros (NBC Sports CA / Space City Home Network)
+LOCATION:Daikin Park\, Houston\, Texas
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Space City Home Network\nVe
+ nue: Daikin Park\, Houston\, Texas\nFinal: Athletics 0\, Astros 4\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816631@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260822T231000Z
+DTEND:20260823T021000Z
+SUMMARY:Athletics @ Astros (NBC Sports CA / Space City Home Network)
+LOCATION:Daikin Park\, Houston\, Texas
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Space City Home Network\nVe
+ nue: Daikin Park\, Houston\, Texas\nFinal: Athletics 4\, Astros 3\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816646@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260823T181000Z
+DTEND:20260823T211000Z
+SUMMARY:Athletics @ Astros (NBC Sports CA / Space City Home Network)
+LOCATION:Daikin Park\, Houston\, Texas
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Space City Home Network\nVe
+ nue: Daikin Park\, Houston\, Texas\nFinal: Athletics 7\, Astros 6\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816662@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260825T014000Z
+DTEND:20260825T044000Z
+SUMMARY:Twins @ Athletics (Twins.TV / NBC Sports CA)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: Twins.TV / NBC Sports CA\nVenue: Sutter Hea
+ lth Park\, Sacramento\, California\nFinal: Twins 9\, Athletics 6\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816677@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260826T014000Z
+DTEND:20260826T044000Z
+SUMMARY:Twins @ Athletics (Twins.TV / NBC Sports CA)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: Twins.TV / NBC Sports CA\nVenue: Sutter Hea
+ lth Park\, Sacramento\, California\nFinal: Twins 2\, Athletics 4\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816692@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260827T010500Z
+DTEND:20260827T040500Z
+SUMMARY:Twins @ Athletics (Twins.TV / NBC Sports CA)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: Twins.TV / NBC Sports CA\nVenue: Sutter Hea
+ lth Park\, Sacramento\, California\nFinal: Twins 4\, Athletics 7\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816715@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260829T014000Z
+DTEND:20260829T044000Z
+SUMMARY:Orioles @ Athletics (MASN / NBC Sports CA)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: MASN / NBC Sports CA\nVenue: Sutter Health 
+ Park\, Sacramento\, California\nFinal: Orioles 4\, Athletics 3\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816730@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260830T020500Z
+DTEND:20260830T050500Z
+SUMMARY:Orioles @ Athletics (MASN / NBC Sports CA)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: MASN / NBC Sports CA\nVenue: Sutter Health 
+ Park\, Sacramento\, California\nFinal: Orioles 5\, Athletics 3\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816745@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260830T200500Z
+DTEND:20260830T230500Z
+SUMMARY:Orioles @ Athletics (MASN / NBC Sports CA)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: MASN / NBC Sports CA\nVenue: Sutter Health 
+ Park\, Sacramento\, California\nFinal: Orioles 8\, Athletics 5\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816751@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260901T000500Z
+DTEND:20260901T030500Z
+SUMMARY:Athletics @ Rangers (Rangers Sports Network / NBC Sports CA)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / NBC Sports CA\nVen
+ ue: Globe Life Field\, Arlington\, Texas\nFinal: Athletics 1\, Rangers 8\n
+ Unofficial calendar\; not affiliated with the MLB or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816764@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260902T000500Z
+DTEND:20260902T030500Z
+SUMMARY:Athletics @ Rangers (Rangers Sports Network / NBC Sports CA)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / NBC Sports CA\nVen
+ ue: Globe Life Field\, Arlington\, Texas\nFinal: Athletics 5\, Rangers 8\n
+ Unofficial calendar\; not affiliated with the MLB or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816779@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260902T183500Z
+DTEND:20260902T213500Z
+SUMMARY:Athletics @ Rangers (Rangers Sports Network / NBC Sports CA)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / NBC Sports CA\nVen
+ ue: Globe Life Field\, Arlington\, Texas\nFinal: Athletics 9\, Rangers 2\n
+ Unofficial calendar\; not affiliated with the MLB or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816795@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260904T014000Z
+DTEND:20260904T044000Z
+SUMMARY:Athletics @ Mariners (NBC Sports CA / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Mariners.TV\nVenue: T-Mobil
+ e Park\, Seattle\, Washington\nFinal: Athletics 7\, Mariners 4\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816809@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260905T021000Z
+DTEND:20260905T051000Z
+SUMMARY:Athletics @ Mariners (NBC Sports CA / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Mariners.TV\nVenue: T-Mobil
+ e Park\, Seattle\, Washington\nFinal: Athletics 7\, Mariners 6\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816824@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260906T014000Z
+DTEND:20260906T044000Z
+SUMMARY:Athletics @ Mariners (NBC Sports CA / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Mariners.TV\nVenue: T-Mobil
+ e Park\, Seattle\, Washington\nFinal: Athletics 6\, Mariners 2\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816839@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260906T201000Z
+DTEND:20260906T231000Z
+SUMMARY:Athletics @ Mariners (ESPN Unlimited)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: T-Mobile Park\, Seat
+ tle\, Washington\nFinal: Athletics 0\, Mariners 2\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816851@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260908T020500Z
+DTEND:20260908T050500Z
+SUMMARY:Blue Jays @ Athletics (NBC Sports CA / Sportsnet / TVA)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Sportsnet / TVA\nVenue: Sut
+ ter Health Park\, Sacramento\, California\nFinal: Blue Jays 5\, Athletics 
+ 6\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may ch
+ ange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816866@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260909T014000Z
+DTEND:20260909T044000Z
+SUMMARY:Blue Jays @ Athletics (NBC Sports CA / Sportsnet / TVA)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Sportsnet / TVA\nVenue: Sut
+ ter Health Park\, Sacramento\, California\nFinal: Blue Jays 4\, Athletics 
+ 2\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may ch
+ ange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816881@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260909T190500Z
+DTEND:20260909T220500Z
+SUMMARY:Blue Jays @ Athletics (NBC Sports CA / Sportsnet)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Sportsnet\nVenue: Sutter He
+ alth Park\, Sacramento\, California\nFinal: Blue Jays 0\, Athletics 2\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816901@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260912T014000Z
+DTEND:20260912T044000Z
+SUMMARY:Mariners @ Athletics (NBC Sports CA / Mariners.TV)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Mariners.TV\nVenue: Sutter 
+ Health Park\, Sacramento\, California\nFinal: Mariners 5\, Athletics 6\nUn
+ official calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816916@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260913T014000Z
+DTEND:20260913T044000Z
+SUMMARY:Mariners @ Athletics (NBC Sports CA / Mariners.TV)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Mariners.TV\nVenue: Sutter 
+ Health Park\, Sacramento\, California\nFinal: Mariners 19\, Athletics 1\nU
+ nofficial calendar\; not affiliated with the MLB or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816931@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260913T200500Z
+DTEND:20260913T230500Z
+SUMMARY:Mariners @ Athletics (NBC Sports CA / Mariners.TV)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Mariners.TV\nVenue: Sutter 
+ Health Park\, Sacramento\, California\nFinal: Mariners 7\, Athletics 8\nUn
+ official calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816943@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260915T224000Z
+DTEND:20260916T014000Z
+SUMMARY:Athletics @ Rays (Rays.TV / NBC Sports CA)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:Regular Season\nTV: Rays.TV / NBC Sports CA\nVenue: Tropicana F
+ ield\, St. Petersburg\, Florida\nFinal: Athletics 1\, Rays 2\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816958@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260916T224000Z
+DTEND:20260917T014000Z
+SUMMARY:Athletics @ Rays (Rays.TV / NBC Sports CA)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:Regular Season\nTV: Rays.TV / NBC Sports CA\nVenue: Tropicana F
+ ield\, St. Petersburg\, Florida\nFinal: Athletics 3\, Rays 4\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816973@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260917T171000Z
+DTEND:20260917T201000Z
+SUMMARY:Athletics @ Rays (Rays.TV / NBC Sports CA)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:Regular Season\nTV: Rays.TV / NBC Sports CA\nVenue: Tropicana F
+ ield\, St. Petersburg\, Florida\nFinal: Athletics 1\, Rays 10\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816982@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260918T231000Z
+DTEND:20260919T021000Z
+SUMMARY:Athletics @ Guardians (CLEGuardians.TV / WKYC 3 / NBC Sports CA)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / WKYC 3 / NBC Sports CA\nV
+ enue: Progressive Field\, Cleveland\, Ohio\nFinal: Athletics 3\, Guardians
+  5\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may c
+ hange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816997@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260919T221000Z
+DTEND:20260920T011000Z
+SUMMARY:Athletics @ Guardians (CLEGuardians.TV / NBC Sports CA)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / NBC Sports CA\nVenue: Pro
+ gressive Field\, Cleveland\, Ohio\nFinal: Athletics 6\, Guardians 12\nUnof
+ ficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817012@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260920T174000Z
+DTEND:20260920T204000Z
+SUMMARY:Athletics @ Guardians (CLEGuardians.TV / NBC Sports CA)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / NBC Sports CA\nVenue: Pro
+ gressive Field\, Cleveland\, Ohio\nFinal: Athletics 0\, Guardians 1\nUnoff
+ icial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817041@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260923T014000Z
+DTEND:20260923T044000Z
+SUMMARY:Angels @ Athletics (NBC Sports CA / Angels.TV)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Angels.TV\nVenue: Sutter He
+ alth Park\, Sacramento\, California\nFinal: Angels 7\, Athletics 9\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817056@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260924T014000Z
+DTEND:20260924T044000Z
+SUMMARY:Angels @ Athletics (NBC Sports CA / Angels.TV)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Angels.TV\nVenue: Sutter He
+ alth Park\, Sacramento\, California\nFinal: Angels 3\, Athletics 7\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817070@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260925T014000Z
+DTEND:20260925T044000Z
+SUMMARY:Astros @ Athletics (NBC Sports CA / Space City Home Network)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Space City Home Network\nVe
+ nue: Sutter Health Park\, Sacramento\, California\nFinal: Astros 7\, Athle
+ tics 5\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817085@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260926T014000Z
+DTEND:20260926T044000Z
+SUMMARY:Astros @ Athletics (NBC Sports CA / Space City Home Network)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Space City Home Network\nVe
+ nue: Sutter Health Park\, Sacramento\, California\nFinal: Astros 5\, Athle
+ tics 6\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817100@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260927T014000Z
+DTEND:20260927T044000Z
+SUMMARY:Astros @ Athletics (NBC Sports CA / Space City Home Network)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Space City Home Network\nVe
+ nue: Sutter Health Park\, Sacramento\, California\nFinal: Astros 13\, Athl
+ etics 2\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817115@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260927T190500Z
+DTEND:20260927T220500Z
+SUMMARY:Astros @ Athletics (NBC Sports CA / Space City Home Network)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Space City Home Network\nVe
+ nue: Sutter Health Park\, Sacramento\, California\nFinal: Astros 9\, Athle
+ tics 0\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

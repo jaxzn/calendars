@@ -1,0 +1,2238 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jaxzn//MLB Calendars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Chicago White Sox
+X-WR-CALDESC:Chicago White Sox MLB schedule (unofficial\, auto-updated)
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:espn-401814696@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260326T181000Z
+DTEND:20260326T211000Z
+SUMMARY:White Sox @ Brewers (Brewers.TV / CHSN)
+LOCATION:American Family Field\, Milwaukee\, Wisconsin
+DESCRIPTION:Regular Season\nTV: Brewers.TV / CHSN\nVenue: American Family F
+ ield\, Milwaukee\, Wisconsin\nFinal: White Sox 2\, Brewers 14\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814715@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260328T231000Z
+DTEND:20260329T021000Z
+SUMMARY:White Sox @ Brewers (Brewers.TV / CHSN)
+LOCATION:American Family Field\, Milwaukee\, Wisconsin
+DESCRIPTION:Regular Season\nTV: Brewers.TV / CHSN\nVenue: American Family F
+ ield\, Milwaukee\, Wisconsin\nFinal: White Sox 1\, Brewers 6\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814730@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260329T181000Z
+DTEND:20260329T211000Z
+SUMMARY:White Sox @ Brewers (Brewers.TV / CHSN)
+LOCATION:American Family Field\, Milwaukee\, Wisconsin
+DESCRIPTION:Regular Season\nTV: Brewers.TV / CHSN\nVenue: American Family F
+ ield\, Milwaukee\, Wisconsin\nFinal: White Sox 7\, Brewers 9\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814736@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260330T224000Z
+DTEND:20260331T014000Z
+SUMMARY:White Sox @ Marlins (Marlins.TV / CHSN)
+LOCATION:loanDepot park\, Miami\, Florida
+DESCRIPTION:Regular Season\nTV: Marlins.TV / CHSN\nVenue: loanDepot park\, 
+ Miami\, Florida\nFinal: White Sox 9\, Marlins 4\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814751@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260331T224000Z
+DTEND:20260401T014000Z
+SUMMARY:White Sox @ Marlins (Marlins.TV / CHSN)
+LOCATION:loanDepot park\, Miami\, Florida
+DESCRIPTION:Regular Season\nTV: Marlins.TV / CHSN\nVenue: loanDepot park\, 
+ Miami\, Florida\nFinal: White Sox 2\, Marlins 9\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814765@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260401T171000Z
+DTEND:20260401T201000Z
+SUMMARY:White Sox @ Marlins (Marlins.TV / CHSN)
+LOCATION:loanDepot park\, Miami\, Florida
+DESCRIPTION:Regular Season\nTV: Marlins.TV / CHSN\nVenue: loanDepot park\, 
+ Miami\, Florida\nFinal: White Sox 0\, Marlins 10\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814780@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260402T201000Z
+DTEND:20260402T231000Z
+SUMMARY:Postponed: Blue Jays @ White Sox (Sportsnet / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Inclement Weather - Makeup date April 3\nTV: Sportsnet / CHSN\n
+ Venue: Rate Field\, Chicago\, Illinois\nPostponed. This listing stays canc
+ elled under the same id. The makeup\, when ESPN adds one\, is a separate g
+ ame.\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may
+  change.
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401867263@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260403T181000Z
+DTEND:20260403T211000Z
+SUMMARY:Blue Jays @ White Sox (Sportsnet / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Makeup from April 2\nTV: Sportsnet / CHSN\nVenue: Rate Field\, 
+ Chicago\, Illinois\nFinal: Blue Jays 4\, White Sox 5\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814806@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260404T181000Z
+DTEND:20260404T211000Z
+SUMMARY:Blue Jays @ White Sox (CHSN / Sportsnet)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: CHSN / Sportsnet\nVenue: Rate Field\, Chica
+ go\, Illinois\nFinal: Blue Jays 3\, White Sox 6\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814821@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260405T181000Z
+DTEND:20260405T211000Z
+SUMMARY:Blue Jays @ White Sox (CHSN / Sportsnet / TVA)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: CHSN / Sportsnet / TVA\nVenue: Rate Field\,
+  Chicago\, Illinois\nFinal: Blue Jays 0\, White Sox 3\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814834@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260406T234000Z
+DTEND:20260407T024000Z
+SUMMARY:Orioles @ White Sox (MASN / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: MASN / CHSN\nVenue: Rate Field\, Chicago\, 
+ Illinois\nFinal: Orioles 2\, White Sox 1\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814849@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260407T191000Z
+DTEND:20260407T221000Z
+SUMMARY:Orioles @ White Sox (MASN / SNC+)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: MASN / SNC+\nVenue: Rate Field\, Chicago\, 
+ Illinois\nFinal: Orioles 4\, White Sox 2\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814864@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260408T181000Z
+DTEND:20260408T211000Z
+SUMMARY:Orioles @ White Sox (MASN / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: MASN / CHSN\nVenue: Rate Field\, Chicago\, 
+ Illinois\nFinal: Orioles 5\, White Sox 3\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814873@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260409T234000Z
+DTEND:20260410T024000Z
+SUMMARY:White Sox @ Royals (Royals.TV / CSNA)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / CSNA\nVenue: Kauffman Stadium\,
+  Kansas City\, Missouri\nFinal: White Sox 2\, Royals 0\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814885@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260410T234000Z
+DTEND:20260411T024000Z
+SUMMARY:White Sox @ Royals (Royals.TV / SNC+)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / SNC+\nVenue: Kauffman Stadium\,
+  Kansas City\, Missouri\nFinal: White Sox 0\, Royals 2\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814900@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260411T201000Z
+DTEND:20260411T231000Z
+SUMMARY:White Sox @ Royals (Royals.TV / SNC+)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / SNC+\nVenue: Kauffman Stadium\,
+  Kansas City\, Missouri\nFinal: White Sox 0\, Royals 2\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814915@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260412T181000Z
+DTEND:20260412T211000Z
+SUMMARY:White Sox @ Royals (Royals.TV / CHSN)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / CHSN\nVenue: Kauffman Stadium\,
+  Kansas City\, Missouri\nFinal: White Sox 6\, Royals 5\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814941@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260414T234000Z
+DTEND:20260415T024000Z
+SUMMARY:Rays @ White Sox (Rays.TV / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Rays.TV / CHSN\nVenue: Rate Field\, Chicago
+ \, Illinois\nFinal: Rays 8\, White Sox 5\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814956@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260415T234000Z
+DTEND:20260416T024000Z
+SUMMARY:Rays @ White Sox (Rays.TV / SNC+)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Rays.TV / SNC+\nVenue: Rate Field\, Chicago
+ \, Illinois\nFinal: Rays 8\, White Sox 3\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814967@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260416T181000Z
+DTEND:20260416T211000Z
+SUMMARY:Rays @ White Sox (Rays.TV / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Rays.TV / CHSN\nVenue: Rate Field\, Chicago
+ \, Illinois\nFinal: Rays 5\, White Sox 3\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814982@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260418T014000Z
+DTEND:20260418T044000Z
+SUMMARY:White Sox @ Athletics (NBC Sports CA / CHSN)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / CHSN\nVenue: Sutter Health 
+ Park\, Sacramento\, California\nFinal: White Sox 9\, Athletics 2\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814997@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260418T200500Z
+DTEND:20260418T230500Z
+SUMMARY:White Sox @ Athletics (NBC Sports CA / CHSN)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / CHSN\nVenue: Sutter Health 
+ Park\, Sacramento\, California\nFinal: White Sox 6\, Athletics 7\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815012@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260419T200500Z
+DTEND:20260419T230500Z
+SUMMARY:White Sox @ Athletics (NBC Sports CA / CHSN)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / CHSN\nVenue: Sutter Health 
+ Park\, Sacramento\, California\nFinal: White Sox 7\, Athletics 4\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815038@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260422T014000Z
+DTEND:20260422T044000Z
+SUMMARY:White Sox @ Diamondbacks (DBACKS.TV / CHSN)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / CHSN\nVenue: Chase Field\, Phoe
+ nix\, Arizona\nFinal: White Sox 11\, Diamondbacks 5\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815053@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260423T014000Z
+DTEND:20260423T044000Z
+SUMMARY:White Sox @ Diamondbacks (DBACKS.TV / CHSN)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / CHSN\nVenue: Chase Field\, Phoe
+ nix\, Arizona\nFinal: White Sox 7\, Diamondbacks 11\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815063@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260423T194000Z
+DTEND:20260423T224000Z
+SUMMARY:White Sox @ Diamondbacks (DBACKS.TV / CHSN)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / CHSN\nVenue: Chase Field\, Phoe
+ nix\, Arizona\nFinal: White Sox 4\, Diamondbacks 1\nUnofficial calendar\; 
+ not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815076@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260424T234000Z
+DTEND:20260425T024000Z
+SUMMARY:Nationals @ White Sox (CHSN / Nationals.TV)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: CHSN / Nationals.TV\nVenue: Rate Field\, Ch
+ icago\, Illinois\nFinal: Nationals 4\, White Sox 5\nUnofficial calendar\; 
+ not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815091@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260425T201000Z
+DTEND:20260425T231000Z
+SUMMARY:Nationals @ White Sox (CHSN / Nationals.TV)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: CHSN / Nationals.TV\nVenue: Rate Field\, Ch
+ icago\, Illinois\nFinal: Nationals 6\, White Sox 3\nUnofficial calendar\; 
+ not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815106@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260426T181000Z
+DTEND:20260426T211000Z
+SUMMARY:Nationals @ White Sox (CHSN / Nationals.TV)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: CHSN / Nationals.TV\nVenue: Rate Field\, Ch
+ icago\, Illinois\nFinal: Nationals 2\, White Sox 1\nUnofficial calendar\; 
+ not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815113@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260427T234000Z
+DTEND:20260428T024000Z
+SUMMARY:Angels @ White Sox (FanDuel SN West / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: FanDuel SN West / CHSN\nVenue: Rate Field\,
+  Chicago\, Illinois\nFinal: Angels 7\, White Sox 8\nUnofficial calendar\; 
+ not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815126@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260428T234000Z
+DTEND:20260429T024000Z
+SUMMARY:Angels @ White Sox (FanDuel SN West / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: FanDuel SN West / CHSN\nVenue: Rate Field\,
+  Chicago\, Illinois\nFinal: Angels 2\, White Sox 5\nUnofficial calendar\; 
+ not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815141@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260429T171000Z
+DTEND:20260429T201000Z
+SUMMARY:Angels @ White Sox (FanDuel SN West / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: FanDuel SN West / CHSN\nVenue: Rate Field\,
+  Chicago\, Illinois\nFinal: Angels 2\, White Sox 3\nUnofficial calendar\; 
+ not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815168@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260502T014000Z
+DTEND:20260502T044000Z
+SUMMARY:White Sox @ Padres (Padres.TV / CHSN)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / CHSN\nVenue: Petco Park\, San D
+ iego\, California\nFinal: White Sox 8\, Padres 2\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815183@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260503T004000Z
+DTEND:20260503T034000Z
+SUMMARY:White Sox @ Padres (Padres.TV / CHSN / KFMB 8.1 (CBS))
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / CHSN / KFMB 8.1 (CBS)\nVenue: P
+ etco Park\, San Diego\, California\nFinal: White Sox 4\, Padres 0\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815198@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260503T201000Z
+DTEND:20260503T231000Z
+SUMMARY:White Sox @ Padres (Padres.TV / CHSN)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / CHSN\nVenue: Petco Park\, San D
+ iego\, California\nFinal: White Sox 3\, Padres 4\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815212@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260505T013800Z
+DTEND:20260505T043800Z
+SUMMARY:White Sox @ Angels (CHSN / KCOP / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: CHSN / KCOP / Angels.TV\nVenue: Angel Stadi
+ um\, Anaheim\, California\nFinal: White Sox 6\, Angels 0\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815226@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260506T013800Z
+DTEND:20260506T043800Z
+SUMMARY:White Sox @ Angels (ESPN Unlimited)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Angel Stadium\, Anah
+ eim\, California\nFinal: White Sox 3\, Angels 4\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815241@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260506T200700Z
+DTEND:20260506T230700Z
+SUMMARY:White Sox @ Angels (CHSN / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: CHSN / Angels.TV\nVenue: Angel Stadium\, An
+ aheim\, California\nFinal: White Sox 2\, Angels 8\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815263@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260508T234000Z
+DTEND:20260509T024000Z
+SUMMARY:Mariners @ White Sox (ESPN Unlimited)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Rate Field\, Chicago
+ \, Illinois\nFinal: Mariners 12\, White Sox 8\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815278@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260509T231000Z
+DTEND:20260510T021000Z
+SUMMARY:Mariners @ White Sox (CHSN / Mariners.TV)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: CHSN / Mariners.TV\nVenue: Rate Field\, Chi
+ cago\, Illinois\nFinal: Mariners 1\, White Sox 6\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815293@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260510T181000Z
+DTEND:20260510T211000Z
+SUMMARY:Mariners @ White Sox (CHSN / Mariners.TV)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: CHSN / Mariners.TV\nVenue: Rate Field\, Chi
+ cago\, Illinois\nFinal: Mariners 1\, White Sox 2\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815313@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260512T234000Z
+DTEND:20260513T024000Z
+SUMMARY:Royals @ White Sox (Royals.TV / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Royals.TV / CHSN\nVenue: Rate Field\, Chica
+ go\, Illinois\nFinal: Royals 5\, White Sox 6\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815328@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260513T234000Z
+DTEND:20260514T024000Z
+SUMMARY:Royals @ White Sox (Royals.TV / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Royals.TV / CHSN\nVenue: Rate Field\, Chica
+ go\, Illinois\nFinal: Royals 5\, White Sox 6\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815339@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260514T234000Z
+DTEND:20260515T024000Z
+SUMMARY:Royals @ White Sox (Royals.TV / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Royals.TV / CHSN\nVenue: Rate Field\, Chica
+ go\, Illinois\nFinal: Royals 2\, White Sox 6\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815352@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260515T234000Z
+DTEND:20260516T024000Z
+SUMMARY:Cubs @ White Sox (Marquee Sports Net / CHSN / WCIU-TV)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / CHSN / WCIU-TV\nVenue:
+  Rate Field\, Chicago\, Illinois\nFinal: Cubs 10\, White Sox 5\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815367@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260516T231000Z
+DTEND:20260517T021000Z
+SUMMARY:Cubs @ White Sox (Marquee Sports Net / CHSN / WCIU-TV)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / CHSN / WCIU-TV\nVenue:
+  Rate Field\, Chicago\, Illinois\nFinal: Cubs 3\, White Sox 8\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815382@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260517T181000Z
+DTEND:20260517T211000Z
+SUMMARY:Cubs @ White Sox (Marquee Sports Net / CHSN / WCIU-TV)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / CHSN / WCIU-TV\nVenue:
+  Rate Field\, Chicago\, Illinois\nFinal: Cubs 8\, White Sox 9\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815401@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260519T014000Z
+DTEND:20260519T044000Z
+SUMMARY:White Sox @ Mariners (ESPN Unlimited)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: T-Mobile Park\, Seat
+ tle\, Washington\nFinal: White Sox 1\, Mariners 6\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815416@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260520T014000Z
+DTEND:20260520T044000Z
+SUMMARY:White Sox @ Mariners (CHSN / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: CHSN / Mariners.TV\nVenue: T-Mobile Park\, 
+ Seattle\, Washington\nFinal: White Sox 2\, Mariners 1\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815431@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260520T201000Z
+DTEND:20260520T231000Z
+SUMMARY:White Sox @ Mariners (CHSN / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: CHSN / Mariners.TV\nVenue: T-Mobile Park\, 
+ Seattle\, Washington\nFinal: White Sox 4\, Mariners 5\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815453@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260523T021500Z
+DTEND:20260523T051500Z
+SUMMARY:White Sox @ Giants (NBC Sports BA / CHSN)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / CHSN\nVenue: Oracle Park\, 
+ San Francisco\, California\nFinal: White Sox 9\, Giants 4\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815468@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260523T200500Z
+DTEND:20260523T230500Z
+SUMMARY:White Sox @ Giants (NBC Sports BA / CHSN)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / CHSN\nVenue: Oracle Park\, 
+ San Francisco\, California\nFinal: White Sox 3\, Giants 10\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815483@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260524T200500Z
+DTEND:20260524T230500Z
+SUMMARY:White Sox @ Giants (ESPN Unlimited)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Oracle Park\, San Fr
+ ancisco\, California\nFinal: White Sox 5\, Giants 8\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815492@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260525T181000Z
+DTEND:20260525T211000Z
+SUMMARY:Twins @ White Sox (Twins.TV / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Twins.TV / CHSN\nVenue: Rate Field\, Chicag
+ o\, Illinois\nFinal: Twins 1\, White Sox 3\nUnofficial calendar\; not affi
+ liated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815507@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260526T234000Z
+DTEND:20260527T024000Z
+SUMMARY:Twins @ White Sox (Twins.TV / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Twins.TV / CHSN\nVenue: Rate Field\, Chicag
+ o\, Illinois\nFinal: Twins 5\, White Sox 3\nUnofficial calendar\; not affi
+ liated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815522@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260527T234000Z
+DTEND:20260528T024000Z
+SUMMARY:Twins @ White Sox (Twins.TV / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Twins.TV / CHSN\nVenue: Rate Field\, Chicag
+ o\, Illinois\nFinal: Twins 2\, White Sox 15\nUnofficial calendar\; not aff
+ iliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815534@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260528T181000Z
+DTEND:20260528T211000Z
+SUMMARY:Twins @ White Sox (Twins.TV / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Twins.TV / CHSN\nVenue: Rate Field\, Chicag
+ o\, Illinois\nFinal: Twins 2\, White Sox 6\nUnofficial calendar\; not affi
+ liated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815543@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260529T234000Z
+DTEND:20260530T024000Z
+SUMMARY:Tigers @ White Sox (Tigers.TV / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Tigers.TV / CHSN\nVenue: Rate Field\, Chica
+ go\, Illinois\nFinal: Tigers 3\, White Sox 4\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815558@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260530T181000Z
+DTEND:20260530T211000Z
+SUMMARY:Tigers @ White Sox (ESPN Unlimited)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Rate Field\, Chicago
+ \, Illinois\nFinal: Tigers 1\, White Sox 7\nUnofficial calendar\; not affi
+ liated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815573@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260531T181000Z
+DTEND:20260531T211000Z
+SUMMARY:Tigers @ White Sox (Tigers.TV / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Tigers.TV / CHSN\nVenue: Rate Field\, Chica
+ go\, Illinois\nFinal: Tigers 1\, White Sox 2\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815583@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260601T234000Z
+DTEND:20260602T024000Z
+SUMMARY:White Sox @ Twins (Twins.TV / CHSN)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / CHSN\nVenue: Target Field\, Minn
+ eapolis\, Minnesota\nFinal: White Sox 6\, Twins 9\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815597@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260602T234000Z
+DTEND:20260603T024000Z
+SUMMARY:White Sox @ Twins (Twins.TV / CHSN / KMSP-TV / Gray Media)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / CHSN / KMSP-TV / Gray Media\nVen
+ ue: Target Field\, Minneapolis\, Minnesota\nFinal: White Sox 4\, Twins 6\n
+ Unofficial calendar\; not affiliated with the MLB or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815612@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260603T174000Z
+DTEND:20260603T204000Z
+SUMMARY:White Sox @ Twins (ESPN Unlimited)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Target Field\, Minne
+ apolis\, Minnesota\nFinal: White Sox 8\, Twins 0\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815630@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260605T224000Z
+DTEND:20260606T014000Z
+SUMMARY:White Sox @ Phillies (NBC Sports Phil / CHSN)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / CHSN\nVenue: Citizens Ban
+ k Park\, Philadelphia\, Pennsylvania\nFinal: White Sox 6\, Phillies 8\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815645@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260606T200500Z
+DTEND:20260606T230500Z
+SUMMARY:White Sox @ Phillies (NBC Sports Phil / CHSN)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / CHSN\nVenue: Citizens Ban
+ k Park\, Philadelphia\, Pennsylvania\nFinal: White Sox 6\, Phillies 3\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815660@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260607T173500Z
+DTEND:20260607T203500Z
+SUMMARY:White Sox @ Phillies (NBC Sports Phil / CHSN)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / CHSN\nVenue: Citizens Ban
+ k Park\, Philadelphia\, Pennsylvania\nFinal: White Sox 5\, Phillies 9\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815689@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260609T234000Z
+DTEND:20260610T024000Z
+SUMMARY:Braves @ White Sox (BravesVision / CHSN / Gray Media)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: BravesVision / CHSN / Gray Media\nVenue: Ra
+ te Field\, Chicago\, Illinois\nFinal: Braves 5\, White Sox 6\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815704@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260610T234000Z
+DTEND:20260611T024000Z
+SUMMARY:Braves @ White Sox (BravesVision / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: BravesVision / CHSN\nVenue: Rate Field\, Ch
+ icago\, Illinois\nFinal: Braves 1\, White Sox 2\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815716@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260611T234000Z
+DTEND:20260612T024000Z
+SUMMARY:Postponed: Braves @ White Sox (BravesVision / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Rain - Makeup date Aug. 20\nTV: BravesVision / CHSN\nVenue: Rat
+ e Field\, Chicago\, Illinois\nPostponed. This listing stays cancelled unde
+ r the same id. The makeup\, when ESPN adds one\, is a separate game.\nUnof
+ ficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815728@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260612T234000Z
+DTEND:20260613T024000Z
+SUMMARY:Dodgers @ White Sox (SportsNet LA / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: SportsNet LA / CHSN\nVenue: Rate Field\, Ch
+ icago\, Illinois\nFinal: Dodgers 2\, White Sox 8\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815743@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260613T201000Z
+DTEND:20260613T231000Z
+SUMMARY:Dodgers @ White Sox (SportsNet LA / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: SportsNet LA / CHSN\nVenue: Rate Field\, Ch
+ icago\, Illinois\nFinal: Dodgers 7\, White Sox 1\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815758@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260614T181000Z
+DTEND:20260614T211000Z
+SUMMARY:Dodgers @ White Sox (SportsNet LA / CHSN / WCIU-TV)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: SportsNet LA / CHSN / WCIU-TV\nVenue: Rate 
+ Field\, Chicago\, Illinois\nFinal: Dodgers 4\, White Sox 6\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815774@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260616T230500Z
+DTEND:20260617T020500Z
+SUMMARY:White Sox @ Yankees (CHSN / YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: CHSN / YES\nVenue: Yankee Stadium\, Bronx\,
+  New York\nFinal: White Sox 2\, Yankees 12\nUnofficial calendar\; not affi
+ liated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815789@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260617T230500Z
+DTEND:20260618T020500Z
+SUMMARY:White Sox @ Yankees (Prime Video)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: Prime Video\nVenue: Yankee Stadium\, Bronx\
+ , New York\nFinal: White Sox 5\, Yankees 10\nUnofficial calendar\; not aff
+ iliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815803@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260618T230500Z
+DTEND:20260619T020500Z
+SUMMARY:White Sox @ Yankees (CHSN / YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: CHSN / YES\nVenue: Yankee Stadium\, Bronx\,
+  New York\nFinal: White Sox 5\, Yankees 1\nUnofficial calendar\; not affil
+ iated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815812@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260619T224000Z
+DTEND:20260620T014000Z
+SUMMARY:White Sox @ Tigers (Tigers.TV / CHSN)
+LOCATION:Comerica Park\, Detroit\, Michigan
+DESCRIPTION:Regular Season\nTV: Tigers.TV / CHSN\nVenue: Comerica Park\, De
+ troit\, Michigan\nFinal: White Sox 3\, Tigers 4\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815825@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260620T171000Z
+DTEND:20260620T201000Z
+SUMMARY:White Sox @ Tigers (Tigers.TV / CHSN)
+LOCATION:Comerica Park\, Detroit\, Michigan
+DESCRIPTION:Regular Season\nTV: Tigers.TV / CHSN\nVenue: Comerica Park\, De
+ troit\, Michigan\nFinal: White Sox 1\, Tigers 4\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815839@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260621T174000Z
+DTEND:20260621T204000Z
+SUMMARY:White Sox @ Tigers (Tigers.TV / CHSN)
+LOCATION:Comerica Park\, Detroit\, Michigan
+DESCRIPTION:Regular Season\nTV: Tigers.TV / CHSN\nVenue: Comerica Park\, De
+ troit\, Michigan\nFinal: White Sox 4\, Tigers 5\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815862@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260622T234000Z
+DTEND:20260623T024000Z
+SUMMARY:Guardians @ White Sox (CLEGuardians.TV / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / CHSN\nVenue: Rate Field\,
+  Chicago\, Illinois\nFinal: Guardians 5\, White Sox 6\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815876@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260623T234000Z
+DTEND:20260624T024000Z
+SUMMARY:Guardians @ White Sox (CLEGuardians.TV / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / CHSN\nVenue: Rate Field\,
+  Chicago\, Illinois\nFinal: Guardians 1\, White Sox 2\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815891@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260624T181000Z
+DTEND:20260624T211000Z
+SUMMARY:Guardians @ White Sox (CLEGuardians.TV / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / CHSN\nVenue: Rate Field\,
+  Chicago\, Illinois\nFinal: Guardians 4\, White Sox 3\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815916@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260626T234000Z
+DTEND:20260627T024000Z
+SUMMARY:Royals @ White Sox (Royals.TV / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Royals.TV / CHSN\nVenue: Rate Field\, Chica
+ go\, Illinois\nFinal: Royals 1\, White Sox 22\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815931@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260627T201000Z
+DTEND:20260627T231000Z
+SUMMARY:Royals @ White Sox (Royals.TV / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Royals.TV / CHSN\nVenue: Rate Field\, Chica
+ go\, Illinois\nFinal: Royals 1\, White Sox 2\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815946@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260628T181000Z
+DTEND:20260628T211000Z
+SUMMARY:Royals @ White Sox (Royals.TV / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Royals.TV / CHSN\nVenue: Rate Field\, Chica
+ go\, Illinois\nFinal: Royals 5\, White Sox 4\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815951@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260629T223500Z
+DTEND:20260630T013500Z
+SUMMARY:White Sox @ Orioles (MASN / CHSN)
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+DESCRIPTION:Regular Season\nTV: MASN / CHSN\nVenue: Oriole Park at Camden Y
+ ards\, Baltimore\, Maryland\nFinal: White Sox 8\, Orioles 2\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815964@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260630T223500Z
+DTEND:20260701T013500Z
+SUMMARY:White Sox @ Orioles (MASN / CHSN)
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+DESCRIPTION:Regular Season\nTV: MASN / CHSN\nVenue: Oriole Park at Camden Y
+ ards\, Baltimore\, Maryland\nFinal: White Sox 9\, Orioles 3\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815979@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260701T163500Z
+DTEND:20260701T193500Z
+SUMMARY:White Sox @ Orioles (MASN / CHSN)
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+DESCRIPTION:Regular Season\nTV: MASN / CHSN\nVenue: Oriole Park at Camden Y
+ ards\, Baltimore\, Maryland\nFinal: White Sox 1\, Orioles 6\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815993@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260702T224000Z
+DTEND:20260703T014000Z
+SUMMARY:White Sox @ Guardians (CLEGuardians.TV / CHSN)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / CHSN\nVenue: Progressive 
+ Field\, Cleveland\, Ohio\nFinal: White Sox 5\, Guardians 6\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816003@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260703T231000Z
+DTEND:20260704T021000Z
+SUMMARY:White Sox @ Guardians (CLEGuardians.TV / WKYC 3 / CHSN)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / WKYC 3 / CHSN\nVenue: Pro
+ gressive Field\, Cleveland\, Ohio\nFinal: White Sox 3\, Guardians 4\nUnoff
+ icial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816016@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260704T231000Z
+DTEND:20260705T021000Z
+SUMMARY:White Sox @ Guardians (CLEGuardians.TV / CHSN)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / CHSN\nVenue: Progressive 
+ Field\, Cleveland\, Ohio\nFinal: White Sox 3\, Guardians 1\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816031@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260705T180000Z
+DTEND:20260705T210000Z
+SUMMARY:White Sox @ Guardians (Peacock)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: Peacock\nVenue: Progressive Field\, Clevela
+ nd\, Ohio\nFinal: White Sox 7\, Guardians 6\nUnofficial calendar\; not aff
+ iliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816062@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260707T234000Z
+DTEND:20260708T024000Z
+SUMMARY:Red Sox @ White Sox (CHSN / NESN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: CHSN / NESN\nVenue: Rate Field\, Chicago\, 
+ Illinois\nFinal: Red Sox 8\, White Sox 1\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816077@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260708T234000Z
+DTEND:20260709T024000Z
+SUMMARY:Red Sox @ White Sox (CHSN / NESN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: CHSN / NESN\nVenue: Rate Field\, Chicago\, 
+ Illinois\nFinal: Red Sox 5\, White Sox 0\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816091@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260709T181000Z
+DTEND:20260709T211000Z
+SUMMARY:Red Sox @ White Sox (CHSN / NESN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: CHSN / NESN\nVenue: Rate Field\, Chicago\, 
+ Illinois\nFinal: Red Sox 2\, White Sox 1\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816105@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260710T234000Z
+DTEND:20260711T024000Z
+SUMMARY:Athletics @ White Sox (NBC Sports CA / CHSN / WCIU-TV)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / CHSN / WCIU-TV\nVenue: Rate
+  Field\, Chicago\, Illinois\nFinal: Athletics 1\, White Sox 14\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816120@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260711T181000Z
+DTEND:20260711T211000Z
+SUMMARY:Athletics @ White Sox (NBC Sports CA / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / CHSN\nVenue: Rate Field\, C
+ hicago\, Illinois\nFinal: Athletics 0\, White Sox 1\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816135@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260712T181000Z
+DTEND:20260712T211000Z
+SUMMARY:Athletics @ White Sox (NBC Sports CA / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / CHSN\nVenue: Rate Field\, C
+ hicago\, Illinois\nFinal: Athletics 1\, White Sox 9\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816141@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260717T231500Z
+DTEND:20260718T021500Z
+SUMMARY:White Sox @ Blue Jays (Apple TV)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: Rogers Centre\, Toronto\, 
+ Ontario\nFinal: White Sox 12\, Blue Jays 4\nUnofficial calendar\; not affi
+ liated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816156@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260718T190700Z
+DTEND:20260718T220700Z
+SUMMARY:White Sox @ Blue Jays (CHSN / Sportsnet / TVA)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: CHSN / Sportsnet / TVA\nVenue: Rogers Centr
+ e\, Toronto\, Ontario\nFinal: White Sox 0\, Blue Jays 1\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816171@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260719T161500Z
+DTEND:20260719T191500Z
+SUMMARY:White Sox @ Blue Jays (Peacock)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Peacock\nVenue: Rogers Centre\, Toronto\, O
+ ntario\nFinal: White Sox 3\, Blue Jays 0\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816192@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260721T000500Z
+DTEND:20260721T030500Z
+SUMMARY:White Sox @ Rangers (Rangers Sports Network / CHSN)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / CHSN\nVenue: Globe
+  Life Field\, Arlington\, Texas\nFinal: White Sox 10\, Rangers 3\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816207@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260722T000500Z
+DTEND:20260722T030500Z
+SUMMARY:White Sox @ Rangers (Rangers Sports Network / CHSN)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / CHSN\nVenue: Globe
+  Life Field\, Arlington\, Texas\nFinal: White Sox 0\, Rangers 10\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816222@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260723T000500Z
+DTEND:20260723T030500Z
+SUMMARY:White Sox @ Rangers (Rangers Sports Network / CHSN)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / CHSN\nVenue: Globe
+  Life Field\, Arlington\, Texas\nFinal: White Sox 4\, Rangers 2\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816247@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260724T234000Z
+DTEND:20260725T024000Z
+SUMMARY:Astros @ White Sox (Space City Home Network / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Space City Home Network / CHSN\nVenue: Rate
+  Field\, Chicago\, Illinois\nFinal: Astros 9\, White Sox 5\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816262@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260725T231000Z
+DTEND:20260726T021000Z
+SUMMARY:Astros @ White Sox (Space City Home Network / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Space City Home Network / CHSN\nVenue: Rate
+  Field\, Chicago\, Illinois\nFinal: Astros 4\, White Sox 1\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816277@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260726T181000Z
+DTEND:20260726T211000Z
+SUMMARY:Astros @ White Sox (ESPN Unlimited)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Rate Field\, Chicago
+ \, Illinois\nFinal: Astros 3\, White Sox 12\nUnofficial calendar\; not aff
+ iliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816287@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260727T234000Z
+DTEND:20260728T024000Z
+SUMMARY:Yankees @ White Sox (CHSN / YES)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: CHSN / YES\nVenue: Rate Field\, Chicago\, I
+ llinois\nFinal: Yankees 9\, White Sox 5\nUnofficial calendar\; not affilia
+ ted with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816301@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260728T234000Z
+DTEND:20260729T024000Z
+SUMMARY:Yankees @ White Sox (CHSN / YES)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: CHSN / YES\nVenue: Rate Field\, Chicago\, I
+ llinois\nFinal: Yankees 3\, White Sox 2\nUnofficial calendar\; not affilia
+ ted with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816316@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260729T234000Z
+DTEND:20260730T024000Z
+SUMMARY:Yankees @ White Sox (Prime Video / MLB Network)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Prime Video / MLB Network\nVenue: Rate Fiel
+ d\, Chicago\, Illinois\nFinal: Yankees 5\, White Sox 6\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816328@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260730T181000Z
+DTEND:20260730T211000Z
+SUMMARY:Yankees @ White Sox (CHSN / YES)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: CHSN / YES\nVenue: Rate Field\, Chicago\, I
+ llinois\nFinal: Yankees 1\, White Sox 2\nUnofficial calendar\; not affilia
+ ted with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816333@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260731T231000Z
+DTEND:20260801T021000Z
+SUMMARY:White Sox @ Rays (Rays.TV / CHSN)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:Regular Season\nTV: Rays.TV / CHSN\nVenue: Tropicana Field\, St
+ . Petersburg\, Florida\nFinal: White Sox 6\, Rays 1\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816348@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260801T201000Z
+DTEND:20260801T231000Z
+SUMMARY:White Sox @ Rays (Rays.TV / CHSN)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:Regular Season\nTV: Rays.TV / CHSN\nVenue: Tropicana Field\, St
+ . Petersburg\, Florida\nFinal: White Sox 0\, Rays 1\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816363@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260802T174000Z
+DTEND:20260802T204000Z
+SUMMARY:White Sox @ Rays (ESPN Unlimited)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Tropicana Field\, St
+ . Petersburg\, Florida\nFinal: White Sox 9\, Rays 1\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816386@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260804T231000Z
+DTEND:20260805T021000Z
+SUMMARY:White Sox @ Red Sox (CHSN / NESN)
+LOCATION:Fenway Park\, Boston\, Massachusetts
+DESCRIPTION:Regular Season\nTV: CHSN / NESN\nVenue: Fenway Park\, Boston\, 
+ Massachusetts\nFinal: White Sox 2\, Red Sox 14\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816401@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260805T231000Z
+DTEND:20260806T021000Z
+SUMMARY:White Sox @ Red Sox (CHSN / NESN)
+LOCATION:Fenway Park\, Boston\, Massachusetts
+DESCRIPTION:Regular Season\nTV: CHSN / NESN\nVenue: Fenway Park\, Boston\, 
+ Massachusetts\nFinal: White Sox 0\, Red Sox 4\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816416@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260806T231000Z
+DTEND:20260807T021000Z
+SUMMARY:White Sox @ Red Sox (CHSN / NESN)
+LOCATION:Fenway Park\, Boston\, Massachusetts
+DESCRIPTION:Regular Season\nTV: CHSN / NESN\nVenue: Fenway Park\, Boston\, 
+ Massachusetts\nFinal: White Sox 11\, Red Sox 12\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816432@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260807T234000Z
+DTEND:20260808T024000Z
+SUMMARY:Guardians @ White Sox (CLEGuardians.TV / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / CHSN\nVenue: Rate Field\,
+  Chicago\, Illinois\nFinal: Guardians 8\, White Sox 2\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816447@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260808T231500Z
+DTEND:20260809T021500Z
+SUMMARY:Guardians @ White Sox (Fox)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Fox\nVenue: Rate Field\, Chicago\, Illinois
+ \nFinal: Guardians 3\, White Sox 6\nUnofficial calendar\; not affiliated w
+ ith the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816462@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260809T181000Z
+DTEND:20260809T211000Z
+SUMMARY:Guardians @ White Sox (CLEGuardians.TV / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / CHSN\nVenue: Rate Field\,
+  Chicago\, Illinois\nFinal: Guardians 3\, White Sox 5\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816486@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260811T234000Z
+DTEND:20260812T024000Z
+SUMMARY:Reds @ White Sox (Reds.TV / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Reds.TV / CHSN\nVenue: Rate Field\, Chicago
+ \, Illinois\nFinal: Reds 5\, White Sox 4\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816501@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260812T234000Z
+DTEND:20260813T024000Z
+SUMMARY:Reds @ White Sox (Reds.TV / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Reds.TV / CHSN\nVenue: Rate Field\, Chicago
+ \, Illinois\nFinal: Reds 0\, White Sox 5\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816514@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260813T171000Z
+DTEND:20260813T201000Z
+SUMMARY:Reds @ White Sox (Reds.TV / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Reds.TV / CHSN\nVenue: Rate Field\, Chicago
+ \, Illinois\nFinal: Reds 9\, White Sox 8\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816520@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260814T224000Z
+DTEND:20260815T014000Z
+SUMMARY:White Sox @ Tigers (Tigers.TV / CHSN)
+LOCATION:Comerica Park\, Detroit\, Michigan
+DESCRIPTION:Regular Season\nTV: Tigers.TV / CHSN\nVenue: Comerica Park\, De
+ troit\, Michigan\nFinal: White Sox 9\, Tigers 5\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816535@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260815T171000Z
+DTEND:20260815T201000Z
+SUMMARY:White Sox @ Tigers (Tigers.TV / CHSN)
+LOCATION:Comerica Park\, Detroit\, Michigan
+DESCRIPTION:Regular Season\nTV: Tigers.TV / CHSN\nVenue: Comerica Park\, De
+ troit\, Michigan\nFinal: White Sox 4\, Tigers 3\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816550@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260816T174000Z
+DTEND:20260816T204000Z
+SUMMARY:White Sox @ Tigers (Tigers.TV / CHSN)
+LOCATION:Comerica Park\, Detroit\, Michigan
+DESCRIPTION:Regular Season\nTV: Tigers.TV / CHSN\nVenue: Comerica Park\, De
+ troit\, Michigan\nFinal: White Sox 7\, Tigers 5\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816569@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260818T000500Z
+DTEND:20260818T030500Z
+SUMMARY:White Sox @ Cubs (Marquee Sports Net / CHSN / WCIU-TV)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / CHSN / WCIU-TV\nVenue:
+  Wrigley Field\, Chicago\, Illinois\nFinal: White Sox 5\, Cubs 7\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816582@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260819T000500Z
+DTEND:20260819T030500Z
+SUMMARY:White Sox @ Cubs (TBS)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: TBS\nVenue: Wrigley Field\, Chicago\, Illin
+ ois\nFinal: White Sox 3\, Cubs 4\nUnofficial calendar\; not affiliated wit
+ h the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816597@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260819T182000Z
+DTEND:20260819T212000Z
+SUMMARY:White Sox @ Cubs (Marquee Sports Net / CHSN)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / CHSN\nVenue: Wrigley F
+ ield\, Chicago\, Illinois\nFinal: White Sox 3\, Cubs 0\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401877087@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260820T181000Z
+DTEND:20260820T211000Z
+SUMMARY:Braves @ White Sox (ESPN Unlimited)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Makeup from June 11\nTV: ESPN Unlimited\nVenue: Rate Field\, Ch
+ icago\, Illinois\nFinal: Braves 2\, White Sox 0\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816619@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260821T234000Z
+DTEND:20260822T024000Z
+SUMMARY:Mets @ White Sox (CHSN / WPIX)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: CHSN / WPIX\nVenue: Rate Field\, Chicago\, 
+ Illinois\nFinal: Mets 4\, White Sox 6\nUnofficial calendar\; not affiliate
+ d with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816634@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260822T231000Z
+DTEND:20260823T021000Z
+SUMMARY:Mets @ White Sox (CHSN / SNY)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: CHSN / SNY\nVenue: Rate Field\, Chicago\, I
+ llinois\nFinal: Mets 10\, White Sox 5\nUnofficial calendar\; not affiliate
+ d with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816649@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260823T181000Z
+DTEND:20260823T211000Z
+SUMMARY:Mets @ White Sox (CHSN / SNY)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: CHSN / SNY\nVenue: Rate Field\, Chicago\, I
+ llinois\nFinal: Mets 1\, White Sox 2\nUnofficial calendar\; not affiliated
+  with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816658@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260824T234000Z
+DTEND:20260825T024000Z
+SUMMARY:Rangers @ White Sox (Rangers Sports Network / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / CHSN\nVenue: Rate 
+ Field\, Chicago\, Illinois\nFinal: Rangers 11\, White Sox 2\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816673@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260825T234000Z
+DTEND:20260826T024000Z
+SUMMARY:Rangers @ White Sox (Rangers Sports Network / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / CHSN\nVenue: Rate 
+ Field\, Chicago\, Illinois\nFinal: Rangers 7\, White Sox 11\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816688@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260826T234000Z
+DTEND:20260827T024000Z
+SUMMARY:Rangers @ White Sox (Rangers Sports Network / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / CHSN\nVenue: Rate 
+ Field\, Chicago\, Illinois\nFinal: Rangers 4\, White Sox 10\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816710@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260829T001000Z
+DTEND:20260829T031000Z
+SUMMARY:White Sox @ Twins (Twins.TV / CHSN)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / CHSN\nVenue: Target Field\, Minn
+ eapolis\, Minnesota\nFinal: White Sox 7\, Twins 4\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816725@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260829T181000Z
+DTEND:20260829T211000Z
+SUMMARY:White Sox @ Twins (Twins.TV / CHSN)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / CHSN\nVenue: Target Field\, Minn
+ eapolis\, Minnesota\nFinal: White Sox 3\, Twins 2\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816740@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260830T181000Z
+DTEND:20260830T211000Z
+SUMMARY:White Sox @ Twins (Twins.TV / CHSN)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / CHSN\nVenue: Target Field\, Minn
+ eapolis\, Minnesota\nFinal: White Sox 1\, Twins 5\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816752@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260901T001000Z
+DTEND:20260901T031000Z
+SUMMARY:White Sox @ Astros (Space City Home Network / CHSN)
+LOCATION:Daikin Park\, Houston\, Texas
+DESCRIPTION:Regular Season\nTV: Space City Home Network / CHSN\nVenue: Daik
+ in Park\, Houston\, Texas\nFinal: White Sox 3\, Astros 6\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816765@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260902T001000Z
+DTEND:20260902T031000Z
+SUMMARY:White Sox @ Astros (Space City Home Network / CHSN)
+LOCATION:Daikin Park\, Houston\, Texas
+DESCRIPTION:Regular Season\nTV: Space City Home Network / CHSN\nVenue: Daik
+ in Park\, Houston\, Texas\nFinal: White Sox 5\, Astros 1\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816780@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260903T001000Z
+DTEND:20260903T031000Z
+SUMMARY:White Sox @ Astros (Space City Home Network / CHSN)
+LOCATION:Daikin Park\, Houston\, Texas
+DESCRIPTION:Regular Season\nTV: Space City Home Network / CHSN\nVenue: Daik
+ in Park\, Houston\, Texas\nFinal: White Sox 0\, Astros 2\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816791@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260903T181000Z
+DTEND:20260903T211000Z
+SUMMARY:White Sox @ Astros (ESPN Unlimited)
+LOCATION:Daikin Park\, Houston\, Texas
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Daikin Park\, Housto
+ n\, Texas\nFinal: White Sox 2\, Astros 6\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816805@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260904T234000Z
+DTEND:20260905T024000Z
+SUMMARY:Twins @ White Sox (Twins.TV / CHSN / WCIU-TV)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Twins.TV / CHSN / WCIU-TV\nVenue: Rate Fiel
+ d\, Chicago\, Illinois\nFinal: Twins 1\, White Sox 4\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816820@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260905T231000Z
+DTEND:20260906T021000Z
+SUMMARY:Twins @ White Sox (Twins.TV / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Twins.TV / CHSN\nVenue: Rate Field\, Chicag
+ o\, Illinois\nFinal: Twins 6\, White Sox 4\nUnofficial calendar\; not affi
+ liated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816835@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260906T222000Z
+DTEND:20260907T012000Z
+SUMMARY:Twins @ White Sox (NBC / Peacock)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: NBC / Peacock\nVenue: Rate Field\, Chicago\
+ , Illinois\nFinal: Twins 1\, White Sox 10\nUnofficial calendar\; not affil
+ iated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816862@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260908T234000Z
+DTEND:20260909T024000Z
+SUMMARY:Pirates @ White Sox (CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: CHSN\nVenue: Rate Field\, Chicago\, Illinoi
+ s\nFinal: Pirates 9\, White Sox 3\nUnofficial calendar\; not affiliated wi
+ th the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816877@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260909T234000Z
+DTEND:20260910T024000Z
+SUMMARY:Pirates @ White Sox (CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: CHSN\nVenue: Rate Field\, Chicago\, Illinoi
+ s\nFinal: Pirates 4\, White Sox 2\nUnofficial calendar\; not affiliated wi
+ th the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816886@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260910T234000Z
+DTEND:20260911T024000Z
+SUMMARY:Pirates @ White Sox (CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: CHSN\nVenue: Rate Field\, Chicago\, Illinoi
+ s\nFinal: Pirates 2\, White Sox 0\nUnofficial calendar\; not affiliated wi
+ th the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816896@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260912T001500Z
+DTEND:20260912T031500Z
+SUMMARY:White Sox @ Cardinals (Cardinals.TV / CHSN / KMOV-TV)
+LOCATION:Busch Stadium\, St. Louis\, Missouri
+DESCRIPTION:Regular Season\nTV: Cardinals.TV / CHSN / KMOV-TV\nVenue: Busch
+  Stadium\, St. Louis\, Missouri\nFinal: White Sox 3\, Cardinals 7\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816911@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260912T231500Z
+DTEND:20260913T021500Z
+SUMMARY:White Sox @ Cardinals (Cardinals.TV / CHSN)
+LOCATION:Busch Stadium\, St. Louis\, Missouri
+DESCRIPTION:Regular Season\nTV: Cardinals.TV / CHSN\nVenue: Busch Stadium\,
+  St. Louis\, Missouri\nFinal: White Sox 6\, Cardinals 5\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816926@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260913T181500Z
+DTEND:20260913T211500Z
+SUMMARY:White Sox @ Cardinals (Cardinals.TV / CHSN)
+LOCATION:Busch Stadium\, St. Louis\, Missouri
+DESCRIPTION:Regular Season\nTV: Cardinals.TV / CHSN\nVenue: Busch Stadium\,
+  St. Louis\, Missouri\nFinal: White Sox 1\, Cardinals 3\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816934@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260914T224000Z
+DTEND:20260915T014000Z
+SUMMARY:White Sox @ Guardians (ESPN Unlimited)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Progressive Field\, 
+ Cleveland\, Ohio\nFinal: White Sox 7\, Guardians 3\nUnofficial calendar\; 
+ not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816945@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260915T224000Z
+DTEND:20260916T014000Z
+SUMMARY:White Sox @ Guardians (ESPN Unlimited)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Progressive Field\, 
+ Cleveland\, Ohio\nFinal: White Sox 6\, Guardians 7\nUnofficial calendar\; 
+ not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816960@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260916T170000Z
+DTEND:20260916T200000Z
+SUMMARY:White Sox @ Guardians (ESPN)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Progressive Field\, Cleveland\
+ , Ohio\nFinal: White Sox 3\, Guardians 6\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816978@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260917T234000Z
+DTEND:20260918T024000Z
+SUMMARY:Tigers @ White Sox (Tigers.TV / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Tigers.TV / CHSN\nVenue: Rate Field\, Chica
+ go\, Illinois\nFinal: Tigers 1\, White Sox 3\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816989@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260918T234000Z
+DTEND:20260919T024000Z
+SUMMARY:Tigers @ White Sox (Tigers.TV / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Tigers.TV / CHSN\nVenue: Rate Field\, Chica
+ go\, Illinois\nFinal: Tigers 11\, White Sox 8\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817004@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260919T181000Z
+DTEND:20260919T211000Z
+SUMMARY:Tigers @ White Sox (Tigers.TV / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Tigers.TV / CHSN\nVenue: Rate Field\, Chica
+ go\, Illinois\nFinal: Tigers 1\, White Sox 3\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817019@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260920T181000Z
+DTEND:20260920T211000Z
+SUMMARY:Tigers @ White Sox (Tigers.TV / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Tigers.TV / CHSN\nVenue: Rate Field\, Chica
+ go\, Illinois\nFinal: Tigers 1\, White Sox 8\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817037@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260922T234000Z
+DTEND:20260923T024000Z
+SUMMARY:White Sox @ Royals (Royals.TV / CHSN)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / CHSN\nVenue: Kauffman Stadium\,
+  Kansas City\, Missouri\nFinal: White Sox 14\, Royals 11\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817052@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260923T234000Z
+DTEND:20260924T024000Z
+SUMMARY:White Sox @ Royals (Royals.TV / CHSN)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / CHSN\nVenue: Kauffman Stadium\,
+  Kansas City\, Missouri\nFinal: White Sox 4\, Royals 5\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817065@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260924T181000Z
+DTEND:20260924T211000Z
+SUMMARY:White Sox @ Royals (Royals.TV / CHSN)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / CHSN\nVenue: Kauffman Stadium\,
+  Kansas City\, Missouri\nFinal: White Sox 9\, Royals 1\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817080@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260925T234000Z
+DTEND:20260926T024000Z
+SUMMARY:Rockies @ White Sox (Rockies.TV / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Rockies.TV / CHSN\nVenue: Rate Field\, Chic
+ ago\, Illinois\nFinal: Rockies 1\, White Sox 6\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817095@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260926T231000Z
+DTEND:20260927T021000Z
+SUMMARY:Rockies @ White Sox (Rockies.TV / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Rockies.TV / CHSN\nVenue: Rate Field\, Chic
+ ago\, Illinois\nFinal: Rockies 9\, White Sox 6\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817110@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260927T191000Z
+DTEND:20260927T221000Z
+SUMMARY:Rockies @ White Sox (Rockies.TV / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Rockies.TV / CHSN\nVenue: Rate Field\, Chic
+ ago\, Illinois\nFinal: Rockies 2\, White Sox 4\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401907896@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260929T210000Z
+DTEND:20260930T000000Z
+SUMMARY:White Sox @ Astros (Peacock / NBCSN)
+LOCATION:Daikin Park\, Houston\, Texas
+DESCRIPTION:ALWC - Game 1\nTV: Peacock / NBCSN\nVenue: Daikin Park\, Housto
+ n\, Texas\nFinal: White Sox 6\, Astros 3\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401907897@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260930T210000Z
+DTEND:20261001T000000Z
+SUMMARY:White Sox @ Astros (Peacock / NBCSN)
+LOCATION:Daikin Park\, Houston\, Texas
+DESCRIPTION:ALWC - Game 2\nTV: Peacock / NBCSN\nVenue: Daikin Park\, Housto
+ n\, Texas\nFinal: White Sox 7\, Astros 3\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401907990@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20261003T170000Z
+DTEND:20261003T200000Z
+SUMMARY:White Sox @ Guardians (TBS / truTV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:ALDS - Game 1\nTV: TBS / truTV\nVenue: Progressive Field\, Clev
+ eland\, Ohio\nFinal: White Sox 3\, Guardians 0\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401907991@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20261005T210000Z
+DTEND:20261006T000000Z
+SUMMARY:White Sox @ Guardians (TBS / truTV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:ALDS - Game 2\nTV: TBS / truTV\nVenue: Progressive Field\, Clev
+ eland\, Ohio\nFinal: White Sox 4\, Guardians 3\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401907992@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20261007T200000Z
+DTEND:20261007T230000Z
+SUMMARY:Guardians @ White Sox (TBS / truTV)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:ALDS - Game 3\nTV: TBS / truTV\nVenue: Rate Field\, Chicago\, I
+ llinois\nFinal: Guardians 9\, White Sox 3\nUnofficial calendar\; not affil
+ iated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401907993@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20261009T000000Z
+DTEND:20261009T030000Z
+SUMMARY:Guardians @ White Sox (TBS / truTV)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:ALDS - Game 4\nTV: TBS / truTV\nVenue: Rate Field\, Chicago\, I
+ llinois\nFinal: Guardians 9\, White Sox 5\nUnofficial calendar\; not affil
+ iated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401907994@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20261011T000000Z
+DTEND:20261011T030000Z
+SUMMARY:White Sox @ Guardians (TBS / truTV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:ALDS - Game 5\nTV: TBS / truTV\nVenue: Progressive Field\, Clev
+ eland\, Ohio\nFinal: White Sox 0\, Guardians 2\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

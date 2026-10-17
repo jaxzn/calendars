@@ -1,0 +1,2192 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jaxzn//MLB Calendars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Toronto Blue Jays
+X-WR-CALDESC:Toronto Blue Jays MLB schedule (unofficial\, auto-updated)
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:espn-401814688@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260327T230700Z
+DTEND:20260328T020700Z
+SUMMARY:Athletics @ Blue Jays (MLB Network)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: MLB Network\nVenue: Rogers Centre\, Toronto
+ \, Ontario\nFinal: Athletics 2\, Blue Jays 3\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814707@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260328T190700Z
+DTEND:20260328T220700Z
+SUMMARY:Athletics @ Blue Jays (NBC Sports CA / Sportsnet)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Sportsnet\nVenue: Rogers Ce
+ ntre\, Toronto\, Ontario\nFinal: Athletics 7\, Blue Jays 8\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814722@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260329T173700Z
+DTEND:20260329T203700Z
+SUMMARY:Athletics @ Blue Jays (NBC Sports CA / Sportsnet)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Sportsnet\nVenue: Rogers Ce
+ ntre\, Toronto\, Ontario\nFinal: Athletics 2\, Blue Jays 5\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814737@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260330T230700Z
+DTEND:20260331T020700Z
+SUMMARY:Rockies @ Blue Jays (Rockies.TV / Sportsnet)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Rockies.TV / Sportsnet\nVenue: Rogers Centr
+ e\, Toronto\, Ontario\nFinal: Rockies 14\, Blue Jays 5\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814752@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260331T230700Z
+DTEND:20260401T020700Z
+SUMMARY:Rockies @ Blue Jays (Rockies.TV / Sportsnet / TVA)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Rockies.TV / Sportsnet / TVA\nVenue: Rogers
+  Centre\, Toronto\, Ontario\nFinal: Rockies 1\, Blue Jays 5\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814766@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260401T170700Z
+DTEND:20260401T200700Z
+SUMMARY:Rockies @ Blue Jays (Rockies.TV / Sportsnet)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Rockies.TV / Sportsnet\nVenue: Rogers Centr
+ e\, Toronto\, Ontario\nFinal: Rockies 2\, Blue Jays 1\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814780@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260402T201000Z
+DTEND:20260402T231000Z
+SUMMARY:Postponed: Blue Jays @ White Sox (Sportsnet / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Inclement Weather - Makeup date April 3\nTV: Sportsnet / CHSN\n
+ Venue: Rate Field\, Chicago\, Illinois\nPostponed. This listing stays canc
+ elled under the same id. The makeup\, when ESPN adds one\, is a separate g
+ ame.\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may
+  change.
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401867263@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260403T181000Z
+DTEND:20260403T211000Z
+SUMMARY:Blue Jays @ White Sox (Sportsnet / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Makeup from April 2\nTV: Sportsnet / CHSN\nVenue: Rate Field\, 
+ Chicago\, Illinois\nFinal: Blue Jays 4\, White Sox 5\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814806@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260404T181000Z
+DTEND:20260404T211000Z
+SUMMARY:Blue Jays @ White Sox (CHSN / Sportsnet)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: CHSN / Sportsnet\nVenue: Rate Field\, Chica
+ go\, Illinois\nFinal: Blue Jays 3\, White Sox 6\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814821@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260405T181000Z
+DTEND:20260405T211000Z
+SUMMARY:Blue Jays @ White Sox (CHSN / Sportsnet / TVA)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: CHSN / Sportsnet / TVA\nVenue: Rate Field\,
+  Chicago\, Illinois\nFinal: Blue Jays 0\, White Sox 3\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814830@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260406T230700Z
+DTEND:20260407T020700Z
+SUMMARY:Dodgers @ Blue Jays (FS1)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: FS1\nVenue: Rogers Centre\, Toronto\, Ontar
+ io\nFinal: Dodgers 14\, Blue Jays 2\nUnofficial calendar\; not affiliated 
+ with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814845@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260407T230700Z
+DTEND:20260408T020700Z
+SUMMARY:Dodgers @ Blue Jays (TBS)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: TBS\nVenue: Rogers Centre\, Toronto\, Ontar
+ io\nFinal: Dodgers 4\, Blue Jays 1\nUnofficial calendar\; not affiliated w
+ ith the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814860@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260408T190700Z
+DTEND:20260408T220700Z
+SUMMARY:Dodgers @ Blue Jays (SportsNet LA / Sportsnet)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Sportsnet\nVenue: Rogers Cen
+ tre\, Toronto\, Ontario\nFinal: Dodgers 3\, Blue Jays 4\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814881@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260410T230700Z
+DTEND:20260411T020700Z
+SUMMARY:Twins @ Blue Jays (Twins.TV / Sportsnet)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Twins.TV / Sportsnet\nVenue: Rogers Centre\
+ , Toronto\, Ontario\nFinal: Twins 4\, Blue Jays 10\nUnofficial calendar\; 
+ not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814896@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260411T190700Z
+DTEND:20260411T220700Z
+SUMMARY:Twins @ Blue Jays (Twins.TV / Sportsnet)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Twins.TV / Sportsnet\nVenue: Rogers Centre\
+ , Toronto\, Ontario\nFinal: Twins 7\, Blue Jays 4\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814911@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260412T173700Z
+DTEND:20260412T203700Z
+SUMMARY:Twins @ Blue Jays (Twins.TV / Sportsnet)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Twins.TV / Sportsnet\nVenue: Rogers Centre\
+ , Toronto\, Ontario\nFinal: Twins 8\, Blue Jays 2\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814942@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260414T234000Z
+DTEND:20260415T024000Z
+SUMMARY:Blue Jays @ Brewers (Brewers.TV / Sportsnet)
+LOCATION:American Family Field\, Milwaukee\, Wisconsin
+DESCRIPTION:Regular Season\nTV: Brewers.TV / Sportsnet\nVenue: American Fam
+ ily Field\, Milwaukee\, Wisconsin\nFinal: Blue Jays 9\, Brewers 7\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814957@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260415T234000Z
+DTEND:20260416T024000Z
+SUMMARY:Blue Jays @ Brewers (Brewers.TV / Sportsnet One)
+LOCATION:American Family Field\, Milwaukee\, Wisconsin
+DESCRIPTION:Regular Season\nTV: Brewers.TV / Sportsnet One\nVenue: American
+  Family Field\, Milwaukee\, Wisconsin\nFinal: Blue Jays 1\, Brewers 2\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814968@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260416T174000Z
+DTEND:20260416T204000Z
+SUMMARY:Blue Jays @ Brewers (Brewers.TV / Sportsnet)
+LOCATION:American Family Field\, Milwaukee\, Wisconsin
+DESCRIPTION:Regular Season\nTV: Brewers.TV / Sportsnet\nVenue: American Fam
+ ily Field\, Milwaukee\, Wisconsin\nFinal: Blue Jays 1\, Brewers 2\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814985@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260418T014000Z
+DTEND:20260418T044000Z
+SUMMARY:Blue Jays @ Diamondbacks (DBACKS.TV / Sportsnet / TVA)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Sportsnet / TVA\nVenue: Chase F
+ ield\, Phoenix\, Arizona\nFinal: Blue Jays 3\, Diamondbacks 6\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815000@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260419T001000Z
+DTEND:20260419T031000Z
+SUMMARY:Blue Jays @ Diamondbacks (DBACKS.TV / Sportsnet One)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Sportsnet One\nVenue: Chase Fie
+ ld\, Phoenix\, Arizona\nFinal: Blue Jays 2\, Diamondbacks 6\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815015@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260419T201000Z
+DTEND:20260419T231000Z
+SUMMARY:Blue Jays @ Diamondbacks (DBACKS.TV / Sportsnet One)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Sportsnet One\nVenue: Chase Fie
+ ld\, Phoenix\, Arizona\nFinal: Blue Jays 10\, Diamondbacks 4\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815025@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260421T013800Z
+DTEND:20260421T043800Z
+SUMMARY:Blue Jays @ Angels (FanDuel SN West / Sportsnet One)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: FanDuel SN West / Sportsnet One\nVenue: Ang
+ el Stadium\, Anaheim\, California\nFinal: Blue Jays 5\, Angels 2\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815040@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260422T013800Z
+DTEND:20260422T043800Z
+SUMMARY:Blue Jays @ Angels (ESPN Unlimited)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Angel Stadium\, Anah
+ eim\, California\nFinal: Blue Jays 4\, Angels 2\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815055@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260422T190700Z
+DTEND:20260422T220700Z
+SUMMARY:Blue Jays @ Angels (FanDuel SN West / Sportsnet)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: FanDuel SN West / Sportsnet\nVenue: Angel S
+ tadium\, Anaheim\, California\nFinal: Blue Jays 3\, Angels 7\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815066@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260424T230700Z
+DTEND:20260425T020700Z
+SUMMARY:Guardians @ Blue Jays (CLEGuardians.TV / Sportsnet One)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Sportsnet One\nVenue: Rog
+ ers Centre\, Toronto\, Ontario\nFinal: Guardians 8\, Blue Jays 6\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815081@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260425T190700Z
+DTEND:20260425T220700Z
+SUMMARY:Guardians @ Blue Jays (FS1)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: FS1\nVenue: Rogers Centre\, Toronto\, Ontar
+ io\nFinal: Guardians 3\, Blue Jays 5\nUnofficial calendar\; not affiliated
+  with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815096@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260426T173700Z
+DTEND:20260426T203700Z
+SUMMARY:Guardians @ Blue Jays (CLEGuardians.TV / Sportsnet One)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Sportsnet One\nVenue: Rog
+ ers Centre\, Toronto\, Ontario\nFinal: Guardians 2\, Blue Jays 4\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815110@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260427T230700Z
+DTEND:20260428T020700Z
+SUMMARY:Red Sox @ Blue Jays (Sportsnet One / NESN)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Sportsnet One / NESN\nVenue: Rogers Centre\
+ , Toronto\, Ontario\nFinal: Red Sox 5\, Blue Jays 0\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815118@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260428T230700Z
+DTEND:20260429T020700Z
+SUMMARY:Red Sox @ Blue Jays (Sportsnet One / NESN+)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Sportsnet One / NESN+\nVenue: Rogers Centre
+ \, Toronto\, Ontario\nFinal: Red Sox 0\, Blue Jays 3\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815133@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260429T190700Z
+DTEND:20260429T220700Z
+SUMMARY:Red Sox @ Blue Jays (ESPN Unlimited)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Rogers Centre\, Toro
+ nto\, Ontario\nFinal: Red Sox 1\, Blue Jays 8\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815155@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260430T234000Z
+DTEND:20260501T024000Z
+SUMMARY:Blue Jays @ Twins (Twins.TV / Sportsnet One)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Sportsnet One\nVenue: Target Fie
+ ld\, Minneapolis\, Minnesota\nFinal: Blue Jays 1\, Twins 7\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815166@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260502T001000Z
+DTEND:20260502T031000Z
+SUMMARY:Blue Jays @ Twins (Twins.TV / Sportsnet One)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Sportsnet One\nVenue: Target Fie
+ ld\, Minneapolis\, Minnesota\nFinal: Blue Jays 7\, Twins 3\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815181@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260502T181000Z
+DTEND:20260502T211000Z
+SUMMARY:Blue Jays @ Twins (Twins.TV / TVA / Sportsnet / Sportsnet+)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / TVA / Sportsnet / Sportsnet+\nVe
+ nue: Target Field\, Minneapolis\, Minnesota\nFinal: Blue Jays 11\, Twins 4
+ \nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815196@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260503T164500Z
+DTEND:20260503T194500Z
+SUMMARY:Blue Jays @ Twins (Peacock)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Peacock\nVenue: Target Field\, Minneapolis\
+ , Minnesota\nFinal: Blue Jays 3\, Twins 4\nUnofficial calendar\; not affil
+ iated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815205@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260504T224000Z
+DTEND:20260505T014000Z
+SUMMARY:Blue Jays @ Rays (Rays.TV / Sportsnet One)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:Regular Season\nTV: Rays.TV / Sportsnet One\nVenue: Tropicana F
+ ield\, St. Petersburg\, Florida\nFinal: Blue Jays 1\, Rays 5\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815219@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260505T224000Z
+DTEND:20260506T014000Z
+SUMMARY:Blue Jays @ Rays (Rays.TV / Sportsnet One)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:Regular Season\nTV: Rays.TV / Sportsnet One\nVenue: Tropicana F
+ ield\, St. Petersburg\, Florida\nFinal: Blue Jays 3\, Rays 4\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815234@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260506T171000Z
+DTEND:20260506T201000Z
+SUMMARY:Blue Jays @ Rays (Rays.TV / Sportsnet)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:Regular Season\nTV: Rays.TV / Sportsnet\nVenue: Tropicana Field
+ \, St. Petersburg\, Florida\nFinal: Blue Jays 0\, Rays 3\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815253@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260508T230700Z
+DTEND:20260509T020700Z
+SUMMARY:Angels @ Blue Jays (Sportsnet One / Angels.TV)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Sportsnet One / Angels.TV\nVenue: Rogers Ce
+ ntre\, Toronto\, Ontario\nFinal: Angels 0\, Blue Jays 2\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815268@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260509T190700Z
+DTEND:20260509T220700Z
+SUMMARY:Angels @ Blue Jays (Sportsnet / TVA / Angels.TV)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Sportsnet / TVA / Angels.TV\nVenue: Rogers 
+ Centre\, Toronto\, Ontario\nFinal: Angels 1\, Blue Jays 14\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815283@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260510T173700Z
+DTEND:20260510T203700Z
+SUMMARY:Angels @ Blue Jays (Sportsnet / TVA / Angels.TV / Sportsnet One)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Sportsnet / TVA / Angels.TV / Sportsnet One
+ \nVenue: Rogers Centre\, Toronto\, Ontario\nFinal: Angels 6\, Blue Jays 1\
+ nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815300@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260511T230700Z
+DTEND:20260512T020700Z
+SUMMARY:Rays @ Blue Jays (Rays.TV / Sportsnet One)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Rays.TV / Sportsnet One\nVenue: Rogers Cent
+ re\, Toronto\, Ontario\nFinal: Rays 8\, Blue Jays 5\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815310@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260512T230700Z
+DTEND:20260513T020700Z
+SUMMARY:Rays @ Blue Jays (Rays.TV / Sportsnet One)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Rays.TV / Sportsnet One\nVenue: Rogers Cent
+ re\, Toronto\, Ontario\nFinal: Rays 7\, Blue Jays 6\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815325@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260513T230700Z
+DTEND:20260514T020700Z
+SUMMARY:Rays @ Blue Jays (Rays.TV / Sportsnet One)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Rays.TV / Sportsnet One\nVenue: Rogers Cent
+ re\, Toronto\, Ontario\nFinal: Rays 3\, Blue Jays 5\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815351@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260515T224000Z
+DTEND:20260516T014000Z
+SUMMARY:Blue Jays @ Tigers (Apple TV)
+LOCATION:Comerica Park\, Detroit\, Michigan
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: Comerica Park\, Detroit\, 
+ Michigan\nFinal: Blue Jays 2\, Tigers 3\nUnofficial calendar\; not affilia
+ ted with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815366@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260516T171000Z
+DTEND:20260516T201000Z
+SUMMARY:Blue Jays @ Tigers (ESPN Unlimited)
+LOCATION:Comerica Park\, Detroit\, Michigan
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Comerica Park\, Detr
+ oit\, Michigan\nFinal: Blue Jays 2\, Tigers 1\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815381@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260517T174000Z
+DTEND:20260517T204000Z
+SUMMARY:Blue Jays @ Tigers (Tigers.TV / Sportsnet / TVA / Sportsnet One)
+LOCATION:Comerica Park\, Detroit\, Michigan
+DESCRIPTION:Regular Season\nTV: Tigers.TV / Sportsnet / TVA / Sportsnet One
+ \nVenue: Comerica Park\, Detroit\, Michigan\nFinal: Blue Jays 4\, Tigers 1
+ \nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815395@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260518T230500Z
+DTEND:20260519T020500Z
+SUMMARY:Blue Jays @ Yankees (YES / Sportsnet One)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: YES / Sportsnet One\nVenue: Yankee Stadium\
+ , Bronx\, New York\nFinal: Blue Jays 6\, Yankees 7\nUnofficial calendar\; 
+ not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815409@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260519T230500Z
+DTEND:20260520T020500Z
+SUMMARY:Blue Jays @ Yankees (TBS)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: TBS\nVenue: Yankee Stadium\, Bronx\, New Yo
+ rk\nFinal: Blue Jays 4\, Yankees 5\nUnofficial calendar\; not affiliated w
+ ith the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815424@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260520T230500Z
+DTEND:20260521T020500Z
+SUMMARY:Blue Jays @ Yankees (MLB Network / Prime Video)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: MLB Network / Prime Video\nVenue: Yankee St
+ adium\, Bronx\, New York\nFinal: Blue Jays 2\, Yankees 1\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815437@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260521T230500Z
+DTEND:20260522T020500Z
+SUMMARY:Blue Jays @ Yankees (MLB Network)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: MLB Network\nVenue: Yankee Stadium\, Bronx\
+ , New York\nFinal: Blue Jays 2\, Yankees 0\nUnofficial calendar\; not affi
+ liated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815445@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260522T230700Z
+DTEND:20260523T020700Z
+SUMMARY:Pirates @ Blue Jays (Sportsnet One)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Sportsnet One\nVenue: Rogers Centre\, Toron
+ to\, Ontario\nFinal: Pirates 2\, Blue Jays 6\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815460@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260523T190700Z
+DTEND:20260523T220700Z
+SUMMARY:Pirates @ Blue Jays (Sportsnet / TVA)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Sportsnet / TVA\nVenue: Rogers Centre\, Tor
+ onto\, Ontario\nFinal: Pirates 2\, Blue Jays 5\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815475@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260524T161500Z
+DTEND:20260524T191500Z
+SUMMARY:Pirates @ Blue Jays (Peacock)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Peacock\nVenue: Rogers Centre\, Toronto\, O
+ ntario\nFinal: Pirates 4\, Blue Jays 1\nUnofficial calendar\; not affiliat
+ ed with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815488@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260525T230700Z
+DTEND:20260526T020700Z
+SUMMARY:Marlins @ Blue Jays (Marlins.TV / Sportsnet One)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Marlins.TV / Sportsnet One\nVenue: Rogers C
+ entre\, Toronto\, Ontario\nFinal: Marlins 8\, Blue Jays 2\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815503@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260526T230700Z
+DTEND:20260527T020700Z
+SUMMARY:Marlins @ Blue Jays (Marlins.TV / Sportsnet One)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Marlins.TV / Sportsnet One\nVenue: Rogers C
+ entre\, Toronto\, Ontario\nFinal: Marlins 1\, Blue Jays 8\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815518@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260527T170700Z
+DTEND:20260527T200700Z
+SUMMARY:Marlins @ Blue Jays (ESPN Unlimited)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Rogers Centre\, Toro
+ nto\, Ontario\nFinal: Marlins 1\, Blue Jays 2\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815532@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260528T223500Z
+DTEND:20260529T013500Z
+SUMMARY:Blue Jays @ Orioles (MASN / Sportsnet One / Sportsnet)
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+DESCRIPTION:Regular Season\nTV: MASN / Sportsnet One / Sportsnet\nVenue: Or
+ iole Park at Camden Yards\, Baltimore\, Maryland\nFinal: Blue Jays 2\, Ori
+ oles 1\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815541@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260529T230500Z
+DTEND:20260530T020500Z
+SUMMARY:Blue Jays @ Orioles (MASN / Sportsnet One)
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+DESCRIPTION:Regular Season\nTV: MASN / Sportsnet One\nVenue: Oriole Park at
+  Camden Yards\, Baltimore\, Maryland\nFinal: Blue Jays 6\, Orioles 5\nUnof
+ ficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815556@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260530T200500Z
+DTEND:20260530T230500Z
+SUMMARY:Blue Jays @ Orioles (MASN / Sportsnet / TVA / Sportsnet One)
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+DESCRIPTION:Regular Season\nTV: MASN / Sportsnet / TVA / Sportsnet One\nVen
+ ue: Oriole Park at Camden Yards\, Baltimore\, Maryland\nFinal: Blue Jays 5
+ \, Orioles 6\nUnofficial calendar\; not affiliated with the MLB or ESPN. T
+ imes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815571@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260531T161500Z
+DTEND:20260531T191500Z
+SUMMARY:Blue Jays @ Orioles (Peacock)
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+DESCRIPTION:Regular Season\nTV: Peacock\nVenue: Oriole Park at Camden Yards
+ \, Baltimore\, Maryland\nFinal: Blue Jays 5\, Orioles 9\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815595@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260602T231500Z
+DTEND:20260603T021500Z
+SUMMARY:Blue Jays @ Braves (BravesVision / Gray Media / Sportsnet One)
+LOCATION:Truist Park\, Atlanta\, Georgia
+DESCRIPTION:Regular Season\nTV: BravesVision / Gray Media / Sportsnet One\n
+ Venue: Truist Park\, Atlanta\, Georgia\nFinal: Blue Jays 3\, Braves 4\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815610@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260603T231500Z
+DTEND:20260604T021500Z
+SUMMARY:Blue Jays @ Braves (BravesVision / Sportsnet One / TVA)
+LOCATION:Truist Park\, Atlanta\, Georgia
+DESCRIPTION:Regular Season\nTV: BravesVision / Sportsnet One / TVA\nVenue: 
+ Truist Park\, Atlanta\, Georgia\nFinal: Blue Jays 3\, Braves 7\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815622@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260604T231500Z
+DTEND:20260605T021500Z
+SUMMARY:Blue Jays @ Braves (BravesVision / Sportsnet One)
+LOCATION:Truist Park\, Atlanta\, Georgia
+DESCRIPTION:Regular Season\nTV: BravesVision / Sportsnet One\nVenue: Truist
+  Park\, Atlanta\, Georgia\nFinal: Blue Jays 7\, Braves 2\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815628@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260605T230700Z
+DTEND:20260606T020700Z
+SUMMARY:Orioles @ Blue Jays (MASN / Sportsnet One)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: MASN / Sportsnet One\nVenue: Rogers Centre\
+ , Toronto\, Ontario\nFinal: Orioles 13\, Blue Jays 3\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815643@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260606T190700Z
+DTEND:20260606T220700Z
+SUMMARY:Orioles @ Blue Jays (MASN / Sportsnet / TVA)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: MASN / Sportsnet / TVA\nVenue: Rogers Centr
+ e\, Toronto\, Ontario\nFinal: Orioles 4\, Blue Jays 6\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815658@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260607T173700Z
+DTEND:20260607T203700Z
+SUMMARY:Orioles @ Blue Jays (MASN / Sportsnet / TVA / Sportsnet One)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: MASN / Sportsnet / TVA / Sportsnet One\nVen
+ ue: Rogers Centre\, Toronto\, Ontario\nFinal: Orioles 4\, Blue Jays 6\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815675@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260608T230700Z
+DTEND:20260609T020700Z
+SUMMARY:Phillies @ Blue Jays (NBC Sports Phil / Sportsnet One / TVA / Sport
+ snet)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / Sportsnet One / TVA / Spo
+ rtsnet\nVenue: Rogers Centre\, Toronto\, Ontario\nFinal: Phillies 5\, Blue
+  Jays 2\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815686@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260609T230700Z
+DTEND:20260610T020700Z
+SUMMARY:Phillies @ Blue Jays (NBC Sports Phil / Sportsnet One)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / Sportsnet One\nVenue: Rog
+ ers Centre\, Toronto\, Ontario\nFinal: Phillies 2\, Blue Jays 3\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815701@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260610T230700Z
+DTEND:20260611T020700Z
+SUMMARY:Phillies @ Blue Jays (NBC Sports Phil / Sportsnet One / TVA)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / Sportsnet One / TVA\nVenu
+ e: Rogers Centre\, Toronto\, Ontario\nFinal: Phillies 7\, Blue Jays 4\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815723@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260612T233700Z
+DTEND:20260613T023700Z
+SUMMARY:Yankees @ Blue Jays (YES / Sportsnet One / TVA / Sportsnet)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: YES / Sportsnet One / TVA / Sportsnet\nVenu
+ e: Rogers Centre\, Toronto\, Ontario\nFinal: Yankees 5\, Blue Jays 8\nUnof
+ ficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815738@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260613T190700Z
+DTEND:20260613T220700Z
+SUMMARY:Yankees @ Blue Jays (YES / Sportsnet / TVA)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: YES / Sportsnet / TVA\nVenue: Rogers Centre
+ \, Toronto\, Ontario\nFinal: Yankees 3\, Blue Jays 1\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815753@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260614T173700Z
+DTEND:20260614T203700Z
+SUMMARY:Yankees @ Blue Jays (YES / TVA / Sportsnet)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: YES / TVA / Sportsnet\nVenue: Rogers Centre
+ \, Toronto\, Ontario\nFinal: Yankees 8\, Blue Jays 3\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815779@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260616T224500Z
+DTEND:20260617T014500Z
+SUMMARY:Blue Jays @ Red Sox (Sportsnet / TVA / NESN)
+LOCATION:Fenway Park\, Boston\, Massachusetts
+DESCRIPTION:Regular Season\nTV: Sportsnet / TVA / NESN\nVenue: Fenway Park\
+ , Boston\, Massachusetts\nFinal: Blue Jays 6\, Red Sox 1\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815794@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260617T224500Z
+DTEND:20260618T014500Z
+SUMMARY:Blue Jays @ Red Sox (TVA / NESN / Sportsnet One)
+LOCATION:Fenway Park\, Boston\, Massachusetts
+DESCRIPTION:Regular Season\nTV: TVA / NESN / Sportsnet One\nVenue: Fenway P
+ ark\, Boston\, Massachusetts\nFinal: Blue Jays 3\, Red Sox 0\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815806@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260618T173500Z
+DTEND:20260618T203500Z
+SUMMARY:Blue Jays @ Red Sox (Sportsnet / NESN)
+LOCATION:Fenway Park\, Boston\, Massachusetts
+DESCRIPTION:Regular Season\nTV: Sportsnet / NESN\nVenue: Fenway Park\, Bost
+ on\, Massachusetts\nFinal: Blue Jays 4\, Red Sox 3\nUnofficial calendar\; 
+ not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815820@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260619T182000Z
+DTEND:20260619T212000Z
+SUMMARY:Blue Jays @ Cubs (Marquee Sports Net / Sportsnet)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Sportsnet\nVenue: Wrig
+ ley Field\, Chicago\, Illinois\nFinal: Blue Jays 2\, Cubs 16\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815833@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260620T182000Z
+DTEND:20260620T212000Z
+SUMMARY:Blue Jays @ Cubs (Marquee Sports Net / Sportsnet / TVA)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Sportsnet / TVA\nVenue
+ : Wrigley Field\, Chicago\, Illinois\nFinal: Blue Jays 8\, Cubs 6\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815848@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260621T182000Z
+DTEND:20260621T212000Z
+SUMMARY:Postponed: Blue Jays @ Cubs (Marquee Sports Net / Sportsnet / TVA)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Rain - Makeup date Aug. 6\nTV: Marquee Sports Net / Sportsnet /
+  TVA\nVenue: Wrigley Field\, Chicago\, Illinois\nPostponed. This listing s
+ tays cancelled under the same id. The makeup\, when ESPN adds one\, is a s
+ eparate game.\nUnofficial calendar\; not affiliated with the MLB or ESPN. 
+ Times may change.
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815855@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260622T230700Z
+DTEND:20260623T020700Z
+SUMMARY:Astros @ Blue Jays (ESPN Unlimited)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Rogers Centre\, Toro
+ nto\, Ontario\nFinal: Astros 2\, Blue Jays 4\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815868@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260623T200700Z
+DTEND:20260623T230700Z
+SUMMARY:Astros @ Blue Jays (Space City Home Network / Sportsnet)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Space City Home Network / Sportsnet\nVenue:
+  Rogers Centre\, Toronto\, Ontario\nFinal: Astros 9\, Blue Jays 7\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815883@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260624T230700Z
+DTEND:20260625T020700Z
+SUMMARY:Astros @ Blue Jays (Space City Home Network / Sportsnet / TVA)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Space City Home Network / Sportsnet / TVA\n
+ Venue: Rogers Centre\, Toronto\, Ontario\nFinal: Astros 3\, Blue Jays 1\nU
+ nofficial calendar\; not affiliated with the MLB or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815903@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260625T230700Z
+DTEND:20260626T020700Z
+SUMMARY:Rangers @ Blue Jays (Rangers Sports Network / Sportsnet)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Sportsnet\nVenue: 
+ Rogers Centre\, Toronto\, Ontario\nFinal: Rangers 6\, Blue Jays 5\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815912@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260626T230700Z
+DTEND:20260627T020700Z
+SUMMARY:Rangers @ Blue Jays (CW33 / Sportsnet One)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: CW33 / Sportsnet One\nVenue: Rogers Centre\
+ , Toronto\, Ontario\nFinal: Rangers 5\, Blue Jays 4\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815927@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260627T190700Z
+DTEND:20260627T220700Z
+SUMMARY:Rangers @ Blue Jays (Rangers Sports Network / Sportsnet / TVA)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Sportsnet / TVA\nV
+ enue: Rogers Centre\, Toronto\, Ontario\nFinal: Rangers 7\, Blue Jays 4\nU
+ nofficial calendar\; not affiliated with the MLB or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815942@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260628T173700Z
+DTEND:20260628T203700Z
+SUMMARY:Rangers @ Blue Jays (Rangers Sports Network / Sportsnet / TVA)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Sportsnet / TVA\nV
+ enue: Rogers Centre\, Toronto\, Ontario\nFinal: Rangers 3\, Blue Jays 2\nU
+ nofficial calendar\; not affiliated with the MLB or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815953@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260629T230700Z
+DTEND:20260630T020700Z
+SUMMARY:Mets @ Blue Jays (SNY / Sportsnet / TVA)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: SNY / Sportsnet / TVA\nVenue: Rogers Centre
+ \, Toronto\, Ontario\nFinal: Mets 1\, Blue Jays 2\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815966@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260630T230700Z
+DTEND:20260701T020700Z
+SUMMARY:Mets @ Blue Jays (SNY / Sportsnet)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: SNY / Sportsnet\nVenue: Rogers Centre\, Tor
+ onto\, Ontario\nFinal: Mets 3\, Blue Jays 0\nUnofficial calendar\; not aff
+ iliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815981@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260701T190700Z
+DTEND:20260701T220700Z
+SUMMARY:Mets @ Blue Jays (ESPN Unlimited)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Rogers Centre\, Toro
+ nto\, Ontario\nFinal: Mets 3\, Blue Jays 9\nUnofficial calendar\; not affi
+ liated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816014@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260704T021000Z
+DTEND:20260704T051000Z
+SUMMARY:Blue Jays @ Mariners (Mariners.TV / Sportsnet / KING 5)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Mariners.TV / Sportsnet / KING 5\nVenue: T-
+ Mobile Park\, Seattle\, Washington\nFinal: Blue Jays 2\, Mariners 0\nUnoff
+ icial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816029@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260704T201000Z
+DTEND:20260704T231000Z
+SUMMARY:Blue Jays @ Mariners (Mariners.TV / Sportsnet / TVA)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Mariners.TV / Sportsnet / TVA\nVenue: T-Mob
+ ile Park\, Seattle\, Washington\nFinal: Blue Jays 0\, Mariners 11\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816044@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260705T210000Z
+DTEND:20260706T000000Z
+SUMMARY:Blue Jays @ Mariners (Peacock / NBCSN)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Peacock / NBCSN\nVenue: T-Mobile Park\, Sea
+ ttle\, Washington\nFinal: Blue Jays 0\, Mariners 4\nUnofficial calendar\; 
+ not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816052@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260707T014500Z
+DTEND:20260707T044500Z
+SUMMARY:Blue Jays @ Giants (NBC Sports BA / Sportsnet / TVA)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Sportsnet / TVA\nVenue: Ora
+ cle Park\, San Francisco\, California\nFinal: Blue Jays 1\, Giants 10\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816067@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260708T014500Z
+DTEND:20260708T044500Z
+SUMMARY:Blue Jays @ Giants (NBC Sports BA / Sportsnet / TVA)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Sportsnet / TVA\nVenue: Ora
+ cle Park\, San Francisco\, California\nFinal: Blue Jays 9\, Giants 3\nUnof
+ ficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816082@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260708T194500Z
+DTEND:20260708T224500Z
+SUMMARY:Blue Jays @ Giants (ESPN Unlimited)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Oracle Park\, San Fr
+ ancisco\, California\nFinal: Blue Jays 10\, Giants 0\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816110@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260711T014000Z
+DTEND:20260711T044000Z
+SUMMARY:Blue Jays @ Padres (Padres.TV / Sportsnet / TVA)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / Sportsnet / TVA\nVenue: Petco P
+ ark\, San Diego\, California\nFinal: Blue Jays 5\, Padres 3\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816125@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260712T004000Z
+DTEND:20260712T034000Z
+SUMMARY:Blue Jays @ Padres (Padres.TV / Sportsnet / TVA / KFMB 8.1 (CBS) / 
+ TV Azteca)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / Sportsnet / TVA / KFMB 8.1 (CBS
+ ) / TV Azteca\nVenue: Petco Park\, San Diego\, California\nFinal: Blue Jay
+ s 7\, Padres 8\nUnofficial calendar\; not affiliated with the MLB or ESPN.
+  Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816140@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260712T201000Z
+DTEND:20260712T231000Z
+SUMMARY:Blue Jays @ Padres (Padres.TV / Sportsnet / TVA)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / Sportsnet / TVA\nVenue: Petco P
+ ark\, San Diego\, California\nFinal: Blue Jays 4\, Padres 5\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816141@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260717T231500Z
+DTEND:20260718T021500Z
+SUMMARY:White Sox @ Blue Jays (Apple TV)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: Rogers Centre\, Toronto\, 
+ Ontario\nFinal: White Sox 12\, Blue Jays 4\nUnofficial calendar\; not affi
+ liated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816156@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260718T190700Z
+DTEND:20260718T220700Z
+SUMMARY:White Sox @ Blue Jays (CHSN / Sportsnet / TVA)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: CHSN / Sportsnet / TVA\nVenue: Rogers Centr
+ e\, Toronto\, Ontario\nFinal: White Sox 0\, Blue Jays 1\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816171@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260719T161500Z
+DTEND:20260719T191500Z
+SUMMARY:White Sox @ Blue Jays (Peacock)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Peacock\nVenue: Rogers Centre\, Toronto\, O
+ ntario\nFinal: White Sox 3\, Blue Jays 0\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816191@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260720T230700Z
+DTEND:20260721T020700Z
+SUMMARY:Rays @ Blue Jays (Rays.TV / Sportsnet / TVA)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Rays.TV / Sportsnet / TVA\nVenue: Rogers Ce
+ ntre\, Toronto\, Ontario\nFinal: Rays 7\, Blue Jays 1\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816206@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260721T230700Z
+DTEND:20260722T020700Z
+SUMMARY:Rays @ Blue Jays (Rays.TV / Sportsnet)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Rays.TV / Sportsnet\nVenue: Rogers Centre\,
+  Toronto\, Ontario\nFinal: Rays 12\, Blue Jays 2\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816221@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260722T230700Z
+DTEND:20260723T020700Z
+SUMMARY:Rays @ Blue Jays (Rays.TV / Sportsnet / TVA)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Rays.TV / Sportsnet / TVA\nVenue: Rogers Ce
+ ntre\, Toronto\, Ontario\nFinal: Rays 4\, Blue Jays 2\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816234@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260723T190700Z
+DTEND:20260723T220700Z
+SUMMARY:Rays @ Blue Jays (Rays.TV / Sportsnet / WMOR)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Rays.TV / Sportsnet / WMOR\nVenue: Rogers C
+ entre\, Toronto\, Ontario\nFinal: Rays 1\, Blue Jays 3\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816243@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260724T231500Z
+DTEND:20260725T021500Z
+SUMMARY:Blue Jays @ Red Sox (Apple TV)
+LOCATION:Fenway Park\, Boston\, Massachusetts
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: Fenway Park\, Boston\, Mas
+ sachusetts\nFinal: Blue Jays 4\, Red Sox 6\nUnofficial calendar\; not affi
+ liated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816258@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260725T201000Z
+DTEND:20260725T231000Z
+SUMMARY:Blue Jays @ Red Sox (Sportsnet / TVA / NESN)
+LOCATION:Fenway Park\, Boston\, Massachusetts
+DESCRIPTION:Regular Season\nTV: Sportsnet / TVA / NESN\nVenue: Fenway Park\
+ , Boston\, Massachusetts\nFinal: Blue Jays 6\, Red Sox 0\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816273@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260726T173500Z
+DTEND:20260726T203500Z
+SUMMARY:Blue Jays @ Red Sox (Sportsnet / TVA / NESN)
+LOCATION:Fenway Park\, Boston\, Massachusetts
+DESCRIPTION:Regular Season\nTV: Sportsnet / TVA / NESN\nVenue: Fenway Park\
+ , Boston\, Massachusetts\nFinal: Blue Jays 1\, Red Sox 6\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816285@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260727T224500Z
+DTEND:20260728T014500Z
+SUMMARY:Blue Jays @ Nationals (Nationals.TV / Sportsnet / TVA)
+LOCATION:Nationals Park\, Washington\, District of Columbia
+DESCRIPTION:Regular Season\nTV: Nationals.TV / Sportsnet / TVA\nVenue: Nati
+ onals Park\, Washington\, District of Columbia\nFinal: Blue Jays 3\, Natio
+ nals 2\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816298@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260728T224500Z
+DTEND:20260729T014500Z
+SUMMARY:Blue Jays @ Nationals (Nationals.TV / Sportsnet)
+LOCATION:Nationals Park\, Washington\, District of Columbia
+DESCRIPTION:Regular Season\nTV: Nationals.TV / Sportsnet\nVenue: Nationals 
+ Park\, Washington\, District of Columbia\nFinal: Blue Jays 6\, Nationals 8
+ \nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816313@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260729T170500Z
+DTEND:20260729T200500Z
+SUMMARY:Blue Jays @ Nationals (Nationals.TV / Sportsnet)
+LOCATION:Nationals Park\, Washington\, District of Columbia
+DESCRIPTION:Regular Season\nTV: Nationals.TV / Sportsnet\nVenue: Nationals 
+ Park\, Washington\, District of Columbia\nFinal: Blue Jays 5\, Nationals 2
+ \nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816337@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260731T230700Z
+DTEND:20260801T020700Z
+SUMMARY:Cardinals @ Blue Jays (Cardinals.TV / Sportsnet)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Cardinals.TV / Sportsnet\nVenue: Rogers Cen
+ tre\, Toronto\, Ontario\nFinal: Cardinals 1\, Blue Jays 3\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816352@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260801T190700Z
+DTEND:20260801T220700Z
+SUMMARY:Cardinals @ Blue Jays (Cardinals.TV / Sportsnet / TVA)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Cardinals.TV / Sportsnet / TVA\nVenue: Roge
+ rs Centre\, Toronto\, Ontario\nFinal: Cardinals 1\, Blue Jays 5\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816367@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260802T173700Z
+DTEND:20260802T203700Z
+SUMMARY:Cardinals @ Blue Jays (Cardinals.TV / Sportsnet)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Cardinals.TV / Sportsnet\nVenue: Rogers Cen
+ tre\, Toronto\, Ontario\nFinal: Cardinals 5\, Blue Jays 1\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816382@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260804T001000Z
+DTEND:20260804T031000Z
+SUMMARY:Blue Jays @ Astros (Space City Home Network / Space City Home (Alt.
+ ) / Sportsnet / TVA)
+LOCATION:Daikin Park\, Houston\, Texas
+DESCRIPTION:Regular Season\nTV: Space City Home Network / Space City Home (
+ Alt.) / Sportsnet / TVA\nVenue: Daikin Park\, Houston\, Texas\nFinal: Blue
+  Jays 3\, Astros 1\nUnofficial calendar\; not affiliated with the MLB or E
+ SPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816395@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260805T001000Z
+DTEND:20260805T031000Z
+SUMMARY:Blue Jays @ Astros (Space City Home Network / Space City Home (Alt.
+ ) / Sportsnet)
+LOCATION:Daikin Park\, Houston\, Texas
+DESCRIPTION:Regular Season\nTV: Space City Home Network / Space City Home (
+ Alt.) / Sportsnet\nVenue: Daikin Park\, Houston\, Texas\nFinal: Blue Jays 
+ 2\, Astros 7\nUnofficial calendar\; not affiliated with the MLB or ESPN. T
+ imes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816410@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260805T181000Z
+DTEND:20260805T211000Z
+SUMMARY:Blue Jays @ Astros (Space City Home Network / Space City Home (Alt.
+ ) / Sportsnet)
+LOCATION:Daikin Park\, Houston\, Texas
+DESCRIPTION:Regular Season\nTV: Space City Home Network / Space City Home (
+ Alt.) / Sportsnet\nVenue: Daikin Park\, Houston\, Texas\nFinal: Blue Jays 
+ 5\, Astros 4\nUnofficial calendar\; not affiliated with the MLB or ESPN. T
+ imes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401879389@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260806T182000Z
+DTEND:20260806T212000Z
+SUMMARY:Blue Jays @ Cubs (Marquee Sports Net / Sportsnet / TVA)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Makeup from June 21\nTV: Marquee Sports Net / Sportsnet / TVA\n
+ Venue: Wrigley Field\, Chicago\, Illinois\nFinal: Blue Jays 2\, Cubs 3\nUn
+ official calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816429@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260807T224000Z
+DTEND:20260808T014000Z
+SUMMARY:Blue Jays @ Phillies (NBC Sports Phil / Sportsnet)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / Sportsnet\nVenue: Citizen
+ s Bank Park\, Philadelphia\, Pennsylvania\nFinal: Blue Jays 5\, Phillies 4
+ \nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816444@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260808T220500Z
+DTEND:20260809T010500Z
+SUMMARY:Blue Jays @ Phillies (NBC Sports Phil / Sportsnet)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / Sportsnet\nVenue: Citizen
+ s Bank Park\, Philadelphia\, Pennsylvania\nFinal: Blue Jays 7\, Phillies 5
+ \nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816459@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260809T173500Z
+DTEND:20260809T203500Z
+SUMMARY:Blue Jays @ Phillies (NBC Sports Phil / Sportsnet)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / Sportsnet\nVenue: Citizen
+ s Bank Park\, Philadelphia\, Pennsylvania\nFinal: Blue Jays 6\, Phillies 7
+ \nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816469@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260810T230700Z
+DTEND:20260811T020700Z
+SUMMARY:Red Sox @ Blue Jays (Sportsnet / NESN)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Sportsnet / NESN\nVenue: Rogers Centre\, To
+ ronto\, Ontario\nFinal: Red Sox 1\, Blue Jays 2\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816479@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260811T230700Z
+DTEND:20260812T020700Z
+SUMMARY:Red Sox @ Blue Jays (Sportsnet / NESN)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Sportsnet / NESN\nVenue: Rogers Centre\, To
+ ronto\, Ontario\nFinal: Red Sox 3\, Blue Jays 5\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816494@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260812T230700Z
+DTEND:20260813T020700Z
+SUMMARY:Red Sox @ Blue Jays (Sportsnet / NESN)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Sportsnet / NESN\nVenue: Rogers Centre\, To
+ ronto\, Ontario\nFinal: Red Sox 4\, Blue Jays 6\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816509@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260813T190700Z
+DTEND:20260813T220700Z
+SUMMARY:Red Sox @ Blue Jays (ESPN Unlimited)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Rogers Centre\, Toro
+ nto\, Ontario\nFinal: Red Sox 7\, Blue Jays 0\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816522@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260814T231500Z
+DTEND:20260815T021500Z
+SUMMARY:Yankees @ Blue Jays (Apple TV)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: Rogers Centre\, Toronto\, 
+ Ontario\nFinal: Yankees 1\, Blue Jays 3\nUnofficial calendar\; not affilia
+ ted with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816537@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260815T190700Z
+DTEND:20260815T220700Z
+SUMMARY:Yankees @ Blue Jays (YES / Sportsnet / TVA)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: YES / Sportsnet / TVA\nVenue: Rogers Centre
+ \, Toronto\, Ontario\nFinal: Yankees 1\, Blue Jays 4\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816552@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260816T173700Z
+DTEND:20260816T203700Z
+SUMMARY:Yankees @ Blue Jays (YES / Sportsnet / TVA)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: YES / Sportsnet / TVA\nVenue: Rogers Centre
+ \, Toronto\, Ontario\nFinal: Yankees 4\, Blue Jays 3\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816578@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260818T224000Z
+DTEND:20260819T014000Z
+SUMMARY:Blue Jays @ Rays (Rays.TV / Sportsnet)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:Regular Season\nTV: Rays.TV / Sportsnet\nVenue: Tropicana Field
+ \, St. Petersburg\, Florida\nFinal: Blue Jays 10\, Rays 5\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816593@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260819T224000Z
+DTEND:20260820T014000Z
+SUMMARY:Blue Jays @ Rays (Rays.TV / Sportsnet / TVA)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:Regular Season\nTV: Rays.TV / Sportsnet / TVA\nVenue: Tropicana
+  Field\, St. Petersburg\, Florida\nFinal: Blue Jays 6\, Rays 7\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816604@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260820T171000Z
+DTEND:20260820T201000Z
+SUMMARY:Blue Jays @ Rays (Rays.TV / Sportsnet)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:Regular Season\nTV: Rays.TV / Sportsnet\nVenue: Tropicana Field
+ \, St. Petersburg\, Florida\nFinal: Blue Jays 5\, Rays 1\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816613@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260821T230500Z
+DTEND:20260822T020500Z
+SUMMARY:Blue Jays @ Yankees (YES / Sportsnet / TVA)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: YES / Sportsnet / TVA\nVenue: Yankee Stadiu
+ m\, Bronx\, New York\nFinal: Blue Jays 1\, Yankees 3\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816628@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260822T173500Z
+DTEND:20260822T203500Z
+SUMMARY:Blue Jays @ Yankees (ESPN Unlimited)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Yankee Stadium\, Bro
+ nx\, New York\nFinal: Blue Jays 4\, Yankees 3\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816643@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260823T173500Z
+DTEND:20260823T203500Z
+SUMMARY:Blue Jays @ Yankees (YES / Sportsnet / TVA)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: YES / Sportsnet / TVA\nVenue: Yankee Stadiu
+ m\, Bronx\, New York\nFinal: Blue Jays 3\, Yankees 8\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816668@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260825T230700Z
+DTEND:20260826T020700Z
+SUMMARY:Royals @ Blue Jays (Royals.TV / Sportsnet)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Royals.TV / Sportsnet\nVenue: Rogers Centre
+ \, Toronto\, Ontario\nFinal: Royals 5\, Blue Jays 3\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816683@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260826T230700Z
+DTEND:20260827T020700Z
+SUMMARY:Royals @ Blue Jays (Royals.TV / Sportsnet / TVA)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Royals.TV / Sportsnet / TVA\nVenue: Rogers 
+ Centre\, Toronto\, Ontario\nFinal: Royals 0\, Blue Jays 3\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816697@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260827T230700Z
+DTEND:20260828T020700Z
+SUMMARY:Royals @ Blue Jays (Royals.TV / Sportsnet)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Royals.TV / Sportsnet\nVenue: Rogers Centre
+ \, Toronto\, Ontario\nFinal: Royals 13\, Blue Jays 2\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816709@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260828T231500Z
+DTEND:20260829T021500Z
+SUMMARY:Mariners @ Blue Jays (Apple TV)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: Rogers Centre\, Toronto\, 
+ Ontario\nFinal: Mariners 1\, Blue Jays 8\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816724@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260829T190700Z
+DTEND:20260829T220700Z
+SUMMARY:Mariners @ Blue Jays (Mariners.TV / Sportsnet / TVA)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Mariners.TV / Sportsnet / TVA\nVenue: Roger
+ s Centre\, Toronto\, Ontario\nFinal: Mariners 3\, Blue Jays 4\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816739@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260830T173700Z
+DTEND:20260830T203700Z
+SUMMARY:Mariners @ Blue Jays (Mariners.TV / Sportsnet / TVA)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Mariners.TV / Sportsnet / TVA\nVenue: Roger
+ s Centre\, Toronto\, Ontario\nFinal: Mariners 0\, Blue Jays 7\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816763@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260901T224000Z
+DTEND:20260902T014000Z
+SUMMARY:Blue Jays @ Guardians (CLEGuardians.TV / Sportsnet)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Sportsnet\nVenue: Progres
+ sive Field\, Cleveland\, Ohio\nFinal: Blue Jays 1\, Guardians 6\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816778@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260902T224000Z
+DTEND:20260903T014000Z
+SUMMARY:Blue Jays @ Guardians (CLEGuardians.TV / Sportsnet / TVA)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Sportsnet / TVA\nVenue: P
+ rogressive Field\, Cleveland\, Ohio\nFinal: Blue Jays 11\, Guardians 0\nUn
+ official calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816790@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260903T171000Z
+DTEND:20260903T201000Z
+SUMMARY:Blue Jays @ Guardians (CLEGuardians.TV / Sportsnet)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Sportsnet\nVenue: Progres
+ sive Field\, Cleveland\, Ohio\nFinal: Blue Jays 6\, Guardians 3\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816807@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260905T001000Z
+DTEND:20260905T031000Z
+SUMMARY:Blue Jays @ Royals (Sportsnet / Royals.TV / KCTV5)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Sportsnet / Royals.TV / KCTV5\nVenue: Kauff
+ man Stadium\, Kansas City\, Missouri\nFinal: Blue Jays 9\, Royals 2\nUnoff
+ icial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816822@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260905T231000Z
+DTEND:20260906T021000Z
+SUMMARY:Blue Jays @ Royals (Royals.TV / Sportsnet / TVA)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / Sportsnet / TVA\nVenue: Kauffma
+ n Stadium\, Kansas City\, Missouri\nFinal: Blue Jays 4\, Royals 3\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816837@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260906T181000Z
+DTEND:20260906T211000Z
+SUMMARY:Blue Jays @ Royals (Royals.TV / Sportsnet / TVA)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / Sportsnet / TVA\nVenue: Kauffma
+ n Stadium\, Kansas City\, Missouri\nFinal: Blue Jays 1\, Royals 6\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816851@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260908T020500Z
+DTEND:20260908T050500Z
+SUMMARY:Blue Jays @ Athletics (NBC Sports CA / Sportsnet / TVA)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Sportsnet / TVA\nVenue: Sut
+ ter Health Park\, Sacramento\, California\nFinal: Blue Jays 5\, Athletics 
+ 6\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may ch
+ ange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816866@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260909T014000Z
+DTEND:20260909T044000Z
+SUMMARY:Blue Jays @ Athletics (NBC Sports CA / Sportsnet / TVA)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Sportsnet / TVA\nVenue: Sut
+ ter Health Park\, Sacramento\, California\nFinal: Blue Jays 4\, Athletics 
+ 2\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may ch
+ ange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816881@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260909T190500Z
+DTEND:20260909T220500Z
+SUMMARY:Blue Jays @ Athletics (NBC Sports CA / Sportsnet)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Sportsnet\nVenue: Sutter He
+ alth Park\, Sacramento\, California\nFinal: Blue Jays 0\, Athletics 2\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816889@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260911T230700Z
+DTEND:20260912T020700Z
+SUMMARY:Orioles @ Blue Jays (MASN / Sportsnet / TVA)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: MASN / Sportsnet / TVA\nVenue: Rogers Centr
+ e\, Toronto\, Ontario\nFinal: Orioles 7\, Blue Jays 4\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816904@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260912T190700Z
+DTEND:20260912T220700Z
+SUMMARY:Orioles @ Blue Jays (MASN / Sportsnet / TVA)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: MASN / Sportsnet / TVA\nVenue: Rogers Centr
+ e\, Toronto\, Ontario\nFinal: Orioles 3\, Blue Jays 7\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816919@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260913T173700Z
+DTEND:20260913T203700Z
+SUMMARY:Orioles @ Blue Jays (MASN / Sportsnet)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: MASN / Sportsnet\nVenue: Rogers Centre\, To
+ ronto\, Ontario\nFinal: Orioles 1\, Blue Jays 8\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816935@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260914T230700Z
+DTEND:20260915T020700Z
+SUMMARY:Tigers @ Blue Jays (Tigers.TV / Sportsnet / TVA)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Tigers.TV / Sportsnet / TVA\nVenue: Rogers 
+ Centre\, Toronto\, Ontario\nFinal: Tigers 6\, Blue Jays 5\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816946@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260915T230700Z
+DTEND:20260916T020700Z
+SUMMARY:Tigers @ Blue Jays (Tigers.TV / Sportsnet)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Tigers.TV / Sportsnet\nVenue: Rogers Centre
+ \, Toronto\, Ontario\nFinal: Tigers 10\, Blue Jays 1\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816961@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260916T190700Z
+DTEND:20260916T220700Z
+SUMMARY:Tigers @ Blue Jays (Tigers.TV / Sportsnet)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Tigers.TV / Sportsnet\nVenue: Rogers Centre
+ \, Toronto\, Ontario\nFinal: Tigers 1\, Blue Jays 5\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816990@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260919T000500Z
+DTEND:20260919T030500Z
+SUMMARY:Blue Jays @ Rangers (Rangers Sports Network / Sportsnet)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Sportsnet\nVenue: 
+ Globe Life Field\, Arlington\, Texas\nFinal: Blue Jays 1\, Rangers 7\nUnof
+ ficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817005@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260919T230500Z
+DTEND:20260920T020500Z
+SUMMARY:Blue Jays @ Rangers (Rangers Sports Network / Sportsnet / TVA)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Sportsnet / TVA\nV
+ enue: Globe Life Field\, Arlington\, Texas\nFinal: Blue Jays 2\, Rangers 6
+ \nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817020@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260920T183500Z
+DTEND:20260920T213500Z
+SUMMARY:Blue Jays @ Rangers (Rangers Sports Network / Sportsnet / TVA)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Sportsnet / TVA\nV
+ enue: Globe Life Field\, Arlington\, Texas\nFinal: Blue Jays 7\, Rangers 2
+ \nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817027@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260921T223500Z
+DTEND:20260922T013500Z
+SUMMARY:Blue Jays @ Orioles (ESPN Unlimited)
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Oriole Park at Camde
+ n Yards\, Baltimore\, Maryland\nFinal: Blue Jays 3\, Orioles 4\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817035@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260922T223500Z
+DTEND:20260923T013500Z
+SUMMARY:Postponed: Blue Jays @ Orioles (MASN / Sportsnet)
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+DESCRIPTION:Rain - Makeup date Sep 23\nTV: MASN / Sportsnet\nVenue: Oriole 
+ Park at Camden Yards\, Baltimore\, Maryland\nPostponed. This listing stays
+  cancelled under the same id. The makeup\, when ESPN adds one\, is a separ
+ ate game.\nUnofficial calendar\; not affiliated with the MLB or ESPN. Time
+ s may change.
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401923610@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260923T173500Z
+DTEND:20260923T203500Z
+SUMMARY:Blue Jays @ Orioles (Sportsnet / TVA / MASN)
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+DESCRIPTION:Doubleheader - Game 1 - Makeup from Sep 22\nTV: Sportsnet / TVA
+  / MASN\nVenue: Oriole Park at Camden Yards\, Baltimore\, Maryland\nFinal:
+  Blue Jays 2\, Orioles 4\nUnofficial calendar\; not affiliated with the ML
+ B or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817050@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260923T223500Z
+DTEND:20260924T013500Z
+SUMMARY:Blue Jays @ Orioles (MASN / Sportsnet / TVA)
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+DESCRIPTION:Doubleheader - Game 2\nTV: MASN / Sportsnet / TVA\nVenue: Oriol
+ e Park at Camden Yards\, Baltimore\, Maryland\nFinal: Blue Jays 2\, Oriole
+ s 4\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817075@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260925T230700Z
+DTEND:20260926T020700Z
+SUMMARY:Reds @ Blue Jays (Reds.TV / Sportsnet / TVA)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Reds.TV / Sportsnet / TVA\nVenue: Rogers Ce
+ ntre\, Toronto\, Ontario\nFinal: Reds 5\, Blue Jays 6\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817090@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260926T190700Z
+DTEND:20260926T220700Z
+SUMMARY:Reds @ Blue Jays (Reds.TV / Sportsnet / TVA)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Reds.TV / Sportsnet / TVA\nVenue: Rogers Ce
+ ntre\, Toronto\, Ontario\nFinal: Reds 5\, Blue Jays 1\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817105@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260927T190700Z
+DTEND:20260927T220700Z
+SUMMARY:Reds @ Blue Jays (Reds.TV / Sportsnet / TVA)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Reds.TV / Sportsnet / TVA\nVenue: Rogers Ce
+ ntre\, Toronto\, Ontario\nFinal: Reds 1\, Blue Jays 5\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

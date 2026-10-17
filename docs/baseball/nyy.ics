@@ -1,0 +1,2230 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jaxzn//MLB Calendars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:New York Yankees
+X-WR-CALDESC:New York Yankees MLB schedule (unofficial\, auto-updated)
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:espn-401814702@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260326T000500Z
+DTEND:20260326T030500Z
+SUMMARY:Yankees @ Giants (Netflix)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: Netflix\nVenue: Oracle Park\, San Francisco
+ \, California\nFinal: Yankees 7\, Giants 0\nUnofficial calendar\; not affi
+ liated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814721@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260327T203500Z
+DTEND:20260327T233500Z
+SUMMARY:Yankees @ Giants (ESPN Unlimited)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Oracle Park\, San Fr
+ ancisco\, California\nFinal: Yankees 3\, Giants 0\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814734@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260328T231500Z
+DTEND:20260329T021500Z
+SUMMARY:Yankees @ Giants (Fox)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: Fox\nVenue: Oracle Park\, San Francisco\, C
+ alifornia\nFinal: Yankees 3\, Giants 1\nUnofficial calendar\; not affiliat
+ ed with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814748@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260331T014000Z
+DTEND:20260331T044000Z
+SUMMARY:Yankees @ Mariners (Mariners.TV / YES)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Mariners.TV / YES\nVenue: T-Mobile Park\, S
+ eattle\, Washington\nFinal: Yankees 1\, Mariners 2\nUnofficial calendar\; 
+ not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814762@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260401T014000Z
+DTEND:20260401T044000Z
+SUMMARY:Yankees @ Mariners (TBS)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: TBS\nVenue: T-Mobile Park\, Seattle\, Washi
+ ngton\nFinal: Yankees 5\, Mariners 0\nUnofficial calendar\; not affiliated
+  with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814777@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260401T201000Z
+DTEND:20260401T231000Z
+SUMMARY:Yankees @ Mariners (Mariners.TV / YES)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Mariners.TV / YES\nVenue: T-Mobile Park\, S
+ eattle\, Washington\nFinal: Yankees 5\, Mariners 3\nUnofficial calendar\; 
+ not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814786@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260403T173500Z
+DTEND:20260403T203500Z
+SUMMARY:Marlins @ Yankees (Marlins.TV / YES / WFOR)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: Marlins.TV / YES / WFOR\nVenue: Yankee Stad
+ ium\, Bronx\, New York\nFinal: Marlins 2\, Yankees 8\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814800@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260404T230500Z
+DTEND:20260405T020500Z
+SUMMARY:Marlins @ Yankees (Marlins.TV / YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: Marlins.TV / YES\nVenue: Yankee Stadium\, B
+ ronx\, New York\nFinal: Marlins 7\, Yankees 9\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814815@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260405T173500Z
+DTEND:20260405T203500Z
+SUMMARY:Marlins @ Yankees (Marlins.TV / YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: Marlins.TV / YES\nVenue: Yankee Stadium\, B
+ ronx\, New York\nFinal: Marlins 7\, Yankees 6\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814841@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260407T230500Z
+DTEND:20260408T020500Z
+SUMMARY:Athletics @ Yankees (NBC Sports CA / YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / YES\nVenue: Yankee Stadium\
+ , Bronx\, New York\nFinal: Athletics 3\, Yankees 5\nUnofficial calendar\; 
+ not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814856@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260408T230500Z
+DTEND:20260409T020500Z
+SUMMARY:Athletics @ Yankees (Prime Video)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: Prime Video\nVenue: Yankee Stadium\, Bronx\
+ , New York\nFinal: Athletics 3\, Yankees 2\nUnofficial calendar\; not affi
+ liated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814871@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260409T173500Z
+DTEND:20260409T203500Z
+SUMMARY:Athletics @ Yankees (NBC Sports CA / YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / YES\nVenue: Yankee Stadium\
+ , Bronx\, New York\nFinal: Athletics 1\, Yankees 0\nUnofficial calendar\; 
+ not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814882@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260410T231000Z
+DTEND:20260411T021000Z
+SUMMARY:Yankees @ Rays (Rays.TV / YES)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:Regular Season\nTV: Rays.TV / YES\nVenue: Tropicana Field\, St.
+  Petersburg\, Florida\nFinal: Yankees 3\, Rays 5\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814897@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260411T221000Z
+DTEND:20260412T011000Z
+SUMMARY:Yankees @ Rays (Rays.TV / YES)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:Regular Season\nTV: Rays.TV / YES\nVenue: Tropicana Field\, St.
+  Petersburg\, Florida\nFinal: Yankees 4\, Rays 5\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814912@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260412T174000Z
+DTEND:20260412T204000Z
+SUMMARY:Yankees @ Rays (ESPN Unlimited)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Tropicana Field\, St
+ . Petersburg\, Florida\nFinal: Yankees 4\, Rays 5\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814921@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260413T230500Z
+DTEND:20260414T020500Z
+SUMMARY:Angels @ Yankees (FanDuel SN West / YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: FanDuel SN West / YES\nVenue: Yankee Stadiu
+ m\, Bronx\, New York\nFinal: Angels 10\, Yankees 11\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814931@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260414T230500Z
+DTEND:20260415T020500Z
+SUMMARY:Angels @ Yankees (FanDuel SN West / YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: FanDuel SN West / YES\nVenue: Yankee Stadiu
+ m\, Bronx\, New York\nFinal: Angels 7\, Yankees 1\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814946@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260415T230500Z
+DTEND:20260416T020500Z
+SUMMARY:Angels @ Yankees (Prime Video)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: Prime Video\nVenue: Yankee Stadium\, Bronx\
+ , New York\nFinal: Angels 4\, Yankees 5\nUnofficial calendar\; not affilia
+ ted with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814961@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260416T173500Z
+DTEND:20260416T203500Z
+SUMMARY:Angels @ Yankees (FanDuel SN West / YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: FanDuel SN West / YES\nVenue: Yankee Stadiu
+ m\, Bronx\, New York\nFinal: Angels 11\, Yankees 4\nUnofficial calendar\; 
+ not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814974@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260417T230500Z
+DTEND:20260418T020500Z
+SUMMARY:Royals @ Yankees (Royals.TV / YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: Royals.TV / YES\nVenue: Yankee Stadium\, Br
+ onx\, New York\nFinal: Royals 2\, Yankees 4\nUnofficial calendar\; not aff
+ iliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814989@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260418T173500Z
+DTEND:20260418T203500Z
+SUMMARY:Royals @ Yankees (Royals.TV / YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: Royals.TV / YES\nVenue: Yankee Stadium\, Br
+ onx\, New York\nFinal: Royals 4\, Yankees 13\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815004@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260419T173500Z
+DTEND:20260419T203500Z
+SUMMARY:Royals @ Yankees (Royals.TV / YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: Royals.TV / YES\nVenue: Yankee Stadium\, Br
+ onx\, New York\nFinal: Royals 0\, Yankees 7\nUnofficial calendar\; not aff
+ iliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815031@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260421T224500Z
+DTEND:20260422T014500Z
+SUMMARY:Yankees @ Red Sox (TBS)
+LOCATION:Fenway Park\, Boston\, Massachusetts
+DESCRIPTION:Regular Season\nTV: TBS\nVenue: Fenway Park\, Boston\, Massachu
+ setts\nFinal: Yankees 4\, Red Sox 0\nUnofficial calendar\; not affiliated 
+ with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815046@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260422T224500Z
+DTEND:20260423T014500Z
+SUMMARY:Yankees @ Red Sox (MLB Network / Prime Video)
+LOCATION:Fenway Park\, Boston\, Massachusetts
+DESCRIPTION:Regular Season\nTV: MLB Network / Prime Video\nVenue: Fenway Pa
+ rk\, Boston\, Massachusetts\nFinal: Yankees 4\, Red Sox 1\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815059@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260423T221000Z
+DTEND:20260424T011000Z
+SUMMARY:Yankees @ Red Sox (Fox / FS1)
+LOCATION:Fenway Park\, Boston\, Massachusetts
+DESCRIPTION:Regular Season\nTV: Fox / FS1\nVenue: Fenway Park\, Boston\, Ma
+ ssachusetts\nFinal: Yankees 4\, Red Sox 2\nUnofficial calendar\; not affil
+ iated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815073@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260425T001000Z
+DTEND:20260425T031000Z
+SUMMARY:Yankees @ Astros (Space City Home Network / YES)
+LOCATION:Daikin Park\, Houston\, Texas
+DESCRIPTION:Regular Season\nTV: Space City Home Network / YES\nVenue: Daiki
+ n Park\, Houston\, Texas\nFinal: Yankees 12\, Astros 4\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815088@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260425T231000Z
+DTEND:20260426T021000Z
+SUMMARY:Yankees @ Astros (Space City Home Network / YES)
+LOCATION:Daikin Park\, Houston\, Texas
+DESCRIPTION:Regular Season\nTV: Space City Home Network / YES\nVenue: Daiki
+ n Park\, Houston\, Texas\nFinal: Yankees 8\, Astros 3\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815103@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260426T181000Z
+DTEND:20260426T211000Z
+SUMMARY:Yankees @ Astros (Space City Home Network / YES)
+LOCATION:Daikin Park\, Houston\, Texas
+DESCRIPTION:Regular Season\nTV: Space City Home Network / YES\nVenue: Daiki
+ n Park\, Houston\, Texas\nFinal: Yankees 4\, Astros 7\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815114@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260428T000500Z
+DTEND:20260428T030500Z
+SUMMARY:Yankees @ Rangers (Rangers Sports Network / YES)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / YES\nVenue: Globe 
+ Life Field\, Arlington\, Texas\nFinal: Yankees 4\, Rangers 2\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815128@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260429T000500Z
+DTEND:20260429T030500Z
+SUMMARY:Yankees @ Rangers (Prime Video)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Prime Video\nVenue: Globe Life Field\, Arli
+ ngton\, Texas\nFinal: Yankees 3\, Rangers 2\nUnofficial calendar\; not aff
+ iliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815143@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260429T183500Z
+DTEND:20260429T213500Z
+SUMMARY:Yankees @ Rangers (Rangers Sports Network / YES)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / YES\nVenue: Globe 
+ Life Field\, Arlington\, Texas\nFinal: Yankees 0\, Rangers 3\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815157@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260501T230500Z
+DTEND:20260502T020500Z
+SUMMARY:Orioles @ Yankees (ESPN Unlimited)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Yankee Stadium\, Bro
+ nx\, New York\nFinal: Orioles 2\, Yankees 7\nUnofficial calendar\; not aff
+ iliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815172@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260502T173500Z
+DTEND:20260502T203500Z
+SUMMARY:Orioles @ Yankees (MASN / YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: MASN / YES\nVenue: Yankee Stadium\, Bronx\,
+  New York\nFinal: Orioles 4\, Yankees 9\nUnofficial calendar\; not affilia
+ ted with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815187@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260503T173500Z
+DTEND:20260503T203500Z
+SUMMARY:Orioles @ Yankees (MASN / YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: MASN / YES\nVenue: Yankee Stadium\, Bronx\,
+  New York\nFinal: Orioles 3\, Yankees 11\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815202@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260504T230500Z
+DTEND:20260505T020500Z
+SUMMARY:Orioles @ Yankees (MASN / YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: MASN / YES\nVenue: Yankee Stadium\, Bronx\,
+  New York\nFinal: Orioles 1\, Yankees 12\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815218@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260505T230500Z
+DTEND:20260506T020500Z
+SUMMARY:Rangers @ Yankees (Rangers Sports Network / YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / YES\nVenue: Yankee
+  Stadium\, Bronx\, New York\nFinal: Rangers 4\, Yankees 7\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815233@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260506T230500Z
+DTEND:20260507T020500Z
+SUMMARY:Rangers @ Yankees (MLB Network / Prime Video)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: MLB Network / Prime Video\nVenue: Yankee St
+ adium\, Bronx\, New York\nFinal: Rangers 6\, Yankees 1\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815248@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260507T163500Z
+DTEND:20260507T193500Z
+SUMMARY:Rangers @ Yankees (ESPN Unlimited)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Yankee Stadium\, Bro
+ nx\, New York\nFinal: Rangers 2\, Yankees 9\nUnofficial calendar\; not aff
+ iliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815262@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260508T234000Z
+DTEND:20260509T024000Z
+SUMMARY:Yankees @ Brewers (Brewers.TV / YES)
+LOCATION:American Family Field\, Milwaukee\, Wisconsin
+DESCRIPTION:Regular Season\nTV: Brewers.TV / YES\nVenue: American Family Fi
+ eld\, Milwaukee\, Wisconsin\nFinal: Yankees 0\, Brewers 6\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815277@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260509T231000Z
+DTEND:20260510T021000Z
+SUMMARY:Yankees @ Brewers (Brewers.TV / YES)
+LOCATION:American Family Field\, Milwaukee\, Wisconsin
+DESCRIPTION:Regular Season\nTV: Brewers.TV / YES\nVenue: American Family Fi
+ eld\, Milwaukee\, Wisconsin\nFinal: Yankees 3\, Brewers 4\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815292@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260510T181000Z
+DTEND:20260510T211000Z
+SUMMARY:Yankees @ Brewers (Brewers.TV / YES)
+LOCATION:American Family Field\, Milwaukee\, Wisconsin
+DESCRIPTION:Regular Season\nTV: Brewers.TV / YES\nVenue: American Family Fi
+ eld\, Milwaukee\, Wisconsin\nFinal: Yankees 3\, Brewers 4\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815299@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260511T223500Z
+DTEND:20260512T013500Z
+SUMMARY:Yankees @ Orioles (MASN / YES)
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+DESCRIPTION:Regular Season\nTV: MASN / YES\nVenue: Oriole Park at Camden Ya
+ rds\, Baltimore\, Maryland\nFinal: Yankees 2\, Orioles 3\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815308@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260512T223500Z
+DTEND:20260513T013500Z
+SUMMARY:Yankees @ Orioles (MASN / YES)
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+DESCRIPTION:Regular Season\nTV: MASN / YES\nVenue: Oriole Park at Camden Ya
+ rds\, Baltimore\, Maryland\nFinal: Yankees 6\, Orioles 2\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815323@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260513T170500Z
+DTEND:20260513T200500Z
+SUMMARY:Yankees @ Orioles (ESPN Unlimited / Prime Video)
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited / Prime Video\nVenue: Oriole
+  Park at Camden Yards\, Baltimore\, Maryland\nFinal: Yankees 0\, Orioles 7
+ \nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815349@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260515T231500Z
+DTEND:20260516T021500Z
+SUMMARY:Yankees @ Mets (Apple TV)
+LOCATION:Citi Field\, Queens\, New York
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: Citi Field\, Queens\, New 
+ York\nFinal: Yankees 5\, Mets 2\nUnofficial calendar\; not affiliated with
+  the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815364@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260516T231500Z
+DTEND:20260517T021500Z
+SUMMARY:Yankees @ Mets (Fox)
+LOCATION:Citi Field\, Queens\, New York
+DESCRIPTION:Regular Season\nTV: Fox\nVenue: Citi Field\, Queens\, New York\
+ nFinal: Yankees 3\, Mets 6\nUnofficial calendar\; not affiliated with the 
+ MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815379@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260517T174000Z
+DTEND:20260517T204000Z
+SUMMARY:Yankees @ Mets (YES / SNY)
+LOCATION:Citi Field\, Queens\, New York
+DESCRIPTION:Regular Season\nTV: YES / SNY\nVenue: Citi Field\, Queens\, New
+  York\nFinal: Yankees 6\, Mets 7\nUnofficial calendar\; not affiliated wit
+ h the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815395@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260518T230500Z
+DTEND:20260519T020500Z
+SUMMARY:Blue Jays @ Yankees (YES / Sportsnet One)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: YES / Sportsnet One\nVenue: Yankee Stadium\
+ , Bronx\, New York\nFinal: Blue Jays 6\, Yankees 7\nUnofficial calendar\; 
+ not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815409@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260519T230500Z
+DTEND:20260520T020500Z
+SUMMARY:Blue Jays @ Yankees (TBS)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: TBS\nVenue: Yankee Stadium\, Bronx\, New Yo
+ rk\nFinal: Blue Jays 4\, Yankees 5\nUnofficial calendar\; not affiliated w
+ ith the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815424@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260520T230500Z
+DTEND:20260521T020500Z
+SUMMARY:Blue Jays @ Yankees (MLB Network / Prime Video)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: MLB Network / Prime Video\nVenue: Yankee St
+ adium\, Bronx\, New York\nFinal: Blue Jays 2\, Yankees 1\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815437@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260521T230500Z
+DTEND:20260522T020500Z
+SUMMARY:Blue Jays @ Yankees (MLB Network)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: MLB Network\nVenue: Yankee Stadium\, Bronx\
+ , New York\nFinal: Blue Jays 2\, Yankees 0\nUnofficial calendar\; not affi
+ liated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815447@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260522T230500Z
+DTEND:20260523T020500Z
+SUMMARY:Rays @ Yankees (Rays.TV / YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: Rays.TV / YES\nVenue: Yankee Stadium\, Bron
+ x\, New York\nFinal: Rays 4\, Yankees 2\nUnofficial calendar\; not affilia
+ ted with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815462@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260523T173500Z
+DTEND:20260523T203500Z
+SUMMARY:Postponed: Rays @ Yankees (Rays.TV / YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Rain - Makeup date Sept 22\nTV: Rays.TV / YES\nVenue: Yankee St
+ adium\, Bronx\, New York\nPostponed. This listing stays cancelled under th
+ e same id. The makeup\, when ESPN adds one\, is a separate game.\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815477@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260524T173500Z
+DTEND:20260524T203500Z
+SUMMARY:Rays @ Yankees (Rays.TV / YES / WMOR)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: Rays.TV / YES / WMOR\nVenue: Yankee Stadium
+ \, Bronx\, New York\nFinal: Rays 0\, Yankees 2\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815493@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260525T194000Z
+DTEND:20260525T224000Z
+SUMMARY:Yankees @ Royals (ESPN)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Kauffman Stadium\, Kansas City
+ \, Missouri\nFinal: Yankees 4\, Royals 3\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815508@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260526T234000Z
+DTEND:20260527T024000Z
+SUMMARY:Yankees @ Royals (Royals.TV / YES)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / YES\nVenue: Kauffman Stadium\, 
+ Kansas City\, Missouri\nFinal: Yankees 15\, Royals 1\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815523@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260527T234000Z
+DTEND:20260528T024000Z
+SUMMARY:Yankees @ Royals (Prime Video)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Prime Video\nVenue: Kauffman Stadium\, Kans
+ as City\, Missouri\nFinal: Yankees 7\, Royals 0\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815548@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260530T014000Z
+DTEND:20260530T044000Z
+SUMMARY:Yankees @ Athletics (NBC Sports CA / YES)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / YES\nVenue: Sutter Health P
+ ark\, Sacramento\, California\nFinal: Yankees 8\, Athletics 2\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815563@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260531T020500Z
+DTEND:20260531T050500Z
+SUMMARY:Yankees @ Athletics (NBC Sports CA / YES)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / YES\nVenue: Sutter Health P
+ ark\, Sacramento\, California\nFinal: Yankees 4\, Athletics 6\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815578@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260531T200500Z
+DTEND:20260531T230500Z
+SUMMARY:Yankees @ Athletics (NBC Sports CA / YES)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / YES\nVenue: Sutter Health P
+ ark\, Sacramento\, California\nFinal: Yankees 13\, Athletics 8\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815590@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260602T230500Z
+DTEND:20260603T020500Z
+SUMMARY:Guardians @ Yankees (CLEGuardians.TV / YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / YES\nVenue: Yankee Stadiu
+ m\, Bronx\, New York\nFinal: Guardians 9\, Yankees 4\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815605@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260603T230500Z
+DTEND:20260604T020500Z
+SUMMARY:Guardians @ Yankees (Prime Video)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: Prime Video\nVenue: Yankee Stadium\, Bronx\
+ , New York\nFinal: Guardians 5\, Yankees 4\nUnofficial calendar\; not affi
+ liated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815620@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260604T173500Z
+DTEND:20260604T203500Z
+SUMMARY:Guardians @ Yankees (CLEGuardians.TV / YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / YES\nVenue: Yankee Stadiu
+ m\, Bronx\, New York\nFinal: Guardians 1\, Yankees 2\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815629@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260605T230500Z
+DTEND:20260606T020500Z
+SUMMARY:Red Sox @ Yankees (YES / NESN)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: YES / NESN\nVenue: Yankee Stadium\, Bronx\,
+  New York\nFinal: Red Sox 5\, Yankees 3\nUnofficial calendar\; not affilia
+ ted with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815644@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260606T233500Z
+DTEND:20260607T023500Z
+SUMMARY:Postponed: Red Sox @ Yankees (Fox)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Rain - Makeup date Aug 29\nTV: Fox\nVenue: Yankee Stadium\, Bro
+ nx\, New York\nPostponed. This listing stays cancelled under the same id. 
+ The makeup\, when ESPN adds one\, is a separate game.\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815659@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260607T173500Z
+DTEND:20260607T203500Z
+SUMMARY:Red Sox @ Yankees (ESPN Unlimited)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Yankee Stadium\, Bro
+ nx\, New York\nFinal: Red Sox 1\, Yankees 6\nUnofficial calendar\; not aff
+ iliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815674@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260608T224000Z
+DTEND:20260609T014000Z
+SUMMARY:Yankees @ Guardians (FS1)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: FS1\nVenue: Progressive Field\, Cleveland\,
+  Ohio\nFinal: Yankees 7\, Guardians 5\nUnofficial calendar\; not affiliate
+ d with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815685@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260609T224000Z
+DTEND:20260610T014000Z
+SUMMARY:Yankees @ Guardians (TBS / Prime Video)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: TBS / Prime Video\nVenue: Progressive Field
+ \, Cleveland\, Ohio\nFinal: Yankees 3\, Guardians 2\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815700@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260610T171000Z
+DTEND:20260610T201000Z
+SUMMARY:Yankees @ Guardians (CLEGuardians.TV / YES)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / YES\nVenue: Progressive F
+ ield\, Cleveland\, Ohio\nFinal: Yankees 8\, Guardians 4\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815723@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260612T233700Z
+DTEND:20260613T023700Z
+SUMMARY:Yankees @ Blue Jays (YES / Sportsnet One / TVA / Sportsnet)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: YES / Sportsnet One / TVA / Sportsnet\nVenu
+ e: Rogers Centre\, Toronto\, Ontario\nFinal: Yankees 5\, Blue Jays 8\nUnof
+ ficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815738@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260613T190700Z
+DTEND:20260613T220700Z
+SUMMARY:Yankees @ Blue Jays (YES / Sportsnet / TVA)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: YES / Sportsnet / TVA\nVenue: Rogers Centre
+ \, Toronto\, Ontario\nFinal: Yankees 3\, Blue Jays 1\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815753@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260614T173700Z
+DTEND:20260614T203700Z
+SUMMARY:Yankees @ Blue Jays (YES / TVA / Sportsnet)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: YES / TVA / Sportsnet\nVenue: Rogers Centre
+ \, Toronto\, Ontario\nFinal: Yankees 8\, Blue Jays 3\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815774@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260616T230500Z
+DTEND:20260617T020500Z
+SUMMARY:White Sox @ Yankees (CHSN / YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: CHSN / YES\nVenue: Yankee Stadium\, Bronx\,
+  New York\nFinal: White Sox 2\, Yankees 12\nUnofficial calendar\; not affi
+ liated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815789@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260617T230500Z
+DTEND:20260618T020500Z
+SUMMARY:White Sox @ Yankees (Prime Video)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: Prime Video\nVenue: Yankee Stadium\, Bronx\
+ , New York\nFinal: White Sox 5\, Yankees 10\nUnofficial calendar\; not aff
+ iliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815803@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260618T230500Z
+DTEND:20260619T020500Z
+SUMMARY:White Sox @ Yankees (CHSN / YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: CHSN / YES\nVenue: Yankee Stadium\, Bronx\,
+  New York\nFinal: White Sox 5\, Yankees 1\nUnofficial calendar\; not affil
+ iated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815813@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260619T230500Z
+DTEND:20260620T020500Z
+SUMMARY:Reds @ Yankees (Reds.TV / YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: Reds.TV / YES\nVenue: Yankee Stadium\, Bron
+ x\, New York\nFinal: Reds 0\, Yankees 5\nUnofficial calendar\; not affilia
+ ted with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815826@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260620T173500Z
+DTEND:20260620T203500Z
+SUMMARY:Reds @ Yankees (Reds.TV / YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: Reds.TV / YES\nVenue: Yankee Stadium\, Bron
+ x\, New York\nFinal: Reds 10\, Yankees 2\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815840@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260621T173500Z
+DTEND:20260621T203500Z
+SUMMARY:Reds @ Yankees (Reds.TV / YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: Reds.TV / YES\nVenue: Yankee Stadium\, Bron
+ x\, New York\nFinal: Reds 4\, Yankees 1\nUnofficial calendar\; not affilia
+ ted with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815858@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260622T221000Z
+DTEND:20260623T011000Z
+SUMMARY:Yankees @ Tigers (Tigers.TV / YES)
+LOCATION:Comerica Park\, Detroit\, Michigan
+DESCRIPTION:Regular Season\nTV: Tigers.TV / YES\nVenue: Comerica Park\, Det
+ roit\, Michigan\nFinal: Yankees 3\, Tigers 5\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815871@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260623T224000Z
+DTEND:20260624T014000Z
+SUMMARY:Yankees @ Tigers (Tigers.TV / YES)
+LOCATION:Comerica Park\, Detroit\, Michigan
+DESCRIPTION:Regular Season\nTV: Tigers.TV / YES\nVenue: Comerica Park\, Det
+ roit\, Michigan\nFinal: Yankees 4\, Tigers 3\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815886@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260624T224000Z
+DTEND:20260625T014000Z
+SUMMARY:Yankees @ Tigers (Prime Video)
+LOCATION:Comerica Park\, Detroit\, Michigan
+DESCRIPTION:Regular Season\nTV: Prime Video\nVenue: Comerica Park\, Detroit
+ \, Michigan\nFinal: Yankees 4\, Tigers 2\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815900@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260625T231000Z
+DTEND:20260626T021000Z
+SUMMARY:Yankees @ Red Sox (MLB Network)
+LOCATION:Fenway Park\, Boston\, Massachusetts
+DESCRIPTION:Regular Season\nTV: MLB Network\nVenue: Fenway Park\, Boston\, 
+ Massachusetts\nFinal: Yankees 3\, Red Sox 6\nUnofficial calendar\; not aff
+ iliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815909@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260626T231000Z
+DTEND:20260627T021000Z
+SUMMARY:Yankees @ Red Sox (ESPN Unlimited)
+LOCATION:Fenway Park\, Boston\, Massachusetts
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Fenway Park\, Boston
+ \, Massachusetts\nFinal: Yankees 1\, Red Sox 6\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815924@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260627T170000Z
+DTEND:20260627T200000Z
+SUMMARY:Yankees @ Red Sox (ABC)
+LOCATION:Fenway Park\, Boston\, Massachusetts
+DESCRIPTION:Regular Season\nTV: ABC\nVenue: Fenway Park\, Boston\, Massachu
+ setts\nFinal: Yankees 1\, Red Sox 4\nUnofficial calendar\; not affiliated 
+ with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815939@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260628T232000Z
+DTEND:20260629T022000Z
+SUMMARY:Yankees @ Red Sox (NBC / Peacock)
+LOCATION:Fenway Park\, Boston\, Massachusetts
+DESCRIPTION:Regular Season\nTV: NBC / Peacock\nVenue: Fenway Park\, Boston\
+ , Massachusetts\nFinal: Yankees 4\, Red Sox 5\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815952@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260629T230500Z
+DTEND:20260630T020500Z
+SUMMARY:Tigers @ Yankees (Tigers.TV / YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: Tigers.TV / YES\nVenue: Yankee Stadium\, Br
+ onx\, New York\nFinal: Tigers 7\, Yankees 3\nUnofficial calendar\; not aff
+ iliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815965@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260630T230500Z
+DTEND:20260701T020500Z
+SUMMARY:Tigers @ Yankees (TBS / Prime Video)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: TBS / Prime Video\nVenue: Yankee Stadium\, 
+ Bronx\, New York\nFinal: Tigers 9\, Yankees 3\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815980@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260701T173500Z
+DTEND:20260701T203500Z
+SUMMARY:Tigers @ Yankees (Tigers.TV / YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: Tigers.TV / YES\nVenue: Yankee Stadium\, Br
+ onx\, New York\nFinal: Tigers 6\, Yankees 2\nUnofficial calendar\; not aff
+ iliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816004@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260703T230500Z
+DTEND:20260704T020500Z
+SUMMARY:Twins @ Yankees (Twins.TV / YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: Twins.TV / YES\nVenue: Yankee Stadium\, Bro
+ nx\, New York\nFinal: Twins 2\, Yankees 5\nUnofficial calendar\; not affil
+ iated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816017@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260704T173500Z
+DTEND:20260704T203500Z
+SUMMARY:Twins @ Yankees (ESPN Unlimited)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Yankee Stadium\, Bro
+ nx\, New York\nFinal: Twins 11\, Yankees 4\nUnofficial calendar\; not affi
+ liated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816032@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260705T173500Z
+DTEND:20260705T203500Z
+SUMMARY:Twins @ Yankees (Peacock / NBCSN)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: Peacock / NBCSN\nVenue: Yankee Stadium\, Br
+ onx\, New York\nFinal: Twins 6\, Yankees 1\nUnofficial calendar\; not affi
+ liated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816046@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260706T224000Z
+DTEND:20260707T014000Z
+SUMMARY:Yankees @ Rays (Rays.TV / YES)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:Regular Season\nTV: Rays.TV / YES\nVenue: Tropicana Field\, St.
+  Petersburg\, Florida\nFinal: Yankees 5\, Rays 1\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816058@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260707T224000Z
+DTEND:20260708T014000Z
+SUMMARY:Yankees @ Rays (TBS)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:Regular Season\nTV: TBS\nVenue: Tropicana Field\, St. Petersbur
+ g\, Florida\nFinal: Yankees 4\, Rays 6\nUnofficial calendar\; not affiliat
+ ed with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816073@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260708T224000Z
+DTEND:20260709T014000Z
+SUMMARY:Yankees @ Rays (Prime Video)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:Regular Season\nTV: Prime Video\nVenue: Tropicana Field\, St. P
+ etersburg\, Florida\nFinal: Yankees 0\, Rays 3\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816087@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260709T171000Z
+DTEND:20260709T201000Z
+SUMMARY:Yankees @ Rays (Rays.TV / YES)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:Regular Season\nTV: Rays.TV / YES\nVenue: Tropicana Field\, St.
+  Petersburg\, Florida\nFinal: Yankees 12\, Rays 4\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816101@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260710T224500Z
+DTEND:20260711T014500Z
+SUMMARY:Yankees @ Nationals (Nationals.TV / YES / Fox 5 WTTG / Gray Media)
+LOCATION:Nationals Park\, Washington\, District of Columbia
+DESCRIPTION:Regular Season\nTV: Nationals.TV / YES / Fox 5 WTTG / Gray Medi
+ a\nVenue: Nationals Park\, Washington\, District of Columbia\nFinal: Yanke
+ es 5\, Nationals 3\nUnofficial calendar\; not affiliated with the MLB or E
+ SPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816116@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260711T200500Z
+DTEND:20260711T230500Z
+SUMMARY:Yankees @ Nationals (Nationals.TV / YES)
+LOCATION:Nationals Park\, Washington\, District of Columbia
+DESCRIPTION:Regular Season\nTV: Nationals.TV / YES\nVenue: Nationals Park\,
+  Washington\, District of Columbia\nFinal: Yankees 4\, Nationals 2\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816131@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260712T173500Z
+DTEND:20260712T203500Z
+SUMMARY:Yankees @ Nationals (Nationals.TV / YES)
+LOCATION:Nationals Park\, Washington\, District of Columbia
+DESCRIPTION:Regular Season\nTV: Nationals.TV / YES\nVenue: Nationals Park\,
+  Washington\, District of Columbia\nFinal: Yankees 5\, Nationals 3\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816142@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260717T230500Z
+DTEND:20260718T020500Z
+SUMMARY:Dodgers @ Yankees (MLB Network)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: MLB Network\nVenue: Yankee Stadium\, Bronx\
+ , New York\nFinal: Dodgers 2\, Yankees 1\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816157@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260719T000800Z
+DTEND:20260719T030800Z
+SUMMARY:Postponed: Dodgers @ Yankees
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Inclement Weather - Makeup date July 19\nTV: TBD\nVenue: Yankee
+  Stadium\, Bronx\, New York\nPostponed. This listing stays cancelled under
+  the same id. The makeup\, when ESPN adds one\, is a separate game.\nUnoff
+ icial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401897386@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260719T163500Z
+DTEND:20260719T193500Z
+SUMMARY:Dodgers @ Yankees (SportsNet LA / YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Doubleheader - Game 1 - Makeup from July 18\nTV: SportsNet LA /
+  YES\nVenue: Yankee Stadium\, Bronx\, New York\nFinal: Dodgers 8\, Yankees
+  2\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may c
+ hange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816172@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260719T232000Z
+DTEND:20260720T022000Z
+SUMMARY:Dodgers @ Yankees (NBC / Peacock)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Doubleheader - Game 2\nTV: NBC / Peacock\nVenue: Yankee Stadium
+ \, Bronx\, New York\nFinal: Dodgers 1\, Yankees 2\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816189@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260720T230500Z
+DTEND:20260721T020500Z
+SUMMARY:Pirates @ Yankees (YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: YES\nVenue: Yankee Stadium\, Bronx\, New Yo
+ rk\nFinal: Pirates 5\, Yankees 8\nUnofficial calendar\; not affiliated wit
+ h the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816204@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260721T230500Z
+DTEND:20260722T020500Z
+SUMMARY:Postponed: Pirates @ Yankees (YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Rain - Makeup date July 22\nTV: YES\nVenue: Yankee Stadium\, Br
+ onx\, New York\nPostponed. This listing stays cancelled under the same id.
+  The makeup\, when ESPN adds one\, is a separate game.\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816219@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260722T170500Z
+DTEND:20260722T200500Z
+SUMMARY:Pirates @ Yankees (YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Doubleheader - Game 1\nTV: YES\nVenue: Yankee Stadium\, Bronx\,
+  New York\nFinal: Pirates 5\, Yankees 3\nUnofficial calendar\; not affilia
+ ted with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401898714@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260722T230500Z
+DTEND:20260723T020500Z
+SUMMARY:Pirates @ Yankees (YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Doubleheader - Game 2 - Makeup from July 21\nTV: YES\nVenue: Ya
+ nkee Stadium\, Bronx\, New York\nFinal: Pirates 0\, Yankees 2\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816241@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260724T224500Z
+DTEND:20260725T014500Z
+SUMMARY:Yankees @ Phillies (Apple TV)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: Citizens Bank Park\, Phila
+ delphia\, Pennsylvania\nFinal: Yankees 1\, Phillies 0\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816256@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260725T220500Z
+DTEND:20260726T010500Z
+SUMMARY:Yankees @ Phillies (NBC Sports Phil / YES)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / YES\nVenue: Citizens Bank
+  Park\, Philadelphia\, Pennsylvania\nFinal: Yankees 3\, Phillies 1\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816271@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260726T232000Z
+DTEND:20260727T022000Z
+SUMMARY:Yankees @ Phillies (NBC / Peacock)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: NBC / Peacock\nVenue: Citizens Bank Park\, 
+ Philadelphia\, Pennsylvania\nFinal: Yankees 4\, Phillies 11\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816287@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260727T234000Z
+DTEND:20260728T024000Z
+SUMMARY:Yankees @ White Sox (CHSN / YES)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: CHSN / YES\nVenue: Rate Field\, Chicago\, I
+ llinois\nFinal: Yankees 9\, White Sox 5\nUnofficial calendar\; not affilia
+ ted with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816301@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260728T234000Z
+DTEND:20260729T024000Z
+SUMMARY:Yankees @ White Sox (CHSN / YES)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: CHSN / YES\nVenue: Rate Field\, Chicago\, I
+ llinois\nFinal: Yankees 3\, White Sox 2\nUnofficial calendar\; not affilia
+ ted with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816316@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260729T234000Z
+DTEND:20260730T024000Z
+SUMMARY:Yankees @ White Sox (Prime Video / MLB Network)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Prime Video / MLB Network\nVenue: Rate Fiel
+ d\, Chicago\, Illinois\nFinal: Yankees 5\, White Sox 6\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816328@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260730T181000Z
+DTEND:20260730T211000Z
+SUMMARY:Yankees @ White Sox (CHSN / YES)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: CHSN / YES\nVenue: Rate Field\, Chicago\, I
+ llinois\nFinal: Yankees 1\, White Sox 2\nUnofficial calendar\; not affilia
+ ted with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816339@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260731T182000Z
+DTEND:20260731T212000Z
+SUMMARY:Yankees @ Cubs (Marquee Sports Net / YES)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / YES\nVenue: Wrigley Fi
+ eld\, Chicago\, Illinois\nFinal: Yankees 2\, Cubs 0\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816354@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260801T231500Z
+DTEND:20260802T021500Z
+SUMMARY:Yankees @ Cubs (Fox)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Fox\nVenue: Wrigley Field\, Chicago\, Illin
+ ois\nFinal: Yankees 2\, Cubs 5\nUnofficial calendar\; not affiliated with 
+ the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816369@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260802T182000Z
+DTEND:20260802T212000Z
+SUMMARY:Yankees @ Cubs (Marquee Sports Net / YES)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / YES\nVenue: Wrigley Fi
+ eld\, Chicago\, Illinois\nFinal: Yankees 2\, Cubs 1\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816377@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260803T230500Z
+DTEND:20260804T020500Z
+SUMMARY:Cardinals @ Yankees (Cardinals.TV / YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: Cardinals.TV / YES\nVenue: Yankee Stadium\,
+  Bronx\, New York\nFinal: Cardinals 13\, Yankees 7\nUnofficial calendar\; 
+ not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816389@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260804T230500Z
+DTEND:20260805T020500Z
+SUMMARY:Cardinals @ Yankees (Cardinals.TV / YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: Cardinals.TV / YES\nVenue: Yankee Stadium\,
+  Bronx\, New York\nFinal: Cardinals 0\, Yankees 2\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816404@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260805T230500Z
+DTEND:20260806T020500Z
+SUMMARY:Cardinals @ Yankees (Prime Video)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: Prime Video\nVenue: Yankee Stadium\, Bronx\
+ , New York\nFinal: Cardinals 3\, Yankees 1\nUnofficial calendar\; not affi
+ liated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816426@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260807T230500Z
+DTEND:20260808T020500Z
+SUMMARY:Braves @ Yankees (ESPN Unlimited)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Yankee Stadium\, Bro
+ nx\, New York\nFinal: Braves 2\, Yankees 3\nUnofficial calendar\; not affi
+ liated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816441@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260808T190500Z
+DTEND:20260808T220500Z
+SUMMARY:Braves @ Yankees (BravesVision / YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: BravesVision / YES\nVenue: Yankee Stadium\,
+  Bronx\, New York\nFinal: Braves 4\, Yankees 5\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816456@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260809T173500Z
+DTEND:20260809T203500Z
+SUMMARY:Braves @ Yankees (BravesVision / YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: BravesVision / YES\nVenue: Yankee Stadium\,
+  Bronx\, New York\nFinal: Braves 2\, Yankees 1\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816484@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260811T230500Z
+DTEND:20260812T020500Z
+SUMMARY:Mariners @ Yankees (TBS)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: TBS\nVenue: Yankee Stadium\, Bronx\, New Yo
+ rk\nFinal: Mariners 1\, Yankees 4\nUnofficial calendar\; not affiliated wi
+ th the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816499@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260812T230000Z
+DTEND:20260813T020000Z
+SUMMARY:Mariners @ Yankees (ESPN)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Yankee Stadium\, Bronx\, New Y
+ ork\nFinal: Mariners 5\, Yankees 10\nUnofficial calendar\; not affiliated 
+ with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816513@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260813T173500Z
+DTEND:20260813T203500Z
+SUMMARY:Mariners @ Yankees (ESPN Unlimited)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Yankee Stadium\, Bro
+ nx\, New York\nFinal: Mariners 1\, Yankees 0\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816522@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260814T231500Z
+DTEND:20260815T021500Z
+SUMMARY:Yankees @ Blue Jays (Apple TV)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: Rogers Centre\, Toronto\, 
+ Ontario\nFinal: Yankees 1\, Blue Jays 3\nUnofficial calendar\; not affilia
+ ted with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816537@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260815T190700Z
+DTEND:20260815T220700Z
+SUMMARY:Yankees @ Blue Jays (YES / Sportsnet / TVA)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: YES / Sportsnet / TVA\nVenue: Rogers Centre
+ \, Toronto\, Ontario\nFinal: Yankees 1\, Blue Jays 4\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816552@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260816T173700Z
+DTEND:20260816T203700Z
+SUMMARY:Yankees @ Blue Jays (YES / Sportsnet / TVA)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: YES / Sportsnet / TVA\nVenue: Rogers Centre
+ \, Toronto\, Ontario\nFinal: Yankees 4\, Blue Jays 3\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816574@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260818T223500Z
+DTEND:20260819T013500Z
+SUMMARY:Yankees @ Orioles (MASN / YES)
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+DESCRIPTION:Regular Season\nTV: MASN / YES\nVenue: Oriole Park at Camden Ya
+ rds\, Baltimore\, Maryland\nFinal: Yankees 3\, Orioles 1\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816589@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260819T223500Z
+DTEND:20260820T013500Z
+SUMMARY:Yankees @ Orioles (Prime Video / MLB Network)
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+DESCRIPTION:Regular Season\nTV: Prime Video / MLB Network\nVenue: Oriole Pa
+ rk at Camden Yards\, Baltimore\, Maryland\nFinal: Yankees 5\, Orioles 3\nU
+ nofficial calendar\; not affiliated with the MLB or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816601@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260820T223500Z
+DTEND:20260821T013500Z
+SUMMARY:Yankees @ Orioles (MASN / YES)
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+DESCRIPTION:Regular Season\nTV: MASN / YES\nVenue: Oriole Park at Camden Ya
+ rds\, Baltimore\, Maryland\nFinal: Yankees 6\, Orioles 1\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816613@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260821T230500Z
+DTEND:20260822T020500Z
+SUMMARY:Blue Jays @ Yankees (YES / Sportsnet / TVA)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: YES / Sportsnet / TVA\nVenue: Yankee Stadiu
+ m\, Bronx\, New York\nFinal: Blue Jays 1\, Yankees 3\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816628@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260822T173500Z
+DTEND:20260822T203500Z
+SUMMARY:Blue Jays @ Yankees (ESPN Unlimited)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Yankee Stadium\, Bro
+ nx\, New York\nFinal: Blue Jays 4\, Yankees 3\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816643@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260823T173500Z
+DTEND:20260823T203500Z
+SUMMARY:Blue Jays @ Yankees (YES / Sportsnet / TVA)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: YES / Sportsnet / TVA\nVenue: Yankee Stadiu
+ m\, Bronx\, New York\nFinal: Blue Jays 3\, Yankees 8\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816667@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260825T230500Z
+DTEND:20260826T020500Z
+SUMMARY:Astros @ Yankees (Space City Home Network / YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: Space City Home Network / YES\nVenue: Yanke
+ e Stadium\, Bronx\, New York\nFinal: Astros 9\, Yankees 7\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816682@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260826T230500Z
+DTEND:20260827T020500Z
+SUMMARY:Astros @ Yankees (ESPN Unlimited / Prime Video)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited / Prime Video\nVenue: Yankee
+  Stadium\, Bronx\, New York\nFinal: Astros 3\, Yankees 9\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816696@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260827T230500Z
+DTEND:20260828T020500Z
+SUMMARY:Astros @ Yankees (Space City Home Network / YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: Space City Home Network / YES\nVenue: Yanke
+ e Stadium\, Bronx\, New York\nFinal: Astros 5\, Yankees 1\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816702@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260828T231500Z
+DTEND:20260829T021500Z
+SUMMARY:Red Sox @ Yankees (Apple TV)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: Yankee Stadium\, Bronx\, N
+ ew York\nFinal: Red Sox 0\, Yankees 1\nUnofficial calendar\; not affiliate
+ d with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401874913@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260829T170500Z
+DTEND:20260829T200500Z
+SUMMARY:Red Sox @ Yankees (MLB Network)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Doubleheader - Game 1 – Makeup from June 6\nTV: MLB Network\n
+ Venue: Yankee Stadium\, Bronx\, New York\nFinal: Red Sox 6\, Yankees 0\nUn
+ official calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816717@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260829T231500Z
+DTEND:20260830T021500Z
+SUMMARY:Red Sox @ Yankees (Fox)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Doubleheader - Game 2\nTV: Fox\nVenue: Yankee Stadium\, Bronx\,
+  New York\nFinal: Red Sox 2\, Yankees 9\nUnofficial calendar\; not affilia
+ ted with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816732@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260830T173500Z
+DTEND:20260830T203500Z
+SUMMARY:Red Sox @ Yankees (ESPN Unlimited)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Yankee Stadium\, Bro
+ nx\, New York\nFinal: Red Sox 1\, Yankees 16\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816756@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260901T013800Z
+DTEND:20260901T043800Z
+SUMMARY:Yankees @ Angels (YES / KCOP / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: YES / KCOP / Angels.TV\nVenue: Angel Stadiu
+ m\, Anaheim\, California\nFinal: Yankees 1\, Angels 10\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816770@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260902T013800Z
+DTEND:20260902T043800Z
+SUMMARY:Yankees @ Angels (YES / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: YES / Angels.TV\nVenue: Angel Stadium\, Ana
+ heim\, California\nFinal: Yankees 7\, Angels 3\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816785@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260903T013800Z
+DTEND:20260903T043800Z
+SUMMARY:Yankees @ Angels (YES / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: YES / Angels.TV\nVenue: Angel Stadium\, Ana
+ heim\, California\nFinal: Yankees 6\, Angels 3\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816810@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260905T014000Z
+DTEND:20260905T044000Z
+SUMMARY:Yankees @ Padres (Padres.TV / YES)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / YES\nVenue: Petco Park\, San Di
+ ego\, California\nFinal: Yankees 2\, Padres 3\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816825@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260905T231500Z
+DTEND:20260906T021500Z
+SUMMARY:Yankees @ Padres (Fox)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Fox\nVenue: Petco Park\, San Diego\, Califo
+ rnia\nFinal: Yankees 5\, Padres 1\nUnofficial calendar\; not affiliated wi
+ th the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816840@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260906T201000Z
+DTEND:20260906T231000Z
+SUMMARY:Yankees @ Padres (Padres.TV / YES)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / YES\nVenue: Petco Park\, San Di
+ ego\, California\nFinal: Yankees 3\, Padres 4\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816855@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260908T230500Z
+DTEND:20260909T020500Z
+SUMMARY:Rockies @ Yankees (Rockies.TV / YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: Rockies.TV / YES\nVenue: Yankee Stadium\, B
+ ronx\, New York\nFinal: Rockies 3\, Yankees 5\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816870@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260909T230500Z
+DTEND:20260910T020500Z
+SUMMARY:Rockies @ Yankees (Rockies.TV / YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: Rockies.TV / YES\nVenue: Yankee Stadium\, B
+ ronx\, New York\nFinal: Rockies 1\, Yankees 6\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816883@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260910T230500Z
+DTEND:20260911T020500Z
+SUMMARY:Rockies @ Yankees (Rockies.TV / YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: Rockies.TV / YES\nVenue: Yankee Stadium\, B
+ ronx\, New York\nFinal: Rockies 3\, Yankees 10\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816894@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260911T230500Z
+DTEND:20260912T020500Z
+SUMMARY:Mets @ Yankees (ESPN Unlimited)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Yankee Stadium\, Bro
+ nx\, New York\nFinal: Mets 4\, Yankees 6\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816909@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260912T173500Z
+DTEND:20260912T203500Z
+SUMMARY:Mets @ Yankees (MLB Network)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: MLB Network\nVenue: Yankee Stadium\, Bronx\
+ , New York\nFinal: Mets 12\, Yankees 2\nUnofficial calendar\; not affiliat
+ ed with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816924@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260913T173500Z
+DTEND:20260913T203500Z
+SUMMARY:Mets @ Yankees (YES / SNY)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: YES / SNY\nVenue: Yankee Stadium\, Bronx\, 
+ New York\nFinal: Mets 0\, Yankees 2\nUnofficial calendar\; not affiliated 
+ with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816938@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260914T234000Z
+DTEND:20260915T024000Z
+SUMMARY:Yankees @ Twins (Twins.TV / YES)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / YES\nVenue: Target Field\, Minne
+ apolis\, Minnesota\nFinal: Yankees 8\, Twins 3\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816953@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260915T234000Z
+DTEND:20260916T024000Z
+SUMMARY:Yankees @ Twins (Twins.TV / YES)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / YES\nVenue: Target Field\, Minne
+ apolis\, Minnesota\nFinal: Yankees 8\, Twins 1\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816968@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260916T174000Z
+DTEND:20260916T204000Z
+SUMMARY:Yankees @ Twins (Twins.TV / YES)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / YES\nVenue: Target Field\, Minne
+ apolis\, Minnesota\nFinal: Yankees 4\, Twins 5\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816995@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260919T014000Z
+DTEND:20260919T044000Z
+SUMMARY:Yankees @ Diamondbacks (DBACKS.TV / YES)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / YES\nVenue: Chase Field\, Phoen
+ ix\, Arizona\nFinal: Yankees 9\, Diamondbacks 2\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817010@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260920T001000Z
+DTEND:20260920T031000Z
+SUMMARY:Yankees @ Diamondbacks (DBACKS.TV / YES)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / YES\nVenue: Chase Field\, Phoen
+ ix\, Arizona\nFinal: Yankees 3\, Diamondbacks 5\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817025@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260920T201000Z
+DTEND:20260920T231000Z
+SUMMARY:Yankees @ Diamondbacks (DBACKS.TV / YES)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / YES\nVenue: Chase Field\, Phoen
+ ix\, Arizona\nFinal: Yankees 4\, Diamondbacks 8\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873648@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260922T170500Z
+DTEND:20260922T200500Z
+SUMMARY:Rays @ Yankees (ESPN Unlimited)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Doubleheader - Game 1 - Makeup from May 23\nTV: ESPN Unlimited\
+ nVenue: Yankee Stadium\, Bronx\, New York\nFinal: Rays 0\, Yankees 2\nUnof
+ ficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817034@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260922T230500Z
+DTEND:20260923T020500Z
+SUMMARY:Rays @ Yankees (TBS)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Doubleheader - Game 2\nTV: TBS\nVenue: Yankee Stadium\, Bronx\,
+  New York\nFinal: Rays 6\, Yankees 1\nUnofficial calendar\; not affiliated
+  with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817049@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260923T230500Z
+DTEND:20260924T020500Z
+SUMMARY:Rays @ Yankees (Prime Video)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: Prime Video\nVenue: Yankee Stadium\, Bronx\
+ , New York\nFinal: Rays 2\, Yankees 9\nUnofficial calendar\; not affiliate
+ d with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817064@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260924T230500Z
+DTEND:20260925T020500Z
+SUMMARY:Rays @ Yankees (Rays.TV / YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: Rays.TV / YES\nVenue: Yankee Stadium\, Bron
+ x\, New York\nFinal: Rays 4\, Yankees 6\nUnofficial calendar\; not affilia
+ ted with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817088@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260925T200500Z
+DTEND:20260925T230500Z
+SUMMARY:Orioles @ Yankees (YES / MASN)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Doubleheader - Game 1 - Rescheduled from Sep. 26\nTV: YES / MAS
+ N\nVenue: Yankee Stadium\, Bronx\, New York\nFinal: Orioles 10\, Yankees 2
+ \nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817073@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260925T233000Z
+DTEND:20260926T023000Z
+SUMMARY:Orioles @ Yankees (MASN / YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Doubleheader - Game 2\nTV: MASN / YES\nVenue: Yankee Stadium\, 
+ Bronx\, New York\nFinal: Orioles 3\, Yankees 6\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401907924@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260930T000000Z
+DTEND:20260930T030000Z
+SUMMARY:Red Sox @ Yankees (NBC)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:ALWC - Game 1\nTV: NBC\nVenue: Yankee Stadium\, Bronx\, New Yor
+ k\nFinal: Red Sox 0\, Yankees 9\nUnofficial calendar\; not affiliated with
+  the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401907963@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20261001T000000Z
+DTEND:20261001T030000Z
+SUMMARY:Red Sox @ Yankees (NBC)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:ALWC - Game 2\nTV: NBC\nVenue: Yankee Stadium\, Bronx\, New Yor
+ k\nFinal: Red Sox 2\, Yankees 9\nUnofficial calendar\; not affiliated with
+  the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401907985@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20261003T223000Z
+DTEND:20261004T013000Z
+SUMMARY:Yankees @ Rays (TBS / truTV)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:ALDS - Game 1\nTV: TBS / truTV\nVenue: Tropicana Field\, St. Pe
+ tersburg\, Florida\nFinal: Yankees 0\, Rays 1\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401907986@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20261006T000000Z
+DTEND:20261006T030000Z
+SUMMARY:Yankees @ Rays (TBS / truTV)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:ALDS - Game 2\nTV: TBS / truTV\nVenue: Tropicana Field\, St. Pe
+ tersburg\, Florida\nFinal: Yankees 2\, Rays 5\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401907987@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20261008T000000Z
+DTEND:20261008T030000Z
+SUMMARY:Rays @ Yankees (TBS / truTV)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:ALDS - Game 3\nTV: TBS / truTV\nVenue: Yankee Stadium\, Bronx\,
+  New York\nFinal: Rays 4\, Yankees 3\nUnofficial calendar\; not affiliated
+  with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

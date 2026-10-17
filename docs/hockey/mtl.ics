@@ -1,0 +1,1086 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jaxzn//NHL Calendars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Montreal Canadiens
+X-WR-CALDESC:Montreal Canadiens NHL schedule (unofficial\, auto-updated)
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:espn-401891827@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20260929T230000Z
+DTEND:20260930T013000Z
+SUMMARY:Canadiens @ Maple Leafs (ESPN+)
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: Scotiabank Arena\, Toronto\, 
+ ON\nFinal: Canadiens 3\, Maple Leafs 2\nUnofficial calendar\; not affiliat
+ ed with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401891822@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261003T230000Z
+DTEND:20261004T013000Z
+SUMMARY:Canadiens @ Penguins (ESPN+)
+LOCATION:PPG Paints Arena\, Pittsburgh\, PA
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: PPG Paints Arena\, Pittsburgh
+ \, PA\nFinal: Canadiens 5\, Penguins 6\nUnofficial calendar\; not affiliat
+ ed with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401891815@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261006T230000Z
+DTEND:20261007T013000Z
+SUMMARY:Hurricanes @ Canadiens (ESPN+)
+LOCATION:Bell Centre\, Montreal\, QC
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: Bell Centre\, Montreal\, QC\n
+ Final: Hurricanes 6\, Canadiens 4\nUnofficial calendar\; not affiliated wi
+ th the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892459@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261008T230000Z
+DTEND:20261009T013000Z
+SUMMARY:Predators @ Canadiens (ESPN+)
+LOCATION:Bell Centre\, Montreal\, QC
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: Bell Centre\, Montreal\, QC\n
+ Final: Predators 5\, Canadiens 2\nUnofficial calendar\; not affiliated wit
+ h the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892473@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261010T230000Z
+DTEND:20261011T013000Z
+SUMMARY:Red Wings @ Canadiens (ESPN+)
+LOCATION:Bell Centre\, Montreal\, QC
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: Bell Centre\, Montreal\, QC\n
+ Final: Red Wings 0\, Canadiens 1\nUnofficial calendar\; not affiliated wit
+ h the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892490@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261013T223000Z
+DTEND:20261014T010000Z
+SUMMARY:Sabres @ Canadiens (ESPN+)
+LOCATION:Bell Centre\, Montreal\, QC
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: Bell Centre\, Montreal\, QC\n
+ Final: Sabres 3\, Canadiens 4\nUnofficial calendar\; not affiliated with t
+ he NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892504@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261014T233000Z
+DTEND:20261015T020000Z
+SUMMARY:Canadiens @ Capitals (ESPN+)
+LOCATION:Capital One Arena\, Washington\, DC
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: Capital One Arena\, Washingto
+ n\, DC\nFinal: Canadiens 4\, Capitals 5\nUnofficial calendar\; not affilia
+ ted with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892524@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261017T230000Z
+DTEND:20261018T013000Z
+SUMMARY:Sabres @ Canadiens (NHL Network)
+LOCATION:Bell Centre\, Montreal\, QC
+DESCRIPTION:Regular Season\nTV: NHL Network\nVenue: Bell Centre\, Montreal\
+ , QC\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892539@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261020T230000Z
+DTEND:20261021T013000Z
+SUMMARY:Sharks @ Canadiens (ESPN+)
+LOCATION:Bell Centre\, Montreal\, QC
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: Bell Centre\, Montreal\, QC\n
+ Unofficial calendar\; not affiliated with the NHL or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892564@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261024T000000Z
+DTEND:20261024T023000Z
+SUMMARY:Canadiens @ Blackhawks (NHL Network)
+LOCATION:United Center\, Chicago\, IL
+DESCRIPTION:Regular Season\nTV: NHL Network\nVenue: United Center\, Chicago
+ \, IL\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times ma
+ y change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401891807@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261025T230000Z
+DTEND:20261026T013000Z
+SUMMARY:Canadiens @ Jets (TNT / truTV)
+LOCATION:Princess Auto Stadium\, Winnipeg\, MB
+DESCRIPTION:Heritage Classic\nTV: TNT / truTV\nVenue: Princess Auto Stadium
+ \, Winnipeg\, MB\nUnofficial calendar\; not affiliated with the NHL or ESP
+ N. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892588@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261028T000000Z
+DTEND:20261028T023000Z
+SUMMARY:Canadiens @ Blues (ESPN+)
+LOCATION:Enterprise Center\, St. Louis\, MO
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: Enterprise Center\, St. Louis
+ \, MO\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times ma
+ y change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892606@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261030T000000Z
+DTEND:20261030T023000Z
+SUMMARY:Canadiens @ Stars (ESPN+)
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: American Airlines Center\, Da
+ llas\, TX\nUnofficial calendar\; not affiliated with the NHL or ESPN. Time
+ s may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892620@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261031T230000Z
+DTEND:20261101T013000Z
+SUMMARY:Penguins @ Canadiens (ESPN+)
+LOCATION:Bell Centre\, Montreal\, QC
+DESCRIPTION:Regular Season\nTV: ESPN+\nVenue: Bell Centre\, Montreal\, QC\n
+ Unofficial calendar\; not affiliated with the NHL or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892634@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261104T000000Z
+DTEND:20261104T023000Z
+SUMMARY:Jets @ Canadiens
+LOCATION:Bell Centre\, Montreal\, QC
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Bell Centre\, Montreal\, QC\nUn
+ official calendar\; not affiliated with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892648@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261106T000000Z
+DTEND:20261106T023000Z
+SUMMARY:Mammoth @ Canadiens (Utah 16)
+LOCATION:Bell Centre\, Montreal\, QC
+DESCRIPTION:Regular Season\nTV: Utah 16\nVenue: Bell Centre\, Montreal\, QC
+ \nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892665@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261108T000000Z
+DTEND:20261108T023000Z
+SUMMARY:Canadiens @ Maple Leafs
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Scotiabank Arena\, Toronto\, ON
+ \nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892684@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261111T000000Z
+DTEND:20261111T023000Z
+SUMMARY:Wild @ Canadiens (MINNHL)
+LOCATION:Bell Centre\, Montreal\, QC
+DESCRIPTION:Regular Season\nTV: MINNHL\nVenue: Bell Centre\, Montreal\, QC\
+ nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892696@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261113T000000Z
+DTEND:20261113T023000Z
+SUMMARY:Canadiens @ Bruins
+LOCATION:TD Garden\, Boston\, MA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: TD Garden\, Boston\, MA\nUnoffi
+ cial calendar\; not affiliated with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892711@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261115T000000Z
+DTEND:20261115T023000Z
+SUMMARY:Avalanche @ Canadiens (Altitude 2 Sports / KTVD-TV (My20))
+LOCATION:Bell Centre\, Montreal\, QC
+DESCRIPTION:Regular Season\nTV: Altitude 2 Sports / KTVD-TV (My20)\nVenue: 
+ Bell Centre\, Montreal\, QC\nUnofficial calendar\; not affiliated with the
+  NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892726@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261117T003000Z
+DTEND:20261117T030000Z
+SUMMARY:Canadiens @ Rangers (TNT / truTV)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: TNT / truTV\nVenue: Madison Square Garden\,
+  New York\, NY\nUnofficial calendar\; not affiliated with the NHL or ESPN.
+  Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892740@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261119T003000Z
+DTEND:20261119T030000Z
+SUMMARY:Canadiens @ Devils (MSGSN)
+LOCATION:Prudential Center\, Newark\, NJ
+DESCRIPTION:Regular Season\nTV: MSGSN\nVenue: Prudential Center\, Newark\, 
+ NJ\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may c
+ hange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892747@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261120T000000Z
+DTEND:20261120T023000Z
+SUMMARY:Canadiens @ Hurricanes (CARNHL)
+LOCATION:Lenovo Center\, Raleigh\, NC
+DESCRIPTION:Regular Season\nTV: CARNHL\nVenue: Lenovo Center\, Raleigh\, NC
+ \nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892760@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261122T000000Z
+DTEND:20261122T023000Z
+SUMMARY:Flyers @ Canadiens (NBC Sports Phil)
+LOCATION:Bell Centre\, Montreal\, QC
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil\nVenue: Bell Centre\, Montr
+ eal\, QC\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times
+  may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892774@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261124T003000Z
+DTEND:20261124T030000Z
+SUMMARY:Kings @ Canadiens (ABTV)
+LOCATION:Bell Centre\, Montreal\, QC
+DESCRIPTION:Regular Season\nTV: ABTV\nVenue: Bell Centre\, Montreal\, QC\nU
+ nofficial calendar\; not affiliated with the NHL or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892792@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261126T023000Z
+DTEND:20261126T050000Z
+SUMMARY:Canadiens @ Avalanche (Altitude Sports / KTVD-TV (My20))
+LOCATION:Ball Arena\, Denver\, CO
+DESCRIPTION:Regular Season\nTV: Altitude Sports / KTVD-TV (My20)\nVenue: Ba
+ ll Arena\, Denver\, CO\nUnofficial calendar\; not affiliated with the NHL 
+ or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892810@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261128T210000Z
+DTEND:20261128T233000Z
+SUMMARY:Canadiens @ Golden Knights (Scripps Sports)
+LOCATION:T-Mobile Arena\, Las Vegas\, NV
+DESCRIPTION:Regular Season\nTV: Scripps Sports\nVenue: T-Mobile Arena\, Las
+  Vegas\, NV\nUnofficial calendar\; not affiliated with the NHL or ESPN. Ti
+ mes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892830@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261201T023000Z
+DTEND:20261201T050000Z
+SUMMARY:Canadiens @ Mammoth (Utah 16)
+LOCATION:Delta Center\, Salt Lake City\, UT
+DESCRIPTION:Regular Season\nTV: Utah 16\nVenue: Delta Center\, Salt Lake Ci
+ ty\, UT\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892840@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261203T003000Z
+DTEND:20261203T030000Z
+SUMMARY:Lightning @ Canadiens (TNT)
+LOCATION:Bell Centre\, Montreal\, QC
+DESCRIPTION:Regular Season\nTV: TNT\nVenue: Bell Centre\, Montreal\, QC\nUn
+ official calendar\; not affiliated with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892860@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261205T180000Z
+DTEND:20261205T203000Z
+SUMMARY:Panthers @ Canadiens (Scripps Sports)
+LOCATION:Bell Centre\, Montreal\, QC
+DESCRIPTION:Regular Season\nTV: Scripps Sports\nVenue: Bell Centre\, Montre
+ al\, QC\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892873@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261207T000000Z
+DTEND:20261207T023000Z
+SUMMARY:Senators @ Canadiens
+LOCATION:Bell Centre\, Montreal\, QC
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Bell Centre\, Montreal\, QC\nUn
+ official calendar\; not affiliated with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892881@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261209T000000Z
+DTEND:20261209T023000Z
+SUMMARY:Golden Knights @ Canadiens (Scripps Sports)
+LOCATION:Bell Centre\, Montreal\, QC
+DESCRIPTION:Regular Season\nTV: Scripps Sports\nVenue: Bell Centre\, Montre
+ al\, QC\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892895@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261211T000000Z
+DTEND:20261211T023000Z
+SUMMARY:Ducks @ Canadiens (KCOP / Prime Video (Local))
+LOCATION:Bell Centre\, Montreal\, QC
+DESCRIPTION:Regular Season\nTV: KCOP / Prime Video (Local)\nVenue: Bell Cen
+ tre\, Montreal\, QC\nUnofficial calendar\; not affiliated with the NHL or 
+ ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892910@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261212T180000Z
+DTEND:20261212T203000Z
+SUMMARY:Canadiens @ Blue Jackets (CBJNHL)
+LOCATION:Nationwide Arena\, Columbus\, OH
+DESCRIPTION:Regular Season\nTV: CBJNHL\nVenue: Nationwide Arena\, Columbus\
+ , OH\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892928@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261215T003000Z
+DTEND:20261215T030000Z
+SUMMARY:Oilers @ Canadiens
+LOCATION:Bell Centre\, Montreal\, QC
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Bell Centre\, Montreal\, QC\nUn
+ official calendar\; not affiliated with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892954@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261219T003000Z
+DTEND:20261219T030000Z
+SUMMARY:Canadiens @ Sabres (Disney+ / ESPN+ / Hulu)
+LOCATION:KeyBank Center\, Buffalo\, NY
+DESCRIPTION:Regular Season\nTV: Disney+ / ESPN+ / Hulu\nVenue: KeyBank Cent
+ er\, Buffalo\, NY\nUnofficial calendar\; not affiliated with the NHL or ES
+ PN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892967@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261220T000000Z
+DTEND:20261220T023000Z
+SUMMARY:Canadiens @ Wild (MINNHL)
+LOCATION:Grand Casino Arena\, Saint Paul\, MN
+DESCRIPTION:Regular Season\nTV: MINNHL\nVenue: Grand Casino Arena\, Saint P
+ aul\, MN\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times
+  may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892987@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261223T000000Z
+DTEND:20261223T023000Z
+SUMMARY:Canadiens @ Blue Jackets (CBJNHL)
+LOCATION:Nationwide Arena\, Columbus\, OH
+DESCRIPTION:Regular Season\nTV: CBJNHL\nVenue: Nationwide Arena\, Columbus\
+ , OH\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892997@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261227T000000Z
+DTEND:20261227T023000Z
+SUMMARY:Maple Leafs @ Canadiens
+LOCATION:Bell Centre\, Montreal\, QC
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Bell Centre\, Montreal\, QC\nUn
+ official calendar\; not affiliated with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893008@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261228T000000Z
+DTEND:20261228T023000Z
+SUMMARY:Stars @ Canadiens (Prime Video (Local))
+LOCATION:Bell Centre\, Montreal\, QC
+DESCRIPTION:Regular Season\nTV: Prime Video (Local)\nVenue: Bell Centre\, M
+ ontreal\, QC\nUnofficial calendar\; not affiliated with the NHL or ESPN. T
+ imes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893019@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261230T000000Z
+DTEND:20261230T023000Z
+SUMMARY:Blue Jackets @ Canadiens (CBJNHL)
+LOCATION:Bell Centre\, Montreal\, QC
+DESCRIPTION:Regular Season\nTV: CBJNHL\nVenue: Bell Centre\, Montreal\, QC\
+ nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893037@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20261231T190000Z
+DTEND:20261231T213000Z
+SUMMARY:Canadiens @ Lightning (The Spot - MTN)
+LOCATION:Benchmark International Arena\, Tampa\, FL
+DESCRIPTION:Regular Season\nTV: The Spot - MTN\nVenue: Benchmark Internatio
+ nal Arena\, Tampa\, FL\nUnofficial calendar\; not affiliated with the NHL 
+ or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893048@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270102T180000Z
+DTEND:20270102T203000Z
+SUMMARY:Canadiens @ Panthers (Scripps Sports)
+LOCATION:Amerant Bank Arena\, Sunrise\, FL
+DESCRIPTION:Regular Season\nTV: Scripps Sports\nVenue: Amerant Bank Arena\,
+  Sunrise\, FL\nUnofficial calendar\; not affiliated with the NHL or ESPN. 
+ Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893067@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270105T003000Z
+DTEND:20270105T030000Z
+SUMMARY:Blackhawks @ Canadiens (CHSN)
+LOCATION:Bell Centre\, Montreal\, QC
+DESCRIPTION:Regular Season\nTV: CHSN\nVenue: Bell Centre\, Montreal\, QC\nU
+ nofficial calendar\; not affiliated with the NHL or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893082@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270107T003000Z
+DTEND:20270107T030000Z
+SUMMARY:Bruins @ Canadiens (TNT / truTV)
+LOCATION:Bell Centre\, Montreal\, QC
+DESCRIPTION:Regular Season\nTV: TNT / truTV\nVenue: Bell Centre\, Montreal\
+ , QC\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893106@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270110T000000Z
+DTEND:20270110T023000Z
+SUMMARY:Penguins @ Canadiens
+LOCATION:Bell Centre\, Montreal\, QC
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Bell Centre\, Montreal\, QC\nUn
+ official calendar\; not affiliated with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893130@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270114T000000Z
+DTEND:20270114T023000Z
+SUMMARY:Devils @ Canadiens (MSGSN)
+LOCATION:Bell Centre\, Montreal\, QC
+DESCRIPTION:Regular Season\nTV: MSGSN\nVenue: Bell Centre\, Montreal\, QC\n
+ Unofficial calendar\; not affiliated with the NHL or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893141@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270115T010000Z
+DTEND:20270115T033000Z
+SUMMARY:Canadiens @ Predators (Scripps Sports)
+LOCATION:Bridgestone Arena\, Nashville\, TN
+DESCRIPTION:Regular Season\nTV: Scripps Sports\nVenue: Bridgestone Arena\, 
+ Nashville\, TN\nUnofficial calendar\; not affiliated with the NHL or ESPN.
+  Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893156@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270117T000000Z
+DTEND:20270117T023000Z
+SUMMARY:Canadiens @ Flyers (NBC Sports Phil)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil\nVenue: Xfinity Mobile Aren
+ a\, Philadelphia\, PA\nUnofficial calendar\; not affiliated with the NHL o
+ r ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893168@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270118T190000Z
+DTEND:20270118T213000Z
+SUMMARY:Canadiens @ Sabres (MSGB)
+LOCATION:KeyBank Center\, Buffalo\, NY
+DESCRIPTION:Regular Season\nTV: MSGB\nVenue: KeyBank Center\, Buffalo\, NY\
+ nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893181@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270120T000000Z
+DTEND:20270120T023000Z
+SUMMARY:Canadiens @ Capitals
+LOCATION:Capital One Arena\, Washington\, DC
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Capital One Arena\, Washington\
+ , DC\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893191@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270122T000000Z
+DTEND:20270122T023000Z
+SUMMARY:Blues @ Canadiens (Blues App / BN+)
+LOCATION:Bell Centre\, Montreal\, QC
+DESCRIPTION:Regular Season\nTV: Blues App / BN+\nVenue: Bell Centre\, Montr
+ eal\, QC\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times
+  may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893207@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270124T000000Z
+DTEND:20270124T023000Z
+SUMMARY:Flames @ Canadiens
+LOCATION:Bell Centre\, Montreal\, QC
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Bell Centre\, Montreal\, QC\nUn
+ official calendar\; not affiliated with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893228@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270127T000000Z
+DTEND:20270127T023000Z
+SUMMARY:Hurricanes @ Canadiens (CARNHL)
+LOCATION:Bell Centre\, Montreal\, QC
+DESCRIPTION:Regular Season\nTV: CARNHL\nVenue: Bell Centre\, Montreal\, QC\
+ nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893247@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270129T010000Z
+DTEND:20270129T033000Z
+SUMMARY:Canadiens @ Flames
+LOCATION:Scotiabank Saddledome\, Calgary\, AB
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Scotiabank Saddledome\, Calgary
+ \, AB\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times ma
+ y change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893266@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270131T000000Z
+DTEND:20270131T023000Z
+SUMMARY:Canadiens @ Oilers
+LOCATION:Rogers Place\, Edmonton\, AB
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Rogers Place\, Edmonton\, AB\nU
+ nofficial calendar\; not affiliated with the NHL or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893275@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270202T013000Z
+DTEND:20270202T040000Z
+SUMMARY:Canadiens @ Canucks
+LOCATION:Rogers Arena\, Vancouver\, BC
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Rogers Arena\, Vancouver\, BC\n
+ Unofficial calendar\; not affiliated with the NHL or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893286@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270204T024000Z
+DTEND:20270204T051000Z
+SUMMARY:Canadiens @ Kraken (KONG / Prime Video (Local))
+LOCATION:Climate Pledge Arena\, Seattle\, WA
+DESCRIPTION:Regular Season\nTV: KONG / Prime Video (Local)\nVenue: Climate 
+ Pledge Arena\, Seattle\, WA\nUnofficial calendar\; not affiliated with the
+  NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893304@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270213T180000Z
+DTEND:20270213T203000Z
+SUMMARY:Capitals @ Canadiens
+LOCATION:Bell Centre\, Montreal\, QC
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Bell Centre\, Montreal\, QC\nUn
+ official calendar\; not affiliated with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893319@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270214T180000Z
+DTEND:20270214T203000Z
+SUMMARY:Rangers @ Canadiens (MSG)
+LOCATION:Bell Centre\, Montreal\, QC
+DESCRIPTION:Regular Season\nTV: MSG\nVenue: Bell Centre\, Montreal\, QC\nUn
+ official calendar\; not affiliated with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893344@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270219T000000Z
+DTEND:20270219T023000Z
+SUMMARY:Canadiens @ Red Wings (DSN)
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: DSN\nVenue: Little Caesars Arena\, Detroit\
+ , MI\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893364@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270221T000000Z
+DTEND:20270221T023000Z
+SUMMARY:Islanders @ Canadiens (MSGSN)
+LOCATION:Bell Centre\, Montreal\, QC
+DESCRIPTION:Regular Season\nTV: MSGSN\nVenue: Bell Centre\, Montreal\, QC\n
+ Unofficial calendar\; not affiliated with the NHL or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893377@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270222T190000Z
+DTEND:20270222T213000Z
+SUMMARY:Canadiens @ Flyers (NBC Sports Phil)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil\nVenue: Xfinity Mobile Aren
+ a\, Philadelphia\, PA\nUnofficial calendar\; not affiliated with the NHL o
+ r ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893394@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270225T030000Z
+DTEND:20270225T053000Z
+SUMMARY:Canadiens @ Kings (ABTV)
+LOCATION:crypto.com Arena\, Los Angeles\, CA
+DESCRIPTION:Regular Season\nTV: ABTV\nVenue: crypto.com Arena\, Los Angeles
+ \, CA\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times ma
+ y change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893418@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270228T000000Z
+DTEND:20270228T023000Z
+SUMMARY:Canadiens @ Ducks (KCOP / Prime Video (Local))
+LOCATION:Honda Center\, Anaheim\, CA
+DESCRIPTION:Regular Season\nTV: KCOP / Prime Video (Local)\nVenue: Honda Ce
+ nter\, Anaheim\, CA\nUnofficial calendar\; not affiliated with the NHL or 
+ ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893433@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270302T030000Z
+DTEND:20270302T053000Z
+SUMMARY:Canadiens @ Sharks (NBC Sports BA)
+LOCATION:SAP Center at San Jose\, San Jose\, CA
+DESCRIPTION:Regular Season\nTV: NBC Sports BA\nVenue: SAP Center at San Jos
+ e\, San Jose\, CA\nUnofficial calendar\; not affiliated with the NHL or ES
+ PN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893448@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270305T000000Z
+DTEND:20270305T023000Z
+SUMMARY:Kraken @ Canadiens (KONG / Prime Video (Local))
+LOCATION:Bell Centre\, Montreal\, QC
+DESCRIPTION:Regular Season\nTV: KONG / Prime Video (Local)\nVenue: Bell Cen
+ tre\, Montreal\, QC\nUnofficial calendar\; not affiliated with the NHL or 
+ ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893465@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270307T000000Z
+DTEND:20270307T023000Z
+SUMMARY:Canucks @ Canadiens
+LOCATION:Bell Centre\, Montreal\, QC
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Bell Centre\, Montreal\, QC\nUn
+ official calendar\; not affiliated with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893485@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270310T000000Z
+DTEND:20270310T023000Z
+SUMMARY:Canadiens @ Islanders (MSGSN)
+LOCATION:UBS Arena\, Elmont\, NY
+DESCRIPTION:Regular Season\nTV: MSGSN\nVenue: UBS Arena\, Elmont\, NY\nUnof
+ ficial calendar\; not affiliated with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893495@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270311T003000Z
+DTEND:20270311T030000Z
+SUMMARY:Bruins @ Canadiens
+LOCATION:Bell Centre\, Montreal\, QC
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Bell Centre\, Montreal\, QC\nUn
+ official calendar\; not affiliated with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893518@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270314T000000Z
+DTEND:20270314T023000Z
+SUMMARY:Canadiens @ Senators
+LOCATION:Canadian Tire Centre\, Ottawa\, ON
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Canadian Tire Centre\, Ottawa\,
+  ON\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893538@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270316T230000Z
+DTEND:20270317T013000Z
+SUMMARY:Panthers @ Canadiens (Scripps Sports)
+LOCATION:Bell Centre\, Montreal\, QC
+DESCRIPTION:Regular Season\nTV: Scripps Sports\nVenue: Bell Centre\, Montre
+ al\, QC\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893552@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270318T230000Z
+DTEND:20270319T013000Z
+SUMMARY:Lightning @ Canadiens (The Spot - MTN)
+LOCATION:Bell Centre\, Montreal\, QC
+DESCRIPTION:Regular Season\nTV: The Spot - MTN\nVenue: Bell Centre\, Montre
+ al\, QC\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893566@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270320T163000Z
+DTEND:20270320T190000Z
+SUMMARY:Canadiens @ Red Wings (DSN)
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: DSN\nVenue: Little Caesars Arena\, Detroit\
+ , MI\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893585@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270322T233000Z
+DTEND:20270323T020000Z
+SUMMARY:Maple Leafs @ Canadiens
+LOCATION:Bell Centre\, Montreal\, QC
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Bell Centre\, Montreal\, QC\nUn
+ official calendar\; not affiliated with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893599@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270324T233000Z
+DTEND:20270325T020000Z
+SUMMARY:Senators @ Canadiens
+LOCATION:Bell Centre\, Montreal\, QC
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Bell Centre\, Montreal\, QC\nUn
+ official calendar\; not affiliated with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893623@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270327T230000Z
+DTEND:20270328T013000Z
+SUMMARY:Devils @ Canadiens (MSG2)
+LOCATION:Bell Centre\, Montreal\, QC
+DESCRIPTION:Regular Season\nTV: MSG2\nVenue: Bell Centre\, Montreal\, QC\nU
+ nofficial calendar\; not affiliated with the NHL or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893633@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270328T220000Z
+DTEND:20270329T003000Z
+SUMMARY:Red Wings @ Canadiens (ESPN)
+LOCATION:Bell Centre\, Montreal\, QC
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Bell Centre\, Montreal\, QC\nU
+ nofficial calendar\; not affiliated with the NHL or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893639@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270330T230000Z
+DTEND:20270331T013000Z
+SUMMARY:Canadiens @ Bruins
+LOCATION:TD Garden\, Boston\, MA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: TD Garden\, Boston\, MA\nUnoffi
+ cial calendar\; not affiliated with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893654@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270401T230000Z
+DTEND:20270402T013000Z
+SUMMARY:Rangers @ Canadiens (MSG2)
+LOCATION:Bell Centre\, Montreal\, QC
+DESCRIPTION:Regular Season\nTV: MSG2\nVenue: Bell Centre\, Montreal\, QC\nU
+ nofficial calendar\; not affiliated with the NHL or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893685@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270404T233000Z
+DTEND:20270405T020000Z
+SUMMARY:Canadiens @ Islanders (MSGSN)
+LOCATION:UBS Arena\, Elmont\, NY
+DESCRIPTION:Regular Season\nTV: MSGSN\nVenue: UBS Arena\, Elmont\, NY\nUnof
+ ficial calendar\; not affiliated with the NHL or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893693@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270406T231500Z
+DTEND:20270407T014500Z
+SUMMARY:Canadiens @ Panthers (Scripps Sports)
+LOCATION:Amerant Bank Arena\, Sunrise\, FL
+DESCRIPTION:Regular Season\nTV: Scripps Sports\nVenue: Amerant Bank Arena\,
+  Sunrise\, FL\nUnofficial calendar\; not affiliated with the NHL or ESPN. 
+ Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893708@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270408T230000Z
+DTEND:20270409T013000Z
+SUMMARY:Canadiens @ Lightning (The Spot - MTN)
+LOCATION:Benchmark International Arena\, Tampa\, FL
+DESCRIPTION:Regular Season\nTV: The Spot - MTN\nVenue: Benchmark Internatio
+ nal Arena\, Tampa\, FL\nUnofficial calendar\; not affiliated with the NHL 
+ or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893729@nhl-calendars
+DTSTAMP:20261017T203754Z
+DTSTART:20270410T230000Z
+DTEND:20270411T013000Z
+SUMMARY:Canadiens @ Senators
+LOCATION:Canadian Tire Centre\, Ottawa\, ON
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Canadian Tire Centre\, Ottawa\,
+  ON\nUnofficial calendar\; not affiliated with the NHL or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,2369 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jaxzn//MLB Calendars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cleveland Guardians
+X-WR-CALDESC:Cleveland Guardians MLB schedule (unofficial\, auto-updated)
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:espn-401814700@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260327T021000Z
+DTEND:20260327T051000Z
+SUMMARY:Guardians @ Mariners (CLEGuardians.TV / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Mariners.TV\nVenue: T-Mob
+ ile Park\, Seattle\, Washington\nFinal: Guardians 6\, Mariners 4\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814705@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260328T014000Z
+DTEND:20260328T044000Z
+SUMMARY:Guardians @ Mariners (Apple TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: T-Mobile Park\, Seattle\, 
+ Washington\nFinal: Guardians 1\, Mariners 5\nUnofficial calendar\; not aff
+ iliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814719@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260329T014000Z
+DTEND:20260329T044000Z
+SUMMARY:Guardians @ Mariners (MLB Network)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: MLB Network\nVenue: T-Mobile Park\, Seattle
+ \, Washington\nFinal: Guardians 6\, Mariners 5\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814733@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260329T232000Z
+DTEND:20260330T022000Z
+SUMMARY:Guardians @ Mariners (Peacock)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Peacock\nVenue: T-Mobile Park\, Seattle\, W
+ ashington\nFinal: Guardians 0\, Mariners 8\nUnofficial calendar\; not affi
+ liated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814746@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260331T021000Z
+DTEND:20260331T051000Z
+SUMMARY:Guardians @ Dodgers (CLEGuardians.TV / SportsNet LA)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / SportsNet LA\nVenue: Dodg
+ er Stadium\, Los Angeles\, California\nFinal: Guardians 4\, Dodgers 2\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814760@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260401T021000Z
+DTEND:20260401T051000Z
+SUMMARY:Guardians @ Dodgers (CLEGuardians.TV / SportsNet LA)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / SportsNet LA\nVenue: Dodg
+ er Stadium\, Los Angeles\, California\nFinal: Guardians 1\, Dodgers 4\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814775@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260402T002000Z
+DTEND:20260402T032000Z
+SUMMARY:Guardians @ Dodgers (CLEGuardians.TV / SportsNet LA)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / SportsNet LA\nVenue: Dodg
+ er Stadium\, Los Angeles\, California\nFinal: Guardians 4\, Dodgers 1\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814784@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260403T201000Z
+DTEND:20260403T231000Z
+SUMMARY:Cubs @ Guardians (ESPN Unlimited)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Progressive Field\, 
+ Cleveland\, Ohio\nFinal: Cubs 1\, Guardians 4\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814798@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260404T231500Z
+DTEND:20260405T021500Z
+SUMMARY:Postponed: Cubs @ Guardians (Fox)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Rain - Makeup date April 5\nTV: Fox\nVenue: Progressive Field\,
+  Cleveland\, Ohio\nPostponed. This listing stays cancelled under the same 
+ id. The makeup\, when ESPN adds one\, is a separate game.\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814813@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260405T171000Z
+DTEND:20260405T201000Z
+SUMMARY:Cubs @ Guardians (CLEGuardians.TV / Marquee Sports Net)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Doubleheader - Game 1\nTV: CLEGuardians.TV / Marquee Sports Net
+ \nVenue: Progressive Field\, Cleveland\, Ohio\nFinal: Cubs 1\, Guardians 0
+ \nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401867431@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260405T203000Z
+DTEND:20260405T233000Z
+SUMMARY:Cubs @ Guardians (CLEGuardians.TV / Marquee Sports Net)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Doubleheader - Game 2 - Makeup from April 4\nTV: CLEGuardians.T
+ V / Marquee Sports Net\nVenue: Progressive Field\, Cleveland\, Ohio\nFinal
+ : Cubs 5\, Guardians 6\nUnofficial calendar\; not affiliated with the MLB 
+ or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814829@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260406T221000Z
+DTEND:20260407T011000Z
+SUMMARY:Royals @ Guardians (CLEGuardians.TV / Royals.TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Royals.TV\nVenue: Progres
+ sive Field\, Cleveland\, Ohio\nFinal: Royals 4\, Guardians 2\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814844@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260407T171000Z
+DTEND:20260407T201000Z
+SUMMARY:Royals @ Guardians (ESPN Unlimited)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Progressive Field\, 
+ Cleveland\, Ohio\nFinal: Royals 1\, Guardians 2\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814859@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260408T171000Z
+DTEND:20260408T201000Z
+SUMMARY:Royals @ Guardians (CLEGuardians.TV / Royals.TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Royals.TV\nVenue: Progres
+ sive Field\, Cleveland\, Ohio\nFinal: Royals 2\, Guardians 10\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814879@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260410T231500Z
+DTEND:20260411T021500Z
+SUMMARY:Guardians @ Braves (CLEGuardians.TV / BravesVision)
+LOCATION:Truist Park\, Atlanta\, Georgia
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / BravesVision\nVenue: Trui
+ st Park\, Atlanta\, Georgia\nFinal: Guardians 5\, Braves 11\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814894@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260411T231500Z
+DTEND:20260412T021500Z
+SUMMARY:Guardians @ Braves (CLEGuardians.TV / BravesVision)
+LOCATION:Truist Park\, Atlanta\, Georgia
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / BravesVision\nVenue: Trui
+ st Park\, Atlanta\, Georgia\nFinal: Guardians 6\, Braves 0\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814909@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260412T232000Z
+DTEND:20260413T022000Z
+SUMMARY:Guardians @ Braves (NBC / Peacock)
+LOCATION:Truist Park\, Atlanta\, Georgia
+DESCRIPTION:Regular Season\nTV: NBC / Peacock\nVenue: Truist Park\, Atlanta
+ \, Georgia\nFinal: Guardians 1\, Braves 13\nUnofficial calendar\; not affi
+ liated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814927@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260413T234500Z
+DTEND:20260414T024500Z
+SUMMARY:Guardians @ Cardinals (CLEGuardians.TV / Cardinals.TV)
+LOCATION:Busch Stadium\, St. Louis\, Missouri
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Cardinals.TV\nVenue: Busc
+ h Stadium\, St. Louis\, Missouri\nFinal: Guardians 9\, Cardinals 3\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814939@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260414T234500Z
+DTEND:20260415T024500Z
+SUMMARY:Guardians @ Cardinals (CLEGuardians.TV / Cardinals.TV)
+LOCATION:Busch Stadium\, St. Louis\, Missouri
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Cardinals.TV\nVenue: Busc
+ h Stadium\, St. Louis\, Missouri\nFinal: Guardians 5\, Cardinals 6\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814954@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260415T171500Z
+DTEND:20260415T201500Z
+SUMMARY:Guardians @ Cardinals (CLEGuardians.TV / Cardinals.TV)
+LOCATION:Busch Stadium\, St. Louis\, Missouri
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Cardinals.TV\nVenue: Busc
+ h Stadium\, St. Louis\, Missouri\nFinal: Guardians 3\, Cardinals 5\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814962@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260416T221000Z
+DTEND:20260417T011000Z
+SUMMARY:Orioles @ Guardians (CLEGuardians.TV / MASN)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / MASN\nVenue: Progressive 
+ Field\, Cleveland\, Ohio\nFinal: Orioles 2\, Guardians 4\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814972@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260417T221000Z
+DTEND:20260418T011000Z
+SUMMARY:Orioles @ Guardians (CLEGuardians.TV / WKYC 3 / MASN)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / WKYC 3 / MASN\nVenue: Pro
+ gressive Field\, Cleveland\, Ohio\nFinal: Orioles 6\, Guardians 4\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814987@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260418T221000Z
+DTEND:20260419T011000Z
+SUMMARY:Orioles @ Guardians (CLEGuardians.TV / MASN)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / MASN\nVenue: Progressive 
+ Field\, Cleveland\, Ohio\nFinal: Orioles 2\, Guardians 4\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815002@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260419T174000Z
+DTEND:20260419T204000Z
+SUMMARY:Orioles @ Guardians (CLEGuardians.TV / MASN)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / MASN\nVenue: Progressive 
+ Field\, Cleveland\, Ohio\nFinal: Orioles 4\, Guardians 8\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815019@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260420T221000Z
+DTEND:20260421T011000Z
+SUMMARY:Astros @ Guardians (CLEGuardians.TV / Space City Home Network)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Space City Home Network\n
+ Venue: Progressive Field\, Cleveland\, Ohio\nFinal: Astros 9\, Guardians 2
+ \nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815028@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260421T221000Z
+DTEND:20260422T011000Z
+SUMMARY:Astros @ Guardians (CLEGuardians.TV / Space City Home Network)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Space City Home Network\n
+ Venue: Progressive Field\, Cleveland\, Ohio\nFinal: Astros 5\, Guardians 8
+ \nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815043@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260422T171000Z
+DTEND:20260422T201000Z
+SUMMARY:Astros @ Guardians (CLEGuardians.TV / Space City Home Network)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Space City Home Network\n
+ Venue: Progressive Field\, Cleveland\, Ohio\nFinal: Astros 2\, Guardians 0
+ \nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815066@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260424T230700Z
+DTEND:20260425T020700Z
+SUMMARY:Guardians @ Blue Jays (CLEGuardians.TV / Sportsnet One)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Sportsnet One\nVenue: Rog
+ ers Centre\, Toronto\, Ontario\nFinal: Guardians 8\, Blue Jays 6\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815081@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260425T190700Z
+DTEND:20260425T220700Z
+SUMMARY:Guardians @ Blue Jays (FS1)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: FS1\nVenue: Rogers Centre\, Toronto\, Ontar
+ io\nFinal: Guardians 3\, Blue Jays 5\nUnofficial calendar\; not affiliated
+  with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815096@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260426T173700Z
+DTEND:20260426T203700Z
+SUMMARY:Guardians @ Blue Jays (CLEGuardians.TV / Sportsnet One)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Sportsnet One\nVenue: Rog
+ ers Centre\, Toronto\, Ontario\nFinal: Guardians 2\, Blue Jays 4\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815112@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260427T221000Z
+DTEND:20260428T011000Z
+SUMMARY:Rays @ Guardians (FS1)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: FS1\nVenue: Progressive Field\, Cleveland\,
+  Ohio\nFinal: Rays 3\, Guardians 2\nUnofficial calendar\; not affiliated w
+ ith the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815124@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260428T221000Z
+DTEND:20260429T011000Z
+SUMMARY:Rays @ Guardians (CLEGuardians.TV / Rays.TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Rays.TV\nVenue: Progressi
+ ve Field\, Cleveland\, Ohio\nFinal: Rays 1\, Guardians 0\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815139@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260429T171000Z
+DTEND:20260429T201000Z
+SUMMARY:Rays @ Guardians (CLEGuardians.TV / Rays.TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Rays.TV\nVenue: Progressi
+ ve Field\, Cleveland\, Ohio\nFinal: Rays 1\, Guardians 3\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815169@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260502T014000Z
+DTEND:20260502T044000Z
+SUMMARY:Guardians @ Athletics (CLEGuardians.TV / NBC Sports CA)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / NBC Sports CA\nVenue: Sut
+ ter Health Park\, Sacramento\, California\nFinal: Guardians 8\, Athletics 
+ 5\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may ch
+ ange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815184@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260502T200500Z
+DTEND:20260502T230500Z
+SUMMARY:Guardians @ Athletics (CLEGuardians.TV / NBC Sports CA)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / NBC Sports CA\nVenue: Sut
+ ter Health Park\, Sacramento\, California\nFinal: Guardians 14\, Athletics
+  6\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may c
+ hange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815199@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260503T200500Z
+DTEND:20260503T230500Z
+SUMMARY:Guardians @ Athletics (ESPN Unlimited)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Sutter Health Park\,
+  Sacramento\, California\nFinal: Guardians 1\, Athletics 7\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815207@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260504T234000Z
+DTEND:20260505T024000Z
+SUMMARY:Guardians @ Royals (CLEGuardians.TV / Royals.TV)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Royals.TV\nVenue: Kauffma
+ n Stadium\, Kansas City\, Missouri\nFinal: Guardians 2\, Royals 6\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815221@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260505T234000Z
+DTEND:20260506T024000Z
+SUMMARY:Guardians @ Royals (CLEGuardians.TV / Royals.TV)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Royals.TV\nVenue: Kauffma
+ n Stadium\, Kansas City\, Missouri\nFinal: Guardians 3\, Royals 5\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815236@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260506T234000Z
+DTEND:20260507T024000Z
+SUMMARY:Guardians @ Royals (CLEGuardians.TV / Royals.TV)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Royals.TV\nVenue: Kauffma
+ n Stadium\, Kansas City\, Missouri\nFinal: Guardians 3\, Royals 1\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815250@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260507T181000Z
+DTEND:20260507T211000Z
+SUMMARY:Guardians @ Royals (CLEGuardians.TV / Royals.TV)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Royals.TV\nVenue: Kauffma
+ n Stadium\, Kansas City\, Missouri\nFinal: Guardians 8\, Royals 5\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815257@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260508T231500Z
+DTEND:20260509T021500Z
+SUMMARY:Twins @ Guardians (Apple TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: Progressive Field\, Clevel
+ and\, Ohio\nFinal: Twins 4\, Guardians 6\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815272@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260509T221000Z
+DTEND:20260510T011000Z
+SUMMARY:Twins @ Guardians (CLEGuardians.TV / Twins.TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Twins.TV\nVenue: Progress
+ ive Field\, Cleveland\, Ohio\nFinal: Twins 2\, Guardians 1\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815287@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260510T174000Z
+DTEND:20260510T204000Z
+SUMMARY:Twins @ Guardians (CLEGuardians.TV / Twins.TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Twins.TV\nVenue: Progress
+ ive Field\, Cleveland\, Ohio\nFinal: Twins 5\, Guardians 4\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815298@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260511T221000Z
+DTEND:20260512T011000Z
+SUMMARY:Angels @ Guardians (ESPN Unlimited)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Progressive Field\, 
+ Cleveland\, Ohio\nFinal: Angels 2\, Guardians 7\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815304@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260512T221000Z
+DTEND:20260513T011000Z
+SUMMARY:Angels @ Guardians (CLEGuardians.TV / Angels.TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Angels.TV\nVenue: Progres
+ sive Field\, Cleveland\, Ohio\nFinal: Angels 2\, Guardians 3\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815319@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260513T171000Z
+DTEND:20260513T201000Z
+SUMMARY:Angels @ Guardians (CLEGuardians.TV / Angels.TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Angels.TV\nVenue: Progres
+ sive Field\, Cleveland\, Ohio\nFinal: Angels 2\, Guardians 4\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815347@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260515T231000Z
+DTEND:20260516T021000Z
+SUMMARY:Reds @ Guardians (CLEGuardians.TV / WKYC 3 / Reds.TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / WKYC 3 / Reds.TV\nVenue: 
+ Progressive Field\, Cleveland\, Ohio\nFinal: Reds 7\, Guardians 6\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815362@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260516T221000Z
+DTEND:20260517T011000Z
+SUMMARY:Reds @ Guardians (CLEGuardians.TV / Reds.TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Reds.TV\nVenue: Progressi
+ ve Field\, Cleveland\, Ohio\nFinal: Reds 4\, Guardians 7\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815377@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260517T174000Z
+DTEND:20260517T204000Z
+SUMMARY:Reds @ Guardians (CLEGuardians.TV / Reds.TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Reds.TV\nVenue: Progressi
+ ve Field\, Cleveland\, Ohio\nFinal: Reds 3\, Guardians 10\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815393@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260518T224000Z
+DTEND:20260519T014000Z
+SUMMARY:Guardians @ Tigers (FS1)
+LOCATION:Comerica Park\, Detroit\, Michigan
+DESCRIPTION:Regular Season\nTV: FS1\nVenue: Comerica Park\, Detroit\, Michi
+ gan\nFinal: Guardians 8\, Tigers 2\nUnofficial calendar\; not affiliated w
+ ith the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815407@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260519T224000Z
+DTEND:20260520T014000Z
+SUMMARY:Guardians @ Tigers (CLEGuardians.TV / Tigers.TV)
+LOCATION:Comerica Park\, Detroit\, Michigan
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Tigers.TV\nVenue: Comeric
+ a Park\, Detroit\, Michigan\nFinal: Guardians 4\, Tigers 3\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815422@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260520T224000Z
+DTEND:20260521T014000Z
+SUMMARY:Guardians @ Tigers (CLEGuardians.TV / Tigers.TV)
+LOCATION:Comerica Park\, Detroit\, Michigan
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Tigers.TV\nVenue: Comeric
+ a Park\, Detroit\, Michigan\nFinal: Guardians 3\, Tigers 2\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815435@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260521T171000Z
+DTEND:20260521T201000Z
+SUMMARY:Guardians @ Tigers (CLEGuardians.TV / Tigers.TV)
+LOCATION:Comerica Park\, Detroit\, Michigan
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Tigers.TV\nVenue: Comeric
+ a Park\, Detroit\, Michigan\nFinal: Guardians 3\, Tigers 1\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815441@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260522T224000Z
+DTEND:20260523T014000Z
+SUMMARY:Guardians @ Phillies (CLEGuardians.TV / NBC Sports Phil)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / NBC Sports Phil\nVenue: C
+ itizens Bank Park\, Philadelphia\, Pennsylvania\nFinal: Guardians 1\, Phil
+ lies 0\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815456@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260523T200500Z
+DTEND:20260523T230500Z
+SUMMARY:Guardians @ Phillies (CLEGuardians.TV / NBC Sports Phil)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / NBC Sports Phil\nVenue: C
+ itizens Bank Park\, Philadelphia\, Pennsylvania\nFinal: Guardians 0\, Phil
+ lies 3\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815471@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260524T173500Z
+DTEND:20260524T203500Z
+SUMMARY:Guardians @ Phillies (CLEGuardians.TV / NBC Sports Phil)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / NBC Sports Phil\nVenue: C
+ itizens Bank Park\, Philadelphia\, Pennsylvania\nFinal: Guardians 3\, Phil
+ lies 1\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815490@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260525T221000Z
+DTEND:20260526T011000Z
+SUMMARY:Nationals @ Guardians (CLEGuardians.TV / Nationals.TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Nationals.TV\nVenue: Prog
+ ressive Field\, Cleveland\, Ohio\nFinal: Nationals 10\, Guardians 2\nUnoff
+ icial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815505@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260526T221000Z
+DTEND:20260527T011000Z
+SUMMARY:Nationals @ Guardians (CLEGuardians.TV / Nationals.TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Nationals.TV\nVenue: Prog
+ ressive Field\, Cleveland\, Ohio\nFinal: Nationals 6\, Guardians 3\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815520@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260527T171000Z
+DTEND:20260527T201000Z
+SUMMARY:Nationals @ Guardians (CLEGuardians.TV / Nationals.TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Nationals.TV\nVenue: Prog
+ ressive Field\, Cleveland\, Ohio\nFinal: Nationals 2\, Guardians 3\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815537@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260529T231000Z
+DTEND:20260530T021000Z
+SUMMARY:Red Sox @ Guardians (CLEGuardians.TV / WKYC 3 / NESN)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / WKYC 3 / NESN\nVenue: Pro
+ gressive Field\, Cleveland\, Ohio\nFinal: Red Sox 3\, Guardians 4\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815552@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260530T201000Z
+DTEND:20260530T231000Z
+SUMMARY:Red Sox @ Guardians (CLEGuardians.TV / NESN)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / NESN\nVenue: Progressive 
+ Field\, Cleveland\, Ohio\nFinal: Red Sox 9\, Guardians 1\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815567@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260531T174000Z
+DTEND:20260531T204000Z
+SUMMARY:Red Sox @ Guardians (CLEGuardians.TV / NESN)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / NESN\nVenue: Progressive 
+ Field\, Cleveland\, Ohio\nFinal: Red Sox 9\, Guardians 4\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815590@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260602T230500Z
+DTEND:20260603T020500Z
+SUMMARY:Guardians @ Yankees (CLEGuardians.TV / YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / YES\nVenue: Yankee Stadiu
+ m\, Bronx\, New York\nFinal: Guardians 9\, Yankees 4\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815605@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260603T230500Z
+DTEND:20260604T020500Z
+SUMMARY:Guardians @ Yankees (Prime Video)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: Prime Video\nVenue: Yankee Stadium\, Bronx\
+ , New York\nFinal: Guardians 5\, Yankees 4\nUnofficial calendar\; not affi
+ liated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815620@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260604T173500Z
+DTEND:20260604T203500Z
+SUMMARY:Guardians @ Yankees (CLEGuardians.TV / YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / YES\nVenue: Yankee Stadiu
+ m\, Bronx\, New York\nFinal: Guardians 1\, Yankees 2\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815636@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260606T001500Z
+DTEND:20260606T031500Z
+SUMMARY:Guardians @ Rangers (Apple TV)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: Globe Life Field\, Arlingt
+ on\, Texas\nFinal: Guardians 2\, Rangers 3\nUnofficial calendar\; not affi
+ liated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815651@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260606T233500Z
+DTEND:20260607T023500Z
+SUMMARY:Guardians @ Rangers (Fox)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Fox\nVenue: Globe Life Field\, Arlington\, 
+ Texas\nFinal: Guardians 6\, Rangers 0\nUnofficial calendar\; not affiliate
+ d with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815666@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260607T183500Z
+DTEND:20260607T213500Z
+SUMMARY:Guardians @ Rangers (CLEGuardians.TV / Rangers Sports Network)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Rangers Sports Network\nV
+ enue: Globe Life Field\, Arlington\, Texas\nFinal: Guardians 0\, Rangers 1
+ 0\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may ch
+ ange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815674@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260608T224000Z
+DTEND:20260609T014000Z
+SUMMARY:Yankees @ Guardians (FS1)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: FS1\nVenue: Progressive Field\, Cleveland\,
+  Ohio\nFinal: Yankees 7\, Guardians 5\nUnofficial calendar\; not affiliate
+ d with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815685@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260609T224000Z
+DTEND:20260610T014000Z
+SUMMARY:Yankees @ Guardians (TBS / Prime Video)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: TBS / Prime Video\nVenue: Progressive Field
+ \, Cleveland\, Ohio\nFinal: Yankees 3\, Guardians 2\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815700@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260610T171000Z
+DTEND:20260610T201000Z
+SUMMARY:Yankees @ Guardians (CLEGuardians.TV / YES)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / YES\nVenue: Progressive F
+ ield\, Cleveland\, Ohio\nFinal: Yankees 8\, Guardians 4\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815721@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260612T231000Z
+DTEND:20260613T021000Z
+SUMMARY:Tigers @ Guardians (CLEGuardians.TV / Tigers.TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Tigers.TV\nVenue: Progres
+ sive Field\, Cleveland\, Ohio\nFinal: Tigers 2\, Guardians 3\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815736@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260613T201000Z
+DTEND:20260613T231000Z
+SUMMARY:Tigers @ Guardians (CLEGuardians.TV / Tigers.TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Tigers.TV\nVenue: Progres
+ sive Field\, Cleveland\, Ohio\nFinal: Tigers 1\, Guardians 3\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815751@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260614T174000Z
+DTEND:20260614T204000Z
+SUMMARY:Postponed: Tigers @ Guardians (CLEGuardians.TV / Tigers.TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Rain - Makeup date Sep. 4\nTV: CLEGuardians.TV / Tigers.TV\nVen
+ ue: Progressive Field\, Cleveland\, Ohio\nPostponed. This listing stays ca
+ ncelled under the same id. The makeup\, when ESPN adds one\, is a separate
+  game.\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times m
+ ay change.
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815780@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260616T234000Z
+DTEND:20260617T024000Z
+SUMMARY:Guardians @ Brewers (CLEGuardians.TV / Brewers.TV)
+LOCATION:American Family Field\, Milwaukee\, Wisconsin
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Brewers.TV\nVenue: Americ
+ an Family Field\, Milwaukee\, Wisconsin\nFinal: Guardians 1\, Brewers 2\nU
+ nofficial calendar\; not affiliated with the MLB or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815795@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260617T234000Z
+DTEND:20260618T024000Z
+SUMMARY:Guardians @ Brewers (ESPN Unlimited)
+LOCATION:American Family Field\, Milwaukee\, Wisconsin
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: American Family Fiel
+ d\, Milwaukee\, Wisconsin\nFinal: Guardians 4\, Brewers 9\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815807@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260618T181000Z
+DTEND:20260618T211000Z
+SUMMARY:Guardians @ Brewers (CLEGuardians.TV / Brewers.TV)
+LOCATION:American Family Field\, Milwaukee\, Wisconsin
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Brewers.TV\nVenue: Americ
+ an Family Field\, Milwaukee\, Wisconsin\nFinal: Guardians 4\, Brewers 2\nU
+ nofficial calendar\; not affiliated with the MLB or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815817@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260620T001000Z
+DTEND:20260620T031000Z
+SUMMARY:Guardians @ Astros (CLEGuardians.TV / Space City Home Network)
+LOCATION:Daikin Park\, Houston\, Texas
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Space City Home Network\n
+ Venue: Daikin Park\, Houston\, Texas\nFinal: Guardians 3\, Astros 9\nUnoff
+ icial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815831@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260620T231500Z
+DTEND:20260621T021500Z
+SUMMARY:Guardians @ Astros (Fox)
+LOCATION:Daikin Park\, Houston\, Texas
+DESCRIPTION:Regular Season\nTV: Fox\nVenue: Daikin Park\, Houston\, Texas\n
+ Final: Guardians 8\, Astros 1\nUnofficial calendar\; not affiliated with t
+ he MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815845@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260621T181000Z
+DTEND:20260621T211000Z
+SUMMARY:Guardians @ Astros (CLEGuardians.TV / Space City Home Network)
+LOCATION:Daikin Park\, Houston\, Texas
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Space City Home Network\n
+ Venue: Daikin Park\, Houston\, Texas\nFinal: Guardians 1\, Astros 2\nUnoff
+ icial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815862@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260622T234000Z
+DTEND:20260623T024000Z
+SUMMARY:Guardians @ White Sox (CLEGuardians.TV / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / CHSN\nVenue: Rate Field\,
+  Chicago\, Illinois\nFinal: Guardians 5\, White Sox 6\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815876@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260623T234000Z
+DTEND:20260624T024000Z
+SUMMARY:Guardians @ White Sox (CLEGuardians.TV / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / CHSN\nVenue: Rate Field\,
+  Chicago\, Illinois\nFinal: Guardians 1\, White Sox 2\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815891@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260624T181000Z
+DTEND:20260624T211000Z
+SUMMARY:Guardians @ White Sox (CLEGuardians.TV / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / CHSN\nVenue: Rate Field\,
+  Chicago\, Illinois\nFinal: Guardians 4\, White Sox 3\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815911@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260626T231000Z
+DTEND:20260627T021000Z
+SUMMARY:Mariners @ Guardians (CLEGuardians.TV / WKYC 3 / Mariners.TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / WKYC 3 / Mariners.TV\nVen
+ ue: Progressive Field\, Cleveland\, Ohio\nFinal: Mariners 3\, Guardians 1\
+ nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815926@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260627T231000Z
+DTEND:20260628T021000Z
+SUMMARY:Mariners @ Guardians (CLEGuardians.TV / Mariners.TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Mariners.TV\nVenue: Progr
+ essive Field\, Cleveland\, Ohio\nFinal: Mariners 3\, Guardians 4\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815941@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260628T174000Z
+DTEND:20260628T204000Z
+SUMMARY:Mariners @ Guardians (CLEGuardians.TV / Mariners.TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Mariners.TV\nVenue: Progr
+ essive Field\, Cleveland\, Ohio\nFinal: Mariners 5\, Guardians 6\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815955@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260629T230000Z
+DTEND:20260630T020000Z
+SUMMARY:Rangers @ Guardians (ESPN)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Progressive Field\, Cleveland\
+ , Ohio\nFinal: Rangers 6\, Guardians 3\nUnofficial calendar\; not affiliat
+ ed with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815969@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260630T224000Z
+DTEND:20260701T014000Z
+SUMMARY:Rangers @ Guardians (CLEGuardians.TV / Rangers Sports Network)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Rangers Sports Network\nV
+ enue: Progressive Field\, Cleveland\, Ohio\nFinal: Rangers 4\, Guardians 2
+ \nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815984@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260701T171000Z
+DTEND:20260701T201000Z
+SUMMARY:Rangers @ Guardians (CLEGuardians.TV / Rangers Sports Network)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Rangers Sports Network\nV
+ enue: Progressive Field\, Cleveland\, Ohio\nFinal: Rangers 4\, Guardians 9
+ \nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815993@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260702T224000Z
+DTEND:20260703T014000Z
+SUMMARY:White Sox @ Guardians (CLEGuardians.TV / CHSN)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / CHSN\nVenue: Progressive 
+ Field\, Cleveland\, Ohio\nFinal: White Sox 5\, Guardians 6\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816003@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260703T231000Z
+DTEND:20260704T021000Z
+SUMMARY:White Sox @ Guardians (CLEGuardians.TV / WKYC 3 / CHSN)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / WKYC 3 / CHSN\nVenue: Pro
+ gressive Field\, Cleveland\, Ohio\nFinal: White Sox 3\, Guardians 4\nUnoff
+ icial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816016@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260704T231000Z
+DTEND:20260705T021000Z
+SUMMARY:White Sox @ Guardians (CLEGuardians.TV / CHSN)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / CHSN\nVenue: Progressive 
+ Field\, Cleveland\, Ohio\nFinal: White Sox 3\, Guardians 1\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816031@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260705T180000Z
+DTEND:20260705T210000Z
+SUMMARY:White Sox @ Guardians (Peacock)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: Peacock\nVenue: Progressive Field\, Clevela
+ nd\, Ohio\nFinal: White Sox 7\, Guardians 6\nUnofficial calendar\; not aff
+ iliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816063@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260707T234000Z
+DTEND:20260708T024000Z
+SUMMARY:Guardians @ Twins (CLEGuardians.TV / Twins.TV)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Twins.TV\nVenue: Target F
+ ield\, Minneapolis\, Minnesota\nFinal: Guardians 1\, Twins 3\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816078@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260708T234000Z
+DTEND:20260709T024000Z
+SUMMARY:Guardians @ Twins (CLEGuardians.TV / Twins.TV / KMSP-TV / Gray Medi
+ a)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Twins.TV / KMSP-TV / Gray
+  Media\nVenue: Target Field\, Minneapolis\, Minnesota\nFinal: Guardians 5\
+ , Twins 6\nUnofficial calendar\; not affiliated with the MLB or ESPN. Time
+ s may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816092@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260709T174000Z
+DTEND:20260709T204000Z
+SUMMARY:Guardians @ Twins (CLEGuardians.TV / Twins.TV)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Twins.TV\nVenue: Target F
+ ield\, Minneapolis\, Minnesota\nFinal: Guardians 5\, Twins 2\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816098@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260710T231000Z
+DTEND:20260711T021000Z
+SUMMARY:Guardians @ Marlins (CLEGuardians.TV / Marlins.TV)
+LOCATION:loanDepot park\, Miami\, Florida
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Marlins.TV\nVenue: loanDe
+ pot park\, Miami\, Florida\nFinal: Guardians 3\, Marlins 2\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816113@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260711T201000Z
+DTEND:20260711T231000Z
+SUMMARY:Guardians @ Marlins (CLEGuardians.TV / Marlins.TV)
+LOCATION:loanDepot park\, Miami\, Florida
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Marlins.TV\nVenue: loanDe
+ pot park\, Miami\, Florida\nFinal: Guardians 4\, Marlins 1\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816128@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260712T174000Z
+DTEND:20260712T204000Z
+SUMMARY:Guardians @ Marlins (CLEGuardians.TV / Marlins.TV)
+LOCATION:loanDepot park\, Miami\, Florida
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Marlins.TV\nVenue: loanDe
+ pot park\, Miami\, Florida\nFinal: Guardians 5\, Marlins 2\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816144@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260717T231000Z
+DTEND:20260718T021000Z
+SUMMARY:Postponed: Pirates @ Guardians (CLEGuardians.TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Air Quality - Makeup date July 18\nTV: CLEGuardians.TV\nVenue: 
+ Progressive Field\, Cleveland\, Ohio\nPostponed. This listing stays cancel
+ led under the same id. The makeup\, when ESPN adds one\, is a separate gam
+ e.\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may c
+ hange.
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401896568@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260718T171000Z
+DTEND:20260718T201000Z
+SUMMARY:Pirates @ Guardians (CLEGuardians.TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Makeup from July 17\nTV: CLEGuardians.TV\nVenue: Progressive Fi
+ eld\, Cleveland\, Ohio\nFinal: Pirates 7\, Guardians 1\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816159@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260718T231000Z
+DTEND:20260719T021000Z
+SUMMARY:Pirates @ Guardians (CLEGuardians.TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV\nVenue: Progressive Field\,
+  Cleveland\, Ohio\nFinal: Pirates 3\, Guardians 5\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816174@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260719T174000Z
+DTEND:20260719T204000Z
+SUMMARY:Pirates @ Guardians (CLEGuardians.TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV\nVenue: Progressive Field\,
+  Cleveland\, Ohio\nFinal: Pirates 7\, Guardians 1\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816188@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260720T224000Z
+DTEND:20260721T014000Z
+SUMMARY:Twins @ Guardians (CLEGuardians.TV / Twins.TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Twins.TV\nVenue: Progress
+ ive Field\, Cleveland\, Ohio\nFinal: Twins 4\, Guardians 13\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816203@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260721T224000Z
+DTEND:20260722T014000Z
+SUMMARY:Twins @ Guardians (CLEGuardians.TV / Twins.TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Twins.TV\nVenue: Progress
+ ive Field\, Cleveland\, Ohio\nFinal: Twins 2\, Guardians 5\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816218@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260722T224000Z
+DTEND:20260723T014000Z
+SUMMARY:Twins @ Guardians (CLEGuardians.TV / Twins.TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Twins.TV\nVenue: Progress
+ ive Field\, Cleveland\, Ohio\nFinal: Twins 10\, Guardians 6\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816232@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260723T171000Z
+DTEND:20260723T201000Z
+SUMMARY:Twins @ Guardians (ESPN Unlimited)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Progressive Field\, 
+ Cleveland\, Ohio\nFinal: Twins 3\, Guardians 1\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816238@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260724T231000Z
+DTEND:20260725T021000Z
+SUMMARY:Guardians @ Rays (CLEGuardians.TV / Rays.TV)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Rays.TV\nVenue: Tropicana
+  Field\, St. Petersburg\, Florida\nFinal: Guardians 3\, Rays 11\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816253@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260725T221000Z
+DTEND:20260726T011000Z
+SUMMARY:Guardians @ Rays (CLEGuardians.TV / Rays.TV)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Rays.TV\nVenue: Tropicana
+  Field\, St. Petersburg\, Florida\nFinal: Guardians 0\, Rays 3\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816268@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260726T161500Z
+DTEND:20260726T191500Z
+SUMMARY:Guardians @ Rays (Peacock)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:Regular Season\nTV: Peacock\nVenue: Tropicana Field\, St. Peter
+ sburg\, Florida\nFinal: Guardians 0\, Rays 1\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816283@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260727T230000Z
+DTEND:20260728T020000Z
+SUMMARY:Postponed: Guardians @ Reds (ESPN)
+LOCATION:Great American Ball Park\, Cincinnati\, Ohio
+DESCRIPTION:Rain - Makeup date July 28\nTV: ESPN\nVenue: Great American Bal
+ l Park\, Cincinnati\, Ohio\nPostponed. This listing stays cancelled under 
+ the same id. The makeup\, when ESPN adds one\, is a separate game.\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401901849@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260728T174000Z
+DTEND:20260728T204000Z
+SUMMARY:Guardians @ Reds (Reds.TV / CLEGuardians.TV)
+LOCATION:Great American Ball Park\, Cincinnati\, Ohio
+DESCRIPTION:Doubleheader - Game 1 – Makeup from July 27\nTV: Reds.TV / CL
+ EGuardians.TV\nVenue: Great American Ball Park\, Cincinnati\, Ohio\nFinal:
+  Guardians 6\, Reds 5\nUnofficial calendar\; not affiliated with the MLB o
+ r ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816295@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260728T231000Z
+DTEND:20260729T021000Z
+SUMMARY:Guardians @ Reds (CLEGuardians.TV / Reds.TV)
+LOCATION:Great American Ball Park\, Cincinnati\, Ohio
+DESCRIPTION:Doubleheader - Game 2\nTV: CLEGuardians.TV / Reds.TV\nVenue: Gr
+ eat American Ball Park\, Cincinnati\, Ohio\nFinal: Guardians 0\, Reds 2\nU
+ nofficial calendar\; not affiliated with the MLB or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816310@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260729T231000Z
+DTEND:20260730T021000Z
+SUMMARY:Guardians @ Reds (ESPN Unlimited)
+LOCATION:Great American Ball Park\, Cincinnati\, Ohio
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Great American Ball 
+ Park\, Cincinnati\, Ohio\nFinal: Guardians 6\, Reds 1\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816332@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260731T231000Z
+DTEND:20260801T021000Z
+SUMMARY:Diamondbacks @ Guardians (CLEGuardians.TV / DBACKS.TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / DBACKS.TV\nVenue: Progres
+ sive Field\, Cleveland\, Ohio\nFinal: Diamondbacks 4\, Guardians 1\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816347@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260801T231500Z
+DTEND:20260802T021500Z
+SUMMARY:Diamondbacks @ Guardians (Fox)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: Fox\nVenue: Progressive Field\, Cleveland\,
+  Ohio\nFinal: Diamondbacks 12\, Guardians 8\nUnofficial calendar\; not aff
+ iliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816362@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260802T174000Z
+DTEND:20260802T204000Z
+SUMMARY:Diamondbacks @ Guardians (CLEGuardians.TV / DBACKS.TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / DBACKS.TV\nVenue: Progres
+ sive Field\, Cleveland\, Ohio\nFinal: Diamondbacks 0\, Guardians 5\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816388@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260804T224000Z
+DTEND:20260805T014000Z
+SUMMARY:Mets @ Guardians (CLEGuardians.TV / WKYC 3 / SNY)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / WKYC 3 / SNY\nVenue: Prog
+ ressive Field\, Cleveland\, Ohio\nFinal: Mets 6\, Guardians 2\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816403@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260805T224000Z
+DTEND:20260806T014000Z
+SUMMARY:Mets @ Guardians (CLEGuardians.TV / SNY)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / SNY\nVenue: Progressive F
+ ield\, Cleveland\, Ohio\nFinal: Mets 6\, Guardians 5\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816418@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260806T171000Z
+DTEND:20260806T201000Z
+SUMMARY:Mets @ Guardians (ESPN Unlimited)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Progressive Field\, 
+ Cleveland\, Ohio\nFinal: Mets 13\, Guardians 6\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816432@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260807T234000Z
+DTEND:20260808T024000Z
+SUMMARY:Guardians @ White Sox (CLEGuardians.TV / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / CHSN\nVenue: Rate Field\,
+  Chicago\, Illinois\nFinal: Guardians 8\, White Sox 2\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816447@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260808T231500Z
+DTEND:20260809T021500Z
+SUMMARY:Guardians @ White Sox (Fox)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Fox\nVenue: Rate Field\, Chicago\, Illinois
+ \nFinal: Guardians 3\, White Sox 6\nUnofficial calendar\; not affiliated w
+ ith the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816462@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260809T181000Z
+DTEND:20260809T211000Z
+SUMMARY:Guardians @ White Sox (CLEGuardians.TV / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / CHSN\nVenue: Rate Field\,
+  Chicago\, Illinois\nFinal: Guardians 3\, White Sox 5\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816481@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260811T224000Z
+DTEND:20260812T014000Z
+SUMMARY:Guardians @ Tigers (CLEGuardians.TV / Tigers.TV)
+LOCATION:Comerica Park\, Detroit\, Michigan
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Tigers.TV\nVenue: Comeric
+ a Park\, Detroit\, Michigan\nFinal: Guardians 4\, Tigers 6\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816496@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260812T224000Z
+DTEND:20260813T014000Z
+SUMMARY:Guardians @ Tigers (CLEGuardians.TV / Tigers.TV)
+LOCATION:Comerica Park\, Detroit\, Michigan
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Tigers.TV\nVenue: Comeric
+ a Park\, Detroit\, Michigan\nFinal: Guardians 6\, Tigers 4\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816511@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260813T171000Z
+DTEND:20260813T201000Z
+SUMMARY:Guardians @ Tigers (CLEGuardians.TV / Tigers.TV)
+LOCATION:Comerica Park\, Detroit\, Michigan
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Tigers.TV\nVenue: Comeric
+ a Park\, Detroit\, Michigan\nFinal: Guardians 0\, Tigers 3\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816523@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260814T231000Z
+DTEND:20260815T021000Z
+SUMMARY:Padres @ Guardians (CLEGuardians.TV / Padres.TV / WKYC 3)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Padres.TV / WKYC 3\nVenue
+ : Progressive Field\, Cleveland\, Ohio\nFinal: Padres 7\, Guardians 5\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816538@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260815T231000Z
+DTEND:20260816T021000Z
+SUMMARY:Padres @ Guardians (CLEGuardians.TV / Padres.TV / KFMB 8.1 (CBS) / 
+ TV Azteca)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Padres.TV / KFMB 8.1 (CBS
+ ) / TV Azteca\nVenue: Progressive Field\, Cleveland\, Ohio\nFinal: Padres 
+ 1\, Guardians 6\nUnofficial calendar\; not affiliated with the MLB or ESPN
+ . Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816553@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260816T174000Z
+DTEND:20260816T204000Z
+SUMMARY:Padres @ Guardians (CLEGuardians.TV / Padres.TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Padres.TV\nVenue: Progres
+ sive Field\, Cleveland\, Ohio\nFinal: Padres 5\, Guardians 0\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816576@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260818T224000Z
+DTEND:20260819T014000Z
+SUMMARY:Giants @ Guardians (CLEGuardians.TV / NBC Sports BA)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / NBC Sports BA\nVenue: Pro
+ gressive Field\, Cleveland\, Ohio\nFinal: Giants 1\, Guardians 8\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816591@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260819T224000Z
+DTEND:20260820T014000Z
+SUMMARY:Giants @ Guardians (CLEGuardians.TV / NBC Sports BA)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / NBC Sports BA\nVenue: Pro
+ gressive Field\, Cleveland\, Ohio\nFinal: Giants 1\, Guardians 0\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816602@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260820T171000Z
+DTEND:20260820T201000Z
+SUMMARY:Giants @ Guardians (CLEGuardians.TV / NBC Sports BA)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / NBC Sports BA\nVenue: Pro
+ gressive Field\, Cleveland\, Ohio\nFinal: Giants 2\, Guardians 5\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816620@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260822T004000Z
+DTEND:20260822T034000Z
+SUMMARY:Guardians @ Rockies (CLEGuardians.TV / Rockies.TV)
+LOCATION:Coors Field\, Denver\, Colorado
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Rockies.TV\nVenue: Coors 
+ Field\, Denver\, Colorado\nFinal: Guardians 9\, Rockies 1\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816635@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260823T001000Z
+DTEND:20260823T031000Z
+SUMMARY:Guardians @ Rockies (CLEGuardians.TV / Rockies.TV)
+LOCATION:Coors Field\, Denver\, Colorado
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Rockies.TV\nVenue: Coors 
+ Field\, Denver\, Colorado\nFinal: Guardians 4\, Rockies 3\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816650@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260823T191000Z
+DTEND:20260823T221000Z
+SUMMARY:Guardians @ Rockies (CLEGuardians.TV / Rockies.TV)
+LOCATION:Coors Field\, Denver\, Colorado
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Rockies.TV\nVenue: Coors 
+ Field\, Denver\, Colorado\nFinal: Guardians 7\, Rockies 2\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816661@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260825T013800Z
+DTEND:20260825T043800Z
+SUMMARY:Guardians @ Angels (CLEGuardians.TV / KCOP / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / KCOP / Angels.TV\nVenue: 
+ Angel Stadium\, Anaheim\, California\nFinal: Guardians 4\, Angels 2\nUnoff
+ icial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816676@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260826T013800Z
+DTEND:20260826T043800Z
+SUMMARY:Guardians @ Angels (CLEGuardians.TV / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Angels.TV\nVenue: Angel S
+ tadium\, Anaheim\, California\nFinal: Guardians 8\, Angels 6\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816691@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260826T200700Z
+DTEND:20260826T230700Z
+SUMMARY:Guardians @ Angels (CLEGuardians.TV / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Angels.TV\nVenue: Angel S
+ tadium\, Anaheim\, California\nFinal: Guardians 4\, Angels 3\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816705@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260828T231000Z
+DTEND:20260829T021000Z
+SUMMARY:Royals @ Guardians (CLEGuardians.TV / Royals.TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Royals.TV\nVenue: Progres
+ sive Field\, Cleveland\, Ohio\nFinal: Royals 3\, Guardians 0\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816720@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260829T201000Z
+DTEND:20260829T231000Z
+SUMMARY:Royals @ Guardians (CLEGuardians.TV / Royals.TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Royals.TV\nVenue: Progres
+ sive Field\, Cleveland\, Ohio\nFinal: Royals 8\, Guardians 3\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816735@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260830T174000Z
+DTEND:20260830T204000Z
+SUMMARY:Royals @ Guardians (CLEGuardians.TV / Royals.TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Royals.TV\nVenue: Progres
+ sive Field\, Cleveland\, Ohio\nFinal: Royals 1\, Guardians 11\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816763@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260901T224000Z
+DTEND:20260902T014000Z
+SUMMARY:Blue Jays @ Guardians (CLEGuardians.TV / Sportsnet)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Sportsnet\nVenue: Progres
+ sive Field\, Cleveland\, Ohio\nFinal: Blue Jays 1\, Guardians 6\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816778@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260902T224000Z
+DTEND:20260903T014000Z
+SUMMARY:Blue Jays @ Guardians (CLEGuardians.TV / Sportsnet / TVA)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Sportsnet / TVA\nVenue: P
+ rogressive Field\, Cleveland\, Ohio\nFinal: Blue Jays 11\, Guardians 0\nUn
+ official calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816790@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260903T171000Z
+DTEND:20260903T201000Z
+SUMMARY:Blue Jays @ Guardians (CLEGuardians.TV / Sportsnet)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Sportsnet\nVenue: Progres
+ sive Field\, Cleveland\, Ohio\nFinal: Blue Jays 6\, Guardians 3\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401877193@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260904T181000Z
+DTEND:20260904T211000Z
+SUMMARY:Tigers @ Guardians (Tigers.TV / CLEGuardians.TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Makeup from June 14\nTV: Tigers.TV / CLEGuardians.TV\nVenue: Pr
+ ogressive Field\, Cleveland\, Ohio\nFinal: Tigers 6\, Guardians 7\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816801@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260904T234500Z
+DTEND:20260905T024500Z
+SUMMARY:Tigers @ Guardians (Apple TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: Progressive Field\, Clevel
+ and\, Ohio\nFinal: Tigers 3\, Guardians 4\nUnofficial calendar\; not affil
+ iated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816816@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260905T221000Z
+DTEND:20260906T011000Z
+SUMMARY:Tigers @ Guardians (CLEGuardians.TV / Tigers.TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Tigers.TV\nVenue: Progres
+ sive Field\, Cleveland\, Ohio\nFinal: Tigers 6\, Guardians 0\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816831@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260906T174000Z
+DTEND:20260906T204000Z
+SUMMARY:Tigers @ Guardians (CLEGuardians.TV / Tigers.TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Tigers.TV\nVenue: Progres
+ sive Field\, Cleveland\, Ohio\nFinal: Tigers 2\, Guardians 3\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816844@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260907T173500Z
+DTEND:20260907T203500Z
+SUMMARY:Guardians @ Orioles (CLEGuardians.TV / MASN)
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / MASN\nVenue: Oriole Park 
+ at Camden Yards\, Baltimore\, Maryland\nFinal: Guardians 4\, Orioles 6\nUn
+ official calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816854@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260908T223500Z
+DTEND:20260909T013500Z
+SUMMARY:Guardians @ Orioles (CLEGuardians.TV / MASN)
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / MASN\nVenue: Oriole Park 
+ at Camden Yards\, Baltimore\, Maryland\nFinal: Guardians 9\, Orioles 5\nUn
+ official calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816869@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260909T223500Z
+DTEND:20260910T013500Z
+SUMMARY:Guardians @ Orioles (CLEGuardians.TV / MASN)
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / MASN\nVenue: Oriole Park 
+ at Camden Yards\, Baltimore\, Maryland\nFinal: Guardians 5\, Orioles 9\nUn
+ official calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816898@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260912T001000Z
+DTEND:20260912T031000Z
+SUMMARY:Guardians @ Twins (CLEGuardians.TV / Twins.TV)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Twins.TV\nVenue: Target F
+ ield\, Minneapolis\, Minnesota\nFinal: Guardians 5\, Twins 2\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816913@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260912T201000Z
+DTEND:20260912T231000Z
+SUMMARY:Guardians @ Twins (CLEGuardians.TV / Twins.TV)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Twins.TV\nVenue: Target F
+ ield\, Minneapolis\, Minnesota\nFinal: Guardians 3\, Twins 4\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816928@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260913T181000Z
+DTEND:20260913T211000Z
+SUMMARY:Guardians @ Twins (CLEGuardians.TV / Twins.TV)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Twins.TV\nVenue: Target F
+ ield\, Minneapolis\, Minnesota\nFinal: Guardians 9\, Twins 2\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816934@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260914T224000Z
+DTEND:20260915T014000Z
+SUMMARY:White Sox @ Guardians (ESPN Unlimited)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Progressive Field\, 
+ Cleveland\, Ohio\nFinal: White Sox 7\, Guardians 3\nUnofficial calendar\; 
+ not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816945@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260915T224000Z
+DTEND:20260916T014000Z
+SUMMARY:White Sox @ Guardians (ESPN Unlimited)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Progressive Field\, 
+ Cleveland\, Ohio\nFinal: White Sox 6\, Guardians 7\nUnofficial calendar\; 
+ not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816960@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260916T170000Z
+DTEND:20260916T200000Z
+SUMMARY:White Sox @ Guardians (ESPN)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Progressive Field\, Cleveland\
+ , Ohio\nFinal: White Sox 3\, Guardians 6\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816982@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260918T231000Z
+DTEND:20260919T021000Z
+SUMMARY:Athletics @ Guardians (CLEGuardians.TV / WKYC 3 / NBC Sports CA)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / WKYC 3 / NBC Sports CA\nV
+ enue: Progressive Field\, Cleveland\, Ohio\nFinal: Athletics 3\, Guardians
+  5\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may c
+ hange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816997@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260919T221000Z
+DTEND:20260920T011000Z
+SUMMARY:Athletics @ Guardians (CLEGuardians.TV / NBC Sports CA)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / NBC Sports CA\nVenue: Pro
+ gressive Field\, Cleveland\, Ohio\nFinal: Athletics 6\, Guardians 12\nUnof
+ ficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817012@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260920T174000Z
+DTEND:20260920T204000Z
+SUMMARY:Athletics @ Guardians (CLEGuardians.TV / NBC Sports CA)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / NBC Sports CA\nVenue: Pro
+ gressive Field\, Cleveland\, Ohio\nFinal: Athletics 0\, Guardians 1\nUnoff
+ icial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817031@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260922T224500Z
+DTEND:20260923T014500Z
+SUMMARY:Guardians @ Red Sox (CLEGuardians.TV / NESN)
+LOCATION:Fenway Park\, Boston\, Massachusetts
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / NESN\nVenue: Fenway Park\
+ , Boston\, Massachusetts\nFinal: Guardians 3\, Red Sox 2\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817046@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260923T230000Z
+DTEND:20260924T020000Z
+SUMMARY:Guardians @ Red Sox (ESPN)
+LOCATION:Fenway Park\, Boston\, Massachusetts
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Fenway Park\, Boston\, Massach
+ usetts\nFinal: Guardians 0\, Red Sox 1\nUnofficial calendar\; not affiliat
+ ed with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817061@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260924T224500Z
+DTEND:20260925T014500Z
+SUMMARY:Guardians @ Red Sox (CLEGuardians.TV / NESN)
+LOCATION:Fenway Park\, Boston\, Massachusetts
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / NESN\nVenue: Fenway Park\
+ , Boston\, Massachusetts\nFinal: Guardians 1\, Red Sox 0\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817079@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260925T234000Z
+DTEND:20260926T024000Z
+SUMMARY:Guardians @ Royals (CLEGuardians.TV / Royals.TV)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Royals.TV\nVenue: Kauffma
+ n Stadium\, Kansas City\, Missouri\nFinal: Guardians 12\, Royals 9\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817094@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260926T231000Z
+DTEND:20260927T021000Z
+SUMMARY:Guardians @ Royals (CLEGuardians.TV / Royals.TV)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Royals.TV\nVenue: Kauffma
+ n Stadium\, Kansas City\, Missouri\nFinal: Guardians 11\, Royals 5\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817109@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260927T191000Z
+DTEND:20260927T221000Z
+SUMMARY:Guardians @ Royals (ESPN Unlimited)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Kauffman Stadium\, K
+ ansas City\, Missouri\nFinal: Guardians 2\, Royals 3\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401907990@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20261003T170000Z
+DTEND:20261003T200000Z
+SUMMARY:White Sox @ Guardians (TBS / truTV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:ALDS - Game 1\nTV: TBS / truTV\nVenue: Progressive Field\, Clev
+ eland\, Ohio\nFinal: White Sox 3\, Guardians 0\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401907991@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20261005T210000Z
+DTEND:20261006T000000Z
+SUMMARY:White Sox @ Guardians (TBS / truTV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:ALDS - Game 2\nTV: TBS / truTV\nVenue: Progressive Field\, Clev
+ eland\, Ohio\nFinal: White Sox 4\, Guardians 3\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401907992@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20261007T200000Z
+DTEND:20261007T230000Z
+SUMMARY:Guardians @ White Sox (TBS / truTV)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:ALDS - Game 3\nTV: TBS / truTV\nVenue: Rate Field\, Chicago\, I
+ llinois\nFinal: Guardians 9\, White Sox 3\nUnofficial calendar\; not affil
+ iated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401907993@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20261009T000000Z
+DTEND:20261009T030000Z
+SUMMARY:Guardians @ White Sox (TBS / truTV)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:ALDS - Game 4\nTV: TBS / truTV\nVenue: Rate Field\, Chicago\, I
+ llinois\nFinal: Guardians 9\, White Sox 5\nUnofficial calendar\; not affil
+ iated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401907994@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20261011T000000Z
+DTEND:20261011T030000Z
+SUMMARY:White Sox @ Guardians (TBS / truTV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:ALDS - Game 5\nTV: TBS / truTV\nVenue: Progressive Field\, Clev
+ eland\, Ohio\nFinal: White Sox 0\, Guardians 2\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401908023@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20261013T000000Z
+DTEND:20261013T030000Z
+SUMMARY:Guardians @ Rays (TBS / truTV)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:ALCS - Game 1\nTV: TBS / truTV\nVenue: Tropicana Field\, St. Pe
+ tersburg\, Florida\nFinal: Guardians 7\, Rays 3\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401908024@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20261014T000000Z
+DTEND:20261014T030000Z
+SUMMARY:Guardians @ Rays (TBS / truTV)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:ALCS - Game 2\nTV: TBS / truTV\nVenue: Tropicana Field\, St. Pe
+ tersburg\, Florida\nFinal: Guardians 1\, Rays 3\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401908025@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20261015T170000Z
+DTEND:20261015T200000Z
+SUMMARY:Rays @ Guardians (TBS / truTV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:ALCS - Game 3\nTV: TBS / truTV\nVenue: Progressive Field\, Clev
+ eland\, Ohio\nFinal: Rays 2\, Guardians 3\nUnofficial calendar\; not affil
+ iated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401908026@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20261017T000000Z
+DTEND:20261017T030000Z
+SUMMARY:Postponed: Rays @ Guardians (TBS / truTV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:ALCS - Game 4 Rain - Makeup on Oct 18\nTV: TBS / truTV\nVenue: 
+ Progressive Field\, Cleveland\, Ohio\nPostponed. This listing stays cancel
+ led under the same id. The makeup\, when ESPN adds one\, is a separate gam
+ e.\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may c
+ hange.
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401908027@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20261018T000000Z
+DTEND:20261018T030000Z
+SUMMARY:Rays @ Guardians (TBS / truTV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:ALCS - Game 4\nTV: TBS / truTV\nVenue: Progressive Field\, Clev
+ eland\, Ohio\nUnofficial calendar\; not affiliated with the MLB or ESPN. T
+ imes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401930515@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20261018T210000Z
+DTEND:20261019T000000Z
+SUMMARY:Rays @ Guardians (TBS / truTV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:ALCS - Game 5 Makeup of Oct 16\nTV: TBS / truTV\nVenue: Progres
+ sive Field\, Cleveland\, Ohio\nUnofficial calendar\; not affiliated with t
+ he MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401908028@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20261020T000000Z
+DTEND:20261020T030000Z
+SUMMARY:Guardians @ Rays (TBS / truTV)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:ALCS - Game 6 If Necessary\nTV: TBS / truTV\nVenue: Tropicana F
+ ield\, St. Petersburg\, Florida\nUnofficial calendar\; not affiliated with
+  the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401908029@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20261021T000000Z
+DTEND:20261021T030000Z
+SUMMARY:Guardians @ Rays (TBS / truTV)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:ALCS - Game 7 If Necessary\nTV: TBS / truTV\nVenue: Tropicana F
+ ield\, St. Petersburg\, Florida\nUnofficial calendar\; not affiliated with
+  the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

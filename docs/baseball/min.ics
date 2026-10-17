@@ -1,0 +1,2130 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jaxzn//MLB Calendars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Minnesota Twins
+X-WR-CALDESC:Minnesota Twins MLB schedule (unofficial\, auto-updated)
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:espn-401814692@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260326T190500Z
+DTEND:20260326T220500Z
+SUMMARY:Twins @ Orioles (Twins.TV / MASN)
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+DESCRIPTION:Regular Season\nTV: Twins.TV / MASN\nVenue: Oriole Park at Camd
+ en Yards\, Baltimore\, Maryland\nFinal: Twins 1\, Orioles 2\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814711@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260328T200500Z
+DTEND:20260328T230500Z
+SUMMARY:Twins @ Orioles (FS1)
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+DESCRIPTION:Regular Season\nTV: FS1\nVenue: Oriole Park at Camden Yards\, B
+ altimore\, Maryland\nFinal: Twins 4\, Orioles 1\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814726@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260329T173500Z
+DTEND:20260329T203500Z
+SUMMARY:Twins @ Orioles (Twins.TV / MASN)
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+DESCRIPTION:Regular Season\nTV: Twins.TV / MASN\nVenue: Oriole Park at Camd
+ en Yards\, Baltimore\, Maryland\nFinal: Twins 6\, Orioles 8\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814743@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260330T201000Z
+DTEND:20260330T231000Z
+SUMMARY:Twins @ Royals (ESPN Unlimited)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Kauffman Stadium\, K
+ ansas City\, Missouri\nFinal: Twins 1\, Royals 3\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814772@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260401T234000Z
+DTEND:20260402T024000Z
+SUMMARY:Twins @ Royals (Twins.TV / Royals.TV)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Twins.TV / Royals.TV\nVenue: Kauffman Stadi
+ um\, Kansas City\, Missouri\nFinal: Twins 9\, Royals 13\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814779@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260402T181000Z
+DTEND:20260402T211000Z
+SUMMARY:Twins @ Royals (Twins.TV / Royals.TV)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Twins.TV / Royals.TV\nVenue: Kauffman Stadi
+ um\, Kansas City\, Missouri\nFinal: Twins 5\, Royals 1\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814791@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260403T210500Z
+DTEND:20260404T000500Z
+SUMMARY:Rays @ Twins (Twins.TV / Rays.TV)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Rays.TV\nVenue: Target Field\, M
+ inneapolis\, Minnesota\nFinal: Rays 4\, Twins 10\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814805@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260404T231000Z
+DTEND:20260405T021000Z
+SUMMARY:Rays @ Twins (Twins.TV / Rays.TV)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Rays.TV\nVenue: Target Field\, M
+ inneapolis\, Minnesota\nFinal: Rays 7\, Twins 1\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814820@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260405T181000Z
+DTEND:20260405T211000Z
+SUMMARY:Rays @ Twins (Twins.TV / Rays.TV)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Rays.TV\nVenue: Target Field\, M
+ inneapolis\, Minnesota\nFinal: Rays 4\, Twins 1\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814835@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260406T234000Z
+DTEND:20260407T024000Z
+SUMMARY:Tigers @ Twins (Twins.TV / Tigers.TV)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Tigers.TV\nVenue: Target Field\,
+  Minneapolis\, Minnesota\nFinal: Tigers 3\, Twins 7\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814850@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260407T234000Z
+DTEND:20260408T024000Z
+SUMMARY:Tigers @ Twins (Twins.TV / Tigers.TV)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Tigers.TV\nVenue: Target Field\,
+  Minneapolis\, Minnesota\nFinal: Tigers 2\, Twins 4\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814865@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260408T234000Z
+DTEND:20260409T024000Z
+SUMMARY:Tigers @ Twins (FS1)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: FS1\nVenue: Target Field\, Minneapolis\, Mi
+ nnesota\nFinal: Tigers 6\, Twins 8\nUnofficial calendar\; not affiliated w
+ ith the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814874@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260409T174000Z
+DTEND:20260409T204000Z
+SUMMARY:Tigers @ Twins (ESPN Unlimited)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Target Field\, Minne
+ apolis\, Minnesota\nFinal: Tigers 1\, Twins 3\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814881@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260410T230700Z
+DTEND:20260411T020700Z
+SUMMARY:Twins @ Blue Jays (Twins.TV / Sportsnet)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Twins.TV / Sportsnet\nVenue: Rogers Centre\
+ , Toronto\, Ontario\nFinal: Twins 4\, Blue Jays 10\nUnofficial calendar\; 
+ not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814896@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260411T190700Z
+DTEND:20260411T220700Z
+SUMMARY:Twins @ Blue Jays (Twins.TV / Sportsnet)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Twins.TV / Sportsnet\nVenue: Rogers Centre\
+ , Toronto\, Ontario\nFinal: Twins 7\, Blue Jays 4\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814911@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260412T173700Z
+DTEND:20260412T203700Z
+SUMMARY:Twins @ Blue Jays (Twins.TV / Sportsnet)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Twins.TV / Sportsnet\nVenue: Rogers Centre\
+ , Toronto\, Ontario\nFinal: Twins 8\, Blue Jays 2\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814926@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260413T234000Z
+DTEND:20260414T024000Z
+SUMMARY:Red Sox @ Twins (Twins.TV / NESN)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / NESN\nVenue: Target Field\, Minn
+ eapolis\, Minnesota\nFinal: Red Sox 6\, Twins 13\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814938@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260414T234000Z
+DTEND:20260415T024000Z
+SUMMARY:Red Sox @ Twins (Twins.TV / NESN+)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / NESN+\nVenue: Target Field\, Min
+ neapolis\, Minnesota\nFinal: Red Sox 0\, Twins 6\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814953@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260415T174000Z
+DTEND:20260415T204000Z
+SUMMARY:Red Sox @ Twins (Twins.TV / NESN)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / NESN\nVenue: Target Field\, Minn
+ eapolis\, Minnesota\nFinal: Red Sox 9\, Twins 5\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814978@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260418T001000Z
+DTEND:20260418T031000Z
+SUMMARY:Reds @ Twins (Twins.TV / Reds.TV)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Reds.TV\nVenue: Target Field\, M
+ inneapolis\, Minnesota\nFinal: Reds 2\, Twins 1\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814993@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260418T181000Z
+DTEND:20260418T211000Z
+SUMMARY:Reds @ Twins (Twins.TV / Reds.TV)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Reds.TV\nVenue: Target Field\, M
+ inneapolis\, Minnesota\nFinal: Reds 5\, Twins 4\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815008@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260419T181000Z
+DTEND:20260419T211000Z
+SUMMARY:Reds @ Twins (Twins.TV / Reds.TV)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Reds.TV\nVenue: Target Field\, M
+ inneapolis\, Minnesota\nFinal: Reds 7\, Twins 4\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815030@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260421T231000Z
+DTEND:20260422T021000Z
+SUMMARY:Twins @ Mets (Twins.TV / SNY)
+LOCATION:Citi Field\, Queens\, New York
+DESCRIPTION:Regular Season\nTV: Twins.TV / SNY\nVenue: Citi Field\, Queens\
+ , New York\nFinal: Twins 5\, Mets 3\nUnofficial calendar\; not affiliated 
+ with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815045@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260422T231000Z
+DTEND:20260423T021000Z
+SUMMARY:Twins @ Mets (Twins.TV / SNY)
+LOCATION:Citi Field\, Queens\, New York
+DESCRIPTION:Regular Season\nTV: Twins.TV / SNY\nVenue: Citi Field\, Queens\
+ , New York\nFinal: Twins 2\, Mets 3\nUnofficial calendar\; not affiliated 
+ with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815058@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260423T231000Z
+DTEND:20260424T021000Z
+SUMMARY:Twins @ Mets (Twins.TV / SNY)
+LOCATION:Citi Field\, Queens\, New York
+DESCRIPTION:Regular Season\nTV: Twins.TV / SNY\nVenue: Citi Field\, Queens\
+ , New York\nFinal: Twins 8\, Mets 10\nUnofficial calendar\; not affiliated
+  with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815069@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260424T231000Z
+DTEND:20260425T021000Z
+SUMMARY:Twins @ Rays (Twins.TV / Rays.TV / WMOR)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:Regular Season\nTV: Twins.TV / Rays.TV / WMOR\nVenue: Tropicana
+  Field\, St. Petersburg\, Florida\nFinal: Twins 2\, Rays 6\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815084@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260425T201000Z
+DTEND:20260425T231000Z
+SUMMARY:Twins @ Rays (Twins.TV / Rays.TV)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:Regular Season\nTV: Twins.TV / Rays.TV\nVenue: Tropicana Field\
+ , St. Petersburg\, Florida\nFinal: Twins 1\, Rays 6\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815099@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260426T174000Z
+DTEND:20260426T204000Z
+SUMMARY:Twins @ Rays (Twins.TV / Rays.TV)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:Regular Season\nTV: Twins.TV / Rays.TV\nVenue: Tropicana Field\
+ , St. Petersburg\, Florida\nFinal: Twins 2\, Rays 4\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815115@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260427T234000Z
+DTEND:20260428T024000Z
+SUMMARY:Mariners @ Twins (FS1)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: FS1\nVenue: Target Field\, Minneapolis\, Mi
+ nnesota\nFinal: Mariners 4\, Twins 11\nUnofficial calendar\; not affiliate
+ d with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815129@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260428T234000Z
+DTEND:20260429T024000Z
+SUMMARY:Mariners @ Twins (Twins.TV / Mariners.TV / KMSP-TV / Gray Media)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Mariners.TV / KMSP-TV / Gray Med
+ ia\nVenue: Target Field\, Minneapolis\, Minnesota\nFinal: Mariners 7\, Twi
+ ns 1\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815144@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260429T174000Z
+DTEND:20260429T204000Z
+SUMMARY:Mariners @ Twins (Twins.TV / Mariners.TV)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Mariners.TV\nVenue: Target Field
+ \, Minneapolis\, Minnesota\nFinal: Mariners 5\, Twins 3\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815155@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260430T234000Z
+DTEND:20260501T024000Z
+SUMMARY:Blue Jays @ Twins (Twins.TV / Sportsnet One)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Sportsnet One\nVenue: Target Fie
+ ld\, Minneapolis\, Minnesota\nFinal: Blue Jays 1\, Twins 7\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815166@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260502T001000Z
+DTEND:20260502T031000Z
+SUMMARY:Blue Jays @ Twins (Twins.TV / Sportsnet One)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Sportsnet One\nVenue: Target Fie
+ ld\, Minneapolis\, Minnesota\nFinal: Blue Jays 7\, Twins 3\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815181@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260502T181000Z
+DTEND:20260502T211000Z
+SUMMARY:Blue Jays @ Twins (Twins.TV / TVA / Sportsnet / Sportsnet+)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / TVA / Sportsnet / Sportsnet+\nVe
+ nue: Target Field\, Minneapolis\, Minnesota\nFinal: Blue Jays 11\, Twins 4
+ \nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815196@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260503T164500Z
+DTEND:20260503T194500Z
+SUMMARY:Blue Jays @ Twins (Peacock)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Peacock\nVenue: Target Field\, Minneapolis\
+ , Minnesota\nFinal: Blue Jays 3\, Twins 4\nUnofficial calendar\; not affil
+ iated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815217@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260505T224500Z
+DTEND:20260506T014500Z
+SUMMARY:Twins @ Nationals (Twins.TV / Nationals.TV)
+LOCATION:Nationals Park\, Washington\, District of Columbia
+DESCRIPTION:Regular Season\nTV: Twins.TV / Nationals.TV\nVenue: Nationals P
+ ark\, Washington\, District of Columbia\nFinal: Twins 11\, Nationals 3\nUn
+ official calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815232@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260506T224500Z
+DTEND:20260507T014500Z
+SUMMARY:Twins @ Nationals (ESPN Unlimited)
+LOCATION:Nationals Park\, Washington\, District of Columbia
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Nationals Park\, Was
+ hington\, District of Columbia\nFinal: Twins 2\, Nationals 15\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815246@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260507T170500Z
+DTEND:20260507T200500Z
+SUMMARY:Twins @ Nationals (Twins.TV / Nationals.TV)
+LOCATION:Nationals Park\, Washington\, District of Columbia
+DESCRIPTION:Regular Season\nTV: Twins.TV / Nationals.TV\nVenue: Nationals P
+ ark\, Washington\, District of Columbia\nFinal: Twins 5\, Nationals 7\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815257@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260508T231500Z
+DTEND:20260509T021500Z
+SUMMARY:Twins @ Guardians (Apple TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: Progressive Field\, Clevel
+ and\, Ohio\nFinal: Twins 4\, Guardians 6\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815272@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260509T221000Z
+DTEND:20260510T011000Z
+SUMMARY:Twins @ Guardians (CLEGuardians.TV / Twins.TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Twins.TV\nVenue: Progress
+ ive Field\, Cleveland\, Ohio\nFinal: Twins 2\, Guardians 1\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815287@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260510T174000Z
+DTEND:20260510T204000Z
+SUMMARY:Twins @ Guardians (CLEGuardians.TV / Twins.TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Twins.TV\nVenue: Progress
+ ive Field\, Cleveland\, Ohio\nFinal: Twins 5\, Guardians 4\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815314@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260512T234000Z
+DTEND:20260513T024000Z
+SUMMARY:Marlins @ Twins (Twins.TV / Marlins.TV / KMSP-TV / Gray Media)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Marlins.TV / KMSP-TV / Gray Medi
+ a\nVenue: Target Field\, Minneapolis\, Minnesota\nFinal: Marlins 0\, Twins
+  3\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may c
+ hange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815329@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260513T234000Z
+DTEND:20260514T024000Z
+SUMMARY:Marlins @ Twins (Twins.TV / Marlins.TV)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Marlins.TV\nVenue: Target Field\
+ , Minneapolis\, Minnesota\nFinal: Marlins 9\, Twins 5\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815340@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260514T174000Z
+DTEND:20260514T204000Z
+SUMMARY:Marlins @ Twins (Twins.TV / Marlins.TV)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Marlins.TV\nVenue: Target Field\
+ , Minneapolis\, Minnesota\nFinal: Marlins 1\, Twins 9\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815354@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260515T231000Z
+DTEND:20260516T021000Z
+SUMMARY:Brewers @ Twins (Twins.TV / Brewers.TV)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Brewers.TV\nVenue: Target Field\
+ , Minneapolis\, Minnesota\nFinal: Brewers 3\, Twins 2\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815369@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260516T231000Z
+DTEND:20260517T021000Z
+SUMMARY:Brewers @ Twins (Twins.TV / Brewers.TV)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Brewers.TV\nVenue: Target Field\
+ , Minneapolis\, Minnesota\nFinal: Brewers 2\, Twins 1\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815384@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260517T181000Z
+DTEND:20260517T211000Z
+SUMMARY:Brewers @ Twins (Twins.TV / Brewers.TV)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Brewers.TV\nVenue: Target Field\
+ , Minneapolis\, Minnesota\nFinal: Brewers 4\, Twins 5\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815397@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260518T234000Z
+DTEND:20260519T024000Z
+SUMMARY:Astros @ Twins (Twins.TV / Space City Home Network)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Space City Home Network\nVenue: 
+ Target Field\, Minneapolis\, Minnesota\nFinal: Astros 3\, Twins 6\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815411@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260519T234000Z
+DTEND:20260520T024000Z
+SUMMARY:Astros @ Twins (Twins.TV / Space City Home Network / KMSP-TV / Gray
+  Media)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Space City Home Network / KMSP-T
+ V / Gray Media\nVenue: Target Field\, Minneapolis\, Minnesota\nFinal: Astr
+ os 2\, Twins 1\nUnofficial calendar\; not affiliated with the MLB or ESPN.
+  Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815426@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260520T174000Z
+DTEND:20260520T204000Z
+SUMMARY:Astros @ Twins (Twins.TV / Space City Home Network)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Space City Home Network\nVenue: 
+ Target Field\, Minneapolis\, Minnesota\nFinal: Astros 1\, Twins 4\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815443@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260522T231000Z
+DTEND:20260523T021000Z
+SUMMARY:Twins @ Red Sox (ESPN Unlimited)
+LOCATION:Fenway Park\, Boston\, Massachusetts
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Fenway Park\, Boston
+ \, Massachusetts\nFinal: Twins 8\, Red Sox 6\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815458@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260523T201000Z
+DTEND:20260523T231000Z
+SUMMARY:Twins @ Red Sox (Twins.TV / NESN)
+LOCATION:Fenway Park\, Boston\, Massachusetts
+DESCRIPTION:Regular Season\nTV: Twins.TV / NESN\nVenue: Fenway Park\, Bosto
+ n\, Massachusetts\nFinal: Twins 4\, Red Sox 2\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815473@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260524T173500Z
+DTEND:20260524T203500Z
+SUMMARY:Twins @ Red Sox (Twins.TV / NESN)
+LOCATION:Fenway Park\, Boston\, Massachusetts
+DESCRIPTION:Regular Season\nTV: Twins.TV / NESN\nVenue: Fenway Park\, Bosto
+ n\, Massachusetts\nFinal: Twins 6\, Red Sox 5\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815492@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260525T181000Z
+DTEND:20260525T211000Z
+SUMMARY:Twins @ White Sox (Twins.TV / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Twins.TV / CHSN\nVenue: Rate Field\, Chicag
+ o\, Illinois\nFinal: Twins 1\, White Sox 3\nUnofficial calendar\; not affi
+ liated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815507@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260526T234000Z
+DTEND:20260527T024000Z
+SUMMARY:Twins @ White Sox (Twins.TV / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Twins.TV / CHSN\nVenue: Rate Field\, Chicag
+ o\, Illinois\nFinal: Twins 5\, White Sox 3\nUnofficial calendar\; not affi
+ liated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815522@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260527T234000Z
+DTEND:20260528T024000Z
+SUMMARY:Twins @ White Sox (Twins.TV / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Twins.TV / CHSN\nVenue: Rate Field\, Chicag
+ o\, Illinois\nFinal: Twins 2\, White Sox 15\nUnofficial calendar\; not aff
+ iliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815534@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260528T181000Z
+DTEND:20260528T211000Z
+SUMMARY:Twins @ White Sox (Twins.TV / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Twins.TV / CHSN\nVenue: Rate Field\, Chicag
+ o\, Illinois\nFinal: Twins 2\, White Sox 6\nUnofficial calendar\; not affi
+ liated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815539@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260529T224500Z
+DTEND:20260530T014500Z
+SUMMARY:Twins @ Pirates (Apple TV)
+LOCATION:PNC Park\, Pittsburgh\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: PNC Park\, Pittsburgh\, Pe
+ nnsylvania\nFinal: Twins 5\, Pirates 6\nUnofficial calendar\; not affiliat
+ ed with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815554@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260530T200500Z
+DTEND:20260530T230500Z
+SUMMARY:Twins @ Pirates (Twins.TV)
+LOCATION:PNC Park\, Pittsburgh\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: Twins.TV\nVenue: PNC Park\, Pittsburgh\, Pe
+ nnsylvania\nFinal: Twins 9\, Pirates 10\nUnofficial calendar\; not affilia
+ ted with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815569@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260531T173500Z
+DTEND:20260531T203500Z
+SUMMARY:Twins @ Pirates (Twins.TV)
+LOCATION:PNC Park\, Pittsburgh\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: Twins.TV\nVenue: PNC Park\, Pittsburgh\, Pe
+ nnsylvania\nFinal: Twins 3\, Pirates 9\nUnofficial calendar\; not affiliat
+ ed with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815583@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260601T234000Z
+DTEND:20260602T024000Z
+SUMMARY:White Sox @ Twins (Twins.TV / CHSN)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / CHSN\nVenue: Target Field\, Minn
+ eapolis\, Minnesota\nFinal: White Sox 6\, Twins 9\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815597@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260602T234000Z
+DTEND:20260603T024000Z
+SUMMARY:White Sox @ Twins (Twins.TV / CHSN / KMSP-TV / Gray Media)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / CHSN / KMSP-TV / Gray Media\nVen
+ ue: Target Field\, Minneapolis\, Minnesota\nFinal: White Sox 4\, Twins 6\n
+ Unofficial calendar\; not affiliated with the MLB or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815612@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260603T174000Z
+DTEND:20260603T204000Z
+SUMMARY:White Sox @ Twins (ESPN Unlimited)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Target Field\, Minne
+ apolis\, Minnesota\nFinal: White Sox 8\, Twins 0\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815624@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260604T234000Z
+DTEND:20260605T024000Z
+SUMMARY:Royals @ Twins (Twins.TV / Royals.TV)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Royals.TV\nVenue: Target Field\,
+  Minneapolis\, Minnesota\nFinal: Royals 8\, Twins 6\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815637@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260606T001500Z
+DTEND:20260606T031500Z
+SUMMARY:Royals @ Twins (Apple TV)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: Target Field\, Minneapolis
+ \, Minnesota\nFinal: Royals 3\, Twins 5\nUnofficial calendar\; not affilia
+ ted with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815652@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260606T181000Z
+DTEND:20260606T211000Z
+SUMMARY:Royals @ Twins (ESPN Unlimited)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Target Field\, Minne
+ apolis\, Minnesota\nFinal: Royals 3\, Twins 2\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815667@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260607T181000Z
+DTEND:20260607T211000Z
+SUMMARY:Royals @ Twins (Twins.TV / Royals.TV)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Royals.TV\nVenue: Target Field\,
+  Minneapolis\, Minnesota\nFinal: Royals 6\, Twins 5\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815684@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260609T224000Z
+DTEND:20260610T014000Z
+SUMMARY:Twins @ Tigers (Twins.TV / Tigers.TV)
+LOCATION:Comerica Park\, Detroit\, Michigan
+DESCRIPTION:Regular Season\nTV: Twins.TV / Tigers.TV\nVenue: Comerica Park\
+ , Detroit\, Michigan\nFinal: Twins 4\, Tigers 10\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815699@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260610T224000Z
+DTEND:20260611T014000Z
+SUMMARY:Twins @ Tigers (Twins.TV / Tigers.TV)
+LOCATION:Comerica Park\, Detroit\, Michigan
+DESCRIPTION:Regular Season\nTV: Twins.TV / Tigers.TV\nVenue: Comerica Park\
+ , Detroit\, Michigan\nFinal: Twins 6\, Tigers 4\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815713@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260611T171000Z
+DTEND:20260611T201000Z
+SUMMARY:Twins @ Tigers (Twins.TV / Tigers.TV)
+LOCATION:Comerica Park\, Detroit\, Michigan
+DESCRIPTION:Regular Season\nTV: Twins.TV / Tigers.TV\nVenue: Comerica Park\
+ , Detroit\, Michigan\nFinal: Twins 0\, Tigers 11\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815730@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260613T001000Z
+DTEND:20260613T031000Z
+SUMMARY:Cardinals @ Twins (Twins.TV / Cardinals.TV / KMOV-TV)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Cardinals.TV / KMOV-TV\nVenue: T
+ arget Field\, Minneapolis\, Minnesota\nFinal: Cardinals 8\, Twins 9\nUnoff
+ icial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815745@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260613T181000Z
+DTEND:20260613T211000Z
+SUMMARY:Cardinals @ Twins (Twins.TV / Cardinals.TV)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Cardinals.TV\nVenue: Target Fiel
+ d\, Minneapolis\, Minnesota\nFinal: Cardinals 9\, Twins 6\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815760@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260614T181000Z
+DTEND:20260614T211000Z
+SUMMARY:Cardinals @ Twins (Twins.TV / Cardinals.TV)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Cardinals.TV\nVenue: Target Fiel
+ d\, Minneapolis\, Minnesota\nFinal: Cardinals 4\, Twins 5\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815769@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260616T000500Z
+DTEND:20260616T030500Z
+SUMMARY:Twins @ Rangers (Twins.TV / Rangers Sports Network)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Twins.TV / Rangers Sports Network\nVenue: G
+ lobe Life Field\, Arlington\, Texas\nFinal: Twins 4\, Rangers 2\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815783@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260617T000500Z
+DTEND:20260617T030500Z
+SUMMARY:Twins @ Rangers (Twins.TV / Rangers Sports Network)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Twins.TV / Rangers Sports Network\nVenue: G
+ lobe Life Field\, Arlington\, Texas\nFinal: Twins 12\, Rangers 2\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815808@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260618T183500Z
+DTEND:20260618T213500Z
+SUMMARY:Twins @ Rangers (ESPN Unlimited)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Globe Life Field\, A
+ rlington\, Texas\nFinal: Twins 9\, Rangers 3\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815824@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260620T014500Z
+DTEND:20260620T044500Z
+SUMMARY:Twins @ Diamondbacks (Apple TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: Chase Field\, Phoenix\, Ar
+ izona\nFinal: Twins 5\, Diamondbacks 9\nUnofficial calendar\; not affiliat
+ ed with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815838@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260621T021000Z
+DTEND:20260621T051000Z
+SUMMARY:Twins @ Diamondbacks (Twins.TV / DBACKS.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: Twins.TV / DBACKS.TV\nVenue: Chase Field\, 
+ Phoenix\, Arizona\nFinal: Twins 16\, Diamondbacks 8\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815853@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260621T191500Z
+DTEND:20260621T221500Z
+SUMMARY:Twins @ Diamondbacks (Peacock)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: Peacock\nVenue: Chase Field\, Phoenix\, Ari
+ zona\nFinal: Twins 4\, Diamondbacks 2\nUnofficial calendar\; not affiliate
+ d with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815863@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260622T234000Z
+DTEND:20260623T024000Z
+SUMMARY:Dodgers @ Twins (Twins.TV / SportsNet LA)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / SportsNet LA\nVenue: Target Fiel
+ d\, Minneapolis\, Minnesota\nFinal: Dodgers 2\, Twins 1\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815877@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260623T234000Z
+DTEND:20260624T024000Z
+SUMMARY:Dodgers @ Twins (TBS)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: TBS\nVenue: Target Field\, Minneapolis\, Mi
+ nnesota\nFinal: Dodgers 12\, Twins 3\nUnofficial calendar\; not affiliated
+  with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815892@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260624T234000Z
+DTEND:20260625T024000Z
+SUMMARY:Dodgers @ Twins (Twins.TV / SportsNet LA)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / SportsNet LA\nVenue: Target Fiel
+ d\, Minneapolis\, Minnesota\nFinal: Dodgers 4\, Twins 3\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815915@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260627T001000Z
+DTEND:20260627T031000Z
+SUMMARY:Rockies @ Twins (Twins.TV / Rockies.TV)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Rockies.TV\nVenue: Target Field\
+ , Minneapolis\, Minnesota\nFinal: Rockies 8\, Twins 9\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815930@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260627T231000Z
+DTEND:20260628T021000Z
+SUMMARY:Rockies @ Twins (Twins.TV / Rockies.TV)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Rockies.TV\nVenue: Target Field\
+ , Minneapolis\, Minnesota\nFinal: Rockies 8\, Twins 5\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815945@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260628T181000Z
+DTEND:20260628T211000Z
+SUMMARY:Rockies @ Twins (Twins.TV / Rockies.TV)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Rockies.TV\nVenue: Target Field\
+ , Minneapolis\, Minnesota\nFinal: Rockies 2\, Twins 3\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815958@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260630T001000Z
+DTEND:20260630T031000Z
+SUMMARY:Twins @ Astros (Twins.TV / Space City Home Network)
+LOCATION:Daikin Park\, Houston\, Texas
+DESCRIPTION:Regular Season\nTV: Twins.TV / Space City Home Network\nVenue: 
+ Daikin Park\, Houston\, Texas\nFinal: Twins 5\, Astros 4\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815972@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260701T001000Z
+DTEND:20260701T031000Z
+SUMMARY:Twins @ Astros (Twins.TV / Space City Home Network)
+LOCATION:Daikin Park\, Houston\, Texas
+DESCRIPTION:Regular Season\nTV: Twins.TV / Space City Home Network\nVenue: 
+ Daikin Park\, Houston\, Texas\nFinal: Twins 4\, Astros 6\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815987@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260702T001000Z
+DTEND:20260702T031000Z
+SUMMARY:Twins @ Astros (Twins.TV / Space City Home Network)
+LOCATION:Daikin Park\, Houston\, Texas
+DESCRIPTION:Regular Season\nTV: Twins.TV / Space City Home Network\nVenue: 
+ Daikin Park\, Houston\, Texas\nFinal: Twins 8\, Astros 3\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816004@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260703T230500Z
+DTEND:20260704T020500Z
+SUMMARY:Twins @ Yankees (Twins.TV / YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: Twins.TV / YES\nVenue: Yankee Stadium\, Bro
+ nx\, New York\nFinal: Twins 2\, Yankees 5\nUnofficial calendar\; not affil
+ iated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816017@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260704T173500Z
+DTEND:20260704T203500Z
+SUMMARY:Twins @ Yankees (ESPN Unlimited)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Yankee Stadium\, Bro
+ nx\, New York\nFinal: Twins 11\, Yankees 4\nUnofficial calendar\; not affi
+ liated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816032@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260705T173500Z
+DTEND:20260705T203500Z
+SUMMARY:Twins @ Yankees (Peacock / NBCSN)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: Peacock / NBCSN\nVenue: Yankee Stadium\, Br
+ onx\, New York\nFinal: Twins 6\, Yankees 1\nUnofficial calendar\; not affi
+ liated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816063@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260707T234000Z
+DTEND:20260708T024000Z
+SUMMARY:Guardians @ Twins (CLEGuardians.TV / Twins.TV)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Twins.TV\nVenue: Target F
+ ield\, Minneapolis\, Minnesota\nFinal: Guardians 1\, Twins 3\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816078@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260708T234000Z
+DTEND:20260709T024000Z
+SUMMARY:Guardians @ Twins (CLEGuardians.TV / Twins.TV / KMSP-TV / Gray Medi
+ a)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Twins.TV / KMSP-TV / Gray
+  Media\nVenue: Target Field\, Minneapolis\, Minnesota\nFinal: Guardians 5\
+ , Twins 6\nUnofficial calendar\; not affiliated with the MLB or ESPN. Time
+ s may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816092@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260709T174000Z
+DTEND:20260709T204000Z
+SUMMARY:Guardians @ Twins (CLEGuardians.TV / Twins.TV)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Twins.TV\nVenue: Target F
+ ield\, Minneapolis\, Minnesota\nFinal: Guardians 5\, Twins 2\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816104@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260711T001000Z
+DTEND:20260711T031000Z
+SUMMARY:Angels @ Twins (Twins.TV / Angels.TV)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Angels.TV\nVenue: Target Field\,
+  Minneapolis\, Minnesota\nFinal: Angels 4\, Twins 3\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816119@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260711T181000Z
+DTEND:20260711T211000Z
+SUMMARY:Angels @ Twins (Twins.TV / Angels.TV)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Angels.TV\nVenue: Target Field\,
+  Minneapolis\, Minnesota\nFinal: Angels 3\, Twins 5\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816134@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260712T181000Z
+DTEND:20260712T211000Z
+SUMMARY:Angels @ Twins (Twins.TV / Angels.TV)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Angels.TV\nVenue: Target Field\,
+  Minneapolis\, Minnesota\nFinal: Angels 2\, Twins 4\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816149@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260718T000500Z
+DTEND:20260718T030500Z
+SUMMARY:Twins @ Cubs (Twins.TV / Marquee Sports Net)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Twins.TV / Marquee Sports Net\nVenue: Wrigl
+ ey Field\, Chicago\, Illinois\nFinal: Twins 5\, Cubs 2\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816164@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260718T182000Z
+DTEND:20260718T212000Z
+SUMMARY:Twins @ Cubs (Twins.TV / Marquee Sports Net)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Twins.TV / Marquee Sports Net\nVenue: Wrigl
+ ey Field\, Chicago\, Illinois\nFinal: Twins 2\, Cubs 6\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816179@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260719T182000Z
+DTEND:20260719T212000Z
+SUMMARY:Twins @ Cubs (Twins.TV / Marquee Sports Net)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Twins.TV / Marquee Sports Net\nVenue: Wrigl
+ ey Field\, Chicago\, Illinois\nFinal: Twins 1\, Cubs 10\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816188@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260720T224000Z
+DTEND:20260721T014000Z
+SUMMARY:Twins @ Guardians (CLEGuardians.TV / Twins.TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Twins.TV\nVenue: Progress
+ ive Field\, Cleveland\, Ohio\nFinal: Twins 4\, Guardians 13\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816203@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260721T224000Z
+DTEND:20260722T014000Z
+SUMMARY:Twins @ Guardians (CLEGuardians.TV / Twins.TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Twins.TV\nVenue: Progress
+ ive Field\, Cleveland\, Ohio\nFinal: Twins 2\, Guardians 5\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816218@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260722T224000Z
+DTEND:20260723T014000Z
+SUMMARY:Twins @ Guardians (CLEGuardians.TV / Twins.TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Twins.TV\nVenue: Progress
+ ive Field\, Cleveland\, Ohio\nFinal: Twins 10\, Guardians 6\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816232@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260723T171000Z
+DTEND:20260723T201000Z
+SUMMARY:Twins @ Guardians (ESPN Unlimited)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Progressive Field\, 
+ Cleveland\, Ohio\nFinal: Twins 3\, Guardians 1\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816244@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260725T001000Z
+DTEND:20260725T031000Z
+SUMMARY:Athletics @ Twins (Twins.TV / NBC Sports CA)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / NBC Sports CA\nVenue: Target Fie
+ ld\, Minneapolis\, Minnesota\nFinal: Athletics 2\, Twins 0\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816259@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260725T231000Z
+DTEND:20260726T021000Z
+SUMMARY:Athletics @ Twins (Twins.TV / NBC Sports CA)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / NBC Sports CA\nVenue: Target Fie
+ ld\, Minneapolis\, Minnesota\nFinal: Athletics 0\, Twins 2\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816274@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260726T181000Z
+DTEND:20260726T211000Z
+SUMMARY:Athletics @ Twins (Twins.TV / NBC Sports CA)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / NBC Sports CA\nVenue: Target Fie
+ ld\, Minneapolis\, Minnesota\nFinal: Athletics 8\, Twins 11\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816300@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260728T234000Z
+DTEND:20260729T024000Z
+SUMMARY:Royals @ Twins (Twins.TV / Royals.TV)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Royals.TV\nVenue: Target Field\,
+  Minneapolis\, Minnesota\nFinal: Royals 2\, Twins 3\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816315@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260729T234000Z
+DTEND:20260730T024000Z
+SUMMARY:Royals @ Twins (Twins.TV / Royals.TV / KMSP-TV / Gray Media)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Royals.TV / KMSP-TV / Gray Media
+ \nVenue: Target Field\, Minneapolis\, Minnesota\nFinal: Royals 4\, Twins 0
+ \nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816327@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260730T174000Z
+DTEND:20260730T204000Z
+SUMMARY:Royals @ Twins (Twins.TV / Royals.TV)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Royals.TV\nVenue: Target Field\,
+  Minneapolis\, Minnesota\nFinal: Royals 3\, Twins 4\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816345@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260801T021000Z
+DTEND:20260801T051000Z
+SUMMARY:Twins @ Mariners (Twins.TV / Mariners.TV / KING 5)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Twins.TV / Mariners.TV / KING 5\nVenue: T-M
+ obile Park\, Seattle\, Washington\nFinal: Twins 5\, Mariners 3\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816360@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260801T201000Z
+DTEND:20260801T231000Z
+SUMMARY:Twins @ Mariners (FS1)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: FS1\nVenue: T-Mobile Park\, Seattle\, Washi
+ ngton\nFinal: Twins 3\, Mariners 4\nUnofficial calendar\; not affiliated w
+ ith the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816375@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260802T201000Z
+DTEND:20260802T231000Z
+SUMMARY:Twins @ Mariners (Twins.TV / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Twins.TV / Mariners.TV\nVenue: T-Mobile Par
+ k\, Seattle\, Washington\nFinal: Twins 6\, Mariners 7\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816392@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260804T234000Z
+DTEND:20260805T024000Z
+SUMMARY:Twins @ Royals (Twins.TV / Royals.TV)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Twins.TV / Royals.TV\nVenue: Kauffman Stadi
+ um\, Kansas City\, Missouri\nFinal: Twins 2\, Royals 8\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816407@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260805T234000Z
+DTEND:20260806T024000Z
+SUMMARY:Twins @ Royals (Twins.TV / Royals.TV)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Twins.TV / Royals.TV\nVenue: Kauffman Stadi
+ um\, Kansas City\, Missouri\nFinal: Twins 1\, Royals 2\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816420@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260806T233000Z
+DTEND:20260807T023000Z
+SUMMARY:Twins @ Royals (ESPN)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Kauffman Stadium\, Kansas City
+ \, Missouri\nFinal: Twins 4\, Royals 3\nUnofficial calendar\; not affiliat
+ ed with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816434@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260807T234000Z
+DTEND:20260808T024000Z
+SUMMARY:Twins @ Brewers (Twins.TV / Brewers.TV)
+LOCATION:American Family Field\, Milwaukee\, Wisconsin
+DESCRIPTION:Regular Season\nTV: Twins.TV / Brewers.TV\nVenue: American Fami
+ ly Field\, Milwaukee\, Wisconsin\nFinal: Twins 8\, Brewers 6\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816449@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260808T231000Z
+DTEND:20260809T021000Z
+SUMMARY:Twins @ Brewers (Twins.TV / Brewers.TV)
+LOCATION:American Family Field\, Milwaukee\, Wisconsin
+DESCRIPTION:Regular Season\nTV: Twins.TV / Brewers.TV\nVenue: American Fami
+ ly Field\, Milwaukee\, Wisconsin\nFinal: Twins 3\, Brewers 4\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816464@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260809T181000Z
+DTEND:20260809T211000Z
+SUMMARY:Twins @ Brewers (Twins.TV / Brewers.TV)
+LOCATION:American Family Field\, Milwaukee\, Wisconsin
+DESCRIPTION:Regular Season\nTV: Twins.TV / Brewers.TV\nVenue: American Fami
+ ly Field\, Milwaukee\, Wisconsin\nFinal: Twins 3\, Brewers 4\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816471@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260810T234000Z
+DTEND:20260811T024000Z
+SUMMARY:Orioles @ Twins (Twins.TV / MASN)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / MASN\nVenue: Target Field\, Minn
+ eapolis\, Minnesota\nFinal: Orioles 5\, Twins 9\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816485@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260811T234000Z
+DTEND:20260812T024000Z
+SUMMARY:Orioles @ Twins (Twins.TV / MASN / KMSP-TV / Gray Media)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / MASN / KMSP-TV / Gray Media\nVen
+ ue: Target Field\, Minneapolis\, Minnesota\nFinal: Orioles 5\, Twins 2\nUn
+ official calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816500@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260812T174000Z
+DTEND:20260812T204000Z
+SUMMARY:Orioles @ Twins (Twins.TV / MASN)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / MASN\nVenue: Target Field\, Minn
+ eapolis\, Minnesota\nFinal: Orioles 5\, Twins 7\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816525@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260813T233000Z
+DTEND:20260814T023000Z
+SUMMARY:Phillies @ Twins (Netflix)
+LOCATION:Field of Dreams\, Dyersville\, Iowa
+DESCRIPTION:Field of Dreams Game\nTV: Netflix\nVenue: Field of Dreams\, Dye
+ rsville\, Iowa\nFinal: Phillies 7\, Twins 1\nUnofficial calendar\; not aff
+ iliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816540@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260815T231000Z
+DTEND:20260816T021000Z
+SUMMARY:Phillies @ Twins (Twins.TV / NBC Sports Phil)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / NBC Sports Phil\nVenue: Target F
+ ield\, Minneapolis\, Minnesota\nFinal: Phillies 9\, Twins 1\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816555@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260816T181000Z
+DTEND:20260816T211000Z
+SUMMARY:Phillies @ Twins (Twins.TV / NBC Sports Phil)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / NBC Sports Phil\nVenue: Target F
+ ield\, Minneapolis\, Minnesota\nFinal: Phillies 7\, Twins 5\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816581@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260817T234000Z
+DTEND:20260818T024000Z
+SUMMARY:Braves @ Twins (Twins.TV / BravesVision)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / BravesVision\nVenue: Target Fiel
+ d\, Minneapolis\, Minnesota\nFinal: Braves 2\, Twins 4\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816596@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260818T234000Z
+DTEND:20260819T024000Z
+SUMMARY:Braves @ Twins (Twins.TV / BravesVision / KMSP-TV / Gray Media)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / BravesVision / KMSP-TV / Gray Me
+ dia\nVenue: Target Field\, Minneapolis\, Minnesota\nFinal: Braves 1\, Twin
+ s 4\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816607@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260819T174000Z
+DTEND:20260819T204000Z
+SUMMARY:Braves @ Twins (ESPN Unlimited)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Target Field\, Minne
+ apolis\, Minnesota\nFinal: Braves 4\, Twins 6\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816623@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260822T014000Z
+DTEND:20260822T044000Z
+SUMMARY:Twins @ Padres (Twins.TV / Padres.TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Twins.TV / Padres.TV\nVenue: Petco Park\, S
+ an Diego\, California\nFinal: Twins 2\, Padres 6\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816638@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260823T004000Z
+DTEND:20260823T034000Z
+SUMMARY:Twins @ Padres (Twins.TV / Padres.TV / KFMB 8.1 (CBS) / TV Azteca)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Twins.TV / Padres.TV / KFMB 8.1 (CBS) / TV 
+ Azteca\nVenue: Petco Park\, San Diego\, California\nFinal: Twins 5\, Padre
+ s 7\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816653@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260823T201000Z
+DTEND:20260823T231000Z
+SUMMARY:Twins @ Padres (Twins.TV / Padres.TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Twins.TV / Padres.TV\nVenue: Petco Park\, S
+ an Diego\, California\nFinal: Twins 1\, Padres 8\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816662@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260825T014000Z
+DTEND:20260825T044000Z
+SUMMARY:Twins @ Athletics (Twins.TV / NBC Sports CA)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: Twins.TV / NBC Sports CA\nVenue: Sutter Hea
+ lth Park\, Sacramento\, California\nFinal: Twins 9\, Athletics 6\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816677@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260826T014000Z
+DTEND:20260826T044000Z
+SUMMARY:Twins @ Athletics (Twins.TV / NBC Sports CA)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: Twins.TV / NBC Sports CA\nVenue: Sutter Hea
+ lth Park\, Sacramento\, California\nFinal: Twins 2\, Athletics 4\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816692@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260827T010500Z
+DTEND:20260827T040500Z
+SUMMARY:Twins @ Athletics (Twins.TV / NBC Sports CA)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: Twins.TV / NBC Sports CA\nVenue: Sutter Hea
+ lth Park\, Sacramento\, California\nFinal: Twins 4\, Athletics 7\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816710@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260829T001000Z
+DTEND:20260829T031000Z
+SUMMARY:White Sox @ Twins (Twins.TV / CHSN)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / CHSN\nVenue: Target Field\, Minn
+ eapolis\, Minnesota\nFinal: White Sox 7\, Twins 4\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816725@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260829T181000Z
+DTEND:20260829T211000Z
+SUMMARY:White Sox @ Twins (Twins.TV / CHSN)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / CHSN\nVenue: Target Field\, Minn
+ eapolis\, Minnesota\nFinal: White Sox 3\, Twins 2\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816740@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260830T181000Z
+DTEND:20260830T211000Z
+SUMMARY:White Sox @ Twins (Twins.TV / CHSN)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / CHSN\nVenue: Target Field\, Minn
+ eapolis\, Minnesota\nFinal: White Sox 1\, Twins 5\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816753@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260831T234000Z
+DTEND:20260901T024000Z
+SUMMARY:Tigers @ Twins (Twins.TV / Tigers.TV)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Tigers.TV\nVenue: Target Field\,
+  Minneapolis\, Minnesota\nFinal: Tigers 1\, Twins 11\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816766@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260901T234000Z
+DTEND:20260902T024000Z
+SUMMARY:Tigers @ Twins (Twins.TV / Tigers.TV / KMSP-TV / Gray Media)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Tigers.TV / KMSP-TV / Gray Media
+ \nVenue: Target Field\, Minneapolis\, Minnesota\nFinal: Tigers 2\, Twins 1
+ 5\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may ch
+ ange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816781@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260902T234000Z
+DTEND:20260903T024000Z
+SUMMARY:Tigers @ Twins (Twins.TV / Tigers.TV)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Tigers.TV\nVenue: Target Field\,
+  Minneapolis\, Minnesota\nFinal: Tigers 11\, Twins 6\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816805@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260904T234000Z
+DTEND:20260905T024000Z
+SUMMARY:Twins @ White Sox (Twins.TV / CHSN / WCIU-TV)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Twins.TV / CHSN / WCIU-TV\nVenue: Rate Fiel
+ d\, Chicago\, Illinois\nFinal: Twins 1\, White Sox 4\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816820@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260905T231000Z
+DTEND:20260906T021000Z
+SUMMARY:Twins @ White Sox (Twins.TV / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Twins.TV / CHSN\nVenue: Rate Field\, Chicag
+ o\, Illinois\nFinal: Twins 6\, White Sox 4\nUnofficial calendar\; not affi
+ liated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816835@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260906T222000Z
+DTEND:20260907T012000Z
+SUMMARY:Twins @ White Sox (NBC / Peacock)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: NBC / Peacock\nVenue: Rate Field\, Chicago\
+ , Illinois\nFinal: Twins 1\, White Sox 10\nUnofficial calendar\; not affil
+ iated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816845@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260907T191000Z
+DTEND:20260907T221000Z
+SUMMARY:Twins @ Tigers (Twins.TV / Tigers.TV)
+LOCATION:Comerica Park\, Detroit\, Michigan
+DESCRIPTION:Regular Season\nTV: Twins.TV / Tigers.TV\nVenue: Comerica Park\
+ , Detroit\, Michigan\nFinal: Twins 4\, Tigers 5\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816857@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260908T224000Z
+DTEND:20260909T014000Z
+SUMMARY:Twins @ Tigers (Twins.TV / Tigers.TV)
+LOCATION:Comerica Park\, Detroit\, Michigan
+DESCRIPTION:Regular Season\nTV: Twins.TV / Tigers.TV\nVenue: Comerica Park\
+ , Detroit\, Michigan\nFinal: Twins 3\, Tigers 2\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816872@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260909T171000Z
+DTEND:20260909T201000Z
+SUMMARY:Twins @ Tigers (Twins.TV / Tigers.TV)
+LOCATION:Comerica Park\, Detroit\, Michigan
+DESCRIPTION:Regular Season\nTV: Twins.TV / Tigers.TV\nVenue: Comerica Park\
+ , Detroit\, Michigan\nFinal: Twins 2\, Tigers 7\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816898@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260912T001000Z
+DTEND:20260912T031000Z
+SUMMARY:Guardians @ Twins (CLEGuardians.TV / Twins.TV)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Twins.TV\nVenue: Target F
+ ield\, Minneapolis\, Minnesota\nFinal: Guardians 5\, Twins 2\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816913@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260912T201000Z
+DTEND:20260912T231000Z
+SUMMARY:Guardians @ Twins (CLEGuardians.TV / Twins.TV)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Twins.TV\nVenue: Target F
+ ield\, Minneapolis\, Minnesota\nFinal: Guardians 3\, Twins 4\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816928@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260913T181000Z
+DTEND:20260913T211000Z
+SUMMARY:Guardians @ Twins (CLEGuardians.TV / Twins.TV)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Twins.TV\nVenue: Target F
+ ield\, Minneapolis\, Minnesota\nFinal: Guardians 9\, Twins 2\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816938@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260914T234000Z
+DTEND:20260915T024000Z
+SUMMARY:Yankees @ Twins (Twins.TV / YES)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / YES\nVenue: Target Field\, Minne
+ apolis\, Minnesota\nFinal: Yankees 8\, Twins 3\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816953@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260915T234000Z
+DTEND:20260916T024000Z
+SUMMARY:Yankees @ Twins (Twins.TV / YES)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / YES\nVenue: Target Field\, Minne
+ apolis\, Minnesota\nFinal: Yankees 8\, Twins 1\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816968@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260916T174000Z
+DTEND:20260916T204000Z
+SUMMARY:Yankees @ Twins (Twins.TV / YES)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / YES\nVenue: Target Field\, Minne
+ apolis\, Minnesota\nFinal: Yankees 4\, Twins 5\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816981@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260918T013800Z
+DTEND:20260918T043800Z
+SUMMARY:Twins @ Angels (Twins.TV / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: Twins.TV / Angels.TV\nVenue: Angel Stadium\
+ , Anaheim\, California\nFinal: Twins 4\, Angels 5\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816994@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260919T013800Z
+DTEND:20260919T043800Z
+SUMMARY:Twins @ Angels (Twins.TV / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: Twins.TV / Angels.TV\nVenue: Angel Stadium\
+ , Anaheim\, California\nFinal: Twins 3\, Angels 0\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817009@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260920T013800Z
+DTEND:20260920T043800Z
+SUMMARY:Twins @ Angels (Twins.TV / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: Twins.TV / Angels.TV\nVenue: Angel Stadium\
+ , Anaheim\, California\nFinal: Twins 5\, Angels 6\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817024@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260920T200700Z
+DTEND:20260920T230700Z
+SUMMARY:Twins @ Angels (Twins.TV / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: Twins.TV / Angels.TV\nVenue: Angel Stadium\
+ , Anaheim\, California\nFinal: Twins 8\, Angels 0\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817029@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260922T014500Z
+DTEND:20260922T044500Z
+SUMMARY:Twins @ Giants (Twins.TV / NBC Sports BA)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: Twins.TV / NBC Sports BA\nVenue: Oracle Par
+ k\, San Francisco\, California\nFinal: Twins 2\, Giants 5\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817043@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260923T014500Z
+DTEND:20260923T044500Z
+SUMMARY:Twins @ Giants (Twins.TV / NBC Sports BA)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: Twins.TV / NBC Sports BA\nVenue: Oracle Par
+ k\, San Francisco\, California\nFinal: Twins 3\, Giants 2\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817058@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260923T194500Z
+DTEND:20260923T224500Z
+SUMMARY:Twins @ Giants (Twins.TV / NBC Sports BA)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: Twins.TV / NBC Sports BA\nVenue: Oracle Par
+ k\, San Francisco\, California\nFinal: Twins 4\, Giants 2\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817082@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260926T001000Z
+DTEND:20260926T031000Z
+SUMMARY:Rangers @ Twins (Twins.TV / Rangers Sports Network / CW33)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Rangers Sports Network / CW33\nV
+ enue: Target Field\, Minneapolis\, Minnesota\nFinal: Rangers 2\, Twins 10\
+ nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817097@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260926T201000Z
+DTEND:20260926T231000Z
+SUMMARY:Rangers @ Twins (Twins.TV / Rangers Sports Network)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Rangers Sports Network\nVenue: T
+ arget Field\, Minneapolis\, Minnesota\nFinal: Rangers 6\, Twins 2\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817112@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260927T191000Z
+DTEND:20260927T221000Z
+SUMMARY:Rangers @ Twins (Twins.TV / Rangers Sports Network)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Rangers Sports Network\nVenue: T
+ arget Field\, Minneapolis\, Minnesota\nFinal: Rangers 4\, Twins 6\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

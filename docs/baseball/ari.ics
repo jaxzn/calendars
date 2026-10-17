@@ -1,0 +1,2146 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jaxzn//MLB Calendars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Arizona Diamondbacks
+X-WR-CALDESC:Arizona Diamondbacks MLB schedule (unofficial\, auto-updated)
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:espn-401814699@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260327T003000Z
+DTEND:20260327T033000Z
+SUMMARY:Diamondbacks @ Dodgers (NBC / Peacock)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: NBC / Peacock\nVenue: Dodger Stadium\, Los 
+ Angeles\, California\nFinal: Diamondbacks 2\, Dodgers 8\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814704@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260328T021000Z
+DTEND:20260328T051000Z
+SUMMARY:Diamondbacks @ Dodgers (MLB Network)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: MLB Network\nVenue: Dodger Stadium\, Los An
+ geles\, California\nFinal: Diamondbacks 4\, Dodgers 5\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814718@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260329T011000Z
+DTEND:20260329T041000Z
+SUMMARY:Diamondbacks @ Dodgers (SportsNet LA / DBACKS.TV)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / DBACKS.TV\nVenue: Dodger Sta
+ dium\, Los Angeles\, California\nFinal: Diamondbacks 2\, Dodgers 3\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814747@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260331T021000Z
+DTEND:20260331T051000Z
+SUMMARY:Tigers @ Diamondbacks (DBACKS.TV / Tigers.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Tigers.TV\nVenue: Chase Field\,
+  Phoenix\, Arizona\nFinal: Tigers 6\, Diamondbacks 9\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814761@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260401T014000Z
+DTEND:20260401T044000Z
+SUMMARY:Tigers @ Diamondbacks (DBACKS.TV / Tigers.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Tigers.TV\nVenue: Chase Field\,
+  Phoenix\, Arizona\nFinal: Tigers 5\, Diamondbacks 7\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814776@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260401T194000Z
+DTEND:20260401T224000Z
+SUMMARY:Tigers @ Diamondbacks (ESPN Unlimited)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Chase Field\, Phoeni
+ x\, Arizona\nFinal: Tigers 0\, Diamondbacks 1\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814781@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260403T014000Z
+DTEND:20260403T044000Z
+SUMMARY:Braves @ Diamondbacks (ESPN Unlimited)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Chase Field\, Phoeni
+ x\, Arizona\nFinal: Braves 17\, Diamondbacks 2\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814793@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260404T014000Z
+DTEND:20260404T044000Z
+SUMMARY:Braves @ Diamondbacks (Apple TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: Chase Field\, Phoenix\, Ar
+ izona\nFinal: Braves 2\, Diamondbacks 0\nUnofficial calendar\; not affilia
+ ted with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814808@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260404T231500Z
+DTEND:20260405T021500Z
+SUMMARY:Braves @ Diamondbacks (Fox)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: Fox\nVenue: Chase Field\, Phoenix\, Arizona
+ \nFinal: Braves 1\, Diamondbacks 2\nUnofficial calendar\; not affiliated w
+ ith the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814823@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260405T201000Z
+DTEND:20260405T231000Z
+SUMMARY:Braves @ Diamondbacks (BravesVision / DBACKS.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: BravesVision / DBACKS.TV\nVenue: Chase Fiel
+ d\, Phoenix\, Arizona\nFinal: Braves 5\, Diamondbacks 6\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814840@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260407T201000Z
+DTEND:20260407T231000Z
+SUMMARY:Diamondbacks @ Mets (DBACKS.TV / SNY)
+LOCATION:Citi Field\, Queens\, New York
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / SNY\nVenue: Citi Field\, Queens
+ \, New York\nFinal: Diamondbacks 3\, Mets 4\nUnofficial calendar\; not aff
+ iliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814855@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260408T201000Z
+DTEND:20260408T231000Z
+SUMMARY:Diamondbacks @ Mets (DBACKS.TV / SNY)
+LOCATION:Citi Field\, Queens\, New York
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / SNY\nVenue: Citi Field\, Queens
+ \, New York\nFinal: Diamondbacks 7\, Mets 2\nUnofficial calendar\; not aff
+ iliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814870@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260409T231000Z
+DTEND:20260410T021000Z
+SUMMARY:Diamondbacks @ Mets (MLB Network)
+LOCATION:Citi Field\, Queens\, New York
+DESCRIPTION:Regular Season\nTV: MLB Network\nVenue: Citi Field\, Queens\, N
+ ew York\nFinal: Diamondbacks 7\, Mets 1\nUnofficial calendar\; not affilia
+ ted with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814877@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260410T224000Z
+DTEND:20260411T014000Z
+SUMMARY:Diamondbacks @ Phillies (ESPN Unlimited)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Citizens Bank Park\,
+  Philadelphia\, Pennsylvania\nFinal: Diamondbacks 5\, Phillies 4\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814892@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260411T170500Z
+DTEND:20260411T200500Z
+SUMMARY:Diamondbacks @ Phillies (FS1)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: FS1\nVenue: Citizens Bank Park\, Philadelph
+ ia\, Pennsylvania\nFinal: Diamondbacks 3\, Phillies 4\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814907@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260412T173500Z
+DTEND:20260412T203500Z
+SUMMARY:Diamondbacks @ Phillies (DBACKS.TV / NBC Sports Phil)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / NBC Sports Phil\nVenue: Citizen
+ s Bank Park\, Philadelphia\, Pennsylvania\nFinal: Diamondbacks 4\, Phillie
+ s 3\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814922@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260413T223500Z
+DTEND:20260414T013500Z
+SUMMARY:Diamondbacks @ Orioles (DBACKS.TV / MASN)
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / MASN\nVenue: Oriole Park at Cam
+ den Yards\, Baltimore\, Maryland\nFinal: Diamondbacks 7\, Orioles 9\nUnoff
+ icial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814932@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260414T223500Z
+DTEND:20260415T013500Z
+SUMMARY:Diamondbacks @ Orioles (DBACKS.TV / MASN)
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / MASN\nVenue: Oriole Park at Cam
+ den Yards\, Baltimore\, Maryland\nFinal: Diamondbacks 4\, Orioles 3\nUnoff
+ icial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814947@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260415T163500Z
+DTEND:20260415T193500Z
+SUMMARY:Diamondbacks @ Orioles (DBACKS.TV / MASN)
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / MASN\nVenue: Oriole Park at Cam
+ den Yards\, Baltimore\, Maryland\nFinal: Diamondbacks 8\, Orioles 5\nUnoff
+ icial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814985@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260418T014000Z
+DTEND:20260418T044000Z
+SUMMARY:Blue Jays @ Diamondbacks (DBACKS.TV / Sportsnet / TVA)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Sportsnet / TVA\nVenue: Chase F
+ ield\, Phoenix\, Arizona\nFinal: Blue Jays 3\, Diamondbacks 6\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815000@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260419T001000Z
+DTEND:20260419T031000Z
+SUMMARY:Blue Jays @ Diamondbacks (DBACKS.TV / Sportsnet One)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Sportsnet One\nVenue: Chase Fie
+ ld\, Phoenix\, Arizona\nFinal: Blue Jays 2\, Diamondbacks 6\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815015@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260419T201000Z
+DTEND:20260419T231000Z
+SUMMARY:Blue Jays @ Diamondbacks (DBACKS.TV / Sportsnet One)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Sportsnet One\nVenue: Chase Fie
+ ld\, Phoenix\, Arizona\nFinal: Blue Jays 10\, Diamondbacks 4\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815038@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260422T014000Z
+DTEND:20260422T044000Z
+SUMMARY:White Sox @ Diamondbacks (DBACKS.TV / CHSN)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / CHSN\nVenue: Chase Field\, Phoe
+ nix\, Arizona\nFinal: White Sox 11\, Diamondbacks 5\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815053@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260423T014000Z
+DTEND:20260423T044000Z
+SUMMARY:White Sox @ Diamondbacks (DBACKS.TV / CHSN)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / CHSN\nVenue: Chase Field\, Phoe
+ nix\, Arizona\nFinal: White Sox 7\, Diamondbacks 11\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815063@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260423T194000Z
+DTEND:20260423T224000Z
+SUMMARY:White Sox @ Diamondbacks (DBACKS.TV / CHSN)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / CHSN\nVenue: Chase Field\, Phoe
+ nix\, Arizona\nFinal: White Sox 4\, Diamondbacks 1\nUnofficial calendar\; 
+ not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815094@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260425T220500Z
+DTEND:20260426T010500Z
+SUMMARY:Padres @ Diamondbacks (Padres.TV / DBACKS.TV)
+LOCATION:Estadio Alfredo Harp Helú\, Mexico City
+DESCRIPTION:MLB World Tour: Mexico City Series\nTV: Padres.TV / DBACKS.TV\n
+ Venue: Estadio Alfredo Harp Helú\, Mexico City\nFinal: Padres 6\, Diamond
+ backs 4\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815109@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260426T200500Z
+DTEND:20260426T230500Z
+SUMMARY:Padres @ Diamondbacks (Padres.TV / DBACKS.TV)
+LOCATION:Estadio Alfredo Harp Helú\, Mexico City
+DESCRIPTION:MLB World Tour: Mexico City Series\nTV: Padres.TV / DBACKS.TV\n
+ Venue: Estadio Alfredo Harp Helú\, Mexico City\nFinal: Padres 7\, Diamond
+ backs 12\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times
+  may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815127@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260428T234000Z
+DTEND:20260429T024000Z
+SUMMARY:Diamondbacks @ Brewers (DBACKS.TV / Brewers.TV)
+LOCATION:American Family Field\, Milwaukee\, Wisconsin
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Brewers.TV\nVenue: American Fam
+ ily Field\, Milwaukee\, Wisconsin\nFinal: Diamondbacks 2\, Brewers 13\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815142@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260429T234000Z
+DTEND:20260430T024000Z
+SUMMARY:Diamondbacks @ Brewers (DBACKS.TV / Brewers.TV)
+LOCATION:American Family Field\, Milwaukee\, Wisconsin
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Brewers.TV\nVenue: American Fam
+ ily Field\, Milwaukee\, Wisconsin\nFinal: Diamondbacks 6\, Brewers 2\nUnof
+ ficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815154@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260430T174000Z
+DTEND:20260430T204000Z
+SUMMARY:Diamondbacks @ Brewers (DBACKS.TV / Brewers.TV)
+LOCATION:American Family Field\, Milwaukee\, Wisconsin
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Brewers.TV\nVenue: American Fam
+ ily Field\, Milwaukee\, Wisconsin\nFinal: Diamondbacks 1\, Brewers 13\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815164@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260501T182000Z
+DTEND:20260501T212000Z
+SUMMARY:Diamondbacks @ Cubs (Marquee Sports Net / DBACKS.TV)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / DBACKS.TV\nVenue: Wrig
+ ley Field\, Chicago\, Illinois\nFinal: Diamondbacks 5\, Cubs 6\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815179@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260502T182000Z
+DTEND:20260502T212000Z
+SUMMARY:Diamondbacks @ Cubs (Marquee Sports Net / DBACKS.TV)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / DBACKS.TV\nVenue: Wrig
+ ley Field\, Chicago\, Illinois\nFinal: Diamondbacks 0\, Cubs 2\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815194@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260503T182000Z
+DTEND:20260503T212000Z
+SUMMARY:Diamondbacks @ Cubs (Marquee Sports Net / DBACKS.TV)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / DBACKS.TV\nVenue: Wrig
+ ley Field\, Chicago\, Illinois\nFinal: Diamondbacks 4\, Cubs 8\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815227@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260506T014000Z
+DTEND:20260506T044000Z
+SUMMARY:Pirates @ Diamondbacks (DBACKS.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV\nVenue: Chase Field\, Phoenix\, A
+ rizona\nFinal: Pirates 0\, Diamondbacks 9\nUnofficial calendar\; not affil
+ iated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815242@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260507T014000Z
+DTEND:20260507T044000Z
+SUMMARY:Pirates @ Diamondbacks (DBACKS.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV\nVenue: Chase Field\, Phoenix\, A
+ rizona\nFinal: Pirates 1\, Diamondbacks 0\nUnofficial calendar\; not affil
+ iated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815251@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260507T194000Z
+DTEND:20260507T224000Z
+SUMMARY:Pirates @ Diamondbacks (DBACKS.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV\nVenue: Chase Field\, Phoenix\, A
+ rizona\nFinal: Pirates 4\, Diamondbacks 2\nUnofficial calendar\; not affil
+ iated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815265@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260509T014000Z
+DTEND:20260509T044000Z
+SUMMARY:Mets @ Diamondbacks (DBACKS.TV / WPIX)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / WPIX\nVenue: Chase Field\, Phoe
+ nix\, Arizona\nFinal: Mets 3\, Diamondbacks 1\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815280@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260509T231500Z
+DTEND:20260510T021500Z
+SUMMARY:Mets @ Diamondbacks (Fox)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: Fox\nVenue: Chase Field\, Phoenix\, Arizona
+ \nFinal: Mets 1\, Diamondbacks 2\nUnofficial calendar\; not affiliated wit
+ h the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815295@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260510T201000Z
+DTEND:20260510T231000Z
+SUMMARY:Mets @ Diamondbacks (DBACKS.TV / SNY)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / SNY\nVenue: Chase Field\, Phoen
+ ix\, Arizona\nFinal: Mets 1\, Diamondbacks 5\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815301@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260512T000500Z
+DTEND:20260512T030500Z
+SUMMARY:Diamondbacks @ Rangers (DBACKS.TV / Rangers Sports Network)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Rangers Sports Network\nVenue: 
+ Globe Life Field\, Arlington\, Texas\nFinal: Diamondbacks 1\, Rangers 0\nU
+ nofficial calendar\; not affiliated with the MLB or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815312@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260513T000500Z
+DTEND:20260513T030500Z
+SUMMARY:Diamondbacks @ Rangers (DBACKS.TV / Rangers Sports Network)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Rangers Sports Network\nVenue: 
+ Globe Life Field\, Arlington\, Texas\nFinal: Diamondbacks 4\, Rangers 7\nU
+ nofficial calendar\; not affiliated with the MLB or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815327@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260514T000500Z
+DTEND:20260514T030500Z
+SUMMARY:Diamondbacks @ Rangers (DBACKS.TV / Rangers Sports Network)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Rangers Sports Network\nVenue: 
+ Globe Life Field\, Arlington\, Texas\nFinal: Diamondbacks 5\, Rangers 6\nU
+ nofficial calendar\; not affiliated with the MLB or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815356@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260516T004000Z
+DTEND:20260516T034000Z
+SUMMARY:Diamondbacks @ Rockies (DBACKS.TV / Rockies.TV)
+LOCATION:Coors Field\, Denver\, Colorado
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Rockies.TV\nVenue: Coors Field\
+ , Denver\, Colorado\nFinal: Diamondbacks 9\, Rockies 1\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815371@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260516T191000Z
+DTEND:20260516T221000Z
+SUMMARY:Diamondbacks @ Rockies (DBACKS.TV / Rockies.TV)
+LOCATION:Coors Field\, Denver\, Colorado
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Rockies.TV\nVenue: Coors Field\
+ , Denver\, Colorado\nFinal: Diamondbacks 2\, Rockies 4\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815386@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260517T191000Z
+DTEND:20260517T221000Z
+SUMMARY:Diamondbacks @ Rockies (ESPN Unlimited)
+LOCATION:Coors Field\, Denver\, Colorado
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Coors Field\, Denver
+ \, Colorado\nFinal: Diamondbacks 8\, Rockies 6\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815403@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260519T014000Z
+DTEND:20260519T044000Z
+SUMMARY:Giants @ Diamondbacks (NBC Sports BA / DBACKS.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / DBACKS.TV\nVenue: Chase Fie
+ ld\, Phoenix\, Arizona\nFinal: Giants 2\, Diamondbacks 12\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815418@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260520T014000Z
+DTEND:20260520T044000Z
+SUMMARY:Giants @ Diamondbacks (NBC Sports BA / DBACKS.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / DBACKS.TV\nVenue: Chase Fie
+ ld\, Phoenix\, Arizona\nFinal: Giants 3\, Diamondbacks 5\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815433@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260520T194000Z
+DTEND:20260520T224000Z
+SUMMARY:Giants @ Diamondbacks (NBC Sports BA / DBACKS.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / DBACKS.TV\nVenue: Chase Fie
+ ld\, Phoenix\, Arizona\nFinal: Giants 3\, Diamondbacks 6\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815440@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260522T014000Z
+DTEND:20260522T044000Z
+SUMMARY:Rockies @ Diamondbacks (DBACKS.TV / Rockies.TV / KPNX)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Rockies.TV / KPNX\nVenue: Chase
+  Field\, Phoenix\, Arizona\nFinal: Rockies 1\, Diamondbacks 2\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815454@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260523T014000Z
+DTEND:20260523T044000Z
+SUMMARY:Rockies @ Diamondbacks (DBACKS.TV / Rockies.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Rockies.TV\nVenue: Chase Field\
+ , Phoenix\, Arizona\nFinal: Rockies 3\, Diamondbacks 2\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815469@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260524T021000Z
+DTEND:20260524T051000Z
+SUMMARY:Rockies @ Diamondbacks (DBACKS.TV / Rockies.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Rockies.TV\nVenue: Chase Field\
+ , Phoenix\, Arizona\nFinal: Rockies 4\, Diamondbacks 5\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815484@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260524T201000Z
+DTEND:20260524T231000Z
+SUMMARY:Rockies @ Diamondbacks (DBACKS.TV / Rockies.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Rockies.TV\nVenue: Chase Field\
+ , Phoenix\, Arizona\nFinal: Rockies 1\, Diamondbacks 9\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815495@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260525T210500Z
+DTEND:20260526T000500Z
+SUMMARY:Diamondbacks @ Giants (NBC Sports BA / DBACKS.TV)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / DBACKS.TV\nVenue: Oracle Pa
+ rk\, San Francisco\, California\nFinal: Diamondbacks 6\, Giants 2\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815510@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260527T014500Z
+DTEND:20260527T044500Z
+SUMMARY:Diamondbacks @ Giants (NBC Sports BA / DBACKS.TV)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / DBACKS.TV\nVenue: Oracle Pa
+ rk\, San Francisco\, California\nFinal: Diamondbacks 7\, Giants 5\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815525@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260527T194500Z
+DTEND:20260527T224500Z
+SUMMARY:Diamondbacks @ Giants (NBC Sports BA / DBACKS.TV)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / DBACKS.TV\nVenue: Oracle Pa
+ rk\, San Francisco\, California\nFinal: Diamondbacks 3\, Giants 2\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815547@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260530T021000Z
+DTEND:20260530T051000Z
+SUMMARY:Diamondbacks @ Mariners (DBACKS.TV / Mariners.TV / KING 5)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Mariners.TV / KING 5\nVenue: T-
+ Mobile Park\, Seattle\, Washington\nFinal: Diamondbacks 6\, Mariners 7\nUn
+ official calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815562@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260531T021000Z
+DTEND:20260531T051000Z
+SUMMARY:Diamondbacks @ Mariners (DBACKS.TV / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Mariners.TV\nVenue: T-Mobile Pa
+ rk\, Seattle\, Washington\nFinal: Diamondbacks 1\, Mariners 5\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815577@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260531T201000Z
+DTEND:20260531T231000Z
+SUMMARY:Diamondbacks @ Mariners (DBACKS.TV / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Mariners.TV\nVenue: T-Mobile Pa
+ rk\, Seattle\, Washington\nFinal: Diamondbacks 2\, Mariners 3\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815587@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260602T014000Z
+DTEND:20260602T044000Z
+SUMMARY:Dodgers @ Diamondbacks (SportsNet LA / DBACKS.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: SportsNet LA / DBACKS.TV\nVenue: Chase Fiel
+ d\, Phoenix\, Arizona\nFinal: Dodgers 1\, Diamondbacks 4\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815602@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260603T014000Z
+DTEND:20260603T044000Z
+SUMMARY:Dodgers @ Diamondbacks (ESPN Unlimited)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Chase Field\, Phoeni
+ x\, Arizona\nFinal: Dodgers 6\, Diamondbacks 5\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815617@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260604T014000Z
+DTEND:20260604T044000Z
+SUMMARY:Dodgers @ Diamondbacks (MLB Network)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: MLB Network\nVenue: Chase Field\, Phoenix\,
+  Arizona\nFinal: Dodgers 7\, Diamondbacks 0\nUnofficial calendar\; not aff
+ iliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815627@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260605T014000Z
+DTEND:20260605T044000Z
+SUMMARY:Dodgers @ Diamondbacks (SportsNet LA / DBACKS.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: SportsNet LA / DBACKS.TV\nVenue: Chase Fiel
+ d\, Phoenix\, Arizona\nFinal: Dodgers 2\, Diamondbacks 3\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815642@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260606T014000Z
+DTEND:20260606T044000Z
+SUMMARY:Nationals @ Diamondbacks (DBACKS.TV / Nationals.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Nationals.TV\nVenue: Chase Fiel
+ d\, Phoenix\, Arizona\nFinal: Nationals 14\, Diamondbacks 1\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815657@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260606T201000Z
+DTEND:20260606T231000Z
+SUMMARY:Nationals @ Diamondbacks (DBACKS.TV / Nationals.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Nationals.TV\nVenue: Chase Fiel
+ d\, Phoenix\, Arizona\nFinal: Nationals 6\, Diamondbacks 1\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815672@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260607T191500Z
+DTEND:20260607T221500Z
+SUMMARY:Nationals @ Diamondbacks (Peacock)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: Peacock\nVenue: Chase Field\, Phoenix\, Ari
+ zona\nFinal: Nationals 1\, Diamondbacks 5\nUnofficial calendar\; not affil
+ iated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815681@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260609T224000Z
+DTEND:20260610T014000Z
+SUMMARY:Diamondbacks @ Marlins (DBACKS.TV / Marlins.TV)
+LOCATION:loanDepot park\, Miami\, Florida
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Marlins.TV\nVenue: loanDepot pa
+ rk\, Miami\, Florida\nFinal: Diamondbacks 6\, Marlins 10\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815696@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260610T224000Z
+DTEND:20260611T014000Z
+SUMMARY:Diamondbacks @ Marlins (DBACKS.TV / Marlins.TV)
+LOCATION:loanDepot park\, Miami\, Florida
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Marlins.TV\nVenue: loanDepot pa
+ rk\, Miami\, Florida\nFinal: Diamondbacks 0\, Marlins 8\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815711@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260611T171000Z
+DTEND:20260611T201000Z
+SUMMARY:Diamondbacks @ Marlins (DBACKS.TV / Marlins.TV)
+LOCATION:loanDepot park\, Miami\, Florida
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Marlins.TV\nVenue: loanDepot pa
+ rk\, Miami\, Florida\nFinal: Diamondbacks 0\, Marlins 2\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815719@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260612T231500Z
+DTEND:20260613T021500Z
+SUMMARY:Diamondbacks @ Reds (Apple TV)
+LOCATION:Great American Ball Park\, Cincinnati\, Ohio
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: Great American Ball Park\,
+  Cincinnati\, Ohio\nFinal: Diamondbacks 5\, Reds 2\nUnofficial calendar\; 
+ not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815734@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260613T201000Z
+DTEND:20260613T231000Z
+SUMMARY:Diamondbacks @ Reds (ESPN Unlimited)
+LOCATION:Great American Ball Park\, Cincinnati\, Ohio
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Great American Ball 
+ Park\, Cincinnati\, Ohio\nFinal: Diamondbacks 1\, Reds 2\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815749@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260614T174000Z
+DTEND:20260614T204000Z
+SUMMARY:Diamondbacks @ Reds (DBACKS.TV / Reds.TV)
+LOCATION:Great American Ball Park\, Cincinnati\, Ohio
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Reds.TV\nVenue: Great American 
+ Ball Park\, Cincinnati\, Ohio\nFinal: Diamondbacks 5\, Reds 3\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815771@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260616T014000Z
+DTEND:20260616T044000Z
+SUMMARY:Angels @ Diamondbacks (DBACKS.TV / Angels.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Angels.TV\nVenue: Chase Field\,
+  Phoenix\, Arizona\nFinal: Angels 3\, Diamondbacks 4\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815785@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260617T014000Z
+DTEND:20260617T044000Z
+SUMMARY:Angels @ Diamondbacks (DBACKS.TV / Angels.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Angels.TV\nVenue: Chase Field\,
+  Phoenix\, Arizona\nFinal: Angels 7\, Diamondbacks 0\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815799@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260617T194000Z
+DTEND:20260617T224000Z
+SUMMARY:Angels @ Diamondbacks (DBACKS.TV / Angels.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Angels.TV\nVenue: Chase Field\,
+  Phoenix\, Arizona\nFinal: Angels 1\, Diamondbacks 8\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815824@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260620T014500Z
+DTEND:20260620T044500Z
+SUMMARY:Twins @ Diamondbacks (Apple TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: Chase Field\, Phoenix\, Ar
+ izona\nFinal: Twins 5\, Diamondbacks 9\nUnofficial calendar\; not affiliat
+ ed with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815838@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260621T021000Z
+DTEND:20260621T051000Z
+SUMMARY:Twins @ Diamondbacks (Twins.TV / DBACKS.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: Twins.TV / DBACKS.TV\nVenue: Chase Field\, 
+ Phoenix\, Arizona\nFinal: Twins 16\, Diamondbacks 8\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815853@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260621T191500Z
+DTEND:20260621T221500Z
+SUMMARY:Twins @ Diamondbacks (Peacock)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: Peacock\nVenue: Chase Field\, Phoenix\, Ari
+ zona\nFinal: Twins 4\, Diamondbacks 2\nUnofficial calendar\; not affiliate
+ d with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815861@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260622T234500Z
+DTEND:20260623T024500Z
+SUMMARY:Diamondbacks @ Cardinals (DBACKS.TV / Cardinals.TV)
+LOCATION:Busch Stadium\, St. Louis\, Missouri
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Cardinals.TV\nVenue: Busch Stad
+ ium\, St. Louis\, Missouri\nFinal: Diamondbacks 2\, Cardinals 3\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815875@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260623T234500Z
+DTEND:20260624T024500Z
+SUMMARY:Diamondbacks @ Cardinals (DBACKS.TV / Cardinals.TV)
+LOCATION:Busch Stadium\, St. Louis\, Missouri
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Cardinals.TV\nVenue: Busch Stad
+ ium\, St. Louis\, Missouri\nFinal: Diamondbacks 4\, Cardinals 3\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815890@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260624T234500Z
+DTEND:20260625T024500Z
+SUMMARY:Diamondbacks @ Cardinals (DBACKS.TV / Cardinals.TV)
+LOCATION:Busch Stadium\, St. Louis\, Missouri
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Cardinals.TV\nVenue: Busch Stad
+ ium\, St. Louis\, Missouri\nFinal: Diamondbacks 9\, Cardinals 4\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815904@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260625T234500Z
+DTEND:20260626T024500Z
+SUMMARY:Postponed: Diamondbacks @ Cardinals (ESPN Unlimited)
+LOCATION:Busch Stadium\, St. Louis\, Missouri
+DESCRIPTION:Inclement Weather - Makeup date July 23rd\nTV: ESPN Unlimited\n
+ Venue: Busch Stadium\, St. Louis\, Missouri\nPostponed. This listing stays
+  cancelled under the same id. The makeup\, when ESPN adds one\, is a separ
+ ate game.\nUnofficial calendar\; not affiliated with the MLB or ESPN. Time
+ s may change.
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815906@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260626T231000Z
+DTEND:20260627T021000Z
+SUMMARY:Diamondbacks @ Rays (DBACKS.TV / Rays.TV)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Rays.TV\nVenue: Tropicana Field
+ \, St. Petersburg\, Florida\nFinal: Diamondbacks 1\, Rays 6\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815921@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260627T221000Z
+DTEND:20260628T011000Z
+SUMMARY:Diamondbacks @ Rays (DBACKS.TV / Rays.TV)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Rays.TV\nVenue: Tropicana Field
+ \, St. Petersburg\, Florida\nFinal: Diamondbacks 2\, Rays 4\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815936@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260628T174000Z
+DTEND:20260628T204000Z
+SUMMARY:Diamondbacks @ Rays (DBACKS.TV / Rays.TV)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Rays.TV\nVenue: Tropicana Field
+ \, St. Petersburg\, Florida\nFinal: Diamondbacks 1\, Rays 5\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815963@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260630T014000Z
+DTEND:20260630T044000Z
+SUMMARY:Giants @ Diamondbacks (NBC Sports BA / DBACKS.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / DBACKS.TV\nVenue: Chase Fie
+ ld\, Phoenix\, Arizona\nFinal: Giants 4\, Diamondbacks 5\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815978@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260701T014000Z
+DTEND:20260701T044000Z
+SUMMARY:Giants @ Diamondbacks (NBC Sports BA / DBACKS.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / DBACKS.TV\nVenue: Chase Fie
+ ld\, Phoenix\, Arizona\nFinal: Giants 2\, Diamondbacks 8\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815992@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260702T014000Z
+DTEND:20260702T044000Z
+SUMMARY:Giants @ Diamondbacks (NBC Sports BA / DBACKS.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / DBACKS.TV\nVenue: Chase Fie
+ ld\, Phoenix\, Arizona\nFinal: Giants 6\, Diamondbacks 4\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816012@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260704T014500Z
+DTEND:20260704T044500Z
+SUMMARY:Brewers @ Diamondbacks (Apple TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: Chase Field\, Phoenix\, Ar
+ izona\nFinal: Brewers 7\, Diamondbacks 4\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816027@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260705T014000Z
+DTEND:20260705T044000Z
+SUMMARY:Brewers @ Diamondbacks (DBACKS.TV / Brewers.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Brewers.TV\nVenue: Chase Field\
+ , Phoenix\, Arizona\nFinal: Brewers 3\, Diamondbacks 4\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816042@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260705T200000Z
+DTEND:20260705T230000Z
+SUMMARY:Brewers @ Diamondbacks (Peacock)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: Peacock\nVenue: Chase Field\, Phoenix\, Ari
+ zona\nFinal: Brewers 3\, Diamondbacks 2\nUnofficial calendar\; not affilia
+ ted with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816050@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260707T014000Z
+DTEND:20260707T044000Z
+SUMMARY:Diamondbacks @ Padres (FS1)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: FS1\nVenue: Petco Park\, San Diego\, Califo
+ rnia\nFinal: Diamondbacks 8\, Padres 0\nUnofficial calendar\; not affiliat
+ ed with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816065@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260708T014000Z
+DTEND:20260708T044000Z
+SUMMARY:Diamondbacks @ Padres (ESPN Unlimited)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Petco Park\, San Die
+ go\, California\nFinal: Diamondbacks 1\, Padres 4\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816080@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260709T020000Z
+DTEND:20260709T050000Z
+SUMMARY:Diamondbacks @ Padres (ESPN)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Petco Park\, San Diego\, Calif
+ ornia\nFinal: Diamondbacks 4\, Padres 10\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816094@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260710T014000Z
+DTEND:20260710T044000Z
+SUMMARY:Diamondbacks @ Padres (Padres.TV / DBACKS.TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / DBACKS.TV\nVenue: Petco Park\, 
+ San Diego\, California\nFinal: Diamondbacks 3\, Padres 1\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816108@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260711T021000Z
+DTEND:20260711T051000Z
+SUMMARY:Diamondbacks @ Dodgers (SportsNet LA / DBACKS.TV)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / DBACKS.TV\nVenue: Dodger Sta
+ dium\, Los Angeles\, California\nFinal: Diamondbacks 9\, Dodgers 3\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816123@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260712T011000Z
+DTEND:20260712T041000Z
+SUMMARY:Diamondbacks @ Dodgers (SportsNet LA / DBACKS.TV)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / DBACKS.TV\nVenue: Dodger Sta
+ dium\, Los Angeles\, California\nFinal: Diamondbacks 9\, Dodgers 2\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816138@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260712T201000Z
+DTEND:20260712T231000Z
+SUMMARY:Diamondbacks @ Dodgers (ESPN Unlimited)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Dodger Stadium\, Los
+  Angeles\, California\nFinal: Diamondbacks 5\, Dodgers 3\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816154@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260718T014000Z
+DTEND:20260718T044000Z
+SUMMARY:Cardinals @ Diamondbacks (DBACKS.TV / Cardinals.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Cardinals.TV\nVenue: Chase Fiel
+ d\, Phoenix\, Arizona\nFinal: Cardinals 5\, Diamondbacks 4\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816169@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260718T201000Z
+DTEND:20260718T231000Z
+SUMMARY:Cardinals @ Diamondbacks (DBACKS.TV / Cardinals.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Cardinals.TV\nVenue: Chase Fiel
+ d\, Phoenix\, Arizona\nFinal: Cardinals 3\, Diamondbacks 5\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816184@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260719T201000Z
+DTEND:20260719T231000Z
+SUMMARY:Cardinals @ Diamondbacks (DBACKS.TV / Cardinals.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Cardinals.TV\nVenue: Chase Fiel
+ d\, Phoenix\, Arizona\nFinal: Cardinals 7\, Diamondbacks 8\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816198@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260721T014000Z
+DTEND:20260721T044000Z
+SUMMARY:Athletics @ Diamondbacks (DBACKS.TV / NBC Sports CA)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / NBC Sports CA\nVenue: Chase Fie
+ ld\, Phoenix\, Arizona\nFinal: Athletics 5\, Diamondbacks 2\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816213@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260722T014000Z
+DTEND:20260722T044000Z
+SUMMARY:Athletics @ Diamondbacks (DBACKS.TV / NBC Sports CA)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / NBC Sports CA\nVenue: Chase Fie
+ ld\, Phoenix\, Arizona\nFinal: Athletics 5\, Diamondbacks 6\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816228@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260722T194000Z
+DTEND:20260722T224000Z
+SUMMARY:Athletics @ Diamondbacks (ESPN Unlimited)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Chase Field\, Phoeni
+ x\, Arizona\nFinal: Athletics 5\, Diamondbacks 15\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401881162@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260723T211500Z
+DTEND:20260724T001500Z
+SUMMARY:Diamondbacks @ Cardinals (Cardinals.TV / DBACKS.TV)
+LOCATION:Busch Stadium\, St. Louis\, Missouri
+DESCRIPTION:Makeup from June 25\nTV: Cardinals.TV / DBACKS.TV\nVenue: Busch
+  Stadium\, St. Louis\, Missouri\nFinal: Diamondbacks 10\, Cardinals 6\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816235@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260724T224500Z
+DTEND:20260725T014500Z
+SUMMARY:Diamondbacks @ Nationals (DBACKS.TV / Nationals.TV / Fox 5 WTTG / G
+ ray Media)
+LOCATION:Nationals Park\, Washington\, District of Columbia
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Nationals.TV / Fox 5 WTTG / Gra
+ y Media\nVenue: Nationals Park\, Washington\, District of Columbia\nFinal:
+  Diamondbacks 3\, Nationals 2\nUnofficial calendar\; not affiliated with t
+ he MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816250@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260725T200500Z
+DTEND:20260725T230500Z
+SUMMARY:Diamondbacks @ Nationals (DBACKS.TV / Nationals.TV)
+LOCATION:Nationals Park\, Washington\, District of Columbia
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Nationals.TV\nVenue: Nationals 
+ Park\, Washington\, District of Columbia\nFinal: Diamondbacks 3\, National
+ s 5\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816265@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260726T173500Z
+DTEND:20260726T203500Z
+SUMMARY:Diamondbacks @ Nationals (DBACKS.TV / Nationals.TV)
+LOCATION:Nationals Park\, Washington\, District of Columbia
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Nationals.TV\nVenue: Nationals 
+ Park\, Washington\, District of Columbia\nFinal: Diamondbacks 7\, National
+ s 10\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816280@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260727T224000Z
+DTEND:20260728T014000Z
+SUMMARY:Diamondbacks @ Pirates (DBACKS.TV)
+LOCATION:PNC Park\, Pittsburgh\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: DBACKS.TV\nVenue: PNC Park\, Pittsburgh\, P
+ ennsylvania\nFinal: Diamondbacks 2\, Pirates 3\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816292@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260728T224000Z
+DTEND:20260729T014000Z
+SUMMARY:Diamondbacks @ Pirates (DBACKS.TV)
+LOCATION:PNC Park\, Pittsburgh\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: DBACKS.TV\nVenue: PNC Park\, Pittsburgh\, P
+ ennsylvania\nFinal: Diamondbacks 8\, Pirates 7\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816307@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260729T163500Z
+DTEND:20260729T193500Z
+SUMMARY:Diamondbacks @ Pirates (DBACKS.TV)
+LOCATION:PNC Park\, Pittsburgh\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: DBACKS.TV\nVenue: PNC Park\, Pittsburgh\, P
+ ennsylvania\nFinal: Diamondbacks 3\, Pirates 0\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816332@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260731T231000Z
+DTEND:20260801T021000Z
+SUMMARY:Diamondbacks @ Guardians (CLEGuardians.TV / DBACKS.TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / DBACKS.TV\nVenue: Progres
+ sive Field\, Cleveland\, Ohio\nFinal: Diamondbacks 4\, Guardians 1\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816347@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260801T231500Z
+DTEND:20260802T021500Z
+SUMMARY:Diamondbacks @ Guardians (Fox)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: Fox\nVenue: Progressive Field\, Cleveland\,
+  Ohio\nFinal: Diamondbacks 12\, Guardians 8\nUnofficial calendar\; not aff
+ iliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816362@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260802T174000Z
+DTEND:20260802T204000Z
+SUMMARY:Diamondbacks @ Guardians (CLEGuardians.TV / DBACKS.TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / DBACKS.TV\nVenue: Progres
+ sive Field\, Cleveland\, Ohio\nFinal: Diamondbacks 0\, Guardians 5\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815079@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260804T014000Z
+DTEND:20260804T044000Z
+SUMMARY:Padres @ Diamondbacks (Padres.TV / DBACKS.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: Padres.TV / DBACKS.TV\nVenue: Chase Field\,
+  Phoenix\, Arizona\nFinal: Padres 1\, Diamondbacks 5\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816398@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260805T014000Z
+DTEND:20260805T044000Z
+SUMMARY:Padres @ Diamondbacks (ESPN Unlimited)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Chase Field\, Phoeni
+ x\, Arizona\nFinal: Padres 9\, Diamondbacks 4\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816413@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260806T014000Z
+DTEND:20260806T044000Z
+SUMMARY:Padres @ Diamondbacks (Padres.TV / DBACKS.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: Padres.TV / DBACKS.TV\nVenue: Chase Field\,
+  Phoenix\, Arizona\nFinal: Padres 4\, Diamondbacks 10\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816423@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260807T014000Z
+DTEND:20260807T044000Z
+SUMMARY:Padres @ Diamondbacks (Padres.TV / DBACKS.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: Padres.TV / DBACKS.TV\nVenue: Chase Field\,
+  Phoenix\, Arizona\nFinal: Padres 5\, Diamondbacks 1\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816437@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260808T014000Z
+DTEND:20260808T044000Z
+SUMMARY:Dodgers @ Diamondbacks (SportsNet LA / DBACKS.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: SportsNet LA / DBACKS.TV\nVenue: Chase Fiel
+ d\, Phoenix\, Arizona\nFinal: Dodgers 3\, Diamondbacks 4\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816452@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260809T001000Z
+DTEND:20260809T031000Z
+SUMMARY:Dodgers @ Diamondbacks (SportsNet LA / DBACKS.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: SportsNet LA / DBACKS.TV\nVenue: Chase Fiel
+ d\, Phoenix\, Arizona\nFinal: Dodgers 2\, Diamondbacks 1\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816467@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260809T201000Z
+DTEND:20260809T231000Z
+SUMMARY:Dodgers @ Diamondbacks (SportsNet LA / DBACKS.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: SportsNet LA / DBACKS.TV\nVenue: Chase Fiel
+ d\, Phoenix\, Arizona\nFinal: Dodgers 2\, Diamondbacks 4\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816473@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260811T014000Z
+DTEND:20260811T044000Z
+SUMMARY:Rockies @ Diamondbacks (DBACKS.TV / Rockies.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Rockies.TV\nVenue: Chase Field\
+ , Phoenix\, Arizona\nFinal: Rockies 0\, Diamondbacks 9\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816488@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260812T014000Z
+DTEND:20260812T044000Z
+SUMMARY:Rockies @ Diamondbacks (DBACKS.TV / Rockies.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Rockies.TV\nVenue: Chase Field\
+ , Phoenix\, Arizona\nFinal: Rockies 3\, Diamondbacks 2\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816503@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260812T194000Z
+DTEND:20260812T224000Z
+SUMMARY:Rockies @ Diamondbacks (DBACKS.TV / Rockies.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Rockies.TV\nVenue: Chase Field\
+ , Phoenix\, Arizona\nFinal: Rockies 6\, Diamondbacks 4\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816517@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260814T231500Z
+DTEND:20260815T021500Z
+SUMMARY:Diamondbacks @ Braves (BravesVision / DBACKS.TV)
+LOCATION:Truist Park\, Atlanta\, Georgia
+DESCRIPTION:Regular Season\nTV: BravesVision / DBACKS.TV\nVenue: Truist Par
+ k\, Atlanta\, Georgia\nFinal: Diamondbacks 2\, Braves 0\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816532@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260815T231500Z
+DTEND:20260816T021500Z
+SUMMARY:Diamondbacks @ Braves (Fox)
+LOCATION:Truist Park\, Atlanta\, Georgia
+DESCRIPTION:Regular Season\nTV: Fox\nVenue: Truist Park\, Atlanta\, Georgia
+ \nFinal: Diamondbacks 10\, Braves 3\nUnofficial calendar\; not affiliated 
+ with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816547@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260816T173500Z
+DTEND:20260816T203500Z
+SUMMARY:Diamondbacks @ Braves (BravesVision / DBACKS.TV)
+LOCATION:Truist Park\, Atlanta\, Georgia
+DESCRIPTION:Regular Season\nTV: BravesVision / DBACKS.TV\nVenue: Truist Par
+ k\, Atlanta\, Georgia\nFinal: Diamondbacks 3\, Braves 5\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816562@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260817T231000Z
+DTEND:20260818T021000Z
+SUMMARY:Diamondbacks @ Red Sox (DBACKS.TV / NESN)
+LOCATION:Fenway Park\, Boston\, Massachusetts
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / NESN\nVenue: Fenway Park\, Bost
+ on\, Massachusetts\nFinal: Diamondbacks 1\, Red Sox 11\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816571@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260818T231000Z
+DTEND:20260819T021000Z
+SUMMARY:Diamondbacks @ Red Sox (DBACKS.TV / NESN)
+LOCATION:Fenway Park\, Boston\, Massachusetts
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / NESN\nVenue: Fenway Park\, Bost
+ on\, Massachusetts\nFinal: Diamondbacks 4\, Red Sox 9\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816586@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260819T201000Z
+DTEND:20260819T231000Z
+SUMMARY:Diamondbacks @ Red Sox (DBACKS.TV / NESN)
+LOCATION:Fenway Park\, Boston\, Massachusetts
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / NESN\nVenue: Fenway Park\, Bost
+ on\, Massachusetts\nFinal: Diamondbacks 7\, Red Sox 6\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816622@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260822T014000Z
+DTEND:20260822T044000Z
+SUMMARY:Reds @ Diamondbacks (DBACKS.TV / Reds.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Reds.TV\nVenue: Chase Field\, P
+ hoenix\, Arizona\nFinal: Reds 0\, Diamondbacks 9\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816637@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260823T001000Z
+DTEND:20260823T031000Z
+SUMMARY:Reds @ Diamondbacks (DBACKS.TV / Reds.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Reds.TV\nVenue: Chase Field\, P
+ hoenix\, Arizona\nFinal: Reds 11\, Diamondbacks 5\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816652@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260823T201500Z
+DTEND:20260823T231500Z
+SUMMARY:Reds @ Diamondbacks (Peacock)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: Peacock\nVenue: Chase Field\, Phoenix\, Ari
+ zona\nFinal: Reds 3\, Diamondbacks 5\nUnofficial calendar\; not affiliated
+  with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816659@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260825T014000Z
+DTEND:20260825T044000Z
+SUMMARY:Cubs @ Diamondbacks (Marquee Sports Net / DBACKS.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / DBACKS.TV\nVenue: Chas
+ e Field\, Phoenix\, Arizona\nFinal: Cubs 7\, Diamondbacks 0\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816674@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260826T014000Z
+DTEND:20260826T044000Z
+SUMMARY:Cubs @ Diamondbacks (Marquee Sports Net / DBACKS.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / DBACKS.TV\nVenue: Chas
+ e Field\, Phoenix\, Arizona\nFinal: Cubs 4\, Diamondbacks 5\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816689@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260826T194000Z
+DTEND:20260826T224000Z
+SUMMARY:Cubs @ Diamondbacks (ESPN Unlimited)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Chase Field\, Phoeni
+ x\, Arizona\nFinal: Cubs 0\, Diamondbacks 2\nUnofficial calendar\; not aff
+ iliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816701@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260828T014500Z
+DTEND:20260828T044500Z
+SUMMARY:Diamondbacks @ Giants (NBC Sports BA / DBACKS.TV)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / DBACKS.TV\nVenue: Oracle Pa
+ rk\, San Francisco\, California\nFinal: Diamondbacks 1\, Giants 6\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816714@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260829T021500Z
+DTEND:20260829T051500Z
+SUMMARY:Diamondbacks @ Giants (NBC Sports BA / KNTV / DBACKS.TV)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / KNTV / DBACKS.TV\nVenue: Or
+ acle Park\, San Francisco\, California\nFinal: Diamondbacks 10\, Giants 6\
+ nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816744@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260829T200500Z
+DTEND:20260829T230500Z
+SUMMARY:Diamondbacks @ Giants (NBC Sports BA / DBACKS.TV)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Doubleheader - Game 1\nTV: NBC Sports BA / DBACKS.TV\nVenue: Or
+ acle Park\, San Francisco\, California\nFinal: Diamondbacks 7\, Giants 1\n
+ Unofficial calendar\; not affiliated with the MLB or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816729@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260830T020500Z
+DTEND:20260830T050500Z
+SUMMARY:Diamondbacks @ Giants (NBC Sports BA / DBACKS.TV)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Doubleheader - Game 2\nTV: NBC Sports BA / DBACKS.TV\nVenue: Or
+ acle Park\, San Francisco\, California\nFinal: Diamondbacks 2\, Giants 7\n
+ Unofficial calendar\; not affiliated with the MLB or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816757@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260901T014000Z
+DTEND:20260901T044000Z
+SUMMARY:Phillies @ Diamondbacks (ESPN Unlimited)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Chase Field\, Phoeni
+ x\, Arizona\nFinal: Phillies 2\, Diamondbacks 1\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816771@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260902T014000Z
+DTEND:20260902T044000Z
+SUMMARY:Phillies @ Diamondbacks (DBACKS.TV / NBC Sports Phil)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / NBC Sports Phil\nVenue: Chase F
+ ield\, Phoenix\, Arizona\nFinal: Phillies 7\, Diamondbacks 1\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816786@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260902T194000Z
+DTEND:20260902T224000Z
+SUMMARY:Phillies @ Diamondbacks (ESPN Unlimited)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Chase Field\, Phoeni
+ x\, Arizona\nFinal: Phillies 0\, Diamondbacks 1\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816804@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260905T001000Z
+DTEND:20260905T031000Z
+SUMMARY:Diamondbacks @ Astros (DBACKS.TV / Space City Home Network)
+LOCATION:Daikin Park\, Houston\, Texas
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Space City Home Network\nVenue:
+  Daikin Park\, Houston\, Texas\nFinal: Diamondbacks 1\, Astros 3\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816819@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260905T231500Z
+DTEND:20260906T021500Z
+SUMMARY:Diamondbacks @ Astros (Fox)
+LOCATION:Daikin Park\, Houston\, Texas
+DESCRIPTION:Regular Season\nTV: Fox\nVenue: Daikin Park\, Houston\, Texas\n
+ Final: Diamondbacks 4\, Astros 3\nUnofficial calendar\; not affiliated wit
+ h the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816834@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260906T181000Z
+DTEND:20260906T211000Z
+SUMMARY:Diamondbacks @ Astros (DBACKS.TV / Space City Home Network)
+LOCATION:Daikin Park\, Houston\, Texas
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Space City Home Network\nVenue:
+  Daikin Park\, Houston\, Texas\nFinal: Diamondbacks 3\, Astros 2\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816847@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260907T181000Z
+DTEND:20260907T211000Z
+SUMMARY:Diamondbacks @ Royals (DBACKS.TV / Royals.TV / KCTV5)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Royals.TV / KCTV5\nVenue: Kauff
+ man Stadium\, Kansas City\, Missouri\nFinal: Diamondbacks 5\, Royals 4\nUn
+ official calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816860@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260908T234000Z
+DTEND:20260909T024000Z
+SUMMARY:Diamondbacks @ Royals (Royals.TV / DBACKS.TV)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / DBACKS.TV\nVenue: Kauffman Stad
+ ium\, Kansas City\, Missouri\nFinal: Diamondbacks 5\, Royals 3\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816875@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260909T234000Z
+DTEND:20260910T024000Z
+SUMMARY:Diamondbacks @ Royals (Royals.TV / DBACKS.TV)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / DBACKS.TV\nVenue: Kauffman Stad
+ ium\, Kansas City\, Missouri\nFinal: Diamondbacks 2\, Royals 5\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816902@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260912T014000Z
+DTEND:20260912T044000Z
+SUMMARY:Rangers @ Diamondbacks (DBACKS.TV / Rangers Sports Network / CW33)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Rangers Sports Network / CW33\n
+ Venue: Chase Field\, Phoenix\, Arizona\nFinal: Rangers 1\, Diamondbacks 9\
+ nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816917@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260913T001000Z
+DTEND:20260913T031000Z
+SUMMARY:Rangers @ Diamondbacks (DBACKS.TV / Rangers Sports Network)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Rangers Sports Network\nVenue: 
+ Chase Field\, Phoenix\, Arizona\nFinal: Rangers 6\, Diamondbacks 2\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816932@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260913T201000Z
+DTEND:20260913T231000Z
+SUMMARY:Rangers @ Diamondbacks (DBACKS.TV / Rangers Sports Network)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Rangers Sports Network\nVenue: 
+ Chase Field\, Phoenix\, Arizona\nFinal: Rangers 7\, Diamondbacks 6\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816941@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260915T014000Z
+DTEND:20260915T044000Z
+SUMMARY:Marlins @ Diamondbacks (DBACKS.TV / Marlins.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Marlins.TV\nVenue: Chase Field\
+ , Phoenix\, Arizona\nFinal: Marlins 7\, Diamondbacks 8\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816956@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260916T014000Z
+DTEND:20260916T044000Z
+SUMMARY:Marlins @ Diamondbacks (DBACKS.TV / Marlins.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Marlins.TV\nVenue: Chase Field\
+ , Phoenix\, Arizona\nFinal: Marlins 4\, Diamondbacks 2\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816971@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260917T014000Z
+DTEND:20260917T044000Z
+SUMMARY:Marlins @ Diamondbacks (ESPN Unlimited)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Chase Field\, Phoeni
+ x\, Arizona\nFinal: Marlins 4\, Diamondbacks 3\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816995@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260919T014000Z
+DTEND:20260919T044000Z
+SUMMARY:Yankees @ Diamondbacks (DBACKS.TV / YES)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / YES\nVenue: Chase Field\, Phoen
+ ix\, Arizona\nFinal: Yankees 9\, Diamondbacks 2\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817010@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260920T001000Z
+DTEND:20260920T031000Z
+SUMMARY:Yankees @ Diamondbacks (DBACKS.TV / YES)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / YES\nVenue: Chase Field\, Phoen
+ ix\, Arizona\nFinal: Yankees 3\, Diamondbacks 5\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817025@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260920T201000Z
+DTEND:20260920T231000Z
+SUMMARY:Yankees @ Diamondbacks (DBACKS.TV / YES)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / YES\nVenue: Chase Field\, Phoen
+ ix\, Arizona\nFinal: Yankees 4\, Diamondbacks 8\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817040@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260923T004000Z
+DTEND:20260923T034000Z
+SUMMARY:Diamondbacks @ Rockies (DBACKS.TV / Rockies.TV)
+LOCATION:Coors Field\, Denver\, Colorado
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Rockies.TV\nVenue: Coors Field\
+ , Denver\, Colorado\nFinal: Diamondbacks 7\, Rockies 2\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817055@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260924T004000Z
+DTEND:20260924T034000Z
+SUMMARY:Diamondbacks @ Rockies (DBACKS.TV / Rockies.TV)
+LOCATION:Coors Field\, Denver\, Colorado
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Rockies.TV\nVenue: Coors Field\
+ , Denver\, Colorado\nFinal: Diamondbacks 5\, Rockies 3\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817068@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260924T191000Z
+DTEND:20260924T221000Z
+SUMMARY:Diamondbacks @ Rockies (DBACKS.TV / Rockies.TV)
+LOCATION:Coors Field\, Denver\, Colorado
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Rockies.TV\nVenue: Coors Field\
+ , Denver\, Colorado\nFinal: Diamondbacks 12\, Rockies 8\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817084@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260926T014000Z
+DTEND:20260926T044000Z
+SUMMARY:Diamondbacks @ Padres (Padres.TV / DBACKS.TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / DBACKS.TV\nVenue: Petco Park\, 
+ San Diego\, California\nFinal: Diamondbacks 11\, Padres 4\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817099@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260927T004000Z
+DTEND:20260927T034000Z
+SUMMARY:Diamondbacks @ Padres (Padres.TV / DBACKS.TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / DBACKS.TV\nVenue: Petco Park\, 
+ San Diego\, California\nFinal: Diamondbacks 7\, Padres 10\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817114@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260927T191000Z
+DTEND:20260927T221000Z
+SUMMARY:Diamondbacks @ Padres (Padres.TV / DBACKS.TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / DBACKS.TV\nVenue: Petco Park\, 
+ San Diego\, California\nFinal: Diamondbacks 4\, Padres 9\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

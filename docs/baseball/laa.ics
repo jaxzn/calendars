@@ -1,0 +1,2122 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jaxzn//MLB Calendars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Los Angeles Angels
+X-WR-CALDESC:Los Angeles Angels MLB schedule (unofficial\, auto-updated)
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:espn-401814695@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260326T201000Z
+DTEND:20260326T231000Z
+SUMMARY:Angels @ Astros (FanDuel SN West / Space City Home Network)
+LOCATION:Daikin Park\, Houston\, Texas
+DESCRIPTION:Regular Season\nTV: FanDuel SN West / Space City Home Network\n
+ Venue: Daikin Park\, Houston\, Texas\nFinal: Angels 3\, Astros 0\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814703@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260328T001000Z
+DTEND:20260328T031000Z
+SUMMARY:Angels @ Astros (Apple TV)
+LOCATION:Daikin Park\, Houston\, Texas
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: Daikin Park\, Houston\, Te
+ xas\nFinal: Angels 6\, Astros 2\nUnofficial calendar\; not affiliated with
+  the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814714@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260328T231000Z
+DTEND:20260329T021000Z
+SUMMARY:Angels @ Astros (FanDuel SN West / Space City Home Network)
+LOCATION:Daikin Park\, Houston\, Texas
+DESCRIPTION:Regular Season\nTV: FanDuel SN West / Space City Home Network\n
+ Venue: Daikin Park\, Houston\, Texas\nFinal: Angels 9\, Astros 11\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814729@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260329T181000Z
+DTEND:20260329T211000Z
+SUMMARY:Angels @ Astros (FanDuel SN West / Space City Home Network)
+LOCATION:Daikin Park\, Houston\, Texas
+DESCRIPTION:Regular Season\nTV: FanDuel SN West / Space City Home Network\n
+ Venue: Daikin Park\, Houston\, Texas\nFinal: Angels 7\, Astros 9\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814741@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260330T234000Z
+DTEND:20260331T024000Z
+SUMMARY:Angels @ Cubs (FanDuel SN West / Marquee Sports Net)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: FanDuel SN West / Marquee Sports Net\nVenue
+ : Wrigley Field\, Chicago\, Illinois\nFinal: Angels 2\, Cubs 7\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814756@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260331T234000Z
+DTEND:20260401T024000Z
+SUMMARY:Angels @ Cubs (FanDuel SN West / Marquee Sports Net)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: FanDuel SN West / Marquee Sports Net\nVenue
+ : Wrigley Field\, Chicago\, Illinois\nFinal: Angels 2\, Cubs 0\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814770@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260401T182000Z
+DTEND:20260401T212000Z
+SUMMARY:Angels @ Cubs (FanDuel SN West / Marquee Sports Net)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: FanDuel SN West / Marquee Sports Net\nVenue
+ : Wrigley Field\, Chicago\, Illinois\nFinal: Angels 2\, Cubs 6\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814796@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260404T013800Z
+DTEND:20260404T043800Z
+SUMMARY:Mariners @ Angels (FanDuel SN West / Mariners.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: FanDuel SN West / Mariners.TV\nVenue: Angel
+  Stadium\, Anaheim\, California\nFinal: Mariners 3\, Angels 1\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814811@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260405T013800Z
+DTEND:20260405T043800Z
+SUMMARY:Mariners @ Angels (FanDuel SN West / Mariners.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: FanDuel SN West / Mariners.TV\nVenue: Angel
+  Stadium\, Anaheim\, California\nFinal: Mariners 0\, Angels 1\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814826@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260405T200700Z
+DTEND:20260405T230700Z
+SUMMARY:Mariners @ Angels (FanDuel SN West / Mariners.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: FanDuel SN West / Mariners.TV\nVenue: Angel
+  Stadium\, Anaheim\, California\nFinal: Mariners 7\, Angels 8\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814838@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260407T013800Z
+DTEND:20260407T043800Z
+SUMMARY:Braves @ Angels (ESPN Unlimited)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Angel Stadium\, Anah
+ eim\, California\nFinal: Braves 2\, Angels 6\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814853@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260408T013800Z
+DTEND:20260408T043800Z
+SUMMARY:Braves @ Angels (FanDuel SN West / BravesVision)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: FanDuel SN West / BravesVision\nVenue: Ange
+ l Stadium\, Anaheim\, California\nFinal: Braves 7\, Angels 2\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814868@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260408T200700Z
+DTEND:20260408T230700Z
+SUMMARY:Braves @ Angels (FanDuel SN West / BravesVision)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: FanDuel SN West / BravesVision\nVenue: Ange
+ l Stadium\, Anaheim\, California\nFinal: Braves 8\, Angels 2\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814876@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260410T224500Z
+DTEND:20260411T014500Z
+SUMMARY:Angels @ Reds (Apple TV)
+LOCATION:Great American Ball Park\, Cincinnati\, Ohio
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: Great American Ball Park\,
+  Cincinnati\, Ohio\nFinal: Angels 10\, Reds 2\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814891@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260411T201000Z
+DTEND:20260411T231000Z
+SUMMARY:Angels @ Reds (FanDuel SN West / Reds.TV)
+LOCATION:Great American Ball Park\, Cincinnati\, Ohio
+DESCRIPTION:Regular Season\nTV: FanDuel SN West / Reds.TV\nVenue: Great Ame
+ rican Ball Park\, Cincinnati\, Ohio\nFinal: Angels 3\, Reds 7\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814906@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260412T174000Z
+DTEND:20260412T204000Z
+SUMMARY:Angels @ Reds (FanDuel SN West / Reds.TV)
+LOCATION:Great American Ball Park\, Cincinnati\, Ohio
+DESCRIPTION:Regular Season\nTV: FanDuel SN West / Reds.TV\nVenue: Great Ame
+ rican Ball Park\, Cincinnati\, Ohio\nFinal: Angels 9\, Reds 6\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814921@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260413T230500Z
+DTEND:20260414T020500Z
+SUMMARY:Angels @ Yankees (FanDuel SN West / YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: FanDuel SN West / YES\nVenue: Yankee Stadiu
+ m\, Bronx\, New York\nFinal: Angels 10\, Yankees 11\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814931@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260414T230500Z
+DTEND:20260415T020500Z
+SUMMARY:Angels @ Yankees (FanDuel SN West / YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: FanDuel SN West / YES\nVenue: Yankee Stadiu
+ m\, Bronx\, New York\nFinal: Angels 7\, Yankees 1\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814946@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260415T230500Z
+DTEND:20260416T020500Z
+SUMMARY:Angels @ Yankees (Prime Video)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: Prime Video\nVenue: Yankee Stadium\, Bronx\
+ , New York\nFinal: Angels 4\, Yankees 5\nUnofficial calendar\; not affilia
+ ted with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814961@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260416T173500Z
+DTEND:20260416T203500Z
+SUMMARY:Angels @ Yankees (FanDuel SN West / YES)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: FanDuel SN West / YES\nVenue: Yankee Stadiu
+ m\, Bronx\, New York\nFinal: Angels 11\, Yankees 4\nUnofficial calendar\; 
+ not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814983@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260418T013800Z
+DTEND:20260418T043800Z
+SUMMARY:Padres @ Angels (FanDuel SN West / Padres.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: FanDuel SN West / Padres.TV\nVenue: Angel S
+ tadium\, Anaheim\, California\nFinal: Padres 0\, Angels 8\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814998@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260419T013800Z
+DTEND:20260419T043800Z
+SUMMARY:Padres @ Angels (FanDuel SN West / Padres.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: FanDuel SN West / Padres.TV\nVenue: Angel S
+ tadium\, Anaheim\, California\nFinal: Padres 4\, Angels 1\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815013@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260419T200700Z
+DTEND:20260419T230700Z
+SUMMARY:Padres @ Angels (ESPN Unlimited)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Angel Stadium\, Anah
+ eim\, California\nFinal: Padres 2\, Angels 1\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815025@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260421T013800Z
+DTEND:20260421T043800Z
+SUMMARY:Blue Jays @ Angels (FanDuel SN West / Sportsnet One)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: FanDuel SN West / Sportsnet One\nVenue: Ang
+ el Stadium\, Anaheim\, California\nFinal: Blue Jays 5\, Angels 2\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815040@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260422T013800Z
+DTEND:20260422T043800Z
+SUMMARY:Blue Jays @ Angels (ESPN Unlimited)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Angel Stadium\, Anah
+ eim\, California\nFinal: Blue Jays 4\, Angels 2\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815055@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260422T190700Z
+DTEND:20260422T220700Z
+SUMMARY:Blue Jays @ Angels (FanDuel SN West / Sportsnet)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: FanDuel SN West / Sportsnet\nVenue: Angel S
+ tadium\, Anaheim\, California\nFinal: Blue Jays 3\, Angels 7\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815071@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260424T234000Z
+DTEND:20260425T024000Z
+SUMMARY:Angels @ Royals (FanDuel SN West / Royals.TV / KCTV5)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: FanDuel SN West / Royals.TV / KCTV5\nVenue:
+  Kauffman Stadium\, Kansas City\, Missouri\nFinal: Angels 3\, Royals 6\nUn
+ official calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815086@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260425T231000Z
+DTEND:20260426T021000Z
+SUMMARY:Angels @ Royals (FanDuel SN West / Royals.TV)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: FanDuel SN West / Royals.TV\nVenue: Kauffma
+ n Stadium\, Kansas City\, Missouri\nFinal: Angels 1\, Royals 12\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815101@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260426T201000Z
+DTEND:20260426T231000Z
+SUMMARY:Angels @ Royals (Peacock)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Peacock\nVenue: Kauffman Stadium\, Kansas C
+ ity\, Missouri\nFinal: Angels 9\, Royals 11\nUnofficial calendar\; not aff
+ iliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815113@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260427T234000Z
+DTEND:20260428T024000Z
+SUMMARY:Angels @ White Sox (FanDuel SN West / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: FanDuel SN West / CHSN\nVenue: Rate Field\,
+  Chicago\, Illinois\nFinal: Angels 7\, White Sox 8\nUnofficial calendar\; 
+ not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815126@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260428T234000Z
+DTEND:20260429T024000Z
+SUMMARY:Angels @ White Sox (FanDuel SN West / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: FanDuel SN West / CHSN\nVenue: Rate Field\,
+  Chicago\, Illinois\nFinal: Angels 2\, White Sox 5\nUnofficial calendar\; 
+ not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815141@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260429T171000Z
+DTEND:20260429T201000Z
+SUMMARY:Angels @ White Sox (FanDuel SN West / CHSN)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: FanDuel SN West / CHSN\nVenue: Rate Field\,
+  Chicago\, Illinois\nFinal: Angels 2\, White Sox 3\nUnofficial calendar\; 
+ not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815171@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260502T013800Z
+DTEND:20260502T043800Z
+SUMMARY:Mets @ Angels (WPIX / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: WPIX / Angels.TV\nVenue: Angel Stadium\, An
+ aheim\, California\nFinal: Mets 4\, Angels 3\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815186@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260503T013800Z
+DTEND:20260503T043800Z
+SUMMARY:Mets @ Angels (ESPN Unlimited)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Angel Stadium\, Anah
+ eim\, California\nFinal: Mets 3\, Angels 4\nUnofficial calendar\; not affi
+ liated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815201@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260503T200700Z
+DTEND:20260503T230700Z
+SUMMARY:Mets @ Angels (SNY / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: SNY / Angels.TV\nVenue: Angel Stadium\, Ana
+ heim\, California\nFinal: Mets 5\, Angels 1\nUnofficial calendar\; not aff
+ iliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815212@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260505T013800Z
+DTEND:20260505T043800Z
+SUMMARY:White Sox @ Angels (CHSN / KCOP / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: CHSN / KCOP / Angels.TV\nVenue: Angel Stadi
+ um\, Anaheim\, California\nFinal: White Sox 6\, Angels 0\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815226@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260506T013800Z
+DTEND:20260506T043800Z
+SUMMARY:White Sox @ Angels (ESPN Unlimited)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Angel Stadium\, Anah
+ eim\, California\nFinal: White Sox 3\, Angels 4\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815241@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260506T200700Z
+DTEND:20260506T230700Z
+SUMMARY:White Sox @ Angels (CHSN / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: CHSN / Angels.TV\nVenue: Angel Stadium\, An
+ aheim\, California\nFinal: White Sox 2\, Angels 8\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815253@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260508T230700Z
+DTEND:20260509T020700Z
+SUMMARY:Angels @ Blue Jays (Sportsnet One / Angels.TV)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Sportsnet One / Angels.TV\nVenue: Rogers Ce
+ ntre\, Toronto\, Ontario\nFinal: Angels 0\, Blue Jays 2\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815268@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260509T190700Z
+DTEND:20260509T220700Z
+SUMMARY:Angels @ Blue Jays (Sportsnet / TVA / Angels.TV)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Sportsnet / TVA / Angels.TV\nVenue: Rogers 
+ Centre\, Toronto\, Ontario\nFinal: Angels 1\, Blue Jays 14\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815283@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260510T173700Z
+DTEND:20260510T203700Z
+SUMMARY:Angels @ Blue Jays (Sportsnet / TVA / Angels.TV / Sportsnet One)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Sportsnet / TVA / Angels.TV / Sportsnet One
+ \nVenue: Rogers Centre\, Toronto\, Ontario\nFinal: Angels 6\, Blue Jays 1\
+ nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815298@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260511T221000Z
+DTEND:20260512T011000Z
+SUMMARY:Angels @ Guardians (ESPN Unlimited)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Progressive Field\, 
+ Cleveland\, Ohio\nFinal: Angels 2\, Guardians 7\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815304@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260512T221000Z
+DTEND:20260513T011000Z
+SUMMARY:Angels @ Guardians (CLEGuardians.TV / Angels.TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Angels.TV\nVenue: Progres
+ sive Field\, Cleveland\, Ohio\nFinal: Angels 2\, Guardians 3\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815319@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260513T171000Z
+DTEND:20260513T201000Z
+SUMMARY:Angels @ Guardians (CLEGuardians.TV / Angels.TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Angels.TV\nVenue: Progres
+ sive Field\, Cleveland\, Ohio\nFinal: Angels 2\, Guardians 4\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815357@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260516T013800Z
+DTEND:20260516T043800Z
+SUMMARY:Dodgers @ Angels (SportsNet LA / KTTV / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / KTTV / Angels.TV\nVenue: Ang
+ el Stadium\, Anaheim\, California\nFinal: Dodgers 6\, Angels 0\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815372@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260517T013800Z
+DTEND:20260517T043800Z
+SUMMARY:Dodgers @ Angels (SportsNet LA / KCOP / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / KCOP / Angels.TV\nVenue: Ang
+ el Stadium\, Anaheim\, California\nFinal: Dodgers 15\, Angels 2\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815387@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260517T200700Z
+DTEND:20260517T230700Z
+SUMMARY:Dodgers @ Angels (SportsNet LA / KCOP / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / KCOP / Angels.TV\nVenue: Ang
+ el Stadium\, Anaheim\, California\nFinal: Dodgers 10\, Angels 1\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815400@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260519T013800Z
+DTEND:20260519T043800Z
+SUMMARY:Athletics @ Angels (NBC Sports CA / KCOP / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / KCOP / Angels.TV\nVenue: An
+ gel Stadium\, Anaheim\, California\nFinal: Athletics 1\, Angels 2\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815415@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260520T013800Z
+DTEND:20260520T043800Z
+SUMMARY:Athletics @ Angels (NBC Sports CA / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Angels.TV\nVenue: Angel Sta
+ dium\, Anaheim\, California\nFinal: Athletics 14\, Angels 6\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815430@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260521T013800Z
+DTEND:20260521T043800Z
+SUMMARY:Athletics @ Angels (NBC Sports CA / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Angels.TV\nVenue: Angel Sta
+ dium\, Anaheim\, California\nFinal: Athletics 6\, Angels 5\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815439@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260522T013800Z
+DTEND:20260522T043800Z
+SUMMARY:Athletics @ Angels (NBC Sports CA / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Angels.TV\nVenue: Angel Sta
+ dium\, Anaheim\, California\nFinal: Athletics 3\, Angels 2\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815455@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260523T013800Z
+DTEND:20260523T043800Z
+SUMMARY:Rangers @ Angels (CW33 / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: CW33 / Angels.TV\nVenue: Angel Stadium\, An
+ aheim\, California\nFinal: Rangers 6\, Angels 9\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815470@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260524T020500Z
+DTEND:20260524T050500Z
+SUMMARY:Rangers @ Angels (Rangers Sports Network / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Angels.TV\nVenue: 
+ Angel Stadium\, Anaheim\, California\nFinal: Rangers 2\, Angels 5\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815485@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260524T232000Z
+DTEND:20260525T022000Z
+SUMMARY:Rangers @ Angels (Peacock)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: Peacock\nVenue: Angel Stadium\, Anaheim\, C
+ alifornia\nFinal: Rangers 1\, Angels 2\nUnofficial calendar\; not affiliat
+ ed with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815499@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260526T224000Z
+DTEND:20260527T014000Z
+SUMMARY:Angels @ Tigers (Tigers.TV / Angels.TV)
+LOCATION:Comerica Park\, Detroit\, Michigan
+DESCRIPTION:Regular Season\nTV: Tigers.TV / Angels.TV\nVenue: Comerica Park
+ \, Detroit\, Michigan\nFinal: Angels 10\, Tigers 6\nUnofficial calendar\; 
+ not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815514@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260527T224000Z
+DTEND:20260528T014000Z
+SUMMARY:Angels @ Tigers (Tigers.TV / Angels.TV)
+LOCATION:Comerica Park\, Detroit\, Michigan
+DESCRIPTION:Regular Season\nTV: Tigers.TV / Angels.TV\nVenue: Comerica Park
+ \, Detroit\, Michigan\nFinal: Angels 0\, Tigers 4\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815529@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260528T171000Z
+DTEND:20260528T201000Z
+SUMMARY:Angels @ Tigers (Tigers.TV / Angels.TV)
+LOCATION:Comerica Park\, Detroit\, Michigan
+DESCRIPTION:Regular Season\nTV: Tigers.TV / Angels.TV\nVenue: Comerica Park
+ \, Detroit\, Michigan\nFinal: Angels 7\, Tigers 1\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815535@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260529T231000Z
+DTEND:20260530T021000Z
+SUMMARY:Angels @ Rays (Rays.TV / Angels.TV)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:Regular Season\nTV: Rays.TV / Angels.TV\nVenue: Tropicana Field
+ \, St. Petersburg\, Florida\nFinal: Angels 5\, Rays 8\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815550@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260530T201000Z
+DTEND:20260530T231000Z
+SUMMARY:Angels @ Rays (Rays.TV / Angels.TV)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:Regular Season\nTV: Rays.TV / Angels.TV\nVenue: Tropicana Field
+ \, St. Petersburg\, Florida\nFinal: Angels 14\, Rays 3\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815565@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260531T174000Z
+DTEND:20260531T204000Z
+SUMMARY:Angels @ Rays (Rays.TV / Angels.TV)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:Regular Season\nTV: Rays.TV / Angels.TV\nVenue: Tropicana Field
+ \, St. Petersburg\, Florida\nFinal: Angels 2\, Rays 5\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815586@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260602T013800Z
+DTEND:20260602T043800Z
+SUMMARY:Rockies @ Angels (Rockies.TV / KCOP / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: Rockies.TV / KCOP / Angels.TV\nVenue: Angel
+  Stadium\, Anaheim\, California\nFinal: Rockies 9\, Angels 8\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815601@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260603T013800Z
+DTEND:20260603T043800Z
+SUMMARY:Rockies @ Angels (Rockies.TV / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: Rockies.TV / Angels.TV\nVenue: Angel Stadiu
+ m\, Anaheim\, California\nFinal: Rockies 8\, Angels 2\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815616@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260604T013800Z
+DTEND:20260604T043800Z
+SUMMARY:Rockies @ Angels (Rockies.TV / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: Rockies.TV / Angels.TV\nVenue: Angel Stadiu
+ m\, Anaheim\, California\nFinal: Rockies 4\, Angels 11\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815640@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260606T021000Z
+DTEND:20260606T051000Z
+SUMMARY:Angels @ Dodgers (SportsNet LA / KTTV / Angels.TV)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / KTTV / Angels.TV\nVenue: Dod
+ ger Stadium\, Los Angeles\, California\nFinal: Angels 0\, Dodgers 1\nUnoff
+ icial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815655@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260607T021000Z
+DTEND:20260607T051000Z
+SUMMARY:Angels @ Dodgers (SportsNet LA / KCOP / Angels.TV)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / KCOP / Angels.TV\nVenue: Dod
+ ger Stadium\, Los Angeles\, California\nFinal: Angels 2\, Dodgers 9\nUnoff
+ icial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815670@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260607T201000Z
+DTEND:20260607T231000Z
+SUMMARY:Angels @ Dodgers (SportsNet LA / KCOP / Angels.TV)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / KCOP / Angels.TV\nVenue: Dod
+ ger Stadium\, Los Angeles\, California\nFinal: Angels 13\, Dodgers 5\nUnof
+ ficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815678@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260609T013800Z
+DTEND:20260609T043800Z
+SUMMARY:Astros @ Angels (Space City Home Network / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: Space City Home Network / Angels.TV\nVenue:
+  Angel Stadium\, Anaheim\, California\nFinal: Astros 5\, Angels 4\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815693@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260610T013800Z
+DTEND:20260610T043800Z
+SUMMARY:Astros @ Angels (Space City Home Network / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: Space City Home Network / Angels.TV\nVenue:
+  Angel Stadium\, Anaheim\, California\nFinal: Astros 1\, Angels 10\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815708@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260611T013800Z
+DTEND:20260611T043800Z
+SUMMARY:Astros @ Angels (Space City Home Network / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: Space City Home Network / Angels.TV\nVenue:
+  Angel Stadium\, Anaheim\, California\nFinal: Astros 2\, Angels 3\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815733@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260613T013800Z
+DTEND:20260613T043800Z
+SUMMARY:Rays @ Angels (Rays.TV / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: Rays.TV / Angels.TV\nVenue: Angel Stadium\,
+  Anaheim\, California\nFinal: Rays 3\, Angels 4\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815748@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260614T020700Z
+DTEND:20260614T050700Z
+SUMMARY:Rays @ Angels (Rays.TV / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: Rays.TV / Angels.TV\nVenue: Angel Stadium\,
+  Anaheim\, California\nFinal: Rays 0\, Angels 8\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815763@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260614T200700Z
+DTEND:20260614T230700Z
+SUMMARY:Rays @ Angels (Rays.TV / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: Rays.TV / Angels.TV\nVenue: Angel Stadium\,
+  Anaheim\, California\nFinal: Rays 8\, Angels 3\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815771@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260616T014000Z
+DTEND:20260616T044000Z
+SUMMARY:Angels @ Diamondbacks (DBACKS.TV / Angels.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Angels.TV\nVenue: Chase Field\,
+  Phoenix\, Arizona\nFinal: Angels 3\, Diamondbacks 4\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815785@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260617T014000Z
+DTEND:20260617T044000Z
+SUMMARY:Angels @ Diamondbacks (DBACKS.TV / Angels.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Angels.TV\nVenue: Chase Field\,
+  Phoenix\, Arizona\nFinal: Angels 7\, Diamondbacks 0\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815799@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260617T194000Z
+DTEND:20260617T224000Z
+SUMMARY:Angels @ Diamondbacks (DBACKS.TV / Angels.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Angels.TV\nVenue: Chase Field\,
+  Phoenix\, Arizona\nFinal: Angels 1\, Diamondbacks 8\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815810@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260619T014000Z
+DTEND:20260619T044000Z
+SUMMARY:Angels @ Athletics (NBC Sports CA / Angels.TV)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Angels.TV\nVenue: Sutter He
+ alth Park\, Sacramento\, California\nFinal: Angels 0\, Athletics 5\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815822@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260620T014000Z
+DTEND:20260620T044000Z
+SUMMARY:Angels @ Athletics (NBC Sports CA / Angels.TV)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Angels.TV\nVenue: Sutter He
+ alth Park\, Sacramento\, California\nFinal: Angels 11\, Athletics 12\nUnof
+ ficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815835@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260621T020500Z
+DTEND:20260621T050500Z
+SUMMARY:Angels @ Athletics (NBC Sports CA / Angels.TV)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Angels.TV\nVenue: Sutter He
+ alth Park\, Sacramento\, California\nFinal: Angels 7\, Athletics 0\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815850@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260621T200500Z
+DTEND:20260621T230500Z
+SUMMARY:Angels @ Athletics (NBC Sports CA / Angels.TV)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Angels.TV\nVenue: Sutter He
+ alth Park\, Sacramento\, California\nFinal: Angels 9\, Athletics 7\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815866@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260623T013800Z
+DTEND:20260623T043800Z
+SUMMARY:Orioles @ Angels (MASN / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: MASN / Angels.TV\nVenue: Angel Stadium\, An
+ aheim\, California\nFinal: Orioles 6\, Angels 1\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815881@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260624T013800Z
+DTEND:20260624T043800Z
+SUMMARY:Orioles @ Angels (MASN / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: MASN / Angels.TV\nVenue: Angel Stadium\, An
+ aheim\, California\nFinal: Orioles 1\, Angels 5\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815896@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260624T200700Z
+DTEND:20260624T230700Z
+SUMMARY:Orioles @ Angels (MASN / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: MASN / Angels.TV\nVenue: Angel Stadium\, An
+ aheim\, California\nFinal: Orioles 6\, Angels 7\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815918@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260627T013800Z
+DTEND:20260627T043800Z
+SUMMARY:Athletics @ Angels (NBC Sports CA / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Angels.TV\nVenue: Angel Sta
+ dium\, Anaheim\, California\nFinal: Athletics 9\, Angels 3\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815933@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260628T013800Z
+DTEND:20260628T043800Z
+SUMMARY:Athletics @ Angels (NBC Sports CA / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Angels.TV\nVenue: Angel Sta
+ dium\, Anaheim\, California\nFinal: Athletics 2\, Angels 5\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815948@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260628T191500Z
+DTEND:20260628T221500Z
+SUMMARY:Athletics @ Angels (Peacock)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: Peacock\nVenue: Angel Stadium\, Anaheim\, C
+ alifornia\nFinal: Athletics 1\, Angels 4\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815961@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260630T014000Z
+DTEND:20260630T044000Z
+SUMMARY:Angels @ Mariners (ESPN Unlimited)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: T-Mobile Park\, Seat
+ tle\, Washington\nFinal: Angels 2\, Mariners 6\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815976@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260701T014000Z
+DTEND:20260701T044000Z
+SUMMARY:Angels @ Mariners (Mariners.TV / Angels.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Mariners.TV / Angels.TV\nVenue: T-Mobile Pa
+ rk\, Seattle\, Washington\nFinal: Angels 3\, Mariners 8\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816000@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260703T014000Z
+DTEND:20260703T044000Z
+SUMMARY:Angels @ Mariners (Mariners.TV / Angels.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Mariners.TV / Angels.TV\nVenue: T-Mobile Pa
+ rk\, Seattle\, Washington\nFinal: Angels 0\, Mariners 1\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816010@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260704T013800Z
+DTEND:20260704T043800Z
+SUMMARY:Red Sox @ Angels (NESN / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: NESN / Angels.TV\nVenue: Angel Stadium\, An
+ aheim\, California\nFinal: Red Sox 5\, Angels 2\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816025@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260705T013800Z
+DTEND:20260705T043800Z
+SUMMARY:Red Sox @ Angels (NESN / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: NESN / Angels.TV\nVenue: Angel Stadium\, An
+ aheim\, California\nFinal: Red Sox 8\, Angels 1\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816040@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260706T013000Z
+DTEND:20260706T043000Z
+SUMMARY:Red Sox @ Angels (Peacock / NBCSN)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: Peacock / NBCSN\nVenue: Angel Stadium\, Ana
+ heim\, California\nFinal: Red Sox 7\, Angels 5\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816061@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260708T000500Z
+DTEND:20260708T030500Z
+SUMMARY:Angels @ Rangers (Rangers Sports Network / Angels.TV)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Angels.TV\nVenue: 
+ Globe Life Field\, Arlington\, Texas\nFinal: Angels 3\, Rangers 8\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816076@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260709T000500Z
+DTEND:20260709T030500Z
+SUMMARY:Angels @ Rangers (Rangers Sports Network / Angels.TV)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Angels.TV\nVenue: 
+ Globe Life Field\, Arlington\, Texas\nFinal: Angels 13\, Rangers 1\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816090@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260710T000500Z
+DTEND:20260710T030500Z
+SUMMARY:Angels @ Rangers (Rangers Sports Network / Angels.TV)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Angels.TV\nVenue: 
+ Globe Life Field\, Arlington\, Texas\nFinal: Angels 6\, Rangers 7\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816104@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260711T001000Z
+DTEND:20260711T031000Z
+SUMMARY:Angels @ Twins (Twins.TV / Angels.TV)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Angels.TV\nVenue: Target Field\,
+  Minneapolis\, Minnesota\nFinal: Angels 4\, Twins 3\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816119@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260711T181000Z
+DTEND:20260711T211000Z
+SUMMARY:Angels @ Twins (Twins.TV / Angels.TV)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Angels.TV\nVenue: Target Field\,
+  Minneapolis\, Minnesota\nFinal: Angels 3\, Twins 5\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816134@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260712T181000Z
+DTEND:20260712T211000Z
+SUMMARY:Angels @ Twins (Twins.TV / Angels.TV)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Angels.TV\nVenue: Target Field\,
+  Minneapolis\, Minnesota\nFinal: Angels 2\, Twins 4\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816152@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260718T013800Z
+DTEND:20260718T043800Z
+SUMMARY:Tigers @ Angels (Tigers.TV / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: Tigers.TV / Angels.TV\nVenue: Angel Stadium
+ \, Anaheim\, California\nFinal: Tigers 2\, Angels 1\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816167@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260719T020700Z
+DTEND:20260719T050700Z
+SUMMARY:Tigers @ Angels (Tigers.TV / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: Tigers.TV / Angels.TV\nVenue: Angel Stadium
+ \, Anaheim\, California\nFinal: Tigers 7\, Angels 0\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816182@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260719T200700Z
+DTEND:20260719T230700Z
+SUMMARY:Tigers @ Angels (Tigers.TV / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: Tigers.TV / Angels.TV\nVenue: Angel Stadium
+ \, Anaheim\, California\nFinal: Tigers 2\, Angels 3\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816200@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260721T020000Z
+DTEND:20260721T050000Z
+SUMMARY:Cardinals @ Angels (ESPN)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Angel Stadium\, Anaheim\, Cali
+ fornia\nFinal: Cardinals 2\, Angels 3\nUnofficial calendar\; not affiliate
+ d with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816215@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260722T013800Z
+DTEND:20260722T043800Z
+SUMMARY:Cardinals @ Angels (ESPN Unlimited)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Angel Stadium\, Anah
+ eim\, California\nFinal: Cardinals 1\, Angels 5\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816230@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260722T200700Z
+DTEND:20260722T230700Z
+SUMMARY:Cardinals @ Angels (Cardinals.TV / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: Cardinals.TV / Angels.TV\nVenue: Angel Stad
+ ium\, Anaheim\, California\nFinal: Cardinals 1\, Angels 0\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816249@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260725T021500Z
+DTEND:20260725T051500Z
+SUMMARY:Angels @ Giants (ESPN Unlimited)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Oracle Park\, San Fr
+ ancisco\, California\nFinal: Angels 6\, Giants 7\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816264@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260725T200500Z
+DTEND:20260725T230500Z
+SUMMARY:Angels @ Giants (NBC Sports BA / Angels.TV)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Angels.TV\nVenue: Oracle Pa
+ rk\, San Francisco\, California\nFinal: Angels 2\, Giants 9\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816279@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260726T200500Z
+DTEND:20260726T230500Z
+SUMMARY:Angels @ Giants (NBC Sports BA / Angels.TV)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Angels.TV\nVenue: Oracle Pa
+ rk\, San Francisco\, California\nFinal: Angels 4\, Giants 3\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816290@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260728T013800Z
+DTEND:20260728T043800Z
+SUMMARY:Astros @ Angels (Space City Home Network / KCOP / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: Space City Home Network / KCOP / Angels.TV\
+ nVenue: Angel Stadium\, Anaheim\, California\nFinal: Astros 6\, Angels 4\n
+ Unofficial calendar\; not affiliated with the MLB or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816304@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260729T013800Z
+DTEND:20260729T043800Z
+SUMMARY:Astros @ Angels (ESPN Unlimited)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Angel Stadium\, Anah
+ eim\, California\nFinal: Astros 3\, Angels 2\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816319@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260730T013800Z
+DTEND:20260730T043800Z
+SUMMARY:Astros @ Angels (Space City Home Network / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: Space City Home Network / Angels.TV\nVenue:
+  Angel Stadium\, Anaheim\, California\nFinal: Astros 7\, Angels 4\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816344@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260801T013800Z
+DTEND:20260801T043800Z
+SUMMARY:Brewers @ Angels (Brewers.TV / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: Brewers.TV / Angels.TV\nVenue: Angel Stadiu
+ m\, Anaheim\, California\nFinal: Brewers 6\, Angels 2\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816359@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260802T013800Z
+DTEND:20260802T043800Z
+SUMMARY:Brewers @ Angels (Brewers.TV / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: Brewers.TV / Angels.TV\nVenue: Angel Stadiu
+ m\, Anaheim\, California\nFinal: Brewers 3\, Angels 1\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816374@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260802T191500Z
+DTEND:20260802T221500Z
+SUMMARY:Brewers @ Angels (Peacock)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: Peacock\nVenue: Angel Stadium\, Anaheim\, C
+ alifornia\nFinal: Brewers 0\, Angels 3\nUnofficial calendar\; not affiliat
+ ed with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816384@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260804T223500Z
+DTEND:20260805T013500Z
+SUMMARY:Angels @ Orioles (MASN / Angels.TV)
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+DESCRIPTION:Regular Season\nTV: MASN / Angels.TV\nVenue: Oriole Park at Cam
+ den Yards\, Baltimore\, Maryland\nFinal: Angels 1\, Orioles 3\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816399@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260805T223500Z
+DTEND:20260806T013500Z
+SUMMARY:Angels @ Orioles (MASN / Angels.TV)
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+DESCRIPTION:Regular Season\nTV: MASN / Angels.TV\nVenue: Oriole Park at Cam
+ den Yards\, Baltimore\, Maryland\nFinal: Angels 2\, Orioles 5\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816414@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260806T163500Z
+DTEND:20260806T193500Z
+SUMMARY:Angels @ Orioles (MASN / Angels.TV)
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+DESCRIPTION:Regular Season\nTV: MASN / Angels.TV\nVenue: Oriole Park at Cam
+ den Yards\, Baltimore\, Maryland\nFinal: Angels 4\, Orioles 1\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816424@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260807T231000Z
+DTEND:20260808T021000Z
+SUMMARY:Angels @ Marlins (Marlins.TV / Angels.TV)
+LOCATION:loanDepot park\, Miami\, Florida
+DESCRIPTION:Regular Season\nTV: Marlins.TV / Angels.TV\nVenue: loanDepot pa
+ rk\, Miami\, Florida\nFinal: Angels 4\, Marlins 3\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816439@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260808T201000Z
+DTEND:20260808T231000Z
+SUMMARY:Angels @ Marlins (Marlins.TV / Angels.TV)
+LOCATION:loanDepot park\, Miami\, Florida
+DESCRIPTION:Regular Season\nTV: Marlins.TV / Angels.TV\nVenue: loanDepot pa
+ rk\, Miami\, Florida\nFinal: Angels 0\, Marlins 7\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816454@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260809T174000Z
+DTEND:20260809T204000Z
+SUMMARY:Angels @ Marlins (Marlins.TV / WBFS / Angels.TV)
+LOCATION:loanDepot park\, Miami\, Florida
+DESCRIPTION:Regular Season\nTV: Marlins.TV / WBFS / Angels.TV\nVenue: loanD
+ epot park\, Miami\, Florida\nFinal: Angels 3\, Marlins 12\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816478@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260811T013800Z
+DTEND:20260811T043800Z
+SUMMARY:Rangers @ Angels (Rangers Sports Network / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Angels.TV\nVenue: 
+ Angel Stadium\, Anaheim\, California\nFinal: Rangers 4\, Angels 1\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816493@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260812T013800Z
+DTEND:20260812T043800Z
+SUMMARY:Rangers @ Angels (ESPN Unlimited)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Angel Stadium\, Anah
+ eim\, California\nFinal: Rangers 2\, Angels 3\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816508@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260813T020000Z
+DTEND:20260813T050000Z
+SUMMARY:Rangers @ Angels (ESPN)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Angel Stadium\, Anaheim\, Cali
+ fornia\nFinal: Rangers 2\, Angels 5\nUnofficial calendar\; not affiliated 
+ with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816516@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260814T020700Z
+DTEND:20260814T050700Z
+SUMMARY:Rangers @ Angels (Rangers Sports Network / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Angels.TV\nVenue: 
+ Angel Stadium\, Anaheim\, California\nFinal: Rangers 0\, Angels 7\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816529@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260815T013800Z
+DTEND:20260815T043800Z
+SUMMARY:Royals @ Angels (Royals.TV / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: Royals.TV / Angels.TV\nVenue: Angel Stadium
+ \, Anaheim\, California\nFinal: Royals 7\, Angels 6\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816544@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260816T013800Z
+DTEND:20260816T043800Z
+SUMMARY:Royals @ Angels (Royals.TV / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: Royals.TV / Angels.TV\nVenue: Angel Stadium
+ \, Anaheim\, California\nFinal: Royals 0\, Angels 1\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816559@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260816T200700Z
+DTEND:20260816T230700Z
+SUMMARY:Royals @ Angels (Royals.TV / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: Royals.TV / Angels.TV\nVenue: Angel Stadium
+ \, Anaheim\, California\nFinal: Royals 3\, Angels 0\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816579@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260819T001000Z
+DTEND:20260819T031000Z
+SUMMARY:Angels @ Astros (Space City Home Network / Angels.TV)
+LOCATION:Daikin Park\, Houston\, Texas
+DESCRIPTION:Regular Season\nTV: Space City Home Network / Angels.TV\nVenue:
+  Daikin Park\, Houston\, Texas\nFinal: Angels 3\, Astros 1\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816594@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260820T001000Z
+DTEND:20260820T031000Z
+SUMMARY:Angels @ Astros (Space City Home Network / Angels.TV)
+LOCATION:Daikin Park\, Houston\, Texas
+DESCRIPTION:Regular Season\nTV: Space City Home Network / Angels.TV\nVenue:
+  Daikin Park\, Houston\, Texas\nFinal: Angels 2\, Astros 3\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816605@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260821T001000Z
+DTEND:20260821T031000Z
+SUMMARY:Angels @ Astros (Space City Home Network / Angels.TV)
+LOCATION:Daikin Park\, Houston\, Texas
+DESCRIPTION:Regular Season\nTV: Space City Home Network / Angels.TV\nVenue:
+  Daikin Park\, Houston\, Texas\nFinal: Angels 18\, Astros 3\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816615@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260822T001500Z
+DTEND:20260822T031500Z
+SUMMARY:Angels @ Rangers (Apple TV)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: Globe Life Field\, Arlingt
+ on\, Texas\nFinal: Angels 1\, Rangers 2\nUnofficial calendar\; not affilia
+ ted with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816630@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260822T230500Z
+DTEND:20260823T020500Z
+SUMMARY:Angels @ Rangers (Rangers Sports Network / Angels.TV)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Angels.TV\nVenue: 
+ Globe Life Field\, Arlington\, Texas\nFinal: Angels 3\, Rangers 0\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816645@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260823T183500Z
+DTEND:20260823T213500Z
+SUMMARY:Angels @ Rangers (Rangers Sports Network / Angels.TV)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Angels.TV\nVenue: 
+ Globe Life Field\, Arlington\, Texas\nFinal: Angels 3\, Rangers 5\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816661@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260825T013800Z
+DTEND:20260825T043800Z
+SUMMARY:Guardians @ Angels (CLEGuardians.TV / KCOP / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / KCOP / Angels.TV\nVenue: 
+ Angel Stadium\, Anaheim\, California\nFinal: Guardians 4\, Angels 2\nUnoff
+ icial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816676@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260826T013800Z
+DTEND:20260826T043800Z
+SUMMARY:Guardians @ Angels (CLEGuardians.TV / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Angels.TV\nVenue: Angel S
+ tadium\, Anaheim\, California\nFinal: Guardians 8\, Angels 6\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816691@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260826T200700Z
+DTEND:20260826T230700Z
+SUMMARY:Guardians @ Angels (CLEGuardians.TV / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Angels.TV\nVenue: Angel S
+ tadium\, Anaheim\, California\nFinal: Guardians 4\, Angels 3\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816716@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260829T013800Z
+DTEND:20260829T043800Z
+SUMMARY:Phillies @ Angels (NBC Sports Phil / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / Angels.TV\nVenue: Angel S
+ tadium\, Anaheim\, California\nFinal: Phillies 5\, Angels 3\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816731@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260830T020700Z
+DTEND:20260830T050700Z
+SUMMARY:Phillies @ Angels (NBC Sports Phil / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / Angels.TV\nVenue: Angel S
+ tadium\, Anaheim\, California\nFinal: Phillies 4\, Angels 2\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816746@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260830T200700Z
+DTEND:20260830T230700Z
+SUMMARY:Phillies @ Angels (NBC Sports Phil / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / Angels.TV\nVenue: Angel S
+ tadium\, Anaheim\, California\nFinal: Phillies 5\, Angels 2\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816756@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260901T013800Z
+DTEND:20260901T043800Z
+SUMMARY:Yankees @ Angels (YES / KCOP / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: YES / KCOP / Angels.TV\nVenue: Angel Stadiu
+ m\, Anaheim\, California\nFinal: Yankees 1\, Angels 10\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816770@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260902T013800Z
+DTEND:20260902T043800Z
+SUMMARY:Yankees @ Angels (YES / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: YES / Angels.TV\nVenue: Angel Stadium\, Ana
+ heim\, California\nFinal: Yankees 7\, Angels 3\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816785@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260903T013800Z
+DTEND:20260903T043800Z
+SUMMARY:Yankees @ Angels (YES / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: YES / Angels.TV\nVenue: Angel Stadium\, Ana
+ heim\, California\nFinal: Yankees 6\, Angels 3\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816797@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260904T224000Z
+DTEND:20260905T014000Z
+SUMMARY:Angels @ Pirates (Apple TV)
+LOCATION:PNC Park\, Pittsburgh\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: PNC Park\, Pittsburgh\, Pe
+ nnsylvania\nFinal: Angels 0\, Pirates 1\nUnofficial calendar\; not affilia
+ ted with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816812@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260905T224000Z
+DTEND:20260906T014000Z
+SUMMARY:Angels @ Pirates (Angels.TV)
+LOCATION:PNC Park\, Pittsburgh\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: Angels.TV\nVenue: PNC Park\, Pittsburgh\, P
+ ennsylvania\nFinal: Angels 6\, Pirates 1\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816827@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260906T173500Z
+DTEND:20260906T203500Z
+SUMMARY:Angels @ Pirates (Angels.TV)
+LOCATION:PNC Park\, Pittsburgh\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: Angels.TV\nVenue: PNC Park\, Pittsburgh\, P
+ ennsylvania\nFinal: Angels 0\, Pirates 1\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816842@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260907T173500Z
+DTEND:20260907T203500Z
+SUMMARY:Angels @ Red Sox (NESN / Angels.TV)
+LOCATION:Fenway Park\, Boston\, Massachusetts
+DESCRIPTION:Regular Season\nTV: NESN / Angels.TV\nVenue: Fenway Park\, Bost
+ on\, Massachusetts\nFinal: Angels 2\, Red Sox 5\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816853@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260908T224500Z
+DTEND:20260909T014500Z
+SUMMARY:Angels @ Red Sox (NESN / Angels.TV)
+LOCATION:Fenway Park\, Boston\, Massachusetts
+DESCRIPTION:Regular Season\nTV: NESN / Angels.TV\nVenue: Fenway Park\, Bost
+ on\, Massachusetts\nFinal: Angels 6\, Red Sox 1\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816868@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260909T224500Z
+DTEND:20260910T014500Z
+SUMMARY:Angels @ Red Sox (NESN / Angels.TV)
+LOCATION:Fenway Park\, Boston\, Massachusetts
+DESCRIPTION:Regular Season\nTV: NESN / Angels.TV\nVenue: Fenway Park\, Bost
+ on\, Massachusetts\nFinal: Angels 6\, Red Sox 4\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816888@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260911T224500Z
+DTEND:20260912T014500Z
+SUMMARY:Angels @ Nationals (Nationals.TV / Angels.TV)
+LOCATION:Nationals Park\, Washington\, District of Columbia
+DESCRIPTION:Regular Season\nTV: Nationals.TV / Angels.TV\nVenue: Nationals 
+ Park\, Washington\, District of Columbia\nFinal: Angels 3\, Nationals 4\nU
+ nofficial calendar\; not affiliated with the MLB or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816903@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260912T200500Z
+DTEND:20260912T230500Z
+SUMMARY:Angels @ Nationals (Nationals.TV / Angels.TV)
+LOCATION:Nationals Park\, Washington\, District of Columbia
+DESCRIPTION:Regular Season\nTV: Nationals.TV / Angels.TV\nVenue: Nationals 
+ Park\, Washington\, District of Columbia\nFinal: Angels 5\, Nationals 6\nU
+ nofficial calendar\; not affiliated with the MLB or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816918@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260913T173500Z
+DTEND:20260913T203500Z
+SUMMARY:Angels @ Nationals (Nationals.TV / Angels.TV)
+LOCATION:Nationals Park\, Washington\, District of Columbia
+DESCRIPTION:Regular Season\nTV: Nationals.TV / Angels.TV\nVenue: Nationals 
+ Park\, Washington\, District of Columbia\nFinal: Angels 5\, Nationals 6\nU
+ nofficial calendar\; not affiliated with the MLB or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816942@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260915T013800Z
+DTEND:20260915T043800Z
+SUMMARY:Mariners @ Angels (Mariners.TV / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: Mariners.TV / Angels.TV\nVenue: Angel Stadi
+ um\, Anaheim\, California\nFinal: Mariners 4\, Angels 6\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816957@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260916T013800Z
+DTEND:20260916T043800Z
+SUMMARY:Mariners @ Angels (Mariners.TV / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: Mariners.TV / Angels.TV\nVenue: Angel Stadi
+ um\, Anaheim\, California\nFinal: Mariners 1\, Angels 2\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816972@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260917T013800Z
+DTEND:20260917T043800Z
+SUMMARY:Mariners @ Angels (Mariners.TV / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: Mariners.TV / Angels.TV\nVenue: Angel Stadi
+ um\, Anaheim\, California\nFinal: Mariners 7\, Angels 2\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816981@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260918T013800Z
+DTEND:20260918T043800Z
+SUMMARY:Twins @ Angels (Twins.TV / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: Twins.TV / Angels.TV\nVenue: Angel Stadium\
+ , Anaheim\, California\nFinal: Twins 4\, Angels 5\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816994@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260919T013800Z
+DTEND:20260919T043800Z
+SUMMARY:Twins @ Angels (Twins.TV / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: Twins.TV / Angels.TV\nVenue: Angel Stadium\
+ , Anaheim\, California\nFinal: Twins 3\, Angels 0\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817009@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260920T013800Z
+DTEND:20260920T043800Z
+SUMMARY:Twins @ Angels (Twins.TV / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: Twins.TV / Angels.TV\nVenue: Angel Stadium\
+ , Anaheim\, California\nFinal: Twins 5\, Angels 6\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817024@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260920T200700Z
+DTEND:20260920T230700Z
+SUMMARY:Twins @ Angels (Twins.TV / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: Twins.TV / Angels.TV\nVenue: Angel Stadium\
+ , Anaheim\, California\nFinal: Twins 8\, Angels 0\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817041@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260923T014000Z
+DTEND:20260923T044000Z
+SUMMARY:Angels @ Athletics (NBC Sports CA / Angels.TV)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Angels.TV\nVenue: Sutter He
+ alth Park\, Sacramento\, California\nFinal: Angels 7\, Athletics 9\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817056@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260924T014000Z
+DTEND:20260924T044000Z
+SUMMARY:Angels @ Athletics (NBC Sports CA / Angels.TV)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Angels.TV\nVenue: Sutter He
+ alth Park\, Sacramento\, California\nFinal: Angels 3\, Athletics 7\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817069@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260925T014000Z
+DTEND:20260925T044000Z
+SUMMARY:Angels @ Mariners (Mariners.TV / Angels.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Mariners.TV / Angels.TV\nVenue: T-Mobile Pa
+ rk\, Seattle\, Washington\nFinal: Angels 6\, Mariners 4\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817083@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260926T021000Z
+DTEND:20260926T051000Z
+SUMMARY:Angels @ Mariners (Mariners.TV / Angels.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Mariners.TV / Angels.TV\nVenue: T-Mobile Pa
+ rk\, Seattle\, Washington\nFinal: Angels 7\, Mariners 5\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817098@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260927T014000Z
+DTEND:20260927T044000Z
+SUMMARY:Angels @ Mariners (Mariners.TV / Angels.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Mariners.TV / Angels.TV\nVenue: T-Mobile Pa
+ rk\, Seattle\, Washington\nFinal: Angels 4\, Mariners 8\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817113@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260927T191000Z
+DTEND:20260927T221000Z
+SUMMARY:Angels @ Mariners (Mariners.TV / Angels.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Mariners.TV / Angels.TV\nVenue: T-Mobile Pa
+ rk\, Seattle\, Washington\nFinal: Angels 3\, Mariners 7\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

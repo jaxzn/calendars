@@ -1,0 +1,2133 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jaxzn//MLB Calendars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Seattle Mariners
+X-WR-CALDESC:Seattle Mariners MLB schedule (unofficial\, auto-updated)
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:espn-401814700@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260327T021000Z
+DTEND:20260327T051000Z
+SUMMARY:Guardians @ Mariners (CLEGuardians.TV / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Mariners.TV\nVenue: T-Mob
+ ile Park\, Seattle\, Washington\nFinal: Guardians 6\, Mariners 4\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814705@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260328T014000Z
+DTEND:20260328T044000Z
+SUMMARY:Guardians @ Mariners (Apple TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: T-Mobile Park\, Seattle\, 
+ Washington\nFinal: Guardians 1\, Mariners 5\nUnofficial calendar\; not aff
+ iliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814719@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260329T014000Z
+DTEND:20260329T044000Z
+SUMMARY:Guardians @ Mariners (MLB Network)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: MLB Network\nVenue: T-Mobile Park\, Seattle
+ \, Washington\nFinal: Guardians 6\, Mariners 5\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814733@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260329T232000Z
+DTEND:20260330T022000Z
+SUMMARY:Guardians @ Mariners (Peacock)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Peacock\nVenue: T-Mobile Park\, Seattle\, W
+ ashington\nFinal: Guardians 0\, Mariners 8\nUnofficial calendar\; not affi
+ liated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814748@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260331T014000Z
+DTEND:20260331T044000Z
+SUMMARY:Yankees @ Mariners (Mariners.TV / YES)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Mariners.TV / YES\nVenue: T-Mobile Park\, S
+ eattle\, Washington\nFinal: Yankees 1\, Mariners 2\nUnofficial calendar\; 
+ not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814762@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260401T014000Z
+DTEND:20260401T044000Z
+SUMMARY:Yankees @ Mariners (TBS)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: TBS\nVenue: T-Mobile Park\, Seattle\, Washi
+ ngton\nFinal: Yankees 5\, Mariners 0\nUnofficial calendar\; not affiliated
+  with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814777@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260401T201000Z
+DTEND:20260401T231000Z
+SUMMARY:Yankees @ Mariners (Mariners.TV / YES)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Mariners.TV / YES\nVenue: T-Mobile Park\, S
+ eattle\, Washington\nFinal: Yankees 5\, Mariners 3\nUnofficial calendar\; 
+ not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814796@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260404T013800Z
+DTEND:20260404T043800Z
+SUMMARY:Mariners @ Angels (FanDuel SN West / Mariners.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: FanDuel SN West / Mariners.TV\nVenue: Angel
+  Stadium\, Anaheim\, California\nFinal: Mariners 3\, Angels 1\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814811@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260405T013800Z
+DTEND:20260405T043800Z
+SUMMARY:Mariners @ Angels (FanDuel SN West / Mariners.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: FanDuel SN West / Mariners.TV\nVenue: Angel
+  Stadium\, Anaheim\, California\nFinal: Mariners 0\, Angels 1\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814826@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260405T200700Z
+DTEND:20260405T230700Z
+SUMMARY:Mariners @ Angels (FanDuel SN West / Mariners.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: FanDuel SN West / Mariners.TV\nVenue: Angel
+  Stadium\, Anaheim\, California\nFinal: Mariners 7\, Angels 8\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814836@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260407T000500Z
+DTEND:20260407T030500Z
+SUMMARY:Mariners @ Rangers (Rangers Sports Network / Mariners.TV)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Mariners.TV\nVenue
+ : Globe Life Field\, Arlington\, Texas\nFinal: Mariners 1\, Rangers 2\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814851@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260408T000500Z
+DTEND:20260408T030500Z
+SUMMARY:Mariners @ Rangers (Rangers Sports Network / Mariners.TV)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Mariners.TV\nVenue
+ : Globe Life Field\, Arlington\, Texas\nFinal: Mariners 2\, Rangers 3\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814866@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260408T183500Z
+DTEND:20260408T213500Z
+SUMMARY:Mariners @ Rangers (Rangers Sports Network / Mariners.TV)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Mariners.TV\nVenue
+ : Globe Life Field\, Arlington\, Texas\nFinal: Mariners 0\, Rangers 3\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814889@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260411T014000Z
+DTEND:20260411T044000Z
+SUMMARY:Astros @ Mariners (Space City Home Network / Mariners.TV / KING 5)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Space City Home Network / Mariners.TV / KIN
+ G 5\nVenue: T-Mobile Park\, Seattle\, Washington\nFinal: Astros 6\, Marine
+ rs 9\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814904@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260412T014000Z
+DTEND:20260412T044000Z
+SUMMARY:Astros @ Mariners (ESPN Unlimited)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: T-Mobile Park\, Seat
+ tle\, Washington\nFinal: Astros 7\, Mariners 8\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814919@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260412T201000Z
+DTEND:20260412T231000Z
+SUMMARY:Astros @ Mariners (Space City Home Network / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Space City Home Network / Mariners.TV\nVenu
+ e: T-Mobile Park\, Seattle\, Washington\nFinal: Astros 1\, Mariners 6\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814928@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260413T201000Z
+DTEND:20260413T231000Z
+SUMMARY:Astros @ Mariners (Space City Home Network / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Space City Home Network / Mariners.TV\nVenu
+ e: T-Mobile Park\, Seattle\, Washington\nFinal: Astros 2\, Mariners 6\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814944@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260415T014000Z
+DTEND:20260415T044000Z
+SUMMARY:Mariners @ Padres (ESPN Unlimited)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Petco Park\, San Die
+ go\, California\nFinal: Mariners 1\, Padres 4\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814959@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260416T014000Z
+DTEND:20260416T044000Z
+SUMMARY:Mariners @ Padres (Padres.TV / Mariners.TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Padres.TV / Mariners.TV\nVenue: Petco Park\
+ , San Diego\, California\nFinal: Mariners 6\, Padres 7\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814969@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260417T004000Z
+DTEND:20260417T034000Z
+SUMMARY:Mariners @ Padres (MLB Network)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: MLB Network\nVenue: Petco Park\, San Diego\
+ , California\nFinal: Mariners 2\, Padres 5\nUnofficial calendar\; not affi
+ liated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814984@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260418T014000Z
+DTEND:20260418T044000Z
+SUMMARY:Rangers @ Mariners (Rangers Sports Network / Mariners.TV / KING 5)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Mariners.TV / KING
+  5\nVenue: T-Mobile Park\, Seattle\, Washington\nFinal: Rangers 5\, Marine
+ rs 0\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814999@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260418T231500Z
+DTEND:20260419T021500Z
+SUMMARY:Rangers @ Mariners (Fox)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Fox\nVenue: T-Mobile Park\, Seattle\, Washi
+ ngton\nFinal: Rangers 3\, Mariners 7\nUnofficial calendar\; not affiliated
+  with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815014@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260419T201000Z
+DTEND:20260419T231000Z
+SUMMARY:Rangers @ Mariners (Rangers Sports Network / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Mariners.TV\nVenue
+ : T-Mobile Park\, Seattle\, Washington\nFinal: Rangers 2\, Mariners 5\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815024@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260421T014000Z
+DTEND:20260421T044000Z
+SUMMARY:Athletics @ Mariners (NBC Sports CA / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Mariners.TV\nVenue: T-Mobil
+ e Park\, Seattle\, Washington\nFinal: Athletics 6\, Mariners 4\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815037@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260422T014000Z
+DTEND:20260422T044000Z
+SUMMARY:Athletics @ Mariners (NBC Sports CA / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Mariners.TV\nVenue: T-Mobil
+ e Park\, Seattle\, Washington\nFinal: Athletics 5\, Mariners 2\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815052@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260422T201000Z
+DTEND:20260422T231000Z
+SUMMARY:Athletics @ Mariners (NBC Sports CA / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Mariners.TV\nVenue: T-Mobil
+ e Park\, Seattle\, Washington\nFinal: Athletics 4\, Mariners 5\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815075@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260425T001500Z
+DTEND:20260425T031500Z
+SUMMARY:Mariners @ Cardinals (Cardinals.TV / Mariners.TV / KMOV-TV)
+LOCATION:Busch Stadium\, St. Louis\, Missouri
+DESCRIPTION:Regular Season\nTV: Cardinals.TV / Mariners.TV / KMOV-TV\nVenue
+ : Busch Stadium\, St. Louis\, Missouri\nFinal: Mariners 3\, Cardinals 2\nU
+ nofficial calendar\; not affiliated with the MLB or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815090@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260425T181500Z
+DTEND:20260425T211500Z
+SUMMARY:Mariners @ Cardinals (Cardinals.TV / Mariners.TV)
+LOCATION:Busch Stadium\, St. Louis\, Missouri
+DESCRIPTION:Regular Season\nTV: Cardinals.TV / Mariners.TV\nVenue: Busch St
+ adium\, St. Louis\, Missouri\nFinal: Mariners 11\, Cardinals 9\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815105@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260426T181500Z
+DTEND:20260426T211500Z
+SUMMARY:Mariners @ Cardinals (Cardinals.TV / Mariners.TV)
+LOCATION:Busch Stadium\, St. Louis\, Missouri
+DESCRIPTION:Regular Season\nTV: Cardinals.TV / Mariners.TV\nVenue: Busch St
+ adium\, St. Louis\, Missouri\nFinal: Mariners 3\, Cardinals 2\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815115@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260427T234000Z
+DTEND:20260428T024000Z
+SUMMARY:Mariners @ Twins (FS1)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: FS1\nVenue: Target Field\, Minneapolis\, Mi
+ nnesota\nFinal: Mariners 4\, Twins 11\nUnofficial calendar\; not affiliate
+ d with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815129@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260428T234000Z
+DTEND:20260429T024000Z
+SUMMARY:Mariners @ Twins (Twins.TV / Mariners.TV / KMSP-TV / Gray Media)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Mariners.TV / KMSP-TV / Gray Med
+ ia\nVenue: Target Field\, Minneapolis\, Minnesota\nFinal: Mariners 7\, Twi
+ ns 1\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815144@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260429T174000Z
+DTEND:20260429T204000Z
+SUMMARY:Mariners @ Twins (Twins.TV / Mariners.TV)
+LOCATION:Target Field\, Minneapolis\, Minnesota
+DESCRIPTION:Regular Season\nTV: Twins.TV / Mariners.TV\nVenue: Target Field
+ \, Minneapolis\, Minnesota\nFinal: Mariners 5\, Twins 3\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815170@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260502T014500Z
+DTEND:20260502T044500Z
+SUMMARY:Royals @ Mariners (Apple TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: T-Mobile Park\, Seattle\, 
+ Washington\nFinal: Royals 7\, Mariners 6\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815185@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260503T014000Z
+DTEND:20260503T044000Z
+SUMMARY:Royals @ Mariners (Royals.TV / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Royals.TV / Mariners.TV\nVenue: T-Mobile Pa
+ rk\, Seattle\, Washington\nFinal: Royals 3\, Mariners 2\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815200@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260503T201000Z
+DTEND:20260503T231000Z
+SUMMARY:Royals @ Mariners (Royals.TV / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Royals.TV / Mariners.TV\nVenue: T-Mobile Pa
+ rk\, Seattle\, Washington\nFinal: Royals 4\, Mariners 1\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815211@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260505T014000Z
+DTEND:20260505T044000Z
+SUMMARY:Braves @ Mariners (BravesVision / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: BravesVision / Mariners.TV\nVenue: T-Mobile
+  Park\, Seattle\, Washington\nFinal: Braves 4\, Mariners 5\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815225@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260506T014000Z
+DTEND:20260506T044000Z
+SUMMARY:Braves @ Mariners (BravesVision / Mariners.TV / Gray Media)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: BravesVision / Mariners.TV / Gray Media\nVe
+ nue: T-Mobile Park\, Seattle\, Washington\nFinal: Braves 3\, Mariners 2\nU
+ nofficial calendar\; not affiliated with the MLB or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815240@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260506T201000Z
+DTEND:20260506T231000Z
+SUMMARY:Braves @ Mariners (BravesVision / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: BravesVision / Mariners.TV\nVenue: T-Mobile
+  Park\, Seattle\, Washington\nFinal: Braves 1\, Mariners 3\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815263@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260508T234000Z
+DTEND:20260509T024000Z
+SUMMARY:Mariners @ White Sox (ESPN Unlimited)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Rate Field\, Chicago
+ \, Illinois\nFinal: Mariners 12\, White Sox 8\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815278@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260509T231000Z
+DTEND:20260510T021000Z
+SUMMARY:Mariners @ White Sox (CHSN / Mariners.TV)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: CHSN / Mariners.TV\nVenue: Rate Field\, Chi
+ cago\, Illinois\nFinal: Mariners 1\, White Sox 6\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815293@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260510T181000Z
+DTEND:20260510T211000Z
+SUMMARY:Mariners @ White Sox (CHSN / Mariners.TV)
+LOCATION:Rate Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: CHSN / Mariners.TV\nVenue: Rate Field\, Chi
+ cago\, Illinois\nFinal: Mariners 1\, White Sox 2\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815302@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260512T001000Z
+DTEND:20260512T031000Z
+SUMMARY:Mariners @ Astros (FS1)
+LOCATION:Daikin Park\, Houston\, Texas
+DESCRIPTION:Regular Season\nTV: FS1\nVenue: Daikin Park\, Houston\, Texas\n
+ Final: Mariners 3\, Astros 1\nUnofficial calendar\; not affiliated with th
+ e MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815316@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260513T001000Z
+DTEND:20260513T031000Z
+SUMMARY:Mariners @ Astros (Space City Home Network / Mariners.TV)
+LOCATION:Daikin Park\, Houston\, Texas
+DESCRIPTION:Regular Season\nTV: Space City Home Network / Mariners.TV\nVenu
+ e: Daikin Park\, Houston\, Texas\nFinal: Mariners 10\, Astros 2\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815331@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260514T001000Z
+DTEND:20260514T031000Z
+SUMMARY:Mariners @ Astros (Space City Home Network / Mariners.TV)
+LOCATION:Daikin Park\, Houston\, Texas
+DESCRIPTION:Regular Season\nTV: Space City Home Network / Mariners.TV\nVenu
+ e: Daikin Park\, Houston\, Texas\nFinal: Mariners 3\, Astros 4\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815342@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260514T181000Z
+DTEND:20260514T211000Z
+SUMMARY:Mariners @ Astros (Space City Home Network / Mariners.TV)
+LOCATION:Daikin Park\, Houston\, Texas
+DESCRIPTION:Regular Season\nTV: Space City Home Network / Mariners.TV\nVenu
+ e: Daikin Park\, Houston\, Texas\nFinal: Mariners 8\, Astros 3\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815358@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260516T014000Z
+DTEND:20260516T044000Z
+SUMMARY:Padres @ Mariners (Padres.TV / Mariners.TV / KING 5)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Padres.TV / Mariners.TV / KING 5\nVenue: T-
+ Mobile Park\, Seattle\, Washington\nFinal: Padres 2\, Mariners 0\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815373@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260516T231500Z
+DTEND:20260517T021500Z
+SUMMARY:Padres @ Mariners (Fox)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Fox\nVenue: T-Mobile Park\, Seattle\, Washi
+ ngton\nFinal: Padres 7\, Mariners 4\nUnofficial calendar\; not affiliated 
+ with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815388@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260517T232000Z
+DTEND:20260518T022000Z
+SUMMARY:Padres @ Mariners (Peacock / NBC)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Peacock / NBC\nVenue: T-Mobile Park\, Seatt
+ le\, Washington\nFinal: Padres 8\, Mariners 3\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815401@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260519T014000Z
+DTEND:20260519T044000Z
+SUMMARY:White Sox @ Mariners (ESPN Unlimited)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: T-Mobile Park\, Seat
+ tle\, Washington\nFinal: White Sox 1\, Mariners 6\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815416@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260520T014000Z
+DTEND:20260520T044000Z
+SUMMARY:White Sox @ Mariners (CHSN / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: CHSN / Mariners.TV\nVenue: T-Mobile Park\, 
+ Seattle\, Washington\nFinal: White Sox 2\, Mariners 1\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815431@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260520T201000Z
+DTEND:20260520T231000Z
+SUMMARY:White Sox @ Mariners (CHSN / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: CHSN / Mariners.TV\nVenue: T-Mobile Park\, 
+ Seattle\, Washington\nFinal: White Sox 4\, Mariners 5\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815451@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260522T234000Z
+DTEND:20260523T024000Z
+SUMMARY:Mariners @ Royals (Mariners.TV / Royals.TV / KCTV5)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Mariners.TV / Royals.TV / KCTV5\nVenue: Kau
+ ffman Stadium\, Kansas City\, Missouri\nFinal: Mariners 2\, Royals 0\nUnof
+ ficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815466@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260523T201000Z
+DTEND:20260523T231000Z
+SUMMARY:Mariners @ Royals (FS1)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: FS1\nVenue: Kauffman Stadium\, Kansas City\
+ , Missouri\nFinal: Mariners 0\, Royals 5\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815481@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260524T181000Z
+DTEND:20260524T211000Z
+SUMMARY:Mariners @ Royals (Royals.TV / Mariners.TV)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: Royals.TV / Mariners.TV\nVenue: Kauffman St
+ adium\, Kansas City\, Missouri\nFinal: Mariners 6\, Royals 8\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815498@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260526T014000Z
+DTEND:20260526T044000Z
+SUMMARY:Mariners @ Athletics (NBC Sports CA / Mariners.TV)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Mariners.TV\nVenue: Sutter 
+ Health Park\, Sacramento\, California\nFinal: Mariners 9\, Athletics 2\nUn
+ official calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815513@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260527T014000Z
+DTEND:20260527T044000Z
+SUMMARY:Mariners @ Athletics (ESPN Unlimited)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Sutter Health Park\,
+  Sacramento\, California\nFinal: Mariners 4\, Athletics 1\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815528@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260527T190500Z
+DTEND:20260527T220500Z
+SUMMARY:Mariners @ Athletics (NBC Sports CA / Mariners.TV)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Mariners.TV\nVenue: Sutter 
+ Health Park\, Sacramento\, California\nFinal: Mariners 9\, Athletics 1\nUn
+ official calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815547@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260530T021000Z
+DTEND:20260530T051000Z
+SUMMARY:Diamondbacks @ Mariners (DBACKS.TV / Mariners.TV / KING 5)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Mariners.TV / KING 5\nVenue: T-
+ Mobile Park\, Seattle\, Washington\nFinal: Diamondbacks 6\, Mariners 7\nUn
+ official calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815562@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260531T021000Z
+DTEND:20260531T051000Z
+SUMMARY:Diamondbacks @ Mariners (DBACKS.TV / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Mariners.TV\nVenue: T-Mobile Pa
+ rk\, Seattle\, Washington\nFinal: Diamondbacks 1\, Mariners 5\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815577@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260531T201000Z
+DTEND:20260531T231000Z
+SUMMARY:Diamondbacks @ Mariners (DBACKS.TV / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: DBACKS.TV / Mariners.TV\nVenue: T-Mobile Pa
+ rk\, Seattle\, Washington\nFinal: Diamondbacks 2\, Mariners 3\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815588@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260602T014000Z
+DTEND:20260602T044000Z
+SUMMARY:Mets @ Mariners (Mariners.TV / SNY)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Mariners.TV / SNY\nVenue: T-Mobile Park\, S
+ eattle\, Washington\nFinal: Mets 2\, Mariners 3\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815603@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260603T014000Z
+DTEND:20260603T044000Z
+SUMMARY:Mets @ Mariners (Mariners.TV / SNY)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Mariners.TV / SNY\nVenue: T-Mobile Park\, S
+ eattle\, Washington\nFinal: Mets 3\, Mariners 8\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815618@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260603T194000Z
+DTEND:20260603T224000Z
+SUMMARY:Mets @ Mariners (Mariners.TV / SNY)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Mariners.TV / SNY\nVenue: T-Mobile Park\, S
+ eattle\, Washington\nFinal: Mets 7\, Mariners 1\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815632@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260605T224000Z
+DTEND:20260606T014000Z
+SUMMARY:Mariners @ Tigers (Tigers.TV / Mariners.TV)
+LOCATION:Comerica Park\, Detroit\, Michigan
+DESCRIPTION:Regular Season\nTV: Tigers.TV / Mariners.TV\nVenue: Comerica Pa
+ rk\, Detroit\, Michigan\nFinal: Mariners 3\, Tigers 7\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815647@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260606T171000Z
+DTEND:20260606T201000Z
+SUMMARY:Mariners @ Tigers (Tigers.TV / Mariners.TV)
+LOCATION:Comerica Park\, Detroit\, Michigan
+DESCRIPTION:Regular Season\nTV: Tigers.TV / Mariners.TV\nVenue: Comerica Pa
+ rk\, Detroit\, Michigan\nFinal: Mariners 4\, Tigers 0\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815662@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260607T174000Z
+DTEND:20260607T204000Z
+SUMMARY:Mariners @ Tigers (Tigers.TV / Mariners.TV)
+LOCATION:Comerica Park\, Detroit\, Michigan
+DESCRIPTION:Regular Season\nTV: Tigers.TV / Mariners.TV\nVenue: Comerica Pa
+ rk\, Detroit\, Michigan\nFinal: Mariners 4\, Tigers 5\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815676@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260608T223500Z
+DTEND:20260609T013500Z
+SUMMARY:Mariners @ Orioles (MASN / Mariners.TV)
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+DESCRIPTION:Regular Season\nTV: MASN / Mariners.TV\nVenue: Oriole Park at C
+ amden Yards\, Baltimore\, Maryland\nFinal: Mariners 6\, Orioles 3\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815687@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260609T223500Z
+DTEND:20260610T013500Z
+SUMMARY:Mariners @ Orioles (MASN / Mariners.TV)
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+DESCRIPTION:Regular Season\nTV: MASN / Mariners.TV\nVenue: Oriole Park at C
+ amden Yards\, Baltimore\, Maryland\nFinal: Mariners 6\, Orioles 5\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815702@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260610T223500Z
+DTEND:20260611T013500Z
+SUMMARY:Mariners @ Orioles (MASN / Mariners.TV)
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+DESCRIPTION:Regular Season\nTV: MASN / Mariners.TV\nVenue: Oriole Park at C
+ amden Yards\, Baltimore\, Maryland\nFinal: Mariners 2\, Orioles 7\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815714@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260611T230000Z
+DTEND:20260612T020000Z
+SUMMARY:Mariners @ Orioles (ESPN)
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Oriole Park at Camden Yards\, 
+ Baltimore\, Maryland\nFinal: Mariners 5\, Orioles 7\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815725@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260612T224500Z
+DTEND:20260613T014500Z
+SUMMARY:Mariners @ Nationals (Mariners.TV / Nationals.TV)
+LOCATION:Nationals Park\, Washington\, District of Columbia
+DESCRIPTION:Regular Season\nTV: Mariners.TV / Nationals.TV\nVenue: National
+ s Park\, Washington\, District of Columbia\nFinal: Mariners 10\, Nationals
+  2\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may c
+ hange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815740@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260613T200500Z
+DTEND:20260613T230500Z
+SUMMARY:Mariners @ Nationals (Mariners.TV / Nationals.TV)
+LOCATION:Nationals Park\, Washington\, District of Columbia
+DESCRIPTION:Regular Season\nTV: Mariners.TV / Nationals.TV\nVenue: National
+ s Park\, Washington\, District of Columbia\nFinal: Mariners 3\, Nationals 
+ 8\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may ch
+ ange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815755@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260614T173500Z
+DTEND:20260614T203500Z
+SUMMARY:Mariners @ Nationals (Mariners.TV / Nationals.TV)
+LOCATION:Nationals Park\, Washington\, District of Columbia
+DESCRIPTION:Regular Season\nTV: Mariners.TV / Nationals.TV\nVenue: National
+ s Park\, Washington\, District of Columbia\nFinal: Mariners 1\, Nationals 
+ 10\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may c
+ hange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815786@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260617T014000Z
+DTEND:20260617T044000Z
+SUMMARY:Orioles @ Mariners (MASN / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: MASN / Mariners.TV\nVenue: T-Mobile Park\, 
+ Seattle\, Washington\nFinal: Orioles 1\, Mariners 3\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815800@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260618T014000Z
+DTEND:20260618T044000Z
+SUMMARY:Orioles @ Mariners (MASN / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: MASN / Mariners.TV\nVenue: T-Mobile Park\, 
+ Seattle\, Washington\nFinal: Orioles 5\, Mariners 3\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815811@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260618T201000Z
+DTEND:20260618T231000Z
+SUMMARY:Orioles @ Mariners (MASN / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: MASN / Mariners.TV\nVenue: T-Mobile Park\, 
+ Seattle\, Washington\nFinal: Orioles 0\, Mariners 3\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815837@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260620T021000Z
+DTEND:20260620T051000Z
+SUMMARY:Red Sox @ Mariners (Mariners.TV / KING 5 / NESN)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Mariners.TV / KING 5 / NESN\nVenue: T-Mobil
+ e Park\, Seattle\, Washington\nFinal: Red Sox 6\, Mariners 2\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814478@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260621T021000Z
+DTEND:20260621T051000Z
+SUMMARY:Red Sox @ Mariners (Mariners.TV / NESN)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Mariners.TV / NESN\nVenue: T-Mobile Park\, 
+ Seattle\, Washington\nFinal: Red Sox 5\, Mariners 1\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815852@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260621T201000Z
+DTEND:20260621T231000Z
+SUMMARY:Red Sox @ Mariners (Mariners.TV / NESN)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Mariners.TV / NESN\nVenue: T-Mobile Park\, 
+ Seattle\, Washington\nFinal: Red Sox 1\, Mariners 3\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815873@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260623T224000Z
+DTEND:20260624T014000Z
+SUMMARY:Mariners @ Pirates (Mariners.TV)
+LOCATION:PNC Park\, Pittsburgh\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: Mariners.TV\nVenue: PNC Park\, Pittsburgh\,
+  Pennsylvania\nFinal: Mariners 3\, Pirates 2\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815888@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260624T224000Z
+DTEND:20260625T014000Z
+SUMMARY:Mariners @ Pirates (Mariners.TV)
+LOCATION:PNC Park\, Pittsburgh\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: Mariners.TV\nVenue: PNC Park\, Pittsburgh\,
+  Pennsylvania\nFinal: Mariners 1\, Pirates 11\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815902@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260625T163500Z
+DTEND:20260625T193500Z
+SUMMARY:Mariners @ Pirates (Mariners.TV)
+LOCATION:PNC Park\, Pittsburgh\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: Mariners.TV\nVenue: PNC Park\, Pittsburgh\,
+  Pennsylvania\nFinal: Mariners 1\, Pirates 5\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815911@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260626T231000Z
+DTEND:20260627T021000Z
+SUMMARY:Mariners @ Guardians (CLEGuardians.TV / WKYC 3 / Mariners.TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / WKYC 3 / Mariners.TV\nVen
+ ue: Progressive Field\, Cleveland\, Ohio\nFinal: Mariners 3\, Guardians 1\
+ nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815926@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260627T231000Z
+DTEND:20260628T021000Z
+SUMMARY:Mariners @ Guardians (CLEGuardians.TV / Mariners.TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Mariners.TV\nVenue: Progr
+ essive Field\, Cleveland\, Ohio\nFinal: Mariners 3\, Guardians 4\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815941@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260628T174000Z
+DTEND:20260628T204000Z
+SUMMARY:Mariners @ Guardians (CLEGuardians.TV / Mariners.TV)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / Mariners.TV\nVenue: Progr
+ essive Field\, Cleveland\, Ohio\nFinal: Mariners 5\, Guardians 6\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815961@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260630T014000Z
+DTEND:20260630T044000Z
+SUMMARY:Angels @ Mariners (ESPN Unlimited)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: T-Mobile Park\, Seat
+ tle\, Washington\nFinal: Angels 2\, Mariners 6\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815976@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260701T014000Z
+DTEND:20260701T044000Z
+SUMMARY:Angels @ Mariners (Mariners.TV / Angels.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Mariners.TV / Angels.TV\nVenue: T-Mobile Pa
+ rk\, Seattle\, Washington\nFinal: Angels 3\, Mariners 8\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816000@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260703T014000Z
+DTEND:20260703T044000Z
+SUMMARY:Angels @ Mariners (Mariners.TV / Angels.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Mariners.TV / Angels.TV\nVenue: T-Mobile Pa
+ rk\, Seattle\, Washington\nFinal: Angels 0\, Mariners 1\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816014@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260704T021000Z
+DTEND:20260704T051000Z
+SUMMARY:Blue Jays @ Mariners (Mariners.TV / Sportsnet / KING 5)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Mariners.TV / Sportsnet / KING 5\nVenue: T-
+ Mobile Park\, Seattle\, Washington\nFinal: Blue Jays 2\, Mariners 0\nUnoff
+ icial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816029@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260704T201000Z
+DTEND:20260704T231000Z
+SUMMARY:Blue Jays @ Mariners (Mariners.TV / Sportsnet / TVA)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Mariners.TV / Sportsnet / TVA\nVenue: T-Mob
+ ile Park\, Seattle\, Washington\nFinal: Blue Jays 0\, Mariners 11\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816044@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260705T210000Z
+DTEND:20260706T000000Z
+SUMMARY:Blue Jays @ Mariners (Peacock / NBCSN)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Peacock / NBCSN\nVenue: T-Mobile Park\, Sea
+ ttle\, Washington\nFinal: Blue Jays 0\, Mariners 4\nUnofficial calendar\; 
+ not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816060@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260707T224000Z
+DTEND:20260708T014000Z
+SUMMARY:Mariners @ Marlins (Marlins.TV / Mariners.TV)
+LOCATION:loanDepot park\, Miami\, Florida
+DESCRIPTION:Regular Season\nTV: Marlins.TV / Mariners.TV\nVenue: loanDepot 
+ park\, Miami\, Florida\nFinal: Mariners 5\, Marlins 6\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816075@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260708T224000Z
+DTEND:20260709T014000Z
+SUMMARY:Mariners @ Marlins (Marlins.TV / Mariners.TV)
+LOCATION:loanDepot park\, Miami\, Florida
+DESCRIPTION:Regular Season\nTV: Marlins.TV / Mariners.TV\nVenue: loanDepot 
+ park\, Miami\, Florida\nFinal: Mariners 0\, Marlins 2\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816089@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260709T224000Z
+DTEND:20260710T014000Z
+SUMMARY:Mariners @ Marlins (Marlins.TV / Mariners.TV)
+LOCATION:loanDepot park\, Miami\, Florida
+DESCRIPTION:Regular Season\nTV: Marlins.TV / Mariners.TV\nVenue: loanDepot 
+ park\, Miami\, Florida\nFinal: Mariners 4\, Marlins 8\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816103@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260710T231000Z
+DTEND:20260711T021000Z
+SUMMARY:Mariners @ Rays (ESPN Unlimited)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Tropicana Field\, St
+ . Petersburg\, Florida\nFinal: Mariners 2\, Rays 7\nUnofficial calendar\; 
+ not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816118@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260711T201000Z
+DTEND:20260711T231000Z
+SUMMARY:Mariners @ Rays (Rays.TV / Mariners.TV)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:Regular Season\nTV: Rays.TV / Mariners.TV\nVenue: Tropicana Fie
+ ld\, St. Petersburg\, Florida\nFinal: Mariners 1\, Rays 6\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816133@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260712T174000Z
+DTEND:20260712T204000Z
+SUMMARY:Mariners @ Rays (Rays.TV / Mariners.TV)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:Regular Season\nTV: Rays.TV / Mariners.TV\nVenue: Tropicana Fie
+ ld\, St. Petersburg\, Florida\nFinal: Mariners 8\, Rays 2\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816153@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260718T021000Z
+DTEND:20260718T051000Z
+SUMMARY:Giants @ Mariners (NBC Sports BA / Mariners.TV / KING 5)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Mariners.TV / KING 5\nVenue
+ : T-Mobile Park\, Seattle\, Washington\nFinal: Giants 7\, Mariners 0\nUnof
+ ficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816168@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260719T000800Z
+DTEND:20260719T030800Z
+SUMMARY:Giants @ Mariners (Fox)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Fox\nVenue: T-Mobile Park\, Seattle\, Washi
+ ngton\nFinal: Giants 3\, Mariners 4\nUnofficial calendar\; not affiliated 
+ with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816183@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260719T201000Z
+DTEND:20260719T231000Z
+SUMMARY:Giants @ Mariners (ESPN Unlimited)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: T-Mobile Park\, Seat
+ tle\, Washington\nFinal: Giants 3\, Mariners 6\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816199@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260721T014000Z
+DTEND:20260721T044000Z
+SUMMARY:Reds @ Mariners (Gray Media / WXIX FOX19 / Reds.TV / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Gray Media / WXIX FOX19 / Reds.TV / Mariner
+ s.TV\nVenue: T-Mobile Park\, Seattle\, Washington\nFinal: Reds 0\, Mariner
+ s 8\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816214@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260722T014000Z
+DTEND:20260722T044000Z
+SUMMARY:Reds @ Mariners (Reds.TV / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Reds.TV / Mariners.TV\nVenue: T-Mobile Park
+ \, Seattle\, Washington\nFinal: Reds 4\, Mariners 2\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816229@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260722T194000Z
+DTEND:20260722T224000Z
+SUMMARY:Reds @ Mariners (Reds.TV / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Reds.TV / Mariners.TV\nVenue: T-Mobile Park
+ \, Seattle\, Washington\nFinal: Reds 5\, Mariners 3\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816248@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260725T000500Z
+DTEND:20260725T030500Z
+SUMMARY:Mariners @ Rangers (CW33 / Mariners.TV)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: CW33 / Mariners.TV\nVenue: Globe Life Field
+ \, Arlington\, Texas\nFinal: Mariners 4\, Rangers 5\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816263@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260725T231500Z
+DTEND:20260726T021500Z
+SUMMARY:Mariners @ Rangers (Fox)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Fox\nVenue: Globe Life Field\, Arlington\, 
+ Texas\nFinal: Mariners 1\, Rangers 7\nUnofficial calendar\; not affiliated
+  with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816278@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260726T183500Z
+DTEND:20260726T213500Z
+SUMMARY:Mariners @ Rangers (Rangers Sports Network / Mariners.TV)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Mariners.TV\nVenue
+ : Globe Life Field\, Arlington\, Texas\nFinal: Mariners 6\, Rangers 4\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816288@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260727T183500Z
+DTEND:20260727T213500Z
+SUMMARY:Mariners @ Rangers (ESPN Unlimited)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Globe Life Field\, A
+ rlington\, Texas\nFinal: Mariners 3\, Rangers 7\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816306@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260729T021000Z
+DTEND:20260729T051000Z
+SUMMARY:Mariners @ Dodgers (SportsNet LA / Mariners.TV)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Mariners.TV\nVenue: Dodger S
+ tadium\, Los Angeles\, California\nFinal: Mariners 7\, Dodgers 6\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816321@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260730T021000Z
+DTEND:20260730T051000Z
+SUMMARY:Mariners @ Dodgers (SportsNet LA / Mariners.TV)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: SportsNet LA / Mariners.TV\nVenue: Dodger S
+ tadium\, Los Angeles\, California\nFinal: Mariners 2\, Dodgers 4\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816330@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260731T021000Z
+DTEND:20260731T051000Z
+SUMMARY:Mariners @ Dodgers (MLB Network)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: MLB Network\nVenue: Dodger Stadium\, Los An
+ geles\, California\nFinal: Mariners 2\, Dodgers 6\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816345@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260801T021000Z
+DTEND:20260801T051000Z
+SUMMARY:Twins @ Mariners (Twins.TV / Mariners.TV / KING 5)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Twins.TV / Mariners.TV / KING 5\nVenue: T-M
+ obile Park\, Seattle\, Washington\nFinal: Twins 5\, Mariners 3\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816360@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260801T201000Z
+DTEND:20260801T231000Z
+SUMMARY:Twins @ Mariners (FS1)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: FS1\nVenue: T-Mobile Park\, Seattle\, Washi
+ ngton\nFinal: Twins 3\, Mariners 4\nUnofficial calendar\; not affiliated w
+ ith the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816375@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260802T201000Z
+DTEND:20260802T231000Z
+SUMMARY:Twins @ Mariners (Twins.TV / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Twins.TV / Mariners.TV\nVenue: T-Mobile Par
+ k\, Seattle\, Washington\nFinal: Twins 6\, Mariners 7\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816397@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260805T014000Z
+DTEND:20260805T044000Z
+SUMMARY:Tigers @ Mariners (Tigers.TV / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Tigers.TV / Mariners.TV\nVenue: T-Mobile Pa
+ rk\, Seattle\, Washington\nFinal: Tigers 8\, Mariners 0\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816412@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260806T014000Z
+DTEND:20260806T044000Z
+SUMMARY:Tigers @ Mariners (Tigers.TV / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Tigers.TV / Mariners.TV\nVenue: T-Mobile Pa
+ rk\, Seattle\, Washington\nFinal: Tigers 2\, Mariners 4\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816422@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260806T201000Z
+DTEND:20260806T231000Z
+SUMMARY:Tigers @ Mariners (Tigers.TV / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Tigers.TV / Mariners.TV\nVenue: T-Mobile Pa
+ rk\, Seattle\, Washington\nFinal: Tigers 11\, Mariners 0\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816438@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260808T014500Z
+DTEND:20260808T044500Z
+SUMMARY:Rays @ Mariners (Apple TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: T-Mobile Park\, Seattle\, 
+ Washington\nFinal: Rays 2\, Mariners 1\nUnofficial calendar\; not affiliat
+ ed with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816453@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260809T015000Z
+DTEND:20260809T045000Z
+SUMMARY:Rays @ Mariners (ESPN Unlimited)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: T-Mobile Park\, Seat
+ tle\, Washington\nFinal: Rays 3\, Mariners 2\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816468@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260809T201000Z
+DTEND:20260809T231000Z
+SUMMARY:Rays @ Mariners (Rays.TV / Mariners.TV / WMOR)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Rays.TV / Mariners.TV / WMOR\nVenue: T-Mobi
+ le Park\, Seattle\, Washington\nFinal: Rays 4\, Mariners 1\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816484@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260811T230500Z
+DTEND:20260812T020500Z
+SUMMARY:Mariners @ Yankees (TBS)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: TBS\nVenue: Yankee Stadium\, Bronx\, New Yo
+ rk\nFinal: Mariners 1\, Yankees 4\nUnofficial calendar\; not affiliated wi
+ th the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816499@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260812T230000Z
+DTEND:20260813T020000Z
+SUMMARY:Mariners @ Yankees (ESPN)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Yankee Stadium\, Bronx\, New Y
+ ork\nFinal: Mariners 5\, Yankees 10\nUnofficial calendar\; not affiliated 
+ with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816513@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260813T173500Z
+DTEND:20260813T203500Z
+SUMMARY:Mariners @ Yankees (ESPN Unlimited)
+LOCATION:Yankee Stadium\, Bronx\, New York
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Yankee Stadium\, Bro
+ nx\, New York\nFinal: Mariners 1\, Yankees 0\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816526@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260815T001000Z
+DTEND:20260815T031000Z
+SUMMARY:Mariners @ Astros (Space City Home Network / Mariners.TV / Space Ci
+ ty Home (Alt.))
+LOCATION:Daikin Park\, Houston\, Texas
+DESCRIPTION:Regular Season\nTV: Space City Home Network / Mariners.TV / Spa
+ ce City Home (Alt.)\nVenue: Daikin Park\, Houston\, Texas\nFinal: Mariners
+  7\, Astros 10\nUnofficial calendar\; not affiliated with the MLB or ESPN.
+  Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816541@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260815T231000Z
+DTEND:20260816T021000Z
+SUMMARY:Mariners @ Astros (Space City Home Network / Mariners.TV / Space Ci
+ ty Home (Alt.))
+LOCATION:Daikin Park\, Houston\, Texas
+DESCRIPTION:Regular Season\nTV: Space City Home Network / Mariners.TV / Spa
+ ce City Home (Alt.)\nVenue: Daikin Park\, Houston\, Texas\nFinal: Mariners
+  10\, Astros 5\nUnofficial calendar\; not affiliated with the MLB or ESPN.
+  Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816556@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260816T232000Z
+DTEND:20260817T022000Z
+SUMMARY:Mariners @ Astros (NBC)
+LOCATION:Daikin Park\, Houston\, Texas
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: Daikin Park\, Houston\, Texas\n
+ Final: Mariners 3\, Astros 2\nUnofficial calendar\; not affiliated with th
+ e MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816583@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260818T234000Z
+DTEND:20260819T024000Z
+SUMMARY:Mariners @ Brewers (Brewers.TV / Mariners.TV)
+LOCATION:American Family Field\, Milwaukee\, Wisconsin
+DESCRIPTION:Regular Season\nTV: Brewers.TV / Mariners.TV\nVenue: American F
+ amily Field\, Milwaukee\, Wisconsin\nFinal: Mariners 0\, Brewers 22\nUnoff
+ icial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816598@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260819T234000Z
+DTEND:20260820T024000Z
+SUMMARY:Mariners @ Brewers (Brewers.TV / Mariners.TV)
+LOCATION:American Family Field\, Milwaukee\, Wisconsin
+DESCRIPTION:Regular Season\nTV: Brewers.TV / Mariners.TV\nVenue: American F
+ amily Field\, Milwaukee\, Wisconsin\nFinal: Mariners 7\, Brewers 5\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816608@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260820T181000Z
+DTEND:20260820T211000Z
+SUMMARY:Mariners @ Brewers (Brewers.TV / Mariners.TV)
+LOCATION:American Family Field\, Milwaukee\, Wisconsin
+DESCRIPTION:Regular Season\nTV: Brewers.TV / Mariners.TV\nVenue: American F
+ amily Field\, Milwaukee\, Wisconsin\nFinal: Mariners 4\, Brewers 7\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816621@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260822T021000Z
+DTEND:20260822T051000Z
+SUMMARY:Cubs @ Mariners (Marquee Sports Net / Mariners.TV / KING 5)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Mariners.TV / KING 5\n
+ Venue: T-Mobile Park\, Seattle\, Washington\nFinal: Cubs 5\, Mariners 6\nU
+ nofficial calendar\; not affiliated with the MLB or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816636@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260822T231500Z
+DTEND:20260823T021500Z
+SUMMARY:Cubs @ Mariners (Fox)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Fox\nVenue: T-Mobile Park\, Seattle\, Washi
+ ngton\nFinal: Cubs 4\, Mariners 5\nUnofficial calendar\; not affiliated wi
+ th the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816651@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260823T201000Z
+DTEND:20260823T231000Z
+SUMMARY:Cubs @ Mariners (Marquee Sports Net / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Marquee Sports Net / Mariners.TV\nVenue: T-
+ Mobile Park\, Seattle\, Washington\nFinal: Cubs 19\, Mariners 2\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816663@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260825T014000Z
+DTEND:20260825T044000Z
+SUMMARY:Phillies @ Mariners (NBC Sports Phil / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / Mariners.TV\nVenue: T-Mob
+ ile Park\, Seattle\, Washington\nFinal: Phillies 2\, Mariners 9\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816678@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260826T014000Z
+DTEND:20260826T044000Z
+SUMMARY:Phillies @ Mariners (NBC Sports Phil / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: NBC Sports Phil / Mariners.TV\nVenue: T-Mob
+ ile Park\, Seattle\, Washington\nFinal: Phillies 1\, Mariners 4\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816693@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260826T201000Z
+DTEND:20260826T231000Z
+SUMMARY:Phillies @ Mariners (Mariners.TV / NBC Sports Phil)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Mariners.TV / NBC Sports Phil\nVenue: T-Mob
+ ile Park\, Seattle\, Washington\nFinal: Phillies 6\, Mariners 0\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816709@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260828T231500Z
+DTEND:20260829T021500Z
+SUMMARY:Mariners @ Blue Jays (Apple TV)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: Rogers Centre\, Toronto\, 
+ Ontario\nFinal: Mariners 1\, Blue Jays 8\nUnofficial calendar\; not affili
+ ated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816724@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260829T190700Z
+DTEND:20260829T220700Z
+SUMMARY:Mariners @ Blue Jays (Mariners.TV / Sportsnet / TVA)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Mariners.TV / Sportsnet / TVA\nVenue: Roger
+ s Centre\, Toronto\, Ontario\nFinal: Mariners 3\, Blue Jays 4\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816739@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260830T173700Z
+DTEND:20260830T203700Z
+SUMMARY:Mariners @ Blue Jays (Mariners.TV / Sportsnet / TVA)
+LOCATION:Rogers Centre\, Toronto\, Ontario
+DESCRIPTION:Regular Season\nTV: Mariners.TV / Sportsnet / TVA\nVenue: Roger
+ s Centre\, Toronto\, Ontario\nFinal: Mariners 0\, Blue Jays 7\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816750@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260831T224500Z
+DTEND:20260901T014500Z
+SUMMARY:Mariners @ Red Sox (Mariners.TV / NESN)
+LOCATION:Fenway Park\, Boston\, Massachusetts
+DESCRIPTION:Regular Season\nTV: Mariners.TV / NESN\nVenue: Fenway Park\, Bo
+ ston\, Massachusetts\nFinal: Mariners 8\, Red Sox 9\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816761@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260901T224500Z
+DTEND:20260902T014500Z
+SUMMARY:Mariners @ Red Sox (Mariners.TV / NESN)
+LOCATION:Fenway Park\, Boston\, Massachusetts
+DESCRIPTION:Regular Season\nTV: Mariners.TV / NESN\nVenue: Fenway Park\, Bo
+ ston\, Massachusetts\nFinal: Mariners 9\, Red Sox 6\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816776@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260902T201000Z
+DTEND:20260902T231000Z
+SUMMARY:Mariners @ Red Sox (Mariners.TV / NESN)
+LOCATION:Fenway Park\, Boston\, Massachusetts
+DESCRIPTION:Regular Season\nTV: Mariners.TV / NESN\nVenue: Fenway Park\, Bo
+ ston\, Massachusetts\nFinal: Mariners 8\, Red Sox 3\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816795@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260904T014000Z
+DTEND:20260904T044000Z
+SUMMARY:Athletics @ Mariners (NBC Sports CA / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Mariners.TV\nVenue: T-Mobil
+ e Park\, Seattle\, Washington\nFinal: Athletics 7\, Mariners 4\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816809@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260905T021000Z
+DTEND:20260905T051000Z
+SUMMARY:Athletics @ Mariners (NBC Sports CA / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Mariners.TV\nVenue: T-Mobil
+ e Park\, Seattle\, Washington\nFinal: Athletics 7\, Mariners 6\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816824@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260906T014000Z
+DTEND:20260906T044000Z
+SUMMARY:Athletics @ Mariners (NBC Sports CA / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Mariners.TV\nVenue: T-Mobil
+ e Park\, Seattle\, Washington\nFinal: Athletics 6\, Mariners 2\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816839@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260906T201000Z
+DTEND:20260906T231000Z
+SUMMARY:Athletics @ Mariners (ESPN Unlimited)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: T-Mobile Park\, Seat
+ tle\, Washington\nFinal: Athletics 0\, Mariners 2\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816865@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260909T014000Z
+DTEND:20260909T044000Z
+SUMMARY:Rangers @ Mariners (Rangers Sports Network / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Mariners.TV\nVenue
+ : T-Mobile Park\, Seattle\, Washington\nFinal: Rangers 10\, Mariners 5\nUn
+ official calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816880@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260909T201000Z
+DTEND:20260909T231000Z
+SUMMARY:Rangers @ Mariners (Rangers Sports Network / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Mariners.TV\nVenue
+ : T-Mobile Park\, Seattle\, Washington\nFinal: Rangers 2\, Mariners 3\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816887@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260910T201000Z
+DTEND:20260910T231000Z
+SUMMARY:Rangers @ Mariners (Rangers Sports Network / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Rangers Sports Network / Mariners.TV\nVenue
+ : T-Mobile Park\, Seattle\, Washington\nFinal: Rangers 3\, Mariners 4\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816901@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260912T014000Z
+DTEND:20260912T044000Z
+SUMMARY:Mariners @ Athletics (NBC Sports CA / Mariners.TV)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Mariners.TV\nVenue: Sutter 
+ Health Park\, Sacramento\, California\nFinal: Mariners 5\, Athletics 6\nUn
+ official calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816916@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260913T014000Z
+DTEND:20260913T044000Z
+SUMMARY:Mariners @ Athletics (NBC Sports CA / Mariners.TV)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Mariners.TV\nVenue: Sutter 
+ Health Park\, Sacramento\, California\nFinal: Mariners 19\, Athletics 1\nU
+ nofficial calendar\; not affiliated with the MLB or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816931@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260913T200500Z
+DTEND:20260913T230500Z
+SUMMARY:Mariners @ Athletics (NBC Sports CA / Mariners.TV)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Mariners.TV\nVenue: Sutter 
+ Health Park\, Sacramento\, California\nFinal: Mariners 7\, Athletics 8\nUn
+ official calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816942@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260915T013800Z
+DTEND:20260915T043800Z
+SUMMARY:Mariners @ Angels (Mariners.TV / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: Mariners.TV / Angels.TV\nVenue: Angel Stadi
+ um\, Anaheim\, California\nFinal: Mariners 4\, Angels 6\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816957@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260916T013800Z
+DTEND:20260916T043800Z
+SUMMARY:Mariners @ Angels (Mariners.TV / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: Mariners.TV / Angels.TV\nVenue: Angel Stadi
+ um\, Anaheim\, California\nFinal: Mariners 1\, Angels 2\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816972@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260917T013800Z
+DTEND:20260917T043800Z
+SUMMARY:Mariners @ Angels (Mariners.TV / Angels.TV)
+LOCATION:Angel Stadium\, Anaheim\, California
+DESCRIPTION:Regular Season\nTV: Mariners.TV / Angels.TV\nVenue: Angel Stadi
+ um\, Anaheim\, California\nFinal: Mariners 7\, Angels 2\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816992@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260919T001000Z
+DTEND:20260919T031000Z
+SUMMARY:Mariners @ Rockies (Rockies.TV / Mariners.TV)
+LOCATION:Coors Field\, Denver\, Colorado
+DESCRIPTION:Regular Season\nTV: Rockies.TV / Mariners.TV\nVenue: Coors Fiel
+ d\, Denver\, Colorado\nFinal: Mariners 5\, Rockies 4\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817007@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260920T001000Z
+DTEND:20260920T031000Z
+SUMMARY:Mariners @ Rockies (Rockies.TV / Mariners.TV)
+LOCATION:Coors Field\, Denver\, Colorado
+DESCRIPTION:Regular Season\nTV: Rockies.TV / Mariners.TV\nVenue: Coors Fiel
+ d\, Denver\, Colorado\nFinal: Mariners 3\, Rockies 5\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817022@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260920T191000Z
+DTEND:20260920T221000Z
+SUMMARY:Mariners @ Rockies (Rockies.TV / Mariners.TV)
+LOCATION:Coors Field\, Denver\, Colorado
+DESCRIPTION:Regular Season\nTV: Rockies.TV / Mariners.TV\nVenue: Coors Fiel
+ d\, Denver\, Colorado\nFinal: Mariners 2\, Rockies 1\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817042@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260923T014000Z
+DTEND:20260923T044000Z
+SUMMARY:Astros @ Mariners (Space City Home Network / Mariners.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Space City Home Network / Mariners.TV\nVenu
+ e: T-Mobile Park\, Seattle\, Washington\nFinal: Astros 7\, Mariners 0\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817057@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260924T020000Z
+DTEND:20260924T050000Z
+SUMMARY:Astros @ Mariners (ESPN)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: T-Mobile Park\, Seattle\, Wash
+ ington\nFinal: Astros 5\, Mariners 6\nUnofficial calendar\; not affiliated
+  with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817069@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260925T014000Z
+DTEND:20260925T044000Z
+SUMMARY:Angels @ Mariners (Mariners.TV / Angels.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Mariners.TV / Angels.TV\nVenue: T-Mobile Pa
+ rk\, Seattle\, Washington\nFinal: Angels 6\, Mariners 4\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817083@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260926T021000Z
+DTEND:20260926T051000Z
+SUMMARY:Angels @ Mariners (Mariners.TV / Angels.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Mariners.TV / Angels.TV\nVenue: T-Mobile Pa
+ rk\, Seattle\, Washington\nFinal: Angels 7\, Mariners 5\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817098@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260927T014000Z
+DTEND:20260927T044000Z
+SUMMARY:Angels @ Mariners (Mariners.TV / Angels.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Mariners.TV / Angels.TV\nVenue: T-Mobile Pa
+ rk\, Seattle\, Washington\nFinal: Angels 4\, Mariners 8\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817113@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260927T191000Z
+DTEND:20260927T221000Z
+SUMMARY:Angels @ Mariners (Mariners.TV / Angels.TV)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Mariners.TV / Angels.TV\nVenue: T-Mobile Pa
+ rk\, Seattle\, Washington\nFinal: Angels 3\, Mariners 7\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

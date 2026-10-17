@@ -1,0 +1,2166 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jaxzn//MLB Calendars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:San Francisco Giants
+X-WR-CALDESC:San Francisco Giants MLB schedule (unofficial\, auto-updated)
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:espn-401814702@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260326T000500Z
+DTEND:20260326T030500Z
+SUMMARY:Yankees @ Giants (Netflix)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: Netflix\nVenue: Oracle Park\, San Francisco
+ \, California\nFinal: Yankees 7\, Giants 0\nUnofficial calendar\; not affi
+ liated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814721@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260327T203500Z
+DTEND:20260327T233500Z
+SUMMARY:Yankees @ Giants (ESPN Unlimited)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Oracle Park\, San Fr
+ ancisco\, California\nFinal: Yankees 3\, Giants 0\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814734@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260328T231500Z
+DTEND:20260329T021500Z
+SUMMARY:Yankees @ Giants (Fox)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: Fox\nVenue: Oracle Park\, San Francisco\, C
+ alifornia\nFinal: Yankees 3\, Giants 1\nUnofficial calendar\; not affiliat
+ ed with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814749@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260331T014000Z
+DTEND:20260331T044000Z
+SUMMARY:Giants @ Padres (FS1)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: FS1\nVenue: Petco Park\, San Diego\, Califo
+ rnia\nFinal: Giants 3\, Padres 2\nUnofficial calendar\; not affiliated wit
+ h the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814763@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260401T014000Z
+DTEND:20260401T044000Z
+SUMMARY:Giants @ Padres (NBC Sports BA / Padres.TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Padres.TV\nVenue: Petco Par
+ k\, San Diego\, California\nFinal: Giants 9\, Padres 3\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814778@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260401T201000Z
+DTEND:20260401T231000Z
+SUMMARY:Giants @ Padres (NBC Sports BA / Padres.TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Padres.TV\nVenue: Petco Par
+ k\, San Diego\, California\nFinal: Giants 1\, Padres 7\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814782@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260403T014500Z
+DTEND:20260403T044500Z
+SUMMARY:Mets @ Giants (MLB Network)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: MLB Network\nVenue: Oracle Park\, San Franc
+ isco\, California\nFinal: Mets 2\, Giants 7\nUnofficial calendar\; not aff
+ iliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814795@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260404T021500Z
+DTEND:20260404T051500Z
+SUMMARY:Mets @ Giants (NBC Sports BA / KNTV / WPIX)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / KNTV / WPIX\nVenue: Oracle 
+ Park\, San Francisco\, California\nFinal: Mets 10\, Giants 3\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814810@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260405T010500Z
+DTEND:20260405T040500Z
+SUMMARY:Mets @ Giants (NBC Sports BA / SNY)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / SNY\nVenue: Oracle Park\, S
+ an Francisco\, California\nFinal: Mets 9\, Giants 0\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814825@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260405T200500Z
+DTEND:20260405T230500Z
+SUMMARY:Mets @ Giants (NBC Sports BA / SNY)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / SNY\nVenue: Oracle Park\, S
+ an Francisco\, California\nFinal: Mets 5\, Giants 2\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814839@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260407T014500Z
+DTEND:20260407T044500Z
+SUMMARY:Phillies @ Giants (NBC Sports BA / NBC Sports Phil +)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / NBC Sports Phil +\nVenue: O
+ racle Park\, San Francisco\, California\nFinal: Phillies 6\, Giants 4\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814854@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260408T014500Z
+DTEND:20260408T044500Z
+SUMMARY:Phillies @ Giants (NBC Sports BA + / NBC Sports Phil +)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA + / NBC Sports Phil +\nVenue:
+  Oracle Park\, San Francisco\, California\nFinal: Phillies 0\, Giants 6\nU
+ nofficial calendar\; not affiliated with the MLB or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814869@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260408T194500Z
+DTEND:20260408T224500Z
+SUMMARY:Phillies @ Giants (NBC Sports BA / NBC Sports Phil)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / NBC Sports Phil\nVenue: Ora
+ cle Park\, San Francisco\, California\nFinal: Phillies 0\, Giants 5\nUnoff
+ icial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814883@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260410T231500Z
+DTEND:20260411T021500Z
+SUMMARY:Giants @ Orioles (Apple TV)
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: Oriole Park at Camden Yard
+ s\, Baltimore\, Maryland\nFinal: Giants 6\, Orioles 3\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814898@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260411T231500Z
+DTEND:20260412T021500Z
+SUMMARY:Giants @ Orioles (Fox)
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+DESCRIPTION:Regular Season\nTV: Fox\nVenue: Oriole Park at Camden Yards\, B
+ altimore\, Maryland\nFinal: Giants 2\, Orioles 6\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814913@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260412T173500Z
+DTEND:20260412T203500Z
+SUMMARY:Giants @ Orioles (NBC Sports BA / MASN)
+LOCATION:Oriole Park at Camden Yards\, Baltimore\, Maryland
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / MASN\nVenue: Oriole Park at
+  Camden Yards\, Baltimore\, Maryland\nFinal: Giants 2\, Orioles 6\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814936@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260414T224000Z
+DTEND:20260415T014000Z
+SUMMARY:Giants @ Reds (NBC Sports BA / Reds.TV)
+LOCATION:Great American Ball Park\, Cincinnati\, Ohio
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Reds.TV\nVenue: Great Ameri
+ can Ball Park\, Cincinnati\, Ohio\nFinal: Giants 1\, Reds 2\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814951@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260415T224000Z
+DTEND:20260416T014000Z
+SUMMARY:Giants @ Reds (NBC Sports BA / Reds.TV)
+LOCATION:Great American Ball Park\, Cincinnati\, Ohio
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Reds.TV\nVenue: Great Ameri
+ can Ball Park\, Cincinnati\, Ohio\nFinal: Giants 3\, Reds 8\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814964@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260416T164000Z
+DTEND:20260416T194000Z
+SUMMARY:Giants @ Reds (ESPN Unlimited)
+LOCATION:Great American Ball Park\, Cincinnati\, Ohio
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Great American Ball 
+ Park\, Cincinnati\, Ohio\nFinal: Giants 3\, Reds 0\nUnofficial calendar\; 
+ not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814976@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260417T224500Z
+DTEND:20260418T014500Z
+SUMMARY:Giants @ Nationals (NBC Sports BA / Nationals.TV / Fox 5 WTTG / Gra
+ y Media)
+LOCATION:Nationals Park\, Washington\, District of Columbia
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Nationals.TV / Fox 5 WTTG /
+  Gray Media\nVenue: Nationals Park\, Washington\, District of Columbia\nFi
+ nal: Giants 10\, Nationals 5\nUnofficial calendar\; not affiliated with th
+ e MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401814991@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260418T200500Z
+DTEND:20260418T230500Z
+SUMMARY:Giants @ Nationals (NBC Sports BA / Nationals.TV)
+LOCATION:Nationals Park\, Washington\, District of Columbia
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Nationals.TV\nVenue: Nation
+ als Park\, Washington\, District of Columbia\nFinal: Giants 7\, Nationals 
+ 6\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may ch
+ ange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815006@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260419T173500Z
+DTEND:20260419T203500Z
+SUMMARY:Giants @ Nationals (NBC Sports BA / Nationals.TV)
+LOCATION:Nationals Park\, Washington\, District of Columbia
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Nationals.TV\nVenue: Nation
+ als Park\, Washington\, District of Columbia\nFinal: Giants 0\, Nationals 
+ 3\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may ch
+ ange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815039@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260422T014500Z
+DTEND:20260422T044500Z
+SUMMARY:Dodgers @ Giants (NBC Sports BA / SportsNet LA)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / SportsNet LA\nVenue: Oracle
+  Park\, San Francisco\, California\nFinal: Dodgers 1\, Giants 3\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815054@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260423T014500Z
+DTEND:20260423T044500Z
+SUMMARY:Dodgers @ Giants (NBC Sports BA / SportsNet LA)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / SportsNet LA\nVenue: Oracle
+  Park\, San Francisco\, California\nFinal: Dodgers 0\, Giants 3\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815064@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260423T194500Z
+DTEND:20260423T224500Z
+SUMMARY:Dodgers @ Giants (NBC Sports BA / SportsNet LA)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / SportsNet LA\nVenue: Oracle
+  Park\, San Francisco\, California\nFinal: Dodgers 3\, Giants 0\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815078@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260425T021500Z
+DTEND:20260425T051500Z
+SUMMARY:Marlins @ Giants (ESPN Unlimited)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Oracle Park\, San Fr
+ ancisco\, California\nFinal: Marlins 9\, Giants 4\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815093@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260425T200500Z
+DTEND:20260425T230500Z
+SUMMARY:Marlins @ Giants (NBC Sports BA / Marlins.TV)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Marlins.TV\nVenue: Oracle P
+ ark\, San Francisco\, California\nFinal: Marlins 2\, Giants 6\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815108@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260426T200500Z
+DTEND:20260426T230500Z
+SUMMARY:Marlins @ Giants (NBC Sports BA / Marlins.TV)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Marlins.TV\nVenue: Oracle P
+ ark\, San Francisco\, California\nFinal: Marlins 3\, Giants 6\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815122@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260428T224000Z
+DTEND:20260429T014000Z
+SUMMARY:Giants @ Phillies (NBC Sports BA / NBC Sports Phil)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / NBC Sports Phil\nVenue: Cit
+ izens Bank Park\, Philadelphia\, Pennsylvania\nFinal: Giants 0\, Phillies 
+ 7\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may ch
+ ange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815137@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260429T221000Z
+DTEND:20260430T011000Z
+SUMMARY:Postponed: Giants @ Phillies (MLB Network)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Inclement Weather - Makeup date April 30\nTV: MLB Network\nVenu
+ e: Citizens Bank Park\, Philadelphia\, Pennsylvania\nPostponed. This listi
+ ng stays cancelled under the same id. The makeup\, when ESPN adds one\, is
+  a separate game.\nUnofficial calendar\; not affiliated with the MLB or ES
+ PN. Times may change.
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815151@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260430T163500Z
+DTEND:20260430T193500Z
+SUMMARY:Giants @ Phillies (NBC Sports BA / NBC 10 / NBC Sports Phil)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Doubleheader - Game 1\nTV: NBC Sports BA / NBC 10 / NBC Sports 
+ Phil\nVenue: Citizens Bank Park\, Philadelphia\, Pennsylvania\nFinal: Gian
+ ts 2\, Phillies 3\nUnofficial calendar\; not affiliated with the MLB or ES
+ PN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401871107@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260430T213500Z
+DTEND:20260501T003500Z
+SUMMARY:Giants @ Phillies (MLB Network)
+LOCATION:Citizens Bank Park\, Philadelphia\, Pennsylvania
+DESCRIPTION:Doubleheader - Game 2 - Makeup from April 29\nTV: MLB Network\n
+ Venue: Citizens Bank Park\, Philadelphia\, Pennsylvania\nFinal: Giants 5\,
+  Phillies 6\nUnofficial calendar\; not affiliated with the MLB or ESPN. Ti
+ mes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815162@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260501T231000Z
+DTEND:20260502T021000Z
+SUMMARY:Giants @ Rays (NBC Sports BA / Rays.TV)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Rays.TV\nVenue: Tropicana F
+ ield\, St. Petersburg\, Florida\nFinal: Giants 0\, Rays 3\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815177@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260502T221000Z
+DTEND:20260503T011000Z
+SUMMARY:Giants @ Rays (NBC Sports BA / Rays.TV)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Rays.TV\nVenue: Tropicana F
+ ield\, St. Petersburg\, Florida\nFinal: Giants 1\, Rays 5\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815192@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260503T174000Z
+DTEND:20260503T204000Z
+SUMMARY:Giants @ Rays (NBC Sports BA / Rays.TV)
+LOCATION:Tropicana Field\, St. Petersburg\, Florida
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Rays.TV\nVenue: Tropicana F
+ ield\, St. Petersburg\, Florida\nFinal: Giants 1\, Rays 2\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815213@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260505T014500Z
+DTEND:20260505T044500Z
+SUMMARY:Padres @ Giants (ESPN Unlimited)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Oracle Park\, San Fr
+ ancisco\, California\nFinal: Padres 2\, Giants 3\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815228@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260506T014500Z
+DTEND:20260506T044500Z
+SUMMARY:Padres @ Giants (NBC Sports BA / Padres.TV)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Padres.TV\nVenue: Oracle Pa
+ rk\, San Francisco\, California\nFinal: Padres 10\, Giants 5\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815243@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260506T194500Z
+DTEND:20260506T224500Z
+SUMMARY:Padres @ Giants (NBC Sports BA / Padres.TV)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Padres.TV\nVenue: Oracle Pa
+ rk\, San Francisco\, California\nFinal: Padres 5\, Giants 1\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815266@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260509T021500Z
+DTEND:20260509T051500Z
+SUMMARY:Pirates @ Giants (NBC Sports BA / KNTV)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / KNTV\nVenue: Oracle Park\, 
+ San Francisco\, California\nFinal: Pirates 2\, Giants 5\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815281@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260510T010500Z
+DTEND:20260510T040500Z
+SUMMARY:Pirates @ Giants (NBC Sports BA)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA\nVenue: Oracle Park\, San Fra
+ ncisco\, California\nFinal: Pirates 13\, Giants 3\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815296@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260510T200500Z
+DTEND:20260510T230500Z
+SUMMARY:Pirates @ Giants (ESPN Unlimited)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Oracle Park\, San Fr
+ ancisco\, California\nFinal: Pirates 6\, Giants 7\nUnofficial calendar\; n
+ ot affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815303@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260512T021000Z
+DTEND:20260512T051000Z
+SUMMARY:Giants @ Dodgers (NBC Sports BA / SportsNet LA)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / SportsNet LA\nVenue: Dodger
+  Stadium\, Los Angeles\, California\nFinal: Giants 9\, Dodgers 3\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815317@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260513T021000Z
+DTEND:20260513T051000Z
+SUMMARY:Giants @ Dodgers (NBC Sports BA / SportsNet LA)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / SportsNet LA\nVenue: Dodger
+  Stadium\, Los Angeles\, California\nFinal: Giants 6\, Dodgers 2\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815332@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260514T021000Z
+DTEND:20260514T051000Z
+SUMMARY:Giants @ Dodgers (NBC Sports BA / SportsNet LA)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / SportsNet LA\nVenue: Dodger
+  Stadium\, Los Angeles\, California\nFinal: Giants 0\, Dodgers 4\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815343@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260515T021000Z
+DTEND:20260515T051000Z
+SUMMARY:Giants @ Dodgers (MLB Network)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: MLB Network\nVenue: Dodger Stadium\, Los An
+ geles\, California\nFinal: Giants 2\, Dodgers 5\nUnofficial calendar\; not
+  affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815359@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260516T014000Z
+DTEND:20260516T044000Z
+SUMMARY:Giants @ Athletics (NBC Sports BA / KNTV / NBC Sports CA)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / KNTV / NBC Sports CA\nVenue
+ : Sutter Health Park\, Sacramento\, California\nFinal: Giants 2\, Athletic
+ s 5\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815374@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260517T014000Z
+DTEND:20260517T044000Z
+SUMMARY:Giants @ Athletics (NBC Sports BA / NBC Sports CA)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / NBC Sports CA\nVenue: Sutte
+ r Health Park\, Sacramento\, California\nFinal: Giants 6\, Athletics 4\nUn
+ official calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815389@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260517T200500Z
+DTEND:20260517T230500Z
+SUMMARY:Giants @ Athletics (NBC Sports BA / NBC Sports CA)
+LOCATION:Sutter Health Park\, Sacramento\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / NBC Sports CA\nVenue: Sutte
+ r Health Park\, Sacramento\, California\nFinal: Giants 10\, Athletics 1\nU
+ nofficial calendar\; not affiliated with the MLB or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815403@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260519T014000Z
+DTEND:20260519T044000Z
+SUMMARY:Giants @ Diamondbacks (NBC Sports BA / DBACKS.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / DBACKS.TV\nVenue: Chase Fie
+ ld\, Phoenix\, Arizona\nFinal: Giants 2\, Diamondbacks 12\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815418@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260520T014000Z
+DTEND:20260520T044000Z
+SUMMARY:Giants @ Diamondbacks (NBC Sports BA / DBACKS.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / DBACKS.TV\nVenue: Chase Fie
+ ld\, Phoenix\, Arizona\nFinal: Giants 3\, Diamondbacks 5\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815433@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260520T194000Z
+DTEND:20260520T224000Z
+SUMMARY:Giants @ Diamondbacks (NBC Sports BA / DBACKS.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / DBACKS.TV\nVenue: Chase Fie
+ ld\, Phoenix\, Arizona\nFinal: Giants 3\, Diamondbacks 6\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815453@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260523T021500Z
+DTEND:20260523T051500Z
+SUMMARY:White Sox @ Giants (NBC Sports BA / CHSN)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / CHSN\nVenue: Oracle Park\, 
+ San Francisco\, California\nFinal: White Sox 9\, Giants 4\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815468@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260523T200500Z
+DTEND:20260523T230500Z
+SUMMARY:White Sox @ Giants (NBC Sports BA / CHSN)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / CHSN\nVenue: Oracle Park\, 
+ San Francisco\, California\nFinal: White Sox 3\, Giants 10\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815483@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260524T200500Z
+DTEND:20260524T230500Z
+SUMMARY:White Sox @ Giants (ESPN Unlimited)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Oracle Park\, San Fr
+ ancisco\, California\nFinal: White Sox 5\, Giants 8\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815495@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260525T210500Z
+DTEND:20260526T000500Z
+SUMMARY:Diamondbacks @ Giants (NBC Sports BA / DBACKS.TV)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / DBACKS.TV\nVenue: Oracle Pa
+ rk\, San Francisco\, California\nFinal: Diamondbacks 6\, Giants 2\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815510@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260527T014500Z
+DTEND:20260527T044500Z
+SUMMARY:Diamondbacks @ Giants (NBC Sports BA / DBACKS.TV)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / DBACKS.TV\nVenue: Oracle Pa
+ rk\, San Francisco\, California\nFinal: Diamondbacks 7\, Giants 5\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815525@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260527T194500Z
+DTEND:20260527T224500Z
+SUMMARY:Diamondbacks @ Giants (NBC Sports BA / DBACKS.TV)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / DBACKS.TV\nVenue: Oracle Pa
+ rk\, San Francisco\, California\nFinal: Diamondbacks 3\, Giants 2\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815546@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260530T004000Z
+DTEND:20260530T034000Z
+SUMMARY:Giants @ Rockies (NBC Sports BA / Rockies.TV)
+LOCATION:Coors Field\, Denver\, Colorado
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Rockies.TV\nVenue: Coors Fi
+ eld\, Denver\, Colorado\nFinal: Giants 6\, Rockies 8\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815561@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260531T011000Z
+DTEND:20260531T041000Z
+SUMMARY:Giants @ Rockies (NBC Sports BA / Rockies.TV)
+LOCATION:Coors Field\, Denver\, Colorado
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Rockies.TV\nVenue: Coors Fi
+ eld\, Denver\, Colorado\nFinal: Giants 3\, Rockies 8\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815576@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260531T191000Z
+DTEND:20260531T221000Z
+SUMMARY:Giants @ Rockies (NBC Sports BA / Rockies.TV)
+LOCATION:Coors Field\, Denver\, Colorado
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Rockies.TV\nVenue: Coors Fi
+ eld\, Denver\, Colorado\nFinal: Giants 19\, Rockies 6\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815584@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260601T234000Z
+DTEND:20260602T024000Z
+SUMMARY:Giants @ Brewers (FS1)
+LOCATION:American Family Field\, Milwaukee\, Wisconsin
+DESCRIPTION:Regular Season\nTV: FS1\nVenue: American Family Field\, Milwauk
+ ee\, Wisconsin\nFinal: Giants 2\, Brewers 16\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815599@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260602T234000Z
+DTEND:20260603T024000Z
+SUMMARY:Giants @ Brewers (NBC Sports BA / Brewers.TV)
+LOCATION:American Family Field\, Milwaukee\, Wisconsin
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Brewers.TV\nVenue: American
+  Family Field\, Milwaukee\, Wisconsin\nFinal: Giants 3\, Brewers 8\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815614@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260603T234000Z
+DTEND:20260604T024000Z
+SUMMARY:Giants @ Brewers (NBC Sports BA / Brewers.TV)
+LOCATION:American Family Field\, Milwaukee\, Wisconsin
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Brewers.TV\nVenue: American
+  Family Field\, Milwaukee\, Wisconsin\nFinal: Giants 1\, Brewers 0\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815626@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260604T181000Z
+DTEND:20260604T211000Z
+SUMMARY:Giants @ Brewers (NBC Sports BA / Brewers.TV)
+LOCATION:American Family Field\, Milwaukee\, Wisconsin
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Brewers.TV\nVenue: American
+  Family Field\, Milwaukee\, Wisconsin\nFinal: Giants 12\, Brewers 9\nUnoff
+ icial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815638@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260605T182000Z
+DTEND:20260605T212000Z
+SUMMARY:Giants @ Cubs (NBC Sports BA / Marquee Sports Net)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Marquee Sports Net\nVenue: 
+ Wrigley Field\, Chicago\, Illinois\nFinal: Giants 18\, Cubs 3\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815653@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260606T182000Z
+DTEND:20260606T212000Z
+SUMMARY:Giants @ Cubs (NBC Sports BA / Marquee Sports Net)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Marquee Sports Net\nVenue: 
+ Wrigley Field\, Chicago\, Illinois\nFinal: Giants 2\, Cubs 3\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815668@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260608T003000Z
+DTEND:20260608T033000Z
+SUMMARY:Giants @ Cubs (NBC / Peacock)
+LOCATION:Wrigley Field\, Chicago\, Illinois
+DESCRIPTION:Regular Season\nTV: NBC / Peacock\nVenue: Wrigley Field\, Chica
+ go\, Illinois\nFinal: Giants 2\, Cubs 1\nUnofficial calendar\; not affilia
+ ted with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815680@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260609T014500Z
+DTEND:20260609T044500Z
+SUMMARY:Nationals @ Giants (NBC Sports BA / Nationals.TV)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Nationals.TV\nVenue: Oracle
+  Park\, San Francisco\, California\nFinal: Nationals 4\, Giants 3\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815695@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260610T014500Z
+DTEND:20260610T044500Z
+SUMMARY:Nationals @ Giants (ESPN Unlimited)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Oracle Park\, San Fr
+ ancisco\, California\nFinal: Nationals 6\, Giants 3\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815710@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260610T194500Z
+DTEND:20260610T224500Z
+SUMMARY:Nationals @ Giants (NBC Sports BA / Nationals.TV)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Nationals.TV\nVenue: Oracle
+  Park\, San Francisco\, California\nFinal: Nationals 10\, Giants 11\nUnoff
+ icial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815731@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260613T021500Z
+DTEND:20260613T051500Z
+SUMMARY:Cubs @ Giants (KNTV / NBC Sports BA / Marquee Sports Net)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: KNTV / NBC Sports BA / Marquee Sports Net\n
+ Venue: Oracle Park\, San Francisco\, California\nFinal: Cubs 5\, Giants 1\
+ nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815746@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260614T020500Z
+DTEND:20260614T050500Z
+SUMMARY:Cubs @ Giants (NBC Sports BA / Marquee Sports Net)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Marquee Sports Net\nVenue: 
+ Oracle Park\, San Francisco\, California\nFinal: Cubs 6\, Giants 1\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815761@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260614T191000Z
+DTEND:20260614T221000Z
+SUMMARY:Cubs @ Giants (ABC)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: ABC\nVenue: Oracle Park\, San Francisco\, C
+ alifornia\nFinal: Cubs 1\, Giants 5\nUnofficial calendar\; not affiliated 
+ with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815778@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260616T231500Z
+DTEND:20260617T021500Z
+SUMMARY:Giants @ Braves (NBC Sports BA / BravesVision / Gray Media)
+LOCATION:Truist Park\, Atlanta\, Georgia
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / BravesVision / Gray Media\n
+ Venue: Truist Park\, Atlanta\, Georgia\nFinal: Giants 7\, Braves 2\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815793@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260617T231500Z
+DTEND:20260618T021500Z
+SUMMARY:Giants @ Braves (NBC Sports BA / BravesVision / Gray Media)
+LOCATION:Truist Park\, Atlanta\, Georgia
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / BravesVision / Gray Media\n
+ Venue: Truist Park\, Atlanta\, Georgia\nFinal: Giants 7\, Braves 5\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815805@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260618T231500Z
+DTEND:20260619T021500Z
+SUMMARY:Postponed: Giants @ Braves (NBC Sports BA / BravesVision)
+LOCATION:Truist Park\, Atlanta\, Georgia
+DESCRIPTION:Rain - Makeup date Aug. 31\nTV: NBC Sports BA / BravesVision\nV
+ enue: Truist Park\, Atlanta\, Georgia\nPostponed. This listing stays cance
+ lled under the same id. The makeup\, when ESPN adds one\, is a separate ga
+ me.\nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may 
+ change.
+STATUS:CANCELLED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815815@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260619T231000Z
+DTEND:20260620T021000Z
+SUMMARY:Giants @ Marlins (NBC Sports BA / Marlins.TV / WFOR)
+LOCATION:loanDepot park\, Miami\, Florida
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Marlins.TV / WFOR\nVenue: l
+ oanDepot park\, Miami\, Florida\nFinal: Giants 3\, Marlins 4\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815829@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260620T201000Z
+DTEND:20260620T231000Z
+SUMMARY:Giants @ Marlins (NBC Sports BA / Marlins.TV)
+LOCATION:loanDepot park\, Miami\, Florida
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Marlins.TV\nVenue: loanDepo
+ t park\, Miami\, Florida\nFinal: Giants 3\, Marlins 6\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815843@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260621T174000Z
+DTEND:20260621T204000Z
+SUMMARY:Giants @ Marlins (NBC Sports BA / Marlins.TV)
+LOCATION:loanDepot park\, Miami\, Florida
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Marlins.TV\nVenue: loanDepo
+ t park\, Miami\, Florida\nFinal: Giants 1\, Marlins 2\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815879@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260624T014500Z
+DTEND:20260624T044500Z
+SUMMARY:Athletics @ Giants (NBC Sports BA / NBC Sports CA)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / NBC Sports CA\nVenue: Oracl
+ e Park\, San Francisco\, California\nFinal: Athletics 1\, Giants 3\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815894@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260625T014500Z
+DTEND:20260625T044500Z
+SUMMARY:Athletics @ Giants (NBC Sports BA / NBC Sports CA)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / NBC Sports CA\nVenue: Oracl
+ e Park\, San Francisco\, California\nFinal: Athletics 1\, Giants 2\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815905@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260625T194500Z
+DTEND:20260625T224500Z
+SUMMARY:Athletics @ Giants (NBC Sports BA / NBC Sports CA)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / NBC Sports CA\nVenue: Oracl
+ e Park\, San Francisco\, California\nFinal: Athletics 9\, Giants 6\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815919@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260627T021500Z
+DTEND:20260627T051500Z
+SUMMARY:Braves @ Giants (NBC Sports BA / BravesVision)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / BravesVision\nVenue: Oracle
+  Park\, San Francisco\, California\nFinal: Braves 3\, Giants 1\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815934@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260628T010500Z
+DTEND:20260628T040500Z
+SUMMARY:Braves @ Giants (NBC Sports BA / BravesVision)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / BravesVision\nVenue: Oracle
+  Park\, San Francisco\, California\nFinal: Braves 0\, Giants 5\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815949@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260628T200500Z
+DTEND:20260628T230500Z
+SUMMARY:Braves @ Giants (NBC Sports BA / BravesVision)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / BravesVision\nVenue: Oracle
+  Park\, San Francisco\, California\nFinal: Braves 2\, Giants 3\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815963@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260630T014000Z
+DTEND:20260630T044000Z
+SUMMARY:Giants @ Diamondbacks (NBC Sports BA / DBACKS.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / DBACKS.TV\nVenue: Chase Fie
+ ld\, Phoenix\, Arizona\nFinal: Giants 4\, Diamondbacks 5\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815978@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260701T014000Z
+DTEND:20260701T044000Z
+SUMMARY:Giants @ Diamondbacks (NBC Sports BA / DBACKS.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / DBACKS.TV\nVenue: Chase Fie
+ ld\, Phoenix\, Arizona\nFinal: Giants 2\, Diamondbacks 8\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401815992@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260702T014000Z
+DTEND:20260702T044000Z
+SUMMARY:Giants @ Diamondbacks (NBC Sports BA / DBACKS.TV)
+LOCATION:Chase Field\, Phoenix\, Arizona
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / DBACKS.TV\nVenue: Chase Fie
+ ld\, Phoenix\, Arizona\nFinal: Giants 6\, Diamondbacks 4\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816009@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260704T001000Z
+DTEND:20260704T031000Z
+SUMMARY:Giants @ Rockies (NBC Sports BA / Rockies.TV)
+LOCATION:Coors Field\, Denver\, Colorado
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Rockies.TV\nVenue: Coors Fi
+ eld\, Denver\, Colorado\nFinal: Giants 3\, Rockies 15\nUnofficial calendar
+ \; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816024@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260705T001000Z
+DTEND:20260705T031000Z
+SUMMARY:Giants @ Rockies (NBC Sports BA / Rockies.TV)
+LOCATION:Coors Field\, Denver\, Colorado
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Rockies.TV\nVenue: Coors Fi
+ eld\, Denver\, Colorado\nFinal: Giants 6\, Rockies 4\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816039@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260705T200000Z
+DTEND:20260705T230000Z
+SUMMARY:Giants @ Rockies (Peacock)
+LOCATION:Coors Field\, Denver\, Colorado
+DESCRIPTION:Regular Season\nTV: Peacock\nVenue: Coors Field\, Denver\, Colo
+ rado\nFinal: Giants 6\, Rockies 7\nUnofficial calendar\; not affiliated wi
+ th the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816052@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260707T014500Z
+DTEND:20260707T044500Z
+SUMMARY:Blue Jays @ Giants (NBC Sports BA / Sportsnet / TVA)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Sportsnet / TVA\nVenue: Ora
+ cle Park\, San Francisco\, California\nFinal: Blue Jays 1\, Giants 10\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816067@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260708T014500Z
+DTEND:20260708T044500Z
+SUMMARY:Blue Jays @ Giants (NBC Sports BA / Sportsnet / TVA)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Sportsnet / TVA\nVenue: Ora
+ cle Park\, San Francisco\, California\nFinal: Blue Jays 9\, Giants 3\nUnof
+ ficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816082@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260708T194500Z
+DTEND:20260708T224500Z
+SUMMARY:Blue Jays @ Giants (ESPN Unlimited)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Oracle Park\, San Fr
+ ancisco\, California\nFinal: Blue Jays 10\, Giants 0\nUnofficial calendar\
+ ; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816095@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260710T014500Z
+DTEND:20260710T044500Z
+SUMMARY:Rockies @ Giants (NBC Sports BA / Rockies.TV)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Rockies.TV\nVenue: Oracle P
+ ark\, San Francisco\, California\nFinal: Rockies 2\, Giants 8\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816109@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260711T021500Z
+DTEND:20260711T051500Z
+SUMMARY:Rockies @ Giants (NBC Sports BA / KNTV / Rockies.TV)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / KNTV / Rockies.TV\nVenue: O
+ racle Park\, San Francisco\, California\nFinal: Rockies 4\, Giants 3\nUnof
+ ficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816124@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260711T200500Z
+DTEND:20260711T230500Z
+SUMMARY:Rockies @ Giants (NBC Sports BA / Rockies.TV)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Rockies.TV\nVenue: Oracle P
+ ark\, San Francisco\, California\nFinal: Rockies 2\, Giants 4\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816139@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260712T200500Z
+DTEND:20260712T230500Z
+SUMMARY:Rockies @ Giants (NBC Sports BA / Rockies.TV)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Rockies.TV\nVenue: Oracle P
+ ark\, San Francisco\, California\nFinal: Rockies 1\, Giants 3\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816153@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260718T021000Z
+DTEND:20260718T051000Z
+SUMMARY:Giants @ Mariners (NBC Sports BA / Mariners.TV / KING 5)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Mariners.TV / KING 5\nVenue
+ : T-Mobile Park\, Seattle\, Washington\nFinal: Giants 7\, Mariners 0\nUnof
+ ficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816168@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260719T000800Z
+DTEND:20260719T030800Z
+SUMMARY:Giants @ Mariners (Fox)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: Fox\nVenue: T-Mobile Park\, Seattle\, Washi
+ ngton\nFinal: Giants 3\, Mariners 4\nUnofficial calendar\; not affiliated 
+ with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816183@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260719T201000Z
+DTEND:20260719T231000Z
+SUMMARY:Giants @ Mariners (ESPN Unlimited)
+LOCATION:T-Mobile Park\, Seattle\, Washington
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: T-Mobile Park\, Seat
+ tle\, Washington\nFinal: Giants 3\, Mariners 6\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816196@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260720T234000Z
+DTEND:20260721T024000Z
+SUMMARY:Giants @ Royals (NBC Sports BA / Royals.TV)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Royals.TV\nVenue: Kauffman 
+ Stadium\, Kansas City\, Missouri\nFinal: Giants 3\, Royals 4\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816211@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260721T234000Z
+DTEND:20260722T024000Z
+SUMMARY:Giants @ Royals (NBC Sports BA / Royals.TV)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Royals.TV\nVenue: Kauffman 
+ Stadium\, Kansas City\, Missouri\nFinal: Giants 2\, Royals 3\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816226@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260722T181000Z
+DTEND:20260722T211000Z
+SUMMARY:Giants @ Royals (NBC Sports BA / Royals.TV)
+LOCATION:Kauffman Stadium\, Kansas City\, Missouri
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Royals.TV\nVenue: Kauffman 
+ Stadium\, Kansas City\, Missouri\nFinal: Giants 4\, Royals 5\nUnofficial c
+ alendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816249@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260725T021500Z
+DTEND:20260725T051500Z
+SUMMARY:Angels @ Giants (ESPN Unlimited)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Oracle Park\, San Fr
+ ancisco\, California\nFinal: Angels 6\, Giants 7\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816264@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260725T200500Z
+DTEND:20260725T230500Z
+SUMMARY:Angels @ Giants (NBC Sports BA / Angels.TV)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Angels.TV\nVenue: Oracle Pa
+ rk\, San Francisco\, California\nFinal: Angels 2\, Giants 9\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816279@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260726T200500Z
+DTEND:20260726T230500Z
+SUMMARY:Angels @ Giants (NBC Sports BA / Angels.TV)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Angels.TV\nVenue: Oracle Pa
+ rk\, San Francisco\, California\nFinal: Angels 4\, Giants 3\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816291@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260728T014500Z
+DTEND:20260728T044500Z
+SUMMARY:Brewers @ Giants (NBC Sports BA / Brewers.TV)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Brewers.TV\nVenue: Oracle P
+ ark\, San Francisco\, California\nFinal: Brewers 0\, Giants 3\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816305@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260729T014500Z
+DTEND:20260729T044500Z
+SUMMARY:Brewers @ Giants (NBC Sports BA / Brewers.TV)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Brewers.TV\nVenue: Oracle P
+ ark\, San Francisco\, California\nFinal: Brewers 8\, Giants 2\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816320@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260729T194500Z
+DTEND:20260729T224500Z
+SUMMARY:Brewers @ Giants (NBC Sports BA / Brewers.TV)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Brewers.TV\nVenue: Oracle P
+ ark\, San Francisco\, California\nFinal: Brewers 3\, Giants 16\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816331@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260731T014000Z
+DTEND:20260731T044000Z
+SUMMARY:Giants @ Padres (NBC Sports BA / Padres.TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Padres.TV\nVenue: Petco Par
+ k\, San Diego\, California\nFinal: Giants 4\, Padres 1\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816346@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260801T014500Z
+DTEND:20260801T044500Z
+SUMMARY:Giants @ Padres (Apple TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: Petco Park\, San Diego\, C
+ alifornia\nFinal: Giants 0\, Padres 7\nUnofficial calendar\; not affiliate
+ d with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816361@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260802T004000Z
+DTEND:20260802T034000Z
+SUMMARY:Giants @ Padres (NBC Sports BA / Padres.TV / KFMB 8.1 (CBS) / TV Az
+ teca)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Padres.TV / KFMB 8.1 (CBS) 
+ / TV Azteca\nVenue: Petco Park\, San Diego\, California\nFinal: Giants 5\,
+  Padres 6\nUnofficial calendar\; not affiliated with the MLB or ESPN. Time
+ s may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816376@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260802T201000Z
+DTEND:20260802T231000Z
+SUMMARY:Giants @ Padres (NBC Sports BA / Padres.TV)
+LOCATION:Petco Park\, San Diego\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Padres.TV\nVenue: Petco Par
+ k\, San Diego\, California\nFinal: Giants 4\, Padres 5\nUnofficial calenda
+ r\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816381@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260804T000000Z
+DTEND:20260804T030000Z
+SUMMARY:Giants @ Rangers (ESPN)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Globe Life Field\, Arlington\,
+  Texas\nFinal: Giants 5\, Rangers 1\nUnofficial calendar\; not affiliated 
+ with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816394@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260805T000500Z
+DTEND:20260805T030500Z
+SUMMARY:Giants @ Rangers (NBC Sports BA / Rangers Sports Network)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Rangers Sports Network\nVen
+ ue: Globe Life Field\, Arlington\, Texas\nFinal: Giants 4\, Rangers 5\nUno
+ fficial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816409@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260805T183500Z
+DTEND:20260805T213500Z
+SUMMARY:Giants @ Rangers (ESPN Unlimited)
+LOCATION:Globe Life Field\, Arlington\, Texas
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Globe Life Field\, A
+ rlington\, Texas\nFinal: Giants 0\, Rangers 6\nUnofficial calendar\; not a
+ ffiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816435@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260808T021500Z
+DTEND:20260808T051500Z
+SUMMARY:Tigers @ Giants (NBC Sports BA / KNTV / Tigers.TV)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / KNTV / Tigers.TV\nVenue: Or
+ acle Park\, San Francisco\, California\nFinal: Tigers 2\, Giants 5\nUnoffi
+ cial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816450@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260808T231500Z
+DTEND:20260809T021500Z
+SUMMARY:Tigers @ Giants (Fox)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: Fox\nVenue: Oracle Park\, San Francisco\, C
+ alifornia\nFinal: Tigers 8\, Giants 0\nUnofficial calendar\; not affiliate
+ d with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816465@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260809T200500Z
+DTEND:20260809T230500Z
+SUMMARY:Tigers @ Giants (ESPN Unlimited)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Oracle Park\, San Fr
+ ancisco\, California\nFinal: Tigers 3\, Giants 1\nUnofficial calendar\; no
+ t affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816474@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260811T014500Z
+DTEND:20260811T044500Z
+SUMMARY:Astros @ Giants (NBC Sports BA / Space City Home Network)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Space City Home Network\nVe
+ nue: Oracle Park\, San Francisco\, California\nFinal: Astros 6\, Giants 3\
+ nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816489@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260812T014500Z
+DTEND:20260812T044500Z
+SUMMARY:Astros @ Giants (NBC Sports BA / Space City Home Network)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Space City Home Network\nVe
+ nue: Oracle Park\, San Francisco\, California\nFinal: Astros 1\, Giants 4\
+ nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816504@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260812T194500Z
+DTEND:20260812T224500Z
+SUMMARY:Astros @ Giants (NBC Sports BA / Space City Home Network)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Space City Home Network\nVe
+ nue: Oracle Park\, San Francisco\, California\nFinal: Astros 2\, Giants 1\
+ nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816528@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260815T021500Z
+DTEND:20260815T051500Z
+SUMMARY:Rockies @ Giants (NBC Sports BA / Rockies.TV)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Rockies.TV\nVenue: Oracle P
+ ark\, San Francisco\, California\nFinal: Rockies 5\, Giants 2\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816543@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260815T200500Z
+DTEND:20260815T230500Z
+SUMMARY:Rockies @ Giants (NBC Sports BA / Rockies.TV)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Rockies.TV\nVenue: Oracle P
+ ark\, San Francisco\, California\nFinal: Rockies 1\, Giants 7\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816558@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260816T200500Z
+DTEND:20260816T230500Z
+SUMMARY:Rockies @ Giants (NBC Sports BA / Rockies.TV)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Rockies.TV\nVenue: Oracle P
+ ark\, San Francisco\, California\nFinal: Rockies 13\, Giants 7\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816576@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260818T224000Z
+DTEND:20260819T014000Z
+SUMMARY:Giants @ Guardians (CLEGuardians.TV / NBC Sports BA)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / NBC Sports BA\nVenue: Pro
+ gressive Field\, Cleveland\, Ohio\nFinal: Giants 1\, Guardians 8\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816591@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260819T224000Z
+DTEND:20260820T014000Z
+SUMMARY:Giants @ Guardians (CLEGuardians.TV / NBC Sports BA)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / NBC Sports BA\nVenue: Pro
+ gressive Field\, Cleveland\, Ohio\nFinal: Giants 1\, Guardians 0\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816602@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260820T171000Z
+DTEND:20260820T201000Z
+SUMMARY:Giants @ Guardians (CLEGuardians.TV / NBC Sports BA)
+LOCATION:Progressive Field\, Cleveland\, Ohio
+DESCRIPTION:Regular Season\nTV: CLEGuardians.TV / NBC Sports BA\nVenue: Pro
+ gressive Field\, Cleveland\, Ohio\nFinal: Giants 2\, Guardians 5\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816610@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260821T231000Z
+DTEND:20260822T021000Z
+SUMMARY:Giants @ Red Sox (NBC Sports BA / NESN)
+LOCATION:Fenway Park\, Boston\, Massachusetts
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / NESN\nVenue: Fenway Park\, 
+ Boston\, Massachusetts\nFinal: Giants 4\, Red Sox 6\nUnofficial calendar\;
+  not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816625@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260822T231500Z
+DTEND:20260823T021500Z
+SUMMARY:Giants @ Red Sox (Fox)
+LOCATION:Fenway Park\, Boston\, Massachusetts
+DESCRIPTION:Regular Season\nTV: Fox\nVenue: Fenway Park\, Boston\, Massachu
+ setts\nFinal: Giants 2\, Red Sox 3\nUnofficial calendar\; not affiliated w
+ ith the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816640@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260823T191500Z
+DTEND:20260823T221500Z
+SUMMARY:Giants @ Red Sox (NBC)
+LOCATION:Fenway Park\, Boston\, Massachusetts
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: Fenway Park\, Boston\, Massachu
+ setts\nFinal: Giants 4\, Red Sox 5\nUnofficial calendar\; not affiliated w
+ ith the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816660@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260825T014500Z
+DTEND:20260825T044500Z
+SUMMARY:Reds @ Giants (FS1)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: FS1\nVenue: Oracle Park\, San Francisco\, C
+ alifornia\nFinal: Reds 0\, Giants 5\nUnofficial calendar\; not affiliated 
+ with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816675@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260826T014500Z
+DTEND:20260826T044500Z
+SUMMARY:Reds @ Giants (NBC Sports BA / Reds.TV)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Reds.TV\nVenue: Oracle Park
+ \, San Francisco\, California\nFinal: Reds 1\, Giants 3\nUnofficial calend
+ ar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816690@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260826T194500Z
+DTEND:20260826T224500Z
+SUMMARY:Reds @ Giants (NBC Sports BA / Reds.TV)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Reds.TV\nVenue: Oracle Park
+ \, San Francisco\, California\nFinal: Reds 10\, Giants 9\nUnofficial calen
+ dar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816701@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260828T014500Z
+DTEND:20260828T044500Z
+SUMMARY:Diamondbacks @ Giants (NBC Sports BA / DBACKS.TV)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / DBACKS.TV\nVenue: Oracle Pa
+ rk\, San Francisco\, California\nFinal: Diamondbacks 1\, Giants 6\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816714@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260829T021500Z
+DTEND:20260829T051500Z
+SUMMARY:Diamondbacks @ Giants (NBC Sports BA / KNTV / DBACKS.TV)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / KNTV / DBACKS.TV\nVenue: Or
+ acle Park\, San Francisco\, California\nFinal: Diamondbacks 10\, Giants 6\
+ nUnofficial calendar\; not affiliated with the MLB or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816744@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260829T200500Z
+DTEND:20260829T230500Z
+SUMMARY:Diamondbacks @ Giants (NBC Sports BA / DBACKS.TV)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Doubleheader - Game 1\nTV: NBC Sports BA / DBACKS.TV\nVenue: Or
+ acle Park\, San Francisco\, California\nFinal: Diamondbacks 7\, Giants 1\n
+ Unofficial calendar\; not affiliated with the MLB or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816729@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260830T020500Z
+DTEND:20260830T050500Z
+SUMMARY:Diamondbacks @ Giants (NBC Sports BA / DBACKS.TV)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Doubleheader - Game 2\nTV: NBC Sports BA / DBACKS.TV\nVenue: Or
+ acle Park\, San Francisco\, California\nFinal: Diamondbacks 2\, Giants 7\n
+ Unofficial calendar\; not affiliated with the MLB or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401878657@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260831T220500Z
+DTEND:20260901T010500Z
+SUMMARY:Giants @ Braves (BravesVision / NBC Sports BA)
+LOCATION:Truist Park\, Atlanta\, Georgia
+DESCRIPTION:Makeup from June 18\nTV: BravesVision / NBC Sports BA\nVenue: T
+ ruist Park\, Atlanta\, Georgia\nFinal: Giants 7\, Braves 3\nUnofficial cal
+ endar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816762@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260901T224000Z
+DTEND:20260902T014000Z
+SUMMARY:Giants @ Pirates (NBC Sports BA)
+LOCATION:PNC Park\, Pittsburgh\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: NBC Sports BA\nVenue: PNC Park\, Pittsburgh
+ \, Pennsylvania\nFinal: Giants 12\, Pirates 13\nUnofficial calendar\; not 
+ affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816777@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260902T224000Z
+DTEND:20260903T014000Z
+SUMMARY:Giants @ Pirates (NBC Sports BA)
+LOCATION:PNC Park\, Pittsburgh\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: NBC Sports BA\nVenue: PNC Park\, Pittsburgh
+ \, Pennsylvania\nFinal: Giants 5\, Pirates 4\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816789@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260903T163500Z
+DTEND:20260903T193500Z
+SUMMARY:Giants @ Pirates (NBC Sports BA)
+LOCATION:PNC Park\, Pittsburgh\, Pennsylvania
+DESCRIPTION:Regular Season\nTV: NBC Sports BA\nVenue: PNC Park\, Pittsburgh
+ \, Pennsylvania\nFinal: Giants 2\, Pirates 5\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816803@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260904T231000Z
+DTEND:20260905T021000Z
+SUMMARY:Giants @ Mets (NBC Sports BA / WPIX)
+LOCATION:Citi Field\, Queens\, New York
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / WPIX\nVenue: Citi Field\, Q
+ ueens\, New York\nFinal: Giants 6\, Mets 10\nUnofficial calendar\; not aff
+ iliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816818@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260905T201000Z
+DTEND:20260905T231000Z
+SUMMARY:Giants @ Mets (ESPN Unlimited)
+LOCATION:Citi Field\, Queens\, New York
+DESCRIPTION:Regular Season\nTV: ESPN Unlimited\nVenue: Citi Field\, Queens\
+ , New York\nFinal: Giants 9\, Mets 5\nUnofficial calendar\; not affiliated
+  with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816833@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260906T174000Z
+DTEND:20260906T204000Z
+SUMMARY:Giants @ Mets (NBC Sports BA / SNY)
+LOCATION:Citi Field\, Queens\, New York
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / SNY\nVenue: Citi Field\, Qu
+ eens\, New York\nFinal: Giants 2\, Mets 4\nUnofficial calendar\; not affil
+ iated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816850@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260908T001000Z
+DTEND:20260908T031000Z
+SUMMARY:Cardinals @ Giants (NBC / Peacock)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC / Peacock\nVenue: Oracle Park\, San Fra
+ ncisco\, California\nFinal: Cardinals 4\, Giants 5\nUnofficial calendar\; 
+ not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816864@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260909T014500Z
+DTEND:20260909T044500Z
+SUMMARY:Cardinals @ Giants (NBC Sports BA / Cardinals.TV)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Cardinals.TV\nVenue: Oracle
+  Park\, San Francisco\, California\nFinal: Cardinals 1\, Giants 2\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816879@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260909T194500Z
+DTEND:20260909T224500Z
+SUMMARY:Cardinals @ Giants (NBC Sports BA / Cardinals.TV)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Cardinals.TV\nVenue: Oracle
+  Park\, San Francisco\, California\nFinal: Cardinals 6\, Giants 7\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816900@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260912T021500Z
+DTEND:20260912T051500Z
+SUMMARY:Padres @ Giants (Apple TV)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: Oracle Park\, San Francisc
+ o\, California\nFinal: Padres 7\, Giants 5\nUnofficial calendar\; not affi
+ liated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816915@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260912T200500Z
+DTEND:20260912T230500Z
+SUMMARY:Padres @ Giants (NBC Sports BA / Padres.TV)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Padres.TV\nVenue: Oracle Pa
+ rk\, San Francisco\, California\nFinal: Padres 7\, Giants 6\nUnofficial ca
+ lendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816930@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260913T232000Z
+DTEND:20260914T022000Z
+SUMMARY:Padres @ Giants (Peacock)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: Peacock\nVenue: Oracle Park\, San Francisco
+ \, California\nFinal: Padres 6\, Giants 4\nUnofficial calendar\; not affil
+ iated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816939@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260914T234500Z
+DTEND:20260915T024500Z
+SUMMARY:Giants @ Cardinals (NBC Sports BA / Cardinals.TV)
+LOCATION:Busch Stadium\, St. Louis\, Missouri
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Cardinals.TV\nVenue: Busch 
+ Stadium\, St. Louis\, Missouri\nFinal: Giants 1\, Cardinals 2\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816954@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260915T234500Z
+DTEND:20260916T024500Z
+SUMMARY:Giants @ Cardinals (NBC Sports BA / Cardinals.TV)
+LOCATION:Busch Stadium\, St. Louis\, Missouri
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Cardinals.TV\nVenue: Busch 
+ Stadium\, St. Louis\, Missouri\nFinal: Giants 10\, Cardinals 3\nUnofficial
+  calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816969@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260916T171500Z
+DTEND:20260916T201500Z
+SUMMARY:Giants @ Cardinals (NBC Sports BA / Cardinals.TV)
+LOCATION:Busch Stadium\, St. Louis\, Missouri
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / Cardinals.TV\nVenue: Busch 
+ Stadium\, St. Louis\, Missouri\nFinal: Giants 6\, Cardinals 5\nUnofficial 
+ calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816996@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260919T021500Z
+DTEND:20260919T051500Z
+SUMMARY:Giants @ Dodgers (Apple TV)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: Apple TV\nVenue: Dodger Stadium\, Los Angel
+ es\, California\nFinal: Giants 2\, Dodgers 8\nUnofficial calendar\; not af
+ filiated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817011@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260920T011000Z
+DTEND:20260920T041000Z
+SUMMARY:Giants @ Dodgers (NBC Sports BA / SportsNet LA)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / SportsNet LA\nVenue: Dodger
+  Stadium\, Los Angeles\, California\nFinal: Giants 4\, Dodgers 10\nUnoffic
+ ial calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817026@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260920T201000Z
+DTEND:20260920T231000Z
+SUMMARY:Giants @ Dodgers (NBC Sports BA / SportsNet LA)
+LOCATION:Dodger Stadium\, Los Angeles\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / SportsNet LA\nVenue: Dodger
+  Stadium\, Los Angeles\, California\nFinal: Giants 1\, Dodgers 3\nUnoffici
+ al calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817029@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260922T014500Z
+DTEND:20260922T044500Z
+SUMMARY:Twins @ Giants (Twins.TV / NBC Sports BA)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: Twins.TV / NBC Sports BA\nVenue: Oracle Par
+ k\, San Francisco\, California\nFinal: Twins 2\, Giants 5\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817043@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260923T014500Z
+DTEND:20260923T044500Z
+SUMMARY:Twins @ Giants (Twins.TV / NBC Sports BA)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: Twins.TV / NBC Sports BA\nVenue: Oracle Par
+ k\, San Francisco\, California\nFinal: Twins 3\, Giants 2\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817058@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260923T194500Z
+DTEND:20260923T224500Z
+SUMMARY:Twins @ Giants (Twins.TV / NBC Sports BA)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: Twins.TV / NBC Sports BA\nVenue: Oracle Par
+ k\, San Francisco\, California\nFinal: Twins 4\, Giants 2\nUnofficial cale
+ ndar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817086@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260926T021500Z
+DTEND:20260926T051500Z
+SUMMARY:Dodgers @ Giants (NBC Sports BA / SportsNet LA)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / SportsNet LA\nVenue: Oracle
+  Park\, San Francisco\, California\nFinal: Dodgers 2\, Giants 0\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817101@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260926T200500Z
+DTEND:20260926T230500Z
+SUMMARY:Dodgers @ Giants (NBC Sports BA / SportsNet LA)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / SportsNet LA\nVenue: Oracle
+  Park\, San Francisco\, California\nFinal: Dodgers 4\, Giants 3\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817116@mlb-calendars
+DTSTAMP:20261017T203810Z
+DTSTART:20260927T190500Z
+DTEND:20260927T220500Z
+SUMMARY:Dodgers @ Giants (NBC Sports BA / SportsNet LA)
+LOCATION:Oracle Park\, San Francisco\, California
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / SportsNet LA\nVenue: Oracle
+  Park\, San Francisco\, California\nFinal: Dodgers 5\, Giants 1\nUnofficia
+ l calendar\; not affiliated with the MLB or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

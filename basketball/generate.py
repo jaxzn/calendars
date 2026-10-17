@@ -11,7 +11,9 @@ Unofficial; not affiliated with the NBA or ESPN.
 
 Season year: ESPN's season year is the year the season *ends* (2027 is the
 2026-27 season; the subscribe page says "2026-27"). Calendar names do not
-include a year.
+include a year. The printed label is the requested season's name. ESPN's
+`season.displayName` stays on the current season even when an older year is
+requested, so it is not used.
 
 Which games:
   seasontype 2  regular season, including NBA Cup games ESPN files there
@@ -20,6 +22,13 @@ Which games:
   seasontype 3  playoffs
   Preseason (seasontype 1) and the All-Star game are skipped.
 
+Postponed and cancelled games stay in the feed as STATUS:CANCELLED under
+the same espn-<id> UID, so a calendar client can drop them without the id
+changing if ESPN later puts that same event back on the board. Suspended
+games keep that UID too; the date moves when ESPN updates the event.
+Makeups ESPN files as a new event get their own stable UID. Postponed and
+cancelled listings do not count toward the regular-season length.
+
 National TV: a broadcast counts as national when ESPN marks its market as
 national (market type "National") and the medium is TV or streaming, not
 radio. Networks that appear that way include ESPN, ESPN2, ABC, NBC, NBCSN,
@@ -27,12 +36,13 @@ Peacock, Prime Video, and NBA TV. NBA League Pass is not treated as a
 national broadcast. The event summary is "Away @ Home (TV)": TV is the
 national channel(s) when any exist, otherwise the home and away broadcasters.
 
-Regular-season count: a full schedule is 82 games. ESPN leaves about two
-games per team off the feed until NBA Cup knockout dates are placed (group
-play is already included). In 2025-26 the championship was an extra regular-
-season event, so the two finalists listed 83 games and everyone else 82.
-This script accepts 80–83 regular-season games per team and refuses anything
-outside that range.
+Regular-season count: a full schedule is 82 playable games. ESPN leaves about
+two games per team off the feed until NBA Cup knockout dates are placed (group
+play is already included). The Cup championship has been an extra regular-
+season event, so the two finalists list 83 games and everyone else 82.
+Postponed and cancelled originals stay on the feed next to their makeups and
+are not counted. This script accepts 80–83 playable regular-season games per
+team and refuses anything outside that range.
 
 Usage: python3 basketball/generate.py [--season YEAR] [--out DIR]
 Exit codes: 0 = ok (files written only if content changed), 1 = fetch/validation failure
@@ -193,6 +203,39 @@ def readable_swatch(primary):
 
 
 # ----------------------------------------------------------------- parsing
+def status_type(e, c):
+    return ((c.get("status") or {}).get("type") or (e.get("status") or {}).get("type") or {})
+
+
+def score_display(score):
+    if score is None or score == "":
+        return None
+    if isinstance(score, dict):
+        text = score.get("displayValue")
+        if text not in (None, ""):
+            return str(text)
+        if score.get("value") is None:
+            return None
+        value = score["value"]
+        return str(int(value)) if float(value).is_integer() else str(value)
+    return str(score)
+
+
+def disposition(status):
+    """ok, postponed, cancelled, or suspended. Postponed/cancelled stay on the
+    calendar as STATUS:CANCELLED; suspended games stay live under the same UID."""
+    name = (status.get("name") or "").upper()
+    detail = f"{status.get('description') or ''} {status.get('detail') or ''}".upper()
+    blob = name + " " + detail
+    if "POSTPON" in blob:
+        return "postponed"
+    if "CANCEL" in blob:
+        return "cancelled"
+    if "SUSPEND" in blob:
+        return "suspended"
+    return "ok"
+
+
 def broadcast_lists(comp):
     """Return (national_names, local_names). See module docstring for the rule."""
     national, local = [], []
@@ -238,9 +281,7 @@ def parse_event(e, seasontype):
         return None  # exhibition; not a team game
     if seasontype == 1:
         return None
-    status = ((e.get("status") or {}).get("type") or (c.get("status") or {}).get("type") or {})
-    if "CANCEL" in (status.get("name") or "").upper():
-        return None
+    status = status_type(e, c)
     start = datetime.fromisoformat(e["date"].replace("Z", "+00:00")).astimezone(timezone.utc)
     if "timeValid" in c:
         valid = bool(c.get("timeValid"))
@@ -268,8 +309,9 @@ def parse_event(e, seasontype):
         national=national, local=local, tv=" / ".join(shown),
         venue=venue.get("fullName") or "", place=place,
         completed=bool(status.get("completed")),
-        away_score=sides["away"].get("score"), home_score=sides["home"].get("score"),
-        headline=headline, colors=colors,
+        away_score=score_display(sides["away"].get("score")),
+        home_score=score_display(sides["home"].get("score")),
+        headline=headline, colors=colors, disposition=disposition(status),
     )
 
 
@@ -301,9 +343,11 @@ def collect(season):
         for st in SEASON_TYPES:
             d = fetch_json(f"{API}/teams/{tid}/schedule?season={season}&seasontype={st}")
             if st == 2:
-                label = ((d.get("season") or {}).get("displayName")
-                         or (d.get("requestedSeason") or {}).get("displayName")
-                         or label)
+                # `season` is whichever season ESPN's scoreboard is on now.
+                # `requestedSeason` is the year this request asked for.
+                req = d.get("requestedSeason") or {}
+                if req.get("displayName"):
+                    label = req["displayName"]
             for e in d.get("events") or []:
                 try:
                     g = parse_event(e, st)
@@ -313,6 +357,12 @@ def collect(season):
                     continue
                 games[g["id"]] = richer(games[g["id"]], g) if g["id"] in games else g
     return list(games.values()), label or season_label(season)
+
+
+def playable(g):
+    """Games that count toward the regular-season length. Postponed and
+    cancelled listings do not; suspended games do, because they will be finished."""
+    return g["disposition"] in ("ok", "suspended")
 
 
 # ----------------------------------------------------------------- iCalendar
@@ -349,6 +399,12 @@ def game_title(g):
     t = f"{g['away']} @ {g['home']}"
     if g["tv"]:
         t += f" ({g['tv']})"
+    if g["disposition"] == "postponed":
+        return "Postponed: " + t
+    if g["disposition"] == "cancelled":
+        return "Cancelled: " + t
+    if g["disposition"] == "suspended" and not g["completed"]:
+        return "Suspended: " + t
     return t
 
 
@@ -365,13 +421,28 @@ def vevent(g, dtstamp):
     if loc:
         lines.append("LOCATION:" + esc(loc))
     desc = [round_label(g), f"TV: {g['tv'] or 'TBD'}", f"Venue: {loc or 'TBD'}"]
-    if not g["valid"]:
+    if g["disposition"] == "postponed":
+        desc.append("Postponed. This listing stays cancelled under the same id. "
+                    "The makeup, when ESPN adds one, is a separate game.")
+    elif g["disposition"] == "cancelled":
+        desc.append("Cancelled.")
+    elif g["disposition"] == "suspended" and not g["completed"]:
+        desc.append("Suspended. If the resume date changes, ESPN updates this same game.")
+    if not g["valid"] and g["disposition"] == "ok":
         desc.append("Date/time not yet set by the NBA; this is a placeholder.")
-    if g["completed"] and g["away_score"] not in (None, ""):
+    if g["disposition"] == "suspended" and not g["completed"] and g["away_score"] not in (None, ""):
+        desc.append(f"Score at suspension: {g['away']} {g['away_score']}, {g['home']} {g['home_score']}")
+    elif g["completed"] and g["disposition"] not in ("postponed", "cancelled") and g["away_score"] not in (None, ""):
         desc.append(f"Final: {g['away']} {g['away_score']}, {g['home']} {g['home_score']}")
     desc.append("Unofficial calendar; not affiliated with the NBA or ESPN. Times may change.")
+    if g["disposition"] in ("postponed", "cancelled"):
+        ics_status = "CANCELLED"
+    elif g["valid"]:
+        ics_status = "CONFIRMED"
+    else:
+        ics_status = "TENTATIVE"
     lines.append("DESCRIPTION:" + esc("\n".join(desc)))
-    lines += [f"STATUS:{'CONFIRMED' if g['valid'] else 'TENTATIVE'}", "TRANSP:TRANSPARENT", "END:VEVENT"]
+    lines += [f"STATUS:{ics_status}", "TRANSP:TRANSPARENT", "END:VEVENT"]
     return lines
 
 
@@ -502,7 +573,7 @@ def index_html(label, names, colors):
 <p>Click <b>Google Calendar</b> (on a computer), or in Google Calendar on the web go to <i>Other calendars → + → From URL</i> and paste the link from <b>Copy link</b>. It then shows up on your phone too. Google refreshes subscribed calendars on its own schedule, often every 8–24 hours.</p></details>
 <details><summary>Outlook</summary>
 <p>Outlook.com / Microsoft 365: <i>Calendar → Add calendar → Subscribe from web</i>, paste the link from <b>Copy link</b>. Classic Outlook for Windows: <i>Add Calendar → From Internet</i>.</p></details>
-<p>Subscribe instead of importing a one-time download, or the calendar will not update. Tip-offs are stored in UTC so your calendar shows them in your own time zone. Games whose date or time is not set yet appear as all-day placeholders until the NBA schedules them.</p>
+<p>Subscribe instead of importing a one-time download, or the calendar will not update. Tip-offs are stored in UTC so your calendar shows them in your own time zone. Games whose date or time is not set yet appear as all-day placeholders until the NBA schedules them. A postponed game stays cancelled under its original listing; the makeup is a separate game once ESPN posts it.</p>
 </section>
 <footer>
 <p>Unofficial and not affiliated with, endorsed by, or connected to the NBA, its teams, or ESPN. Schedule data comes from ESPN's public scoreboard feed and is refreshed automatically. Always confirm times with an official source.</p>
@@ -557,18 +628,18 @@ def main():
         return 1
 
     def reg_count(gs):
-        return sum(g["seasontype"] == 2 for g in gs)
+        return sum(g["seasontype"] == 2 and playable(g) for g in gs)
 
     problems = []
     counts = {t: reg_count(gs) for t, gs in by_team.items()}
     for t, n in sorted(counts.items()):
         if not REG_LO <= n <= REG_HI:
             problems.append(f"{t}: {n} regular-season games (expected {REG_LO}–{REG_HI})")
-    reg_games = [g for g in games if g["seasontype"] == 2]
-    slots = sum(1 for g in reg_games for s in ("away", "home") if g[s + "_abbr"] in TEAMS)
-    if slots != len(reg_games) * 2:
-        problems.append(f"regular-season games are not all between two known teams ({slots} team-slots, {len(reg_games)} games)")
-    unknown = {g[s + "_abbr"] for g in reg_games for s in ("away", "home")} - set(TEAMS)
+    reg_playable = [g for g in games if g["seasontype"] == 2 and playable(g)]
+    slots = sum(1 for g in reg_playable for s in ("away", "home") if g[s + "_abbr"] in TEAMS)
+    if slots != len(reg_playable) * 2:
+        problems.append(f"regular-season games are not all between two known teams ({slots} team-slots, {len(reg_playable)} games)")
+    unknown = {g[s + "_abbr"] for g in games if g["seasontype"] == 2 for s in ("away", "home")} - set(TEAMS)
     if unknown:
         problems.append(f"unknown team abbreviations in feed: {sorted(unknown)}")
     if len(TEAMS) != 30:
@@ -603,15 +674,19 @@ def main():
     if write_if_changed(os.path.join(a.out, "index.html"), page):
         changed.append("index.html")
 
-    playin = sum(g["seasontype"] == 5 for g in games)
-    post = sum(g["seasontype"] == 3 for g in games)
+    playin = sum(g["seasontype"] == 5 and playable(g) for g in games)
+    post = sum(g["seasontype"] == 3 and playable(g) for g in games)
+    postponed = sum(g["disposition"] == "postponed" for g in games)
+    suspended = sum(g["disposition"] == "suspended" for g in games)
     lo, hi = min(counts.values()), max(counts.values())
-    print(f"season {season} ({label}): {len(reg_games)} regular-season + {playin} play-in + {post} playoff games; "
+    print(f"season {season} ({label}): {len(reg_playable)} regular-season + {playin} play-in + {post} playoff games; "
+          f"postponed={postponed} suspended={suspended}; "
           f"national.ics={len(nat)} events; per-team regular season {lo}–{hi}")
     for t in sorted(counts):
         gs = by_team[t]
-        print(f"  {t}: regular={counts[t]} play-in={sum(g['seasontype']==5 for g in gs)} "
-              f"playoffs={sum(g['seasontype']==3 for g in gs)} total={len(gs)}")
+        print(f"  {t}: regular={counts[t]} play-in={sum(g['seasontype']==5 and playable(g) for g in gs)} "
+              f"playoffs={sum(g['seasontype']==3 and playable(g) for g in gs)} "
+              f"postponed={sum(g['disposition']=='postponed' for g in gs)} total={len(gs)}")
     print(f"changed: {', '.join(changed) or 'nothing'}")
     return 0
 

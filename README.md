@@ -74,12 +74,17 @@ The feed includes the regular season (NBA Cup group play, and Cup knockout games
 once ESPN schedules them), the play-in, and the playoffs. Preseason and the All-Star
 game are skipped.
 
-A full regular season is 82 games. ESPN leaves about two games per team unpublished
-until the NBA Cup knockout dates are placed, so early in the year every team can
-list 80. In 2025-26 the Cup championship was an extra regular-season event, so the
-finalists listed 83 and everyone else 82. The generator accepts 80–83 regular-season
-games per team and refuses anything outside that, so a partial or corrupt feed is
-not published.
+A full regular season is 82 playable games. ESPN leaves about two games per team
+unpublished until the NBA Cup knockout dates are placed, so early in the year every
+team can list 80. The Cup championship has been an extra regular-season event, so
+the finalists list 83 and everyone else 82. The generator accepts 80–83 playable
+regular-season games per team and refuses anything outside that, so a partial or
+corrupt feed is not published.
+
+Postponed and cancelled games stay in the feed as cancelled events under the same
+`espn-<id>@nba-calendars` UID and do not count toward the 82. Suspended games keep
+that UID and move when ESPN updates the date. A makeup ESPN files as a new event
+gets its own UID.
 
 `basketball/generate.py` reads each team's ESPN schedule. Same write-on-change and
 fail-closed behavior as football. `.github/workflows/basketball.yml` runs daily from

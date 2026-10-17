@@ -1,0 +1,234 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jaxzn//NFL Calendars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Philadelphia Eagles 2026
+X-WR-CALDESC:Philadelphia Eagles 2026 NFL schedule (unofficial\, auto-updat
+ ed)
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:espn-401872929@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260913T202500Z
+DTEND:20260913T232500Z
+SUMMARY:Commanders @ Eagles (Fox)
+LOCATION:Lincoln Financial Field\, Philadelphia\, PA
+DESCRIPTION:Week 1\nTV: Fox\nVenue: Lincoln Financial Field\, Philadelphia\
+ , PA\nFinal: Commanders 22\, Eagles 24\nUnofficial calendar\; not affiliat
+ ed with the NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872939@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260920T170000Z
+DTEND:20260920T200000Z
+SUMMARY:Eagles @ Titans (Fox)
+LOCATION:Nissan Stadium\, Nashville\, TN
+DESCRIPTION:Week 2\nTV: Fox\nVenue: Nissan Stadium\, Nashville\, TN\nFinal:
+  Eagles 24\, Titans 20\nUnofficial calendar\; not affiliated with the NFL 
+ or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872963@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260929T001500Z
+DTEND:20260929T031500Z
+SUMMARY:Eagles @ Bears (ESPN / ABC)
+LOCATION:Soldier Field\, Chicago\, IL
+DESCRIPTION:Week 3\nTV: ESPN / ABC\nVenue: Soldier Field\, Chicago\, IL\nFi
+ nal: Eagles 7\, Bears 27\nUnofficial calendar\; not affiliated with the NF
+ L or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872970@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261004T170000Z
+DTEND:20261004T200000Z
+SUMMARY:Rams @ Eagles (Fox)
+LOCATION:Lincoln Financial Field\, Philadelphia\, PA
+DESCRIPTION:Week 4\nTV: Fox\nVenue: Lincoln Financial Field\, Philadelphia\
+ , PA\nFinal: Rams 24\, Eagles 20\nUnofficial calendar\; not affiliated wit
+ h the NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872981@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261011T133000Z
+DTEND:20261011T163000Z
+SUMMARY:Eagles @ Jaguars (NFL Network)
+LOCATION:Tottenham Hotspur Stadium\, London\, England
+DESCRIPTION:Week 5\nTV: NFL Network\nVenue: Tottenham Hotspur Stadium\, Lon
+ don\, England\nFinal: Eagles 17\, Jaguars 19\nUnofficial calendar\; not af
+ filiated with the NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872998@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261018T170000Z
+DTEND:20261018T200000Z
+SUMMARY:Panthers @ Eagles (CBS)
+LOCATION:Lincoln Financial Field\, Philadelphia\, PA
+DESCRIPTION:Week 6\nTV: CBS\nVenue: Lincoln Financial Field\, Philadelphia\
+ , PA\nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may
+  change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873009@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261027T001500Z
+DTEND:20261027T031500Z
+SUMMARY:Cowboys @ Eagles (ESPN / ABC / Disney+)
+LOCATION:Lincoln Financial Field\, Philadelphia\, PA
+DESCRIPTION:Week 7\nTV: ESPN / ABC / Disney+\nVenue: Lincoln Financial Fiel
+ d\, Philadelphia\, PA\nUnofficial calendar\; not affiliated with the NFL o
+ r ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873035@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261102T012000Z
+DTEND:20261102T042000Z
+SUMMARY:Eagles @ Commanders (NBC)
+LOCATION:Northwest Stadium\, Landover\, MD
+DESCRIPTION:Week 8\nTV: NBC\nVenue: Northwest Stadium\, Landover\, MD\nUnof
+ ficial calendar\; not affiliated with the NFL or ESPN. Times may change (f
+ lex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873044@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261108T180000Z
+DTEND:20261108T210000Z
+SUMMARY:Giants @ Eagles (Fox)
+LOCATION:Lincoln Financial Field\, Philadelphia\, PA
+DESCRIPTION:Week 9\nTV: Fox\nVenue: Lincoln Financial Field\, Philadelphia\
+ , PA\nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may
+  change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873076@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261122T212500Z
+DTEND:20261123T002500Z
+SUMMARY:Steelers @ Eagles (CBS)
+LOCATION:Lincoln Financial Field\, Philadelphia\, PA
+DESCRIPTION:Week 11\nTV: CBS\nVenue: Lincoln Financial Field\, Philadelphia
+ \, PA\nUnofficial calendar\; not affiliated with the NFL or ESPN. Times ma
+ y change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873080@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261126T213000Z
+DTEND:20261127T003000Z
+SUMMARY:Eagles @ Cowboys (Fox)
+LOCATION:AT&T Stadium\, Arlington\, TX
+DESCRIPTION:Week 12\nTV: Fox\nVenue: AT&T Stadium\, Arlington\, TX\nUnoffic
+ ial calendar\; not affiliated with the NFL or ESPN. Times may change (flex
+  scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873104@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261206T210500Z
+DTEND:20261207T000500Z
+SUMMARY:Eagles @ Cardinals (Fox)
+LOCATION:State Farm Stadium\, Glendale\, AZ
+DESCRIPTION:Week 13\nTV: Fox\nVenue: State Farm Stadium\, Glendale\, AZ\nUn
+ official calendar\; not affiliated with the NFL or ESPN. Times may change 
+ (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873114@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261213T180000Z
+DTEND:20261213T210000Z
+SUMMARY:Colts @ Eagles (Fox)
+LOCATION:Lincoln Financial Field\, Philadelphia\, PA
+DESCRIPTION:Week 14\nTV: Fox\nVenue: Lincoln Financial Field\, Philadelphia
+ \, PA\nUnofficial calendar\; not affiliated with the NFL or ESPN. Times ma
+ y change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873125@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261219T220000Z
+DTEND:20261220T010000Z
+SUMMARY:Seahawks @ Eagles (Fox)
+LOCATION:Lincoln Financial Field\, Philadelphia\, PA
+DESCRIPTION:Week 15\nTV: Fox\nVenue: Lincoln Financial Field\, Philadelphia
+ \, PA\nUnofficial calendar\; not affiliated with the NFL or ESPN. Times ma
+ y change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873140@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261225T011500Z
+DTEND:20261225T041500Z
+SUMMARY:Texans @ Eagles (Prime Video)
+LOCATION:Lincoln Financial Field\, Philadelphia\, PA
+DESCRIPTION:Week 16\nTV: Prime Video\nVenue: Lincoln Financial Field\, Phil
+ adelphia\, PA\nUnofficial calendar\; not affiliated with the NFL or ESPN. 
+ Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873170@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20270104T012000Z
+DTEND:20270104T042000Z
+SUMMARY:Eagles @ 49ers (NBC)
+LOCATION:Levi's Stadium\, Santa Clara\, CA
+DESCRIPTION:Week 17\nTV: NBC\nVenue: Levi's Stadium\, Santa Clara\, CA\nUno
+ fficial calendar\; not affiliated with the NFL or ESPN. Times may change (
+ flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873182@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Eagles @ Giants
+LOCATION:MetLife Stadium\, East Rutherford\, NJ
+DESCRIPTION:Week 18\nTV: TBD\nVenue: MetLife Stadium\, East Rutherford\, NJ
+ \nDate/time not yet set by the NFL\; this is a placeholder.\nUnofficial ca
+ lendar\; not affiliated with the NFL or ESPN. Times may change (flex sched
+ uling).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

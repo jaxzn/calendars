@@ -1,0 +1,235 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jaxzn//NFL Calendars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pittsburgh Steelers 2026
+X-WR-CALDESC:Pittsburgh Steelers 2026 NFL schedule (unofficial\, auto-updat
+ ed)
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:espn-401872658@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260913T170000Z
+DTEND:20260913T200000Z
+SUMMARY:Falcons @ Steelers (Fox)
+LOCATION:Acrisure Stadium\, Pittsburgh\, PA
+DESCRIPTION:Week 1\nTV: Fox\nVenue: Acrisure Stadium\, Pittsburgh\, PA\nFin
+ al: Falcons 13\, Steelers 20\nUnofficial calendar\; not affiliated with th
+ e NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872946@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260920T170000Z
+DTEND:20260920T200000Z
+SUMMARY:Steelers @ Patriots (CBS)
+LOCATION:Gillette Stadium\, Foxborough\, MA
+DESCRIPTION:Week 2\nTV: CBS\nVenue: Gillette Stadium\, Foxborough\, MA\nFin
+ al: Steelers 3\, Patriots 20\nUnofficial calendar\; not affiliated with th
+ e NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872950@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260927T170000Z
+DTEND:20260927T200000Z
+SUMMARY:Bengals @ Steelers (CBS)
+LOCATION:Acrisure Stadium\, Pittsburgh\, PA
+DESCRIPTION:Week 3\nTV: CBS\nVenue: Acrisure Stadium\, Pittsburgh\, PA\nFin
+ al: Bengals 27\, Steelers 30\nUnofficial calendar\; not affiliated with th
+ e NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872964@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261002T001500Z
+DTEND:20261002T031500Z
+SUMMARY:Steelers @ Browns (Prime Video)
+LOCATION:Huntington Bank Field\, Cleveland\, OH
+DESCRIPTION:Week 4\nTV: Prime Video\nVenue: Huntington Bank Field\, Clevela
+ nd\, OH\nFinal: Steelers 24\, Browns 27\nUnofficial calendar\; not affilia
+ ted with the NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872985@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261011T170000Z
+DTEND:20261011T200000Z
+SUMMARY:Colts @ Steelers (CBS)
+LOCATION:Acrisure Stadium\, Pittsburgh\, PA
+DESCRIPTION:Week 5\nTV: CBS\nVenue: Acrisure Stadium\, Pittsburgh\, PA\nFin
+ al: Colts 22\, Steelers 34\nUnofficial calendar\; not affiliated with the 
+ NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873002@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261018T170000Z
+DTEND:20261018T200000Z
+SUMMARY:Steelers @ Buccaneers (CBS)
+LOCATION:Raymond James Stadium\, Tampa\, FL
+DESCRIPTION:Week 6\nTV: CBS\nVenue: Raymond James Stadium\, Tampa\, FL\nUno
+ fficial calendar\; not affiliated with the NFL or ESPN. Times may change (
+ flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873011@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261025T133000Z
+DTEND:20261025T163000Z
+SUMMARY:Steelers @ Saints (NFL Network)
+LOCATION:Stade de France\, Saint-Denis\, France
+DESCRIPTION:Week 7\nTV: NFL Network\nVenue: Stade de France\, Saint-Denis\,
+  France\nUnofficial calendar\; not affiliated with the NFL or ESPN. Times 
+ may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873027@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261101T180000Z
+DTEND:20261101T210000Z
+SUMMARY:Browns @ Steelers (CBS)
+LOCATION:Acrisure Stadium\, Pittsburgh\, PA
+DESCRIPTION:Week 8\nTV: CBS\nVenue: Acrisure Stadium\, Pittsburgh\, PA\nUno
+ fficial calendar\; not affiliated with the NFL or ESPN. Times may change (
+ flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873064@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261116T012000Z
+DTEND:20261116T042000Z
+SUMMARY:Steelers @ Bengals (NBC)
+LOCATION:Paycor Stadium\, Cincinnati\, OH
+DESCRIPTION:Week 10\nTV: NBC\nVenue: Paycor Stadium\, Cincinnati\, OH\nUnof
+ ficial calendar\; not affiliated with the NFL or ESPN. Times may change (f
+ lex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873076@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261122T212500Z
+DTEND:20261123T002500Z
+SUMMARY:Steelers @ Eagles (CBS)
+LOCATION:Lincoln Financial Field\, Philadelphia\, PA
+DESCRIPTION:Week 11\nTV: CBS\nVenue: Lincoln Financial Field\, Philadelphia
+ \, PA\nUnofficial calendar\; not affiliated with the NFL or ESPN. Times ma
+ y change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873083@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261127T200000Z
+DTEND:20261127T230000Z
+SUMMARY:Broncos @ Steelers (Prime Video)
+LOCATION:Acrisure Stadium\, Pittsburgh\, PA
+DESCRIPTION:Week 12\nTV: Prime Video\nVenue: Acrisure Stadium\, Pittsburgh\
+ , PA\nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may
+  change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873107@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261207T012000Z
+DTEND:20261207T042000Z
+SUMMARY:Texans @ Steelers (NBC)
+LOCATION:Acrisure Stadium\, Pittsburgh\, PA
+DESCRIPTION:Week 13\nTV: NBC\nVenue: Acrisure Stadium\, Pittsburgh\, PA\nUn
+ official calendar\; not affiliated with the NFL or ESPN. Times may change 
+ (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873123@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261215T011500Z
+DTEND:20261215T041500Z
+SUMMARY:Steelers @ Jaguars (ESPN)
+LOCATION:EverBank Stadium\, Jacksonville\, FL
+DESCRIPTION:Week 14\nTV: ESPN\nVenue: EverBank Stadium\, Jacksonville\, FL\
+ nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may chan
+ ge (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873128@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261220T180000Z
+DTEND:20261220T210000Z
+SUMMARY:Ravens @ Steelers (CBS)
+LOCATION:Acrisure Stadium\, Pittsburgh\, PA
+DESCRIPTION:Week 15\nTV: CBS\nVenue: Acrisure Stadium\, Pittsburgh\, PA\nUn
+ official calendar\; not affiliated with the NFL or ESPN. Times may change 
+ (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873144@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:Panthers @ Steelers
+LOCATION:Acrisure Stadium\, Pittsburgh\, PA
+DESCRIPTION:Week 16\nTV: TBD\nVenue: Acrisure Stadium\, Pittsburgh\, PA\nDa
+ te/time not yet set by the NFL\; this is a placeholder.\nUnofficial calend
+ ar\; not affiliated with the NFL or ESPN. Times may change (flex schedulin
+ g).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873166@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20270103T180000Z
+DTEND:20270103T210000Z
+SUMMARY:Steelers @ Titans (CBS)
+LOCATION:Nissan Stadium\, Nashville\, TN
+DESCRIPTION:Week 17\nTV: CBS\nVenue: Nissan Stadium\, Nashville\, TN\nUnoff
+ icial calendar\; not affiliated with the NFL or ESPN. Times may change (fl
+ ex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873183@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Steelers @ Ravens
+LOCATION:M&T Bank Stadium\, Baltimore\, MD
+DESCRIPTION:Week 18\nTV: TBD\nVenue: M&T Bank Stadium\, Baltimore\, MD\nDat
+ e/time not yet set by the NFL\; this is a placeholder.\nUnofficial calenda
+ r\; not affiliated with the NFL or ESPN. Times may change (flex scheduling
+ ).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,234 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jaxzn//NFL Calendars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Atlanta Falcons 2026
+X-WR-CALDESC:Atlanta Falcons 2026 NFL schedule (unofficial\, auto-updated)
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:espn-401872658@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260913T170000Z
+DTEND:20260913T200000Z
+SUMMARY:Falcons @ Steelers (Fox)
+LOCATION:Acrisure Stadium\, Pittsburgh\, PA
+DESCRIPTION:Week 1\nTV: Fox\nVenue: Acrisure Stadium\, Pittsburgh\, PA\nFin
+ al: Falcons 13\, Steelers 20\nUnofficial calendar\; not affiliated with th
+ e NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872933@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260920T170000Z
+DTEND:20260920T200000Z
+SUMMARY:Panthers @ Falcons (Fox)
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
+DESCRIPTION:Week 2\nTV: Fox\nVenue: Mercedes-Benz Stadium\, Atlanta\, GA\nF
+ inal: Panthers 34\, Falcons 3\nUnofficial calendar\; not affiliated with t
+ he NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872948@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260925T001500Z
+DTEND:20260925T031500Z
+SUMMARY:Falcons @ Packers (Prime Video)
+LOCATION:Lambeau Field\, Green Bay\, WI
+DESCRIPTION:Week 3\nTV: Prime Video\nVenue: Lambeau Field\, Green Bay\, WI\
+ nFinal: Falcons 35\, Packers 14\nUnofficial calendar\; not affiliated with
+  the NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872979@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261006T001500Z
+DTEND:20261006T031500Z
+SUMMARY:Falcons @ Saints (ESPN)
+LOCATION:Caesars Superdome\, New Orleans\, LA
+DESCRIPTION:Week 4\nTV: ESPN\nVenue: Caesars Superdome\, New Orleans\, LA\n
+ Final: Falcons 45\, Saints 24\nUnofficial calendar\; not affiliated with t
+ he NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872993@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261012T002000Z
+DTEND:20261012T032000Z
+SUMMARY:Ravens @ Falcons (NBC)
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
+DESCRIPTION:Week 5\nTV: NBC\nVenue: Mercedes-Benz Stadium\, Atlanta\, GA\nF
+ inal: Ravens 30\, Falcons 23\nUnofficial calendar\; not affiliated with th
+ e NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872999@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261018T170000Z
+DTEND:20261018T200000Z
+SUMMARY:Bears @ Falcons (Fox)
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
+DESCRIPTION:Week 6\nTV: Fox\nVenue: Mercedes-Benz Stadium\, Atlanta\, GA\nU
+ nofficial calendar\; not affiliated with the NFL or ESPN. Times may change
+  (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873017@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261025T170000Z
+DTEND:20261025T200000Z
+SUMMARY:49ers @ Falcons (Fox)
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
+DESCRIPTION:Week 7\nTV: Fox\nVenue: Mercedes-Benz Stadium\, Atlanta\, GA\nU
+ nofficial calendar\; not affiliated with the NFL or ESPN. Times may change
+  (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873025@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261101T180000Z
+DTEND:20261101T210000Z
+SUMMARY:Falcons @ Buccaneers (Fox)
+LOCATION:Raymond James Stadium\, Tampa\, FL
+DESCRIPTION:Week 8\nTV: Fox\nVenue: Raymond James Stadium\, Tampa\, FL\nUno
+ fficial calendar\; not affiliated with the NFL or ESPN. Times may change (
+ flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873038@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261108T143000Z
+DTEND:20261108T173000Z
+SUMMARY:Bengals @ Falcons (NFL Network)
+LOCATION:Santiago Bernabéu\, Madrid\, Spain
+DESCRIPTION:Week 9\nTV: NFL Network\nVenue: Santiago Bernabéu\, Madrid\, S
+ pain\nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may
+  change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873058@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261115T180000Z
+DTEND:20261115T210000Z
+SUMMARY:Chiefs @ Falcons (CBS)
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
+DESCRIPTION:Week 10\nTV: CBS\nVenue: Mercedes-Benz Stadium\, Atlanta\, GA\n
+ Unofficial calendar\; not affiliated with the NFL or ESPN. Times may chang
+ e (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873084@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261129T180000Z
+DTEND:20261129T210000Z
+SUMMARY:Falcons @ Vikings (Fox)
+LOCATION:U.S. Bank Stadium\, Minneapolis\, MN
+DESCRIPTION:Week 12\nTV: Fox\nVenue: U.S. Bank Stadium\, Minneapolis\, MN\n
+ Unofficial calendar\; not affiliated with the NFL or ESPN. Times may chang
+ e (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873098@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261206T180000Z
+DTEND:20261206T210000Z
+SUMMARY:Lions @ Falcons (CBS)
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
+DESCRIPTION:Week 13\nTV: CBS\nVenue: Mercedes-Benz Stadium\, Atlanta\, GA\n
+ Unofficial calendar\; not affiliated with the NFL or ESPN. Times may chang
+ e (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873110@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261213T180000Z
+DTEND:20261213T210000Z
+SUMMARY:Falcons @ Browns (CBS)
+LOCATION:Huntington Bank Field\, Cleveland\, OH
+DESCRIPTION:Week 14\nTV: CBS\nVenue: Huntington Bank Field\, Cleveland\, OH
+ \nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may cha
+ nge (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873127@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261220T180000Z
+DTEND:20261220T210000Z
+SUMMARY:Falcons @ Commanders (Fox)
+LOCATION:Northwest Stadium\, Landover\, MD
+DESCRIPTION:Week 15\nTV: Fox\nVenue: Northwest Stadium\, Landover\, MD\nUno
+ fficial calendar\; not affiliated with the NFL or ESPN. Times may change (
+ flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873146@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:Buccaneers @ Falcons
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
+DESCRIPTION:Week 16\nTV: TBD\nVenue: Mercedes-Benz Stadium\, Atlanta\, GA\n
+ Date/time not yet set by the NFL\; this is a placeholder.\nUnofficial cale
+ ndar\; not affiliated with the NFL or ESPN. Times may change (flex schedul
+ ing).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873164@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20270103T180000Z
+DTEND:20270103T210000Z
+SUMMARY:Saints @ Falcons (Fox)
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
+DESCRIPTION:Week 17\nTV: Fox\nVenue: Mercedes-Benz Stadium\, Atlanta\, GA\n
+ Unofficial calendar\; not affiliated with the NFL or ESPN. Times may chang
+ e (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873172@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Falcons @ Panthers
+LOCATION:Bank of America Stadium\, Charlotte\, NC
+DESCRIPTION:Week 18\nTV: TBD\nVenue: Bank of America Stadium\, Charlotte\, 
+ NC\nDate/time not yet set by the NFL\; this is a placeholder.\nUnofficial 
+ calendar\; not affiliated with the NFL or ESPN. Times may change (flex sch
+ eduling).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

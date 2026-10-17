@@ -1,0 +1,235 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jaxzn//NFL Calendars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Minnesota Vikings 2026
+X-WR-CALDESC:Minnesota Vikings 2026 NFL schedule (unofficial\, auto-updated
+ )
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:espn-401872927@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260913T202500Z
+DTEND:20260913T232500Z
+SUMMARY:Packers @ Vikings (CBS)
+LOCATION:U.S. Bank Stadium\, Minneapolis\, MN
+DESCRIPTION:Week 1\nTV: CBS\nVenue: U.S. Bank Stadium\, Minneapolis\, MN\nF
+ inal: Packers 22\, Vikings 39\nUnofficial calendar\; not affiliated with t
+ he NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872937@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260920T170000Z
+DTEND:20260920T200000Z
+SUMMARY:Vikings @ Bears (Fox)
+LOCATION:Soldier Field\, Chicago\, IL
+DESCRIPTION:Week 2\nTV: Fox\nVenue: Soldier Field\, Chicago\, IL\nFinal: Vi
+ kings 9\, Bears 3\nUnofficial calendar\; not affiliated with the NFL or ES
+ PN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872959@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260927T200500Z
+DTEND:20260927T230500Z
+SUMMARY:Vikings @ Buccaneers (Fox)
+LOCATION:Raymond James Stadium\, Tampa\, FL
+DESCRIPTION:Week 3\nTV: Fox\nVenue: Raymond James Stadium\, Tampa\, FL\nFin
+ al: Vikings 23\, Buccaneers 16\nUnofficial calendar\; not affiliated with 
+ the NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872974@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261004T200500Z
+DTEND:20261004T230500Z
+SUMMARY:Dolphins @ Vikings (Fox)
+LOCATION:U.S. Bank Stadium\, Minneapolis\, MN
+DESCRIPTION:Week 4\nTV: Fox\nVenue: U.S. Bank Stadium\, Minneapolis\, MN\nF
+ inal: Dolphins 10\, Vikings 15\nUnofficial calendar\; not affiliated with 
+ the NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872987@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261011T170000Z
+DTEND:20261011T200000Z
+SUMMARY:Vikings @ Saints (Fox)
+LOCATION:Caesars Superdome\, New Orleans\, LA
+DESCRIPTION:Week 5\nTV: Fox\nVenue: Caesars Superdome\, New Orleans\, LA\nF
+ inal: Vikings 23\, Saints 13\nUnofficial calendar\; not affiliated with th
+ e NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873014@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261025T170000Z
+DTEND:20261025T200000Z
+SUMMARY:Colts @ Vikings (CBS)
+LOCATION:U.S. Bank Stadium\, Minneapolis\, MN
+DESCRIPTION:Week 7\nTV: CBS\nVenue: U.S. Bank Stadium\, Minneapolis\, MN\nU
+ nofficial calendar\; not affiliated with the NFL or ESPN. Times may change
+  (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873030@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261101T180000Z
+DTEND:20261101T210000Z
+SUMMARY:Vikings @ Lions (Fox)
+LOCATION:Ford Field\, Detroit\, MI
+DESCRIPTION:Week 8\nTV: Fox\nVenue: Ford Field\, Detroit\, MI\nUnofficial c
+ alendar\; not affiliated with the NFL or ESPN. Times may change (flex sche
+ duling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873051@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261110T011500Z
+DTEND:20261110T041500Z
+SUMMARY:Bills @ Vikings (ESPN / ABC)
+LOCATION:U.S. Bank Stadium\, Minneapolis\, MN
+DESCRIPTION:Week 9\nTV: ESPN / ABC\nVenue: U.S. Bank Stadium\, Minneapolis\
+ , MN\nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may
+  change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873060@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261115T180000Z
+DTEND:20261115T210000Z
+SUMMARY:Vikings @ Packers (Fox)
+LOCATION:Lambeau Field\, Green Bay\, WI
+DESCRIPTION:Week 10\nTV: Fox\nVenue: Lambeau Field\, Green Bay\, WI\nUnoffi
+ cial calendar\; not affiliated with the NFL or ESPN. Times may change (fle
+ x scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873077@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261123T012000Z
+DTEND:20261123T042000Z
+SUMMARY:Vikings @ 49ers (NBC)
+LOCATION:Estadio Banorte\, Mexico City\, Mexico
+DESCRIPTION:Week 11\nTV: NBC\nVenue: Estadio Banorte\, Mexico City\, Mexico
+ \nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may cha
+ nge (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873084@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261129T180000Z
+DTEND:20261129T210000Z
+SUMMARY:Falcons @ Vikings (Fox)
+LOCATION:U.S. Bank Stadium\, Minneapolis\, MN
+DESCRIPTION:Week 12\nTV: Fox\nVenue: U.S. Bank Stadium\, Minneapolis\, MN\n
+ Unofficial calendar\; not affiliated with the NFL or ESPN. Times may chang
+ e (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873106@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261206T212500Z
+DTEND:20261207T002500Z
+SUMMARY:Panthers @ Vikings (CBS)
+LOCATION:U.S. Bank Stadium\, Minneapolis\, MN
+DESCRIPTION:Week 13\nTV: CBS\nVenue: U.S. Bank Stadium\, Minneapolis\, MN\n
+ Unofficial calendar\; not affiliated with the NFL or ESPN. Times may chang
+ e (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873109@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261211T011500Z
+DTEND:20261211T041500Z
+SUMMARY:Vikings @ Patriots (Prime Video)
+LOCATION:Gillette Stadium\, Foxborough\, MA
+DESCRIPTION:Week 14\nTV: Prime Video\nVenue: Gillette Stadium\, Foxborough\
+ , MA\nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may
+  change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873138@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261221T012000Z
+DTEND:20261221T042000Z
+SUMMARY:Lions @ Vikings (NBC)
+LOCATION:U.S. Bank Stadium\, Minneapolis\, MN
+DESCRIPTION:Week 15\nTV: NBC\nVenue: U.S. Bank Stadium\, Minneapolis\, MN\n
+ Unofficial calendar\; not affiliated with the NFL or ESPN. Times may chang
+ e (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873147@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:Commanders @ Vikings
+LOCATION:U.S. Bank Stadium\, Minneapolis\, MN
+DESCRIPTION:Week 16\nTV: TBD\nVenue: U.S. Bank Stadium\, Minneapolis\, MN\n
+ Date/time not yet set by the NFL\; this is a placeholder.\nUnofficial cale
+ ndar\; not affiliated with the NFL or ESPN. Times may change (flex schedul
+ ing).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873163@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20270103T180000Z
+DTEND:20270103T210000Z
+SUMMARY:Vikings @ Jets (CBS)
+LOCATION:MetLife Stadium\, East Rutherford\, NJ
+DESCRIPTION:Week 17\nTV: CBS\nVenue: MetLife Stadium\, East Rutherford\, NJ
+ \nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may cha
+ nge (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873173@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Bears @ Vikings
+LOCATION:U.S. Bank Stadium\, Minneapolis\, MN
+DESCRIPTION:Week 18\nTV: TBD\nVenue: U.S. Bank Stadium\, Minneapolis\, MN\n
+ Date/time not yet set by the NFL\; this is a placeholder.\nUnofficial cale
+ ndar\; not affiliated with the NFL or ESPN. Times may change (flex schedul
+ ing).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

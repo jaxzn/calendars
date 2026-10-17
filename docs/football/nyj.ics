@@ -1,0 +1,233 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jaxzn//NFL Calendars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:New York Jets 2026
+X-WR-CALDESC:New York Jets 2026 NFL schedule (unofficial\, auto-updated)
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:espn-401872924@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260913T170000Z
+DTEND:20260913T200000Z
+SUMMARY:Jets @ Titans (CBS)
+LOCATION:Nissan Stadium\, Nashville\, TN
+DESCRIPTION:Week 1\nTV: CBS\nVenue: Nissan Stadium\, Nashville\, TN\nFinal:
+  Jets 23\, Titans 10\nUnofficial calendar\; not affiliated with the NFL or
+  ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872936@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260920T170000Z
+DTEND:20260920T200000Z
+SUMMARY:Packers @ Jets (Fox)
+LOCATION:MetLife Stadium\, East Rutherford\, NJ
+DESCRIPTION:Week 2\nTV: Fox\nVenue: MetLife Stadium\, East Rutherford\, NJ\
+ nFinal: Packers 20\, Jets 17\nUnofficial calendar\; not affiliated with th
+ e NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872954@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260927T170000Z
+DTEND:20260927T200000Z
+SUMMARY:Jets @ Lions (Fox)
+LOCATION:Ford Field\, Detroit\, MI
+DESCRIPTION:Week 3\nTV: Fox\nVenue: Ford Field\, Detroit\, MI\nFinal: Jets 
+ 24\, Lions 31\nUnofficial calendar\; not affiliated with the NFL or ESPN. 
+ Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872972@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261004T170000Z
+DTEND:20261004T200000Z
+SUMMARY:Jets @ Bears (Fox)
+LOCATION:Soldier Field\, Chicago\, IL
+DESCRIPTION:Week 4\nTV: Fox\nVenue: Soldier Field\, Chicago\, IL\nFinal: Je
+ ts 12\, Bears 23\nUnofficial calendar\; not affiliated with the NFL or ESP
+ N. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872983@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261011T170000Z
+DTEND:20261011T200000Z
+SUMMARY:Browns @ Jets (CBS)
+LOCATION:MetLife Stadium\, East Rutherford\, NJ
+DESCRIPTION:Week 5\nTV: CBS\nVenue: MetLife Stadium\, East Rutherford\, NJ\
+ nFinal: Browns 12\, Jets 17\nUnofficial calendar\; not affiliated with the
+  NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873001@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261018T170000Z
+DTEND:20261018T200000Z
+SUMMARY:Jets @ Patriots (CBS)
+LOCATION:Gillette Stadium\, Foxborough\, MA
+DESCRIPTION:Week 6\nTV: CBS\nVenue: Gillette Stadium\, Foxborough\, MA\nUno
+ fficial calendar\; not affiliated with the NFL or ESPN. Times may change (
+ flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873015@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261025T170000Z
+DTEND:20261025T200000Z
+SUMMARY:Dolphins @ Jets (CBS)
+LOCATION:MetLife Stadium\, East Rutherford\, NJ
+DESCRIPTION:Week 7\nTV: CBS\nVenue: MetLife Stadium\, East Rutherford\, NJ\
+ nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may chan
+ ge (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873029@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261101T180000Z
+DTEND:20261101T210000Z
+SUMMARY:Raiders @ Jets (Fox)
+LOCATION:MetLife Stadium\, East Rutherford\, NJ
+DESCRIPTION:Week 8\nTV: Fox\nVenue: MetLife Stadium\, East Rutherford\, NJ\
+ nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may chan
+ ge (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873045@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261108T180000Z
+DTEND:20261108T210000Z
+SUMMARY:Jets @ Chiefs (CBS)
+LOCATION:Arrowhead Stadium\, Kansas City\, MO
+DESCRIPTION:Week 9\nTV: CBS\nVenue: Arrowhead Stadium\, Kansas City\, MO\nU
+ nofficial calendar\; not affiliated with the NFL or ESPN. Times may change
+  (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873054@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261115T180000Z
+DTEND:20261115T210000Z
+SUMMARY:Bills @ Jets (CBS)
+LOCATION:MetLife Stadium\, East Rutherford\, NJ
+DESCRIPTION:Week 10\nTV: CBS\nVenue: MetLife Stadium\, East Rutherford\, NJ
+ \nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may cha
+ nge (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873074@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261122T210500Z
+DTEND:20261123T000500Z
+SUMMARY:Jets @ Chargers (Fox)
+LOCATION:SoFi Stadium\, Inglewood\, CA
+DESCRIPTION:Week 11\nTV: Fox\nVenue: SoFi Stadium\, Inglewood\, CA\nUnoffic
+ ial calendar\; not affiliated with the NFL or ESPN. Times may change (flex
+  scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873089@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261129T180000Z
+DTEND:20261129T210000Z
+SUMMARY:Jets @ Dolphins (CBS)
+LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
+DESCRIPTION:Week 12\nTV: CBS\nVenue: Hard Rock Stadium\, Miami Gardens\, FL
+ \nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may cha
+ nge (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873112@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261213T180000Z
+DTEND:20261213T210000Z
+SUMMARY:Broncos @ Jets (CBS)
+LOCATION:MetLife Stadium\, East Rutherford\, NJ
+DESCRIPTION:Week 14\nTV: CBS\nVenue: MetLife Stadium\, East Rutherford\, NJ
+ \nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may cha
+ nge (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873135@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261220T210500Z
+DTEND:20261221T000500Z
+SUMMARY:Jets @ Cardinals (Fox)
+LOCATION:State Farm Stadium\, Glendale\, AZ
+DESCRIPTION:Week 15\nTV: Fox\nVenue: State Farm Stadium\, Glendale\, AZ\nUn
+ official calendar\; not affiliated with the NFL or ESPN. Times may change 
+ (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873151@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261227T180000Z
+DTEND:20261227T210000Z
+SUMMARY:Patriots @ Jets (CBS)
+LOCATION:MetLife Stadium\, East Rutherford\, NJ
+DESCRIPTION:Week 16\nTV: CBS\nVenue: MetLife Stadium\, East Rutherford\, NJ
+ \nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may cha
+ nge (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873163@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20270103T180000Z
+DTEND:20270103T210000Z
+SUMMARY:Vikings @ Jets (CBS)
+LOCATION:MetLife Stadium\, East Rutherford\, NJ
+DESCRIPTION:Week 17\nTV: CBS\nVenue: MetLife Stadium\, East Rutherford\, NJ
+ \nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may cha
+ nge (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873181@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Jets @ Bills
+LOCATION:Highmark Stadium\, Orchard Park\, NY
+DESCRIPTION:Week 18\nTV: TBD\nVenue: Highmark Stadium\, Orchard Park\, NY\n
+ Date/time not yet set by the NFL\; this is a placeholder.\nUnofficial cale
+ ndar\; not affiliated with the NFL or ESPN. Times may change (flex schedul
+ ing).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

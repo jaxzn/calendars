@@ -1,0 +1,235 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jaxzn//NFL Calendars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Carolina Panthers 2026
+X-WR-CALDESC:Carolina Panthers 2026 NFL schedule (unofficial\, auto-updated
+ )
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:espn-401872661@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260913T170000Z
+DTEND:20260913T200000Z
+SUMMARY:Bears @ Panthers (Fox)
+LOCATION:Bank of America Stadium\, Charlotte\, NC
+DESCRIPTION:Week 1\nTV: Fox\nVenue: Bank of America Stadium\, Charlotte\, N
+ C\nFinal: Bears 59\, Panthers 37\nUnofficial calendar\; not affiliated wit
+ h the NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872933@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260920T170000Z
+DTEND:20260920T200000Z
+SUMMARY:Panthers @ Falcons (Fox)
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
+DESCRIPTION:Week 2\nTV: Fox\nVenue: Mercedes-Benz Stadium\, Atlanta\, GA\nF
+ inal: Panthers 34\, Falcons 3\nUnofficial calendar\; not affiliated with t
+ he NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872949@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260927T170000Z
+DTEND:20260927T200000Z
+SUMMARY:Panthers @ Browns (Fox)
+LOCATION:Huntington Bank Field\, Cleveland\, OH
+DESCRIPTION:Week 3\nTV: Fox\nVenue: Huntington Bank Field\, Cleveland\, OH\
+ nFinal: Panthers 18\, Browns 21\nUnofficial calendar\; not affiliated with
+  the NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872978@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261005T002000Z
+DTEND:20261005T032000Z
+SUMMARY:Lions @ Panthers (NBC)
+LOCATION:Bank of America Stadium\, Charlotte\, NC
+DESCRIPTION:Week 4\nTV: NBC\nVenue: Bank of America Stadium\, Charlotte\, N
+ C\nFinal: Lions 26\, Panthers 32\nUnofficial calendar\; not affiliated wit
+ h the NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872998@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261018T170000Z
+DTEND:20261018T200000Z
+SUMMARY:Panthers @ Eagles (CBS)
+LOCATION:Lincoln Financial Field\, Philadelphia\, PA
+DESCRIPTION:Week 6\nTV: CBS\nVenue: Lincoln Financial Field\, Philadelphia\
+ , PA\nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may
+  change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873018@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261025T170000Z
+DTEND:20261025T200000Z
+SUMMARY:Buccaneers @ Panthers (Fox)
+LOCATION:Bank of America Stadium\, Charlotte\, NC
+DESCRIPTION:Week 7\nTV: Fox\nVenue: Bank of America Stadium\, Charlotte\, N
+ C\nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may ch
+ ange (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873023@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261030T001500Z
+DTEND:20261030T031500Z
+SUMMARY:Panthers @ Packers (Prime Video)
+LOCATION:Lambeau Field\, Green Bay\, WI
+DESCRIPTION:Week 8\nTV: Prime Video\nVenue: Lambeau Field\, Green Bay\, WI\
+ nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may chan
+ ge (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873041@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261108T180000Z
+DTEND:20261108T210000Z
+SUMMARY:Broncos @ Panthers (CBS)
+LOCATION:Bank of America Stadium\, Charlotte\, NC
+DESCRIPTION:Week 9\nTV: CBS\nVenue: Bank of America Stadium\, Charlotte\, N
+ C\nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may ch
+ ange (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873055@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261115T180000Z
+DTEND:20261115T210000Z
+SUMMARY:Panthers @ Saints (Fox)
+LOCATION:Caesars Superdome\, New Orleans\, LA
+DESCRIPTION:Week 10\nTV: Fox\nVenue: Caesars Superdome\, New Orleans\, LA\n
+ Unofficial calendar\; not affiliated with the NFL or ESPN. Times may chang
+ e (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873068@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261122T180000Z
+DTEND:20261122T210000Z
+SUMMARY:Ravens @ Panthers (Fox)
+LOCATION:Bank of America Stadium\, Charlotte\, NC
+DESCRIPTION:Week 11\nTV: Fox\nVenue: Bank of America Stadium\, Charlotte\, 
+ NC\nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may c
+ hange (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873094@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261201T011500Z
+DTEND:20261201T041500Z
+SUMMARY:Panthers @ Buccaneers (ESPN)
+LOCATION:Raymond James Stadium\, Tampa\, FL
+DESCRIPTION:Week 12\nTV: ESPN\nVenue: Raymond James Stadium\, Tampa\, FL\nU
+ nofficial calendar\; not affiliated with the NFL or ESPN. Times may change
+  (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873106@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261206T212500Z
+DTEND:20261207T002500Z
+SUMMARY:Panthers @ Vikings (CBS)
+LOCATION:U.S. Bank Stadium\, Minneapolis\, MN
+DESCRIPTION:Week 13\nTV: CBS\nVenue: U.S. Bank Stadium\, Minneapolis\, MN\n
+ Unofficial calendar\; not affiliated with the NFL or ESPN. Times may chang
+ e (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873115@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261213T180000Z
+DTEND:20261213T210000Z
+SUMMARY:Saints @ Panthers (CBS)
+LOCATION:Bank of America Stadium\, Charlotte\, NC
+DESCRIPTION:Week 14\nTV: CBS\nVenue: Bank of America Stadium\, Charlotte\, 
+ NC\nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may c
+ hange (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873129@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261220T180000Z
+DTEND:20261220T210000Z
+SUMMARY:Bengals @ Panthers (Fox)
+LOCATION:Bank of America Stadium\, Charlotte\, NC
+DESCRIPTION:Week 15\nTV: Fox\nVenue: Bank of America Stadium\, Charlotte\, 
+ NC\nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may c
+ hange (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873144@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:Panthers @ Steelers
+LOCATION:Acrisure Stadium\, Pittsburgh\, PA
+DESCRIPTION:Week 16\nTV: TBD\nVenue: Acrisure Stadium\, Pittsburgh\, PA\nDa
+ te/time not yet set by the NFL\; this is a placeholder.\nUnofficial calend
+ ar\; not affiliated with the NFL or ESPN. Times may change (flex schedulin
+ g).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873167@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20270103T180000Z
+DTEND:20270103T210000Z
+SUMMARY:Seahawks @ Panthers (Fox)
+LOCATION:Bank of America Stadium\, Charlotte\, NC
+DESCRIPTION:Week 17\nTV: Fox\nVenue: Bank of America Stadium\, Charlotte\, 
+ NC\nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may c
+ hange (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873172@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Falcons @ Panthers
+LOCATION:Bank of America Stadium\, Charlotte\, NC
+DESCRIPTION:Week 18\nTV: TBD\nVenue: Bank of America Stadium\, Charlotte\, 
+ NC\nDate/time not yet set by the NFL\; this is a placeholder.\nUnofficial 
+ calendar\; not affiliated with the NFL or ESPN. Times may change (flex sch
+ eduling).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

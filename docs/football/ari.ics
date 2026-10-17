@@ -1,0 +1,234 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jaxzn//NFL Calendars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Arizona Cardinals 2026
+X-WR-CALDESC:Arizona Cardinals 2026 NFL schedule (unofficial\, auto-updated
+ )
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:espn-401872926@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260913T202500Z
+DTEND:20260913T232500Z
+SUMMARY:Cardinals @ Chargers (CBS)
+LOCATION:SoFi Stadium\, Inglewood\, CA
+DESCRIPTION:Week 1\nTV: CBS\nVenue: SoFi Stadium\, Inglewood\, CA\nFinal: C
+ ardinals 26\, Chargers 14\nUnofficial calendar\; not affiliated with the N
+ FL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872943@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260920T202500Z
+DTEND:20260920T232500Z
+SUMMARY:Seahawks @ Cardinals (Fox)
+LOCATION:State Farm Stadium\, Glendale\, AZ
+DESCRIPTION:Week 2\nTV: Fox\nVenue: State Farm Stadium\, Glendale\, AZ\nFin
+ al: Seahawks 31\, Cardinals 7\nUnofficial calendar\; not affiliated with t
+ he NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872958@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260927T200500Z
+DTEND:20260927T230500Z
+SUMMARY:Cardinals @ 49ers (Fox)
+LOCATION:Levi's Stadium\, Santa Clara\, CA
+DESCRIPTION:Week 3\nTV: Fox\nVenue: Levi's Stadium\, Santa Clara\, CA\nFina
+ l: Cardinals 30\, 49ers 36\nUnofficial calendar\; not affiliated with the 
+ NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872966@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261004T170000Z
+DTEND:20261004T200000Z
+SUMMARY:Cardinals @ Giants (CBS)
+LOCATION:MetLife Stadium\, East Rutherford\, NJ
+DESCRIPTION:Week 4\nTV: CBS\nVenue: MetLife Stadium\, East Rutherford\, NJ\
+ nFinal: Cardinals 24\, Giants 36\nUnofficial calendar\; not affiliated wit
+ h the NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872991@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261011T202500Z
+DTEND:20261011T232500Z
+SUMMARY:Lions @ Cardinals (Fox)
+LOCATION:State Farm Stadium\, Glendale\, AZ
+DESCRIPTION:Week 5\nTV: Fox\nVenue: State Farm Stadium\, Glendale\, AZ\nFin
+ al: Lions 45\, Cardinals 21\nUnofficial calendar\; not affiliated with the
+  NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873004@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261018T200500Z
+DTEND:20261018T230500Z
+SUMMARY:Cardinals @ Rams (Fox)
+LOCATION:SoFi Stadium\, Inglewood\, CA
+DESCRIPTION:Week 6\nTV: Fox\nVenue: SoFi Stadium\, Inglewood\, CA\nUnoffici
+ al calendar\; not affiliated with the NFL or ESPN. Times may change (flex 
+ scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873019@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261025T200500Z
+DTEND:20261025T230500Z
+SUMMARY:Broncos @ Cardinals (CBS)
+LOCATION:State Farm Stadium\, Glendale\, AZ
+DESCRIPTION:Week 7\nTV: CBS\nVenue: State Farm Stadium\, Glendale\, AZ\nUno
+ fficial calendar\; not affiliated with the NFL or ESPN. Times may change (
+ flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873024@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261101T180000Z
+DTEND:20261101T210000Z
+SUMMARY:Cardinals @ Cowboys (Fox)
+LOCATION:AT&T Stadium\, Arlington\, TX
+DESCRIPTION:Week 8\nTV: Fox\nVenue: AT&T Stadium\, Arlington\, TX\nUnoffici
+ al calendar\; not affiliated with the NFL or ESPN. Times may change (flex 
+ scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873048@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261108T212500Z
+DTEND:20261109T002500Z
+SUMMARY:Cardinals @ Seahawks (Fox)
+LOCATION:Lumen Field\, Seattle\, WA
+DESCRIPTION:Week 9\nTV: Fox\nVenue: Lumen Field\, Seattle\, WA\nUnofficial 
+ calendar\; not affiliated with the NFL or ESPN. Times may change (flex sch
+ eduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873061@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261115T210500Z
+DTEND:20261116T000500Z
+SUMMARY:Rams @ Cardinals (CBS)
+LOCATION:State Farm Stadium\, Glendale\, AZ
+DESCRIPTION:Week 10\nTV: CBS\nVenue: State Farm Stadium\, Glendale\, AZ\nUn
+ official calendar\; not affiliated with the NFL or ESPN. Times may change 
+ (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873067@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261122T180000Z
+DTEND:20261122T210000Z
+SUMMARY:Cardinals @ Chiefs (CBS)
+LOCATION:Arrowhead Stadium\, Kansas City\, MO
+DESCRIPTION:Week 11\nTV: CBS\nVenue: Arrowhead Stadium\, Kansas City\, MO\n
+ Unofficial calendar\; not affiliated with the NFL or ESPN. Times may chang
+ e (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873092@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261129T212500Z
+DTEND:20261130T002500Z
+SUMMARY:Commanders @ Cardinals (Fox)
+LOCATION:State Farm Stadium\, Glendale\, AZ
+DESCRIPTION:Week 12\nTV: Fox\nVenue: State Farm Stadium\, Glendale\, AZ\nUn
+ official calendar\; not affiliated with the NFL or ESPN. Times may change 
+ (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873104@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261206T210500Z
+DTEND:20261207T000500Z
+SUMMARY:Eagles @ Cardinals (Fox)
+LOCATION:State Farm Stadium\, Glendale\, AZ
+DESCRIPTION:Week 13\nTV: Fox\nVenue: State Farm Stadium\, Glendale\, AZ\nUn
+ official calendar\; not affiliated with the NFL or ESPN. Times may change 
+ (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873135@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261220T210500Z
+DTEND:20261221T000500Z
+SUMMARY:Jets @ Cardinals (Fox)
+LOCATION:State Farm Stadium\, Glendale\, AZ
+DESCRIPTION:Week 15\nTV: Fox\nVenue: State Farm Stadium\, Glendale\, AZ\nUn
+ official calendar\; not affiliated with the NFL or ESPN. Times may change 
+ (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873148@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261227T180000Z
+DTEND:20261227T210000Z
+SUMMARY:Cardinals @ Saints (Fox)
+LOCATION:Caesars Superdome\, New Orleans\, LA
+DESCRIPTION:Week 16\nTV: Fox\nVenue: Caesars Superdome\, New Orleans\, LA\n
+ Unofficial calendar\; not affiliated with the NFL or ESPN. Times may chang
+ e (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873168@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20270103T210500Z
+DTEND:20270104T000500Z
+SUMMARY:Raiders @ Cardinals (CBS)
+LOCATION:State Farm Stadium\, Glendale\, AZ
+DESCRIPTION:Week 17\nTV: CBS\nVenue: State Farm Stadium\, Glendale\, AZ\nUn
+ official calendar\; not affiliated with the NFL or ESPN. Times may change 
+ (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873184@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:49ers @ Cardinals
+LOCATION:State Farm Stadium\, Glendale\, AZ
+DESCRIPTION:Week 18\nTV: TBD\nVenue: State Farm Stadium\, Glendale\, AZ\nDa
+ te/time not yet set by the NFL\; this is a placeholder.\nUnofficial calend
+ ar\; not affiliated with the NFL or ESPN. Times may change (flex schedulin
+ g).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

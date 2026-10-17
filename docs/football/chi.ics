@@ -1,0 +1,233 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jaxzn//NFL Calendars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Chicago Bears 2026
+X-WR-CALDESC:Chicago Bears 2026 NFL schedule (unofficial\, auto-updated)
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:espn-401872661@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260913T170000Z
+DTEND:20260913T200000Z
+SUMMARY:Bears @ Panthers (Fox)
+LOCATION:Bank of America Stadium\, Charlotte\, NC
+DESCRIPTION:Week 1\nTV: Fox\nVenue: Bank of America Stadium\, Charlotte\, N
+ C\nFinal: Bears 59\, Panthers 37\nUnofficial calendar\; not affiliated wit
+ h the NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872937@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260920T170000Z
+DTEND:20260920T200000Z
+SUMMARY:Vikings @ Bears (Fox)
+LOCATION:Soldier Field\, Chicago\, IL
+DESCRIPTION:Week 2\nTV: Fox\nVenue: Soldier Field\, Chicago\, IL\nFinal: Vi
+ kings 9\, Bears 3\nUnofficial calendar\; not affiliated with the NFL or ES
+ PN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872963@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260929T001500Z
+DTEND:20260929T031500Z
+SUMMARY:Eagles @ Bears (ESPN / ABC)
+LOCATION:Soldier Field\, Chicago\, IL
+DESCRIPTION:Week 3\nTV: ESPN / ABC\nVenue: Soldier Field\, Chicago\, IL\nFi
+ nal: Eagles 7\, Bears 27\nUnofficial calendar\; not affiliated with the NF
+ L or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872972@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261004T170000Z
+DTEND:20261004T200000Z
+SUMMARY:Jets @ Bears (Fox)
+LOCATION:Soldier Field\, Chicago\, IL
+DESCRIPTION:Week 4\nTV: Fox\nVenue: Soldier Field\, Chicago\, IL\nFinal: Je
+ ts 12\, Bears 23\nUnofficial calendar\; not affiliated with the NFL or ESP
+ N. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872990@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261011T170000Z
+DTEND:20261011T200000Z
+SUMMARY:Bears @ Packers (Fox)
+LOCATION:Lambeau Field\, Green Bay\, WI
+DESCRIPTION:Week 5\nTV: Fox\nVenue: Lambeau Field\, Green Bay\, WI\nFinal: 
+ Bears 7\, Packers 31\nUnofficial calendar\; not affiliated with the NFL or
+  ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872999@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261018T170000Z
+DTEND:20261018T200000Z
+SUMMARY:Bears @ Falcons (Fox)
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
+DESCRIPTION:Week 6\nTV: Fox\nVenue: Mercedes-Benz Stadium\, Atlanta\, GA\nU
+ nofficial calendar\; not affiliated with the NFL or ESPN. Times may change
+  (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873010@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261023T001500Z
+DTEND:20261023T031500Z
+SUMMARY:Patriots @ Bears (Prime Video)
+LOCATION:Soldier Field\, Chicago\, IL
+DESCRIPTION:Week 7\nTV: Prime Video\nVenue: Soldier Field\, Chicago\, IL\nU
+ nofficial calendar\; not affiliated with the NFL or ESPN. Times may change
+  (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873036@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261103T011500Z
+DTEND:20261103T041500Z
+SUMMARY:Bears @ Seahawks (ESPN)
+LOCATION:Lumen Field\, Seattle\, WA
+DESCRIPTION:Week 8\nTV: ESPN\nVenue: Lumen Field\, Seattle\, WA\nUnofficial
+  calendar\; not affiliated with the NFL or ESPN. Times may change (flex sc
+ heduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873050@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261109T012000Z
+DTEND:20261109T042000Z
+SUMMARY:Buccaneers @ Bears (NBC)
+LOCATION:Soldier Field\, Chicago\, IL
+DESCRIPTION:Week 9\nTV: NBC\nVenue: Soldier Field\, Chicago\, IL\nUnofficia
+ l calendar\; not affiliated with the NFL or ESPN. Times may change (flex s
+ cheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873071@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261122T180000Z
+DTEND:20261122T210000Z
+SUMMARY:Saints @ Bears (Fox)
+LOCATION:Soldier Field\, Chicago\, IL
+DESCRIPTION:Week 11\nTV: Fox\nVenue: Soldier Field\, Chicago\, IL\nUnoffici
+ al calendar\; not affiliated with the NFL or ESPN. Times may change (flex 
+ scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873081@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261126T180000Z
+DTEND:20261126T210000Z
+SUMMARY:Bears @ Lions (CBS)
+LOCATION:Ford Field\, Detroit\, MI
+DESCRIPTION:Week 12\nTV: CBS\nVenue: Ford Field\, Detroit\, MI\nUnofficial 
+ calendar\; not affiliated with the NFL or ESPN. Times may change (flex sch
+ eduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873100@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261206T180000Z
+DTEND:20261206T210000Z
+SUMMARY:Jaguars @ Bears (Fox)
+LOCATION:Soldier Field\, Chicago\, IL
+DESCRIPTION:Week 13\nTV: Fox\nVenue: Soldier Field\, Chicago\, IL\nUnoffici
+ al calendar\; not affiliated with the NFL or ESPN. Times may change (flex 
+ scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873111@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261213T180000Z
+DTEND:20261213T210000Z
+SUMMARY:Bears @ Dolphins (CBS)
+LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
+DESCRIPTION:Week 14\nTV: CBS\nVenue: Hard Rock Stadium\, Miami Gardens\, FL
+ \nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may cha
+ nge (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873126@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261220T012000Z
+DTEND:20261220T042000Z
+SUMMARY:Bears @ Bills (CBS)
+LOCATION:Highmark Stadium\, Orchard Park\, NY
+DESCRIPTION:Week 15\nTV: CBS\nVenue: Highmark Stadium\, Orchard Park\, NY\n
+ Unofficial calendar\; not affiliated with the NFL or ESPN. Times may chang
+ e (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873141@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261225T180000Z
+DTEND:20261225T210000Z
+SUMMARY:Packers @ Bears (Netflix)
+LOCATION:Soldier Field\, Chicago\, IL
+DESCRIPTION:Week 16\nTV: Netflix\nVenue: Soldier Field\, Chicago\, IL\nUnof
+ ficial calendar\; not affiliated with the NFL or ESPN. Times may change (f
+ lex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873169@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20270103T212500Z
+DTEND:20270104T002500Z
+SUMMARY:Lions @ Bears (Fox)
+LOCATION:Soldier Field\, Chicago\, IL
+DESCRIPTION:Week 17\nTV: Fox\nVenue: Soldier Field\, Chicago\, IL\nUnoffici
+ al calendar\; not affiliated with the NFL or ESPN. Times may change (flex 
+ scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873173@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Bears @ Vikings
+LOCATION:U.S. Bank Stadium\, Minneapolis\, MN
+DESCRIPTION:Week 18\nTV: TBD\nVenue: U.S. Bank Stadium\, Minneapolis\, MN\n
+ Date/time not yet set by the NFL\; this is a placeholder.\nUnofficial cale
+ ndar\; not affiliated with the NFL or ESPN. Times may change (flex schedul
+ ing).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

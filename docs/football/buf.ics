@@ -1,0 +1,233 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jaxzn//NFL Calendars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Buffalo Bills 2026
+X-WR-CALDESC:Buffalo Bills 2026 NFL schedule (unofficial\, auto-updated)
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:espn-401872660@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260913T170000Z
+DTEND:20260913T200000Z
+SUMMARY:Bills @ Texans (CBS)
+LOCATION:Reliant Stadium\, Houston\, TX
+DESCRIPTION:Week 1\nTV: CBS\nVenue: Reliant Stadium\, Houston\, TX\nFinal: 
+ Bills 36\, Texans 31\nUnofficial calendar\; not affiliated with the NFL or
+  ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872932@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260918T001500Z
+DTEND:20260918T031500Z
+SUMMARY:Lions @ Bills (Prime Video)
+LOCATION:Highmark Stadium\, Orchard Park\, NY
+DESCRIPTION:Week 2\nTV: Prime Video\nVenue: Highmark Stadium\, Orchard Park
+ \, NY\nFinal: Lions 31\, Bills 41\nUnofficial calendar\; not affiliated wi
+ th the NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872953@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260927T170000Z
+DTEND:20260927T200000Z
+SUMMARY:Chargers @ Bills (Fox)
+LOCATION:Highmark Stadium\, Orchard Park\, NY
+DESCRIPTION:Week 3\nTV: Fox\nVenue: Highmark Stadium\, Orchard Park\, NY\nF
+ inal: Chargers 16\, Bills 24\nUnofficial calendar\; not affiliated with th
+ e NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872971@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261004T170000Z
+DTEND:20261004T200000Z
+SUMMARY:Patriots @ Bills (CBS)
+LOCATION:Highmark Stadium\, Orchard Park\, NY
+DESCRIPTION:Week 4\nTV: CBS\nVenue: Highmark Stadium\, Orchard Park\, NY\nF
+ inal: Patriots 29\, Bills 26\nUnofficial calendar\; not affiliated with th
+ e NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872994@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261013T001500Z
+DTEND:20261013T031500Z
+SUMMARY:Bills @ Rams (ESPN / ABC)
+LOCATION:SoFi Stadium\, Inglewood\, CA
+DESCRIPTION:Week 5\nTV: ESPN / ABC\nVenue: SoFi Stadium\, Inglewood\, CA\nF
+ inal: Bills 37\, Rams 34\nUnofficial calendar\; not affiliated with the NF
+ L or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873005@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261018T202500Z
+DTEND:20261018T232500Z
+SUMMARY:Bills @ Raiders (CBS)
+LOCATION:Allegiant Stadium\, Las Vegas\, NV
+DESCRIPTION:Week 6\nTV: CBS\nVenue: Allegiant Stadium\, Las Vegas\, NV\nUno
+ fficial calendar\; not affiliated with the NFL or ESPN. Times may change (
+ flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873026@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261101T180000Z
+DTEND:20261101T210000Z
+SUMMARY:Ravens @ Bills (CBS)
+LOCATION:Highmark Stadium\, Orchard Park\, NY
+DESCRIPTION:Week 8\nTV: CBS\nVenue: Highmark Stadium\, Orchard Park\, NY\nU
+ nofficial calendar\; not affiliated with the NFL or ESPN. Times may change
+  (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873051@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261110T011500Z
+DTEND:20261110T041500Z
+SUMMARY:Bills @ Vikings (ESPN / ABC)
+LOCATION:U.S. Bank Stadium\, Minneapolis\, MN
+DESCRIPTION:Week 9\nTV: ESPN / ABC\nVenue: U.S. Bank Stadium\, Minneapolis\
+ , MN\nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may
+  change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873054@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261115T180000Z
+DTEND:20261115T210000Z
+SUMMARY:Bills @ Jets (CBS)
+LOCATION:MetLife Stadium\, East Rutherford\, NJ
+DESCRIPTION:Week 10\nTV: CBS\nVenue: MetLife Stadium\, East Rutherford\, NJ
+ \nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may cha
+ nge (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873070@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261122T180000Z
+DTEND:20261122T210000Z
+SUMMARY:Dolphins @ Bills (Fox)
+LOCATION:Highmark Stadium\, Orchard Park\, NY
+DESCRIPTION:Week 11\nTV: Fox\nVenue: Highmark Stadium\, Orchard Park\, NY\n
+ Unofficial calendar\; not affiliated with the NFL or ESPN. Times may chang
+ e (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873082@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261127T012000Z
+DTEND:20261127T042000Z
+SUMMARY:Chiefs @ Bills (NBC)
+LOCATION:Highmark Stadium\, Orchard Park\, NY
+DESCRIPTION:Week 12\nTV: NBC\nVenue: Highmark Stadium\, Orchard Park\, NY\n
+ Unofficial calendar\; not affiliated with the NFL or ESPN. Times may chang
+ e (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873105@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261206T212500Z
+DTEND:20261207T002500Z
+SUMMARY:Bills @ Patriots (CBS)
+LOCATION:Gillette Stadium\, Foxborough\, MA
+DESCRIPTION:Week 13\nTV: CBS\nVenue: Gillette Stadium\, Foxborough\, MA\nUn
+ official calendar\; not affiliated with the NFL or ESPN. Times may change 
+ (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873122@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261214T012000Z
+DTEND:20261214T042000Z
+SUMMARY:Bills @ Packers (NBC)
+LOCATION:Lambeau Field\, Green Bay\, WI
+DESCRIPTION:Week 14\nTV: NBC\nVenue: Lambeau Field\, Green Bay\, WI\nUnoffi
+ cial calendar\; not affiliated with the NFL or ESPN. Times may change (fle
+ x scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873126@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261220T012000Z
+DTEND:20261220T042000Z
+SUMMARY:Bears @ Bills (CBS)
+LOCATION:Highmark Stadium\, Orchard Park\, NY
+DESCRIPTION:Week 15\nTV: CBS\nVenue: Highmark Stadium\, Orchard Park\, NY\n
+ Unofficial calendar\; not affiliated with the NFL or ESPN. Times may chang
+ e (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873142@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261225T213000Z
+DTEND:20261226T003000Z
+SUMMARY:Bills @ Broncos (Netflix)
+LOCATION:Empower Field at Mile High\, Denver\, CO
+DESCRIPTION:Week 16\nTV: Netflix\nVenue: Empower Field at Mile High\, Denve
+ r\, CO\nUnofficial calendar\; not affiliated with the NFL or ESPN. Times m
+ ay change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873161@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20270103T180000Z
+DTEND:20270103T210000Z
+SUMMARY:Bills @ Dolphins (CBS)
+LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
+DESCRIPTION:Week 17\nTV: CBS\nVenue: Hard Rock Stadium\, Miami Gardens\, FL
+ \nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may cha
+ nge (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873181@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Jets @ Bills
+LOCATION:Highmark Stadium\, Orchard Park\, NY
+DESCRIPTION:Week 18\nTV: TBD\nVenue: Highmark Stadium\, Orchard Park\, NY\n
+ Date/time not yet set by the NFL\; this is a placeholder.\nUnofficial cale
+ ndar\; not affiliated with the NFL or ESPN. Times may change (flex schedul
+ ing).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

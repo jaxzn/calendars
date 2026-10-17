@@ -270,7 +270,7 @@ details{{margin:.4rem 0}} footer{{color:#777;font-size:.85rem;margin-top:2rem}}
 <h1>NFL {season} Calendars</h1>
 <p class="lead">Every team's full schedule, plus a prime-time calendar. Subscribe once and games, kickoff times, flex changes, TV channels and playoff games update automatically.</p>
 <section class="feature"><h3>Prime Time &amp; National Games</h3><ul>
-{row("primetime", f"NFL Prime Time {season}")}
+{row("primetime", "NFL Prime Time")}
 </ul><p style="font-size:.85rem;margin:.4rem 0">Thursday, Sunday &amp; Monday night games, Saturday/holiday/international national windows, and all playoff games.</p></section>
 <div class="grid">
 {chr(10).join(divs)}
@@ -324,13 +324,14 @@ def main():
     dtstamp = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
     changed = []
     for t, gs in by_team.items():
-        name = f"{names.get(t, TEAMS[t])} {season}"
+        # No season year: calendar apps keep X-WR-CALNAME from subscribe time.
+        name = names.get(t, TEAMS[t])
         c = calendar(name, f"{name} NFL schedule (unofficial, auto-updated)", gs, dtstamp)
         if write_if_changed(os.path.join(a.out, t.lower() + ".ics"), c, True):
             changed.append(t.lower() + ".ics")
     pt = [g for g in games if g["primetime"] or g["seasontype"] == 3]
-    c = calendar(f"NFL Prime Time {season}",
-                 f"NFL {season} prime-time and national-window games plus playoffs (unofficial, auto-updated)", pt, dtstamp)
+    c = calendar("NFL Prime Time",
+                 "NFL prime-time and national-window games plus playoffs (unofficial, auto-updated)", pt, dtstamp)
     if write_if_changed(os.path.join(a.out, "primetime.ics"), c, True):
         changed.append("primetime.ics")
     if write_if_changed(os.path.join(a.out, "index.html"), index_html(season, names)):

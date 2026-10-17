@@ -1,0 +1,1046 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jaxzn//NBA Calendars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Detroit Pistons
+X-WR-CALDESC:Detroit Pistons NBA schedule (unofficial\, auto-updated)
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:espn-401909088@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261020T190000Z
+DTEND:20261020T213000Z
+SUMMARY:Celtics @ Pistons (NBC)
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: Little Caesars Arena\, Detroit\
+ , MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909847@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261024T000000Z
+DTEND:20261024T023000Z
+SUMMARY:Pistons @ Heat
+LOCATION:Kaseya Center\, Miami\, FL
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Kaseya Center\, Miami\, FL\nUno
+ fficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909866@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261025T233000Z
+DTEND:20261026T020000Z
+SUMMARY:Pistons @ 76ers
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Xfinity Mobile Arena\, Philadel
+ phia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
+ s may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909878@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261028T000000Z
+DTEND:20261028T023000Z
+SUMMARY:Pistons @ Knicks (NBC)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: Madison Square Garden\, New Yor
+ k\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909883@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261028T230000Z
+DTEND:20261029T013000Z
+SUMMARY:Hornets @ Pistons
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Little Caesars Arena\, Detroit\
+ , MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909279@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261030T233000Z
+DTEND:20261031T020000Z
+SUMMARY:Pistons @ Nets
+LOCATION:Barclays Center\, Brooklyn\, NY
+DESCRIPTION:NBA Cup - Group Play\nTV: TBD\nVenue: Barclays Center\, Brookly
+ n\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909908@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261103T003000Z
+DTEND:20261103T030000Z
+SUMMARY:Pistons @ Hornets
+LOCATION:Spectrum Center\, Charlotte\, NC
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Spectrum Center\, Charlotte\, N
+ C\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
+ ange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909922@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261105T000000Z
+DTEND:20261105T023000Z
+SUMMARY:76ers @ Pistons (ESPN)
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Little Caesars Arena\, Detroit
+ \, MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
+ y change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909946@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261108T230000Z
+DTEND:20261109T013000Z
+SUMMARY:Lakers @ Pistons (NBA TV)
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: NBA TV\nVenue: Little Caesars Arena\, Detro
+ it\, MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909954@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261110T000000Z
+DTEND:20261110T023000Z
+SUMMARY:Wizards @ Pistons (NBCSN)
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: NBCSN\nVenue: Little Caesars Arena\, Detroi
+ t\, MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909977@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261113T000000Z
+DTEND:20261113T023000Z
+SUMMARY:Pistons @ Wizards (MNMT)
+LOCATION:Capital One Arena\, Washington\, DC
+DESCRIPTION:Regular Season\nTV: MNMT\nVenue: Capital One Arena\, Washington
+ \, DC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
+ y change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909982@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261115T010000Z
+DTEND:20261115T033000Z
+SUMMARY:Pistons @ Heat (NBA TV)
+LOCATION:Kaseya Center\, Miami\, FL
+DESCRIPTION:Regular Season\nTV: NBA TV\nVenue: Kaseya Center\, Miami\, FL\n
+ Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910004@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261118T010000Z
+DTEND:20261118T033000Z
+SUMMARY:Pistons @ Spurs (NBC)
+LOCATION:Frost Bank Center\, San Antonio\, TX
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: Frost Bank Center\, San Antonio
+ \, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
+ y change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910013@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261119T010000Z
+DTEND:20261119T033000Z
+SUMMARY:Pistons @ Pelicans
+LOCATION:Smoothie King Center\, New Orleans\, LA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Smoothie King Center\, New Orle
+ ans\, LA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
+  may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909308@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261121T003000Z
+DTEND:20261121T030000Z
+SUMMARY:Raptors @ Pistons (Prime Video)
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:NBA Cup - Group Play\nTV: Prime Video\nVenue: Little Caesars Ar
+ ena\, Detroit\, MI\nUnofficial calendar\; not affiliated with the NBA or E
+ SPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910029@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261122T203000Z
+DTEND:20261122T230000Z
+SUMMARY:Pistons @ Hawks
+LOCATION:State Farm Arena\, Atlanta\, GA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: State Farm Arena\, Atlanta\, GA
+ \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909314@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261125T000000Z
+DTEND:20261125T023000Z
+SUMMARY:Pistons @ Magic
+LOCATION:Kia Center\, Orlando\, FL
+DESCRIPTION:NBA Cup - Group Play\nTV: TBD\nVenue: Kia Center\, Orlando\, FL
+ \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909327@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261128T003000Z
+DTEND:20261128T030000Z
+SUMMARY:Bucks @ Pistons
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:NBA Cup - Group Play\nTV: TBD\nVenue: Little Caesars Arena\, De
+ troit\, MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
+ es may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910055@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261129T230000Z
+DTEND:20261130T013000Z
+SUMMARY:Magic @ Pistons
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Little Caesars Arena\, Detroit\
+ , MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910062@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261201T000000Z
+DTEND:20261201T023000Z
+SUMMARY:Nuggets @ Pistons
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Little Caesars Arena\, Detroit\
+ , MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910076@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261203T000000Z
+DTEND:20261203T023000Z
+SUMMARY:Grizzlies @ Pistons
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Little Caesars Arena\, Detroit\
+ , MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910100@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261213T220000Z
+DTEND:20261214T003000Z
+SUMMARY:Pistons @ Pacers
+LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Gainbridge Fieldhouse\, Indiana
+ polis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
+ es may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910105@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261215T000000Z
+DTEND:20261215T023000Z
+SUMMARY:Nets @ Pistons
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Little Caesars Arena\, Detroit\
+ , MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910119@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261217T000000Z
+DTEND:20261217T023000Z
+SUMMARY:Suns @ Pistons
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Little Caesars Arena\, Detroit\
+ , MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910138@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261219T003000Z
+DTEND:20261219T030000Z
+SUMMARY:Cavaliers @ Pistons
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Little Caesars Arena\, Detroit\
+ , MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910156@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261221T010000Z
+DTEND:20261221T033000Z
+SUMMARY:Pistons @ Celtics
+LOCATION:TD Garden\, Boston\, MA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: TD Garden\, Boston\, MA\nUnoffi
+ cial calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910170@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261223T010000Z
+DTEND:20261223T033000Z
+SUMMARY:Pistons @ Thunder (NBC)
+LOCATION:Paycom Center\, Oklahoma City\, OK
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: Paycom Center\, Oklahoma City\,
+  OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910172@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261224T000000Z
+DTEND:20261224T023000Z
+SUMMARY:Pistons @ Hawks
+LOCATION:State Farm Arena\, Atlanta\, GA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: State Farm Arena\, Atlanta\, GA
+ \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910192@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261227T010000Z
+DTEND:20261227T033000Z
+SUMMARY:Pistons @ Bulls
+LOCATION:United Center\, Chicago\, IL
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: United Center\, Chicago\, IL\nU
+ nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910201@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261228T000000Z
+DTEND:20261228T023000Z
+SUMMARY:Trail Blazers @ Pistons
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Little Caesars Arena\, Detroit\
+ , MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910220@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261231T000000Z
+DTEND:20261231T023000Z
+SUMMARY:Pelicans @ Pistons
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Little Caesars Arena\, Detroit\
+ , MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910236@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270102T003000Z
+DTEND:20270102T030000Z
+SUMMARY:Magic @ Pistons (NBA TV)
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: NBA TV\nVenue: Little Caesars Arena\, Detro
+ it\, MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910251@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270103T220000Z
+DTEND:20270104T003000Z
+SUMMARY:Pistons @ Nuggets
+LOCATION:Ball Arena\, Denver\, CO
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Ball Arena\, Denver\, CO\nUnoff
+ icial calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910273@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270106T030000Z
+DTEND:20270106T053000Z
+SUMMARY:Pistons @ Kings
+LOCATION:Golden 1 Center\, Sacramento\, CA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Golden 1 Center\, Sacramento\, 
+ CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
+ hange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910288@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270108T030000Z
+DTEND:20270108T053000Z
+SUMMARY:Pistons @ Warriors
+LOCATION:Chase Center\, San Francisco\, CA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Chase Center\, San Francisco\, 
+ CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
+ hange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910297@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270109T030000Z
+DTEND:20270109T053000Z
+SUMMARY:Pistons @ Lakers
+LOCATION:crypto.com Arena\, Los Angeles\, CA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: crypto.com Arena\, Los Angeles\
+ , CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910306@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270110T230000Z
+DTEND:20270111T013000Z
+SUMMARY:Jazz @ Pistons
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Little Caesars Arena\, Detroit\
+ , MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910320@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270113T003000Z
+DTEND:20270113T030000Z
+SUMMARY:Pistons @ Raptors
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Scotiabank Arena\, Toronto\, ON
+ \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910335@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270115T000000Z
+DTEND:20270115T023000Z
+SUMMARY:Mavericks @ Pistons
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Little Caesars Arena\, Detroit\
+ , MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910355@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270117T013000Z
+DTEND:20270117T040000Z
+SUMMARY:Pistons @ Rockets
+LOCATION:Toyota Center (Houston)\, Houston\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Toyota Center (Houston)\, Houst
+ on\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909473@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270118T170000Z
+DTEND:20270118T193000Z
+SUMMARY:Pistons @ Cavaliers (NBC)
+LOCATION:Rocket Arena\, Cleveland\, OH
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: Rocket Arena\, Cleveland\, OH\n
+ Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910392@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270123T003000Z
+DTEND:20270123T030000Z
+SUMMARY:Pacers @ Pistons
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Little Caesars Arena\, Detroit\
+ , MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910409@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270124T230000Z
+DTEND:20270125T013000Z
+SUMMARY:Timberwolves @ Pistons
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Little Caesars Arena\, Detroit\
+ , MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910421@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270127T000000Z
+DTEND:20270127T023000Z
+SUMMARY:Hawks @ Pistons
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Little Caesars Arena\, Detroit\
+ , MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910428@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270128T000000Z
+DTEND:20270128T023000Z
+SUMMARY:Pistons @ Cavaliers (ESPN)
+LOCATION:Rocket Arena\, Cleveland\, OH
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Rocket Arena\, Cleveland\, OH\
+ nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910448@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270130T010000Z
+DTEND:20270130T033000Z
+SUMMARY:Pistons @ Mavericks
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: American Airlines Center\, Dall
+ as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910459@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270131T200000Z
+DTEND:20270131T223000Z
+SUMMARY:Kings @ Pistons
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Little Caesars Arena\, Detroit\
+ , MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910474@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270203T000000Z
+DTEND:20270203T023000Z
+SUMMARY:Bulls @ Pistons
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Little Caesars Arena\, Detroit\
+ , MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910482@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270204T000000Z
+DTEND:20270204T023000Z
+SUMMARY:Knicks @ Pistons (ESPN)
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Little Caesars Arena\, Detroit
+ \, MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
+ y change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910500@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270206T000000Z
+DTEND:20270206T023000Z
+SUMMARY:Pistons @ 76ers (Prime Video)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: Prime Video\nVenue: Xfinity Mobile Arena\, 
+ Philadelphia\, PA\nUnofficial calendar\; not affiliated with the NBA or ES
+ PN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910514@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270207T200000Z
+DTEND:20270207T223000Z
+SUMMARY:Warriors @ Pistons (NBA TV)
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: NBA TV\nVenue: Little Caesars Arena\, Detro
+ it\, MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910537@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270210T033000Z
+DTEND:20270210T060000Z
+SUMMARY:Pistons @ Clippers
+LOCATION:Intuit Dome\, Inglewood\, CA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Intuit Dome\, Inglewood\, CA\nU
+ nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910543@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270211T020000Z
+DTEND:20270211T043000Z
+SUMMARY:Pistons @ Suns
+LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Mortgage Matchup Center\, Phoen
+ ix\, AZ\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910562@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270213T203000Z
+DTEND:20270213T230000Z
+SUMMARY:Pistons @ Trail Blazers
+LOCATION:Moda Center\, Portland\, OR
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Moda Center\, Portland\, OR\nUn
+ official calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910577@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270216T020000Z
+DTEND:20270216T043000Z
+SUMMARY:Pistons @ Jazz
+LOCATION:Delta Center\, Salt Lake City\, UT
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Delta Center\, Salt Lake City\,
+  UT\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910585@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270218T000000Z
+DTEND:20270218T023000Z
+SUMMARY:Knicks @ Pistons (ESPN)
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Little Caesars Arena\, Detroit
+ \, MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
+ y change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910601@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270226T000000Z
+DTEND:20270226T023000Z
+SUMMARY:Heat @ Pistons
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Little Caesars Arena\, Detroit\
+ , MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910618@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270227T223000Z
+DTEND:20270228T010000Z
+SUMMARY:Thunder @ Pistons (Prime Video)
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: Prime Video\nVenue: Little Caesars Arena\, 
+ Detroit\, MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
+ imes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910633@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270302T000000Z
+DTEND:20270302T023000Z
+SUMMARY:Bulls @ Pistons
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Little Caesars Arena\, Detroit\
+ , MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910643@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270303T010000Z
+DTEND:20270303T033000Z
+SUMMARY:Pistons @ Bucks
+LOCATION:Fiserv Forum\, Milwaukee\, WI
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Fiserv Forum\, Milwaukee\, WI\n
+ Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910662@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270306T000000Z
+DTEND:20270306T023000Z
+SUMMARY:Celtics @ Pistons (ESPN)
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Little Caesars Arena\, Detroit
+ \, MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
+ y change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910691@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270310T010000Z
+DTEND:20270310T033000Z
+SUMMARY:Cavaliers @ Pistons (NBC)
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: Little Caesars Arena\, Detroit\
+ , MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910705@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270312T000000Z
+DTEND:20270312T023000Z
+SUMMARY:Bucks @ Pistons
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Little Caesars Arena\, Detroit\
+ , MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910720@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270313T200000Z
+DTEND:20270313T223000Z
+SUMMARY:Nets @ Pistons
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Little Caesars Arena\, Detroit\
+ , MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910729@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270314T210000Z
+DTEND:20270314T233000Z
+SUMMARY:Pistons @ Raptors (NBA TV)
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: NBA TV\nVenue: Scotiabank Arena\, Toronto\,
+  ON\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910741@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270317T000000Z
+DTEND:20270317T023000Z
+SUMMARY:Pistons @ Pacers (NBC)
+LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: Gainbridge Fieldhouse\, Indiana
+ polis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
+ es may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910760@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270319T000000Z
+DTEND:20270319T023000Z
+SUMMARY:Pistons @ Bucks
+LOCATION:Fiserv Forum\, Milwaukee\, WI
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Fiserv Forum\, Milwaukee\, WI\n
+ Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910775@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270321T000000Z
+DTEND:20270321T023000Z
+SUMMARY:Hornets @ Pistons
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Little Caesars Arena\, Detroit\
+ , MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910791@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270323T013000Z
+DTEND:20270323T040000Z
+SUMMARY:Pistons @ Timberwolves (NBCSN)
+LOCATION:Target Center\, Minneapolis\, MN
+DESCRIPTION:Regular Season\nTV: NBCSN\nVenue: Target Center\, Minneapolis\,
+  MN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910800@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270324T230000Z
+DTEND:20270325T013000Z
+SUMMARY:Pistons @ Hornets
+LOCATION:Spectrum Center\, Charlotte\, NC
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Spectrum Center\, Charlotte\, N
+ C\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
+ ange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910812@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270325T230000Z
+DTEND:20270326T013000Z
+SUMMARY:Rockets @ Pistons
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Little Caesars Arena\, Detroit\
+ , MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910824@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270327T190000Z
+DTEND:20270327T213000Z
+SUMMARY:Spurs @ Pistons (Prime Video)
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: Prime Video\nVenue: Little Caesars Arena\, 
+ Detroit\, MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
+ imes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910842@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270329T230000Z
+DTEND:20270330T013000Z
+SUMMARY:Clippers @ Pistons
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Little Caesars Arena\, Detroit\
+ , MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910855@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270331T230000Z
+DTEND:20270401T013000Z
+SUMMARY:Raptors @ Pistons
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Little Caesars Arena\, Detroit\
+ , MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910872@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270403T000000Z
+DTEND:20270403T023000Z
+SUMMARY:Pistons @ Bulls
+LOCATION:United Center\, Chicago\, IL
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: United Center\, Chicago\, IL\nU
+ nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910885@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270404T190000Z
+DTEND:20270404T213000Z
+SUMMARY:Heat @ Pistons
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Little Caesars Arena\, Detroit\
+ , MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910901@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270407T000000Z
+DTEND:20270407T023000Z
+SUMMARY:Pistons @ Grizzlies
+LOCATION:FedExForum\, Memphis\, TN
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: FedExForum\, Memphis\, TN\nUnof
+ ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910909@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270407T230000Z
+DTEND:20270408T013000Z
+SUMMARY:Pacers @ Pistons
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Little Caesars Arena\, Detroit\
+ , MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910926@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270409T230000Z
+DTEND:20270410T013000Z
+SUMMARY:Pistons @ Knicks (Prime Video)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: Prime Video\nVenue: Madison Square Garden\,
+  New York\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN.
+  Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910943@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270411T220000Z
+DTEND:20270412T003000Z
+SUMMARY:Pistons @ Wizards
+LOCATION:Capital One Arena\, Washington\, DC
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Capital One Arena\, Washington\
+ , DC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

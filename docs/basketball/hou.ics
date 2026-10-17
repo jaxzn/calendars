@@ -1,0 +1,1044 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jaxzn//NBA Calendars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Houston Rockets
+X-WR-CALDESC:Houston Rockets NBA schedule (unofficial\, auto-updated)
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:espn-401909840@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261022T003000Z
+DTEND:20261022T030000Z
+SUMMARY:Mavericks @ Rockets
+LOCATION:Toyota Center (Houston)\, Houston\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Toyota Center (Houston)\, Houst
+ on\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909096@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261024T013000Z
+DTEND:20261024T040000Z
+SUMMARY:Rockets @ Spurs (Prime Video)
+LOCATION:Moody Center\, Austin\, TX
+DESCRIPTION:Regular Season\nTV: Prime Video\nVenue: Moody Center\, Austin\,
+  TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909856@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261025T003000Z
+DTEND:20261025T030000Z
+SUMMARY:Rockets @ Hawks
+LOCATION:State Farm Arena\, Atlanta\, GA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: State Farm Arena\, Atlanta\, GA
+ \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909874@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261027T003000Z
+DTEND:20261027T030000Z
+SUMMARY:Hawks @ Rockets
+LOCATION:Toyota Center (Houston)\, Houston\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Toyota Center (Houston)\, Houst
+ on\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909887@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261029T000000Z
+DTEND:20261029T023000Z
+SUMMARY:Rockets @ Bucks
+LOCATION:Fiserv Forum\, Milwaukee\, WI
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Fiserv Forum\, Milwaukee\, WI\n
+ Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909283@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261031T000000Z
+DTEND:20261031T023000Z
+SUMMARY:Rockets @ Mavericks
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:NBA Cup - Group Play\nTV: TBD\nVenue: American Airlines Center\
+ , Dallas\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. 
+ Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909902@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261101T003000Z
+DTEND:20261101T030000Z
+SUMMARY:Thunder @ Rockets (NBA TV)
+LOCATION:Toyota Center (Houston)\, Houston\, TX
+DESCRIPTION:Regular Season\nTV: NBA TV\nVenue: Toyota Center (Houston)\, Ho
+ uston\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
+ es may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909916@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261103T013000Z
+DTEND:20261103T040000Z
+SUMMARY:Celtics @ Rockets
+LOCATION:Toyota Center (Houston)\, Houston\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Toyota Center (Houston)\, Houst
+ on\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909930@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261105T013000Z
+DTEND:20261105T040000Z
+SUMMARY:Timberwolves @ Rockets
+LOCATION:Toyota Center (Houston)\, Houston\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Toyota Center (Houston)\, Houst
+ on\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909943@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261108T020000Z
+DTEND:20261108T043000Z
+SUMMARY:Rockets @ Suns
+LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Mortgage Matchup Center\, Phoen
+ ix\, AZ\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909957@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261110T013000Z
+DTEND:20261110T040000Z
+SUMMARY:Nuggets @ Rockets
+LOCATION:Toyota Center (Houston)\, Houston\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Toyota Center (Houston)\, Houst
+ on\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909974@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261112T023000Z
+DTEND:20261112T050000Z
+SUMMARY:Warriors @ Rockets (ESPN)
+LOCATION:Toyota Center (Houston)\, Houston\, TX
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Toyota Center (Houston)\, Hous
+ ton\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
+  may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909301@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261114T013000Z
+DTEND:20261114T040000Z
+SUMMARY:Jazz @ Rockets
+LOCATION:Toyota Center (Houston)\, Houston\, TX
+DESCRIPTION:NBA Cup - Group Play\nTV: TBD\nVenue: Toyota Center (Houston)\,
+  Houston\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. 
+ Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909991@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261116T000000Z
+DTEND:20261116T023000Z
+SUMMARY:Rockets @ Wizards (MNMT)
+LOCATION:Capital One Arena\, Washington\, DC
+DESCRIPTION:Regular Season\nTV: MNMT\nVenue: Capital One Arena\, Washington
+ \, DC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
+ y change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909998@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261117T003000Z
+DTEND:20261117T030000Z
+SUMMARY:Rockets @ Heat
+LOCATION:Kaseya Center\, Miami\, FL
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Kaseya Center\, Miami\, FL\nUno
+ fficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910008@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261119T000000Z
+DTEND:20261119T023000Z
+SUMMARY:Rockets @ Pacers
+LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Gainbridge Fieldhouse\, Indiana
+ polis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
+ es may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909312@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261121T030000Z
+DTEND:20261121T053000Z
+SUMMARY:Rockets @ Nuggets (Prime Video)
+LOCATION:Ball Arena\, Denver\, CO
+DESCRIPTION:NBA Cup - Group Play\nTV: Prime Video\nVenue: Ball Arena\, Denv
+ er\, CO\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910043@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261124T013000Z
+DTEND:20261124T040000Z
+SUMMARY:Clippers @ Rockets
+LOCATION:Toyota Center (Houston)\, Houston\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Toyota Center (Houston)\, Houst
+ on\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909323@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261126T013000Z
+DTEND:20261126T040000Z
+SUMMARY:Suns @ Rockets
+LOCATION:Toyota Center (Houston)\, Houston\, TX
+DESCRIPTION:NBA Cup - Group Play\nTV: TBD\nVenue: Toyota Center (Houston)\,
+  Houston\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. 
+ Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910050@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261129T013000Z
+DTEND:20261129T040000Z
+SUMMARY:76ers @ Rockets (NBA TV)
+LOCATION:Toyota Center (Houston)\, Houston\, TX
+DESCRIPTION:Regular Season\nTV: NBA TV\nVenue: Toyota Center (Houston)\, Ho
+ uston\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
+ es may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910064@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261201T003000Z
+DTEND:20261201T030000Z
+SUMMARY:Lakers @ Rockets (NBCSN)
+LOCATION:Toyota Center (Houston)\, Houston\, TX
+DESCRIPTION:Regular Season\nTV: NBCSN\nVenue: Toyota Center (Houston)\, Hou
+ ston\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
+ s may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910072@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261202T013000Z
+DTEND:20261202T040000Z
+SUMMARY:Raptors @ Rockets
+LOCATION:Toyota Center (Houston)\, Houston\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Toyota Center (Houston)\, Houst
+ on\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910101@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261213T230000Z
+DTEND:20261214T013000Z
+SUMMARY:Rockets @ Bulls
+LOCATION:United Center\, Chicago\, IL
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: United Center\, Chicago\, IL\nU
+ nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910111@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261215T013000Z
+DTEND:20261215T040000Z
+SUMMARY:Knicks @ Rockets
+LOCATION:Toyota Center (Houston)\, Houston\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Toyota Center (Houston)\, Houst
+ on\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910128@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261217T013000Z
+DTEND:20261217T040000Z
+SUMMARY:Bucks @ Rockets
+LOCATION:Toyota Center (Houston)\, Houston\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Toyota Center (Houston)\, Houst
+ on\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910140@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261219T010000Z
+DTEND:20261219T033000Z
+SUMMARY:Rockets @ Grizzlies
+LOCATION:FedExForum\, Memphis\, TN
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: FedExForum\, Memphis\, TN\nUnof
+ ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910150@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261220T203000Z
+DTEND:20261220T230000Z
+SUMMARY:Rockets @ Raptors
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Scotiabank Arena\, Toronto\, ON
+ \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910179@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261224T003000Z
+DTEND:20261224T030000Z
+SUMMARY:Rockets @ 76ers (Prime Video)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: Prime Video\nVenue: Xfinity Mobile Arena\, 
+ Philadelphia\, PA\nUnofficial calendar\; not affiliated with the NBA or ES
+ PN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910195@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261227T203000Z
+DTEND:20261227T230000Z
+SUMMARY:Thunder @ Rockets
+LOCATION:Toyota Center (Houston)\, Houston\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Toyota Center (Houston)\, Houst
+ on\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910219@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261230T033000Z
+DTEND:20261230T060000Z
+SUMMARY:Rockets @ Lakers (NBC)
+LOCATION:crypto.com Arena\, Los Angeles\, CA
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: crypto.com Arena\, Los Angeles\
+ , CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910225@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261231T030000Z
+DTEND:20261231T053000Z
+SUMMARY:Rockets @ Warriors (NBA TV)
+LOCATION:Chase Center\, San Francisco\, CA
+DESCRIPTION:Regular Season\nTV: NBA TV\nVenue: Chase Center\, San Francisco
+ \, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
+ y change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910239@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270102T013000Z
+DTEND:20270102T040000Z
+SUMMARY:Mavericks @ Rockets
+LOCATION:Toyota Center (Houston)\, Houston\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Toyota Center (Houston)\, Houst
+ on\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910256@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270104T000000Z
+DTEND:20270104T023000Z
+SUMMARY:Cavaliers @ Rockets
+LOCATION:Toyota Center (Houston)\, Houston\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Toyota Center (Houston)\, Houst
+ on\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910271@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270106T010000Z
+DTEND:20270106T033000Z
+SUMMARY:Timberwolves @ Rockets (NBC)
+LOCATION:Toyota Center (Houston)\, Houston\, TX
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: Toyota Center (Houston)\, Houst
+ on\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910287@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270108T013000Z
+DTEND:20270108T040000Z
+SUMMARY:Grizzlies @ Rockets
+LOCATION:Toyota Center (Houston)\, Houston\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Toyota Center (Houston)\, Houst
+ on\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910300@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270109T230000Z
+DTEND:20270110T013000Z
+SUMMARY:Rockets @ Nets
+LOCATION:Barclays Center\, Brooklyn\, NY
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Barclays Center\, Brooklyn\, NY
+ \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910315@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270112T003000Z
+DTEND:20270112T030000Z
+SUMMARY:Rockets @ Celtics
+LOCATION:TD Garden\, Boston\, MA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: TD Garden\, Boston\, MA\nUnoffi
+ cial calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910331@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270114T023000Z
+DTEND:20270114T050000Z
+SUMMARY:Rockets @ Thunder (ESPN)
+LOCATION:Paycom Center\, Oklahoma City\, OK
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Paycom Center\, Oklahoma City\
+ , OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910348@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270116T013000Z
+DTEND:20270116T040000Z
+SUMMARY:Wizards @ Rockets
+LOCATION:Toyota Center (Houston)\, Houston\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Toyota Center (Houston)\, Houst
+ on\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910355@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270117T013000Z
+DTEND:20270117T040000Z
+SUMMARY:Pistons @ Rockets
+LOCATION:Toyota Center (Houston)\, Houston\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Toyota Center (Houston)\, Houst
+ on\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909476@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270119T003000Z
+DTEND:20270119T030000Z
+SUMMARY:Rockets @ Grizzlies (NBCSN)
+LOCATION:FedExForum\, Memphis\, TN
+DESCRIPTION:Regular Season\nTV: NBCSN\nVenue: FedExForum\, Memphis\, TN\nUn
+ official calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910379@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270121T010000Z
+DTEND:20270121T033000Z
+SUMMARY:Rockets @ Timberwolves
+LOCATION:Target Center\, Minneapolis\, MN
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Target Center\, Minneapolis\, M
+ N\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
+ ange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910390@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270123T000000Z
+DTEND:20270123T023000Z
+SUMMARY:Rockets @ Hornets
+LOCATION:Spectrum Center\, Charlotte\, NC
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Spectrum Center\, Charlotte\, N
+ C\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
+ ange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910410@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270124T230000Z
+DTEND:20270125T013000Z
+SUMMARY:Rockets @ Magic
+LOCATION:Kia Center\, Orlando\, FL
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Kia Center\, Orlando\, FL\nUnof
+ ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910424@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270127T010000Z
+DTEND:20270127T033000Z
+SUMMARY:Rockets @ Spurs (NBC)
+LOCATION:Frost Bank Center\, San Antonio\, TX
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: Frost Bank Center\, San Antonio
+ \, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
+ y change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910434@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270128T013000Z
+DTEND:20270128T040000Z
+SUMMARY:Pelicans @ Rockets
+LOCATION:Toyota Center (Houston)\, Houston\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Toyota Center (Houston)\, Houst
+ on\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910449@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270130T013000Z
+DTEND:20270130T040000Z
+SUMMARY:Magic @ Rockets
+LOCATION:Toyota Center (Houston)\, Houston\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Toyota Center (Houston)\, Houst
+ on\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910466@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270201T013000Z
+DTEND:20270201T040000Z
+SUMMARY:Rockets @ Mavericks (NBC)
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: American Airlines Center\, Dall
+ as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910486@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270204T023000Z
+DTEND:20270204T050000Z
+SUMMARY:Jazz @ Rockets (ESPN)
+LOCATION:Toyota Center (Houston)\, Houston\, TX
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Toyota Center (Houston)\, Hous
+ ton\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
+  may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910502@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270206T020000Z
+DTEND:20270206T043000Z
+SUMMARY:Rockets @ Suns
+LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Mortgage Matchup Center\, Phoen
+ ix\, AZ\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910520@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270208T033000Z
+DTEND:20270208T060000Z
+SUMMARY:Rockets @ Kings
+LOCATION:Golden 1 Center\, Sacramento\, CA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Golden 1 Center\, Sacramento\, 
+ CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
+ hange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910536@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270210T030000Z
+DTEND:20270210T053000Z
+SUMMARY:Rockets @ Jazz (NBC)
+LOCATION:Delta Center\, Salt Lake City\, UT
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: Delta Center\, Salt Lake City\,
+  UT\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910549@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270212T013000Z
+DTEND:20270212T040000Z
+SUMMARY:Kings @ Rockets
+LOCATION:Toyota Center (Houston)\, Houston\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Toyota Center (Houston)\, Houst
+ on\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910558@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270213T010000Z
+DTEND:20270213T033000Z
+SUMMARY:Rockets @ Pelicans
+LOCATION:Smoothie King Center\, New Orleans\, LA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Smoothie King Center\, New Orle
+ ans\, LA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
+  may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910571@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270214T190000Z
+DTEND:20270214T213000Z
+SUMMARY:Nuggets @ Rockets (NBA TV)
+LOCATION:Toyota Center (Houston)\, Houston\, TX
+DESCRIPTION:Regular Season\nTV: NBA TV\nVenue: Toyota Center (Houston)\, Ho
+ uston\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
+ es may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910582@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270217T040000Z
+DTEND:20270217T063000Z
+SUMMARY:Rockets @ Clippers (NBC)
+LOCATION:Intuit Dome\, Inglewood\, CA
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: Intuit Dome\, Inglewood\, CA\nU
+ nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910598@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270219T030000Z
+DTEND:20270219T053000Z
+SUMMARY:Rockets @ Lakers (Prime Video)
+LOCATION:crypto.com Arena\, Los Angeles\, CA
+DESCRIPTION:Regular Season\nTV: Prime Video\nVenue: crypto.com Arena\, Los 
+ Angeles\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
+ imes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910614@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270227T013000Z
+DTEND:20270227T040000Z
+SUMMARY:Hornets @ Rockets
+LOCATION:Toyota Center (Houston)\, Houston\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Toyota Center (Houston)\, Houst
+ on\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910630@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270301T023000Z
+DTEND:20270301T050000Z
+SUMMARY:Heat @ Rockets (NBC)
+LOCATION:Toyota Center (Houston)\, Houston\, TX
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: Toyota Center (Houston)\, Houst
+ on\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910635@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270302T013000Z
+DTEND:20270302T040000Z
+SUMMARY:Warriors @ Rockets
+LOCATION:Toyota Center (Houston)\, Houston\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Toyota Center (Houston)\, Houst
+ on\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910651@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270304T013000Z
+DTEND:20270304T040000Z
+SUMMARY:Pelicans @ Rockets
+LOCATION:Toyota Center (Houston)\, Houston\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Toyota Center (Houston)\, Houst
+ on\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910667@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270306T023000Z
+DTEND:20270306T050000Z
+SUMMARY:Spurs @ Rockets (ESPN)
+LOCATION:Toyota Center (Houston)\, Houston\, TX
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Toyota Center (Houston)\, Hous
+ ton\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
+  may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910679@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270308T030000Z
+DTEND:20270308T053000Z
+SUMMARY:Rockets @ Warriors (NBC)
+LOCATION:Chase Center\, San Francisco\, CA
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: Chase Center\, San Francisco\, 
+ CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
+ hange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910688@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270309T033000Z
+DTEND:20270309T060000Z
+SUMMARY:Rockets @ Clippers
+LOCATION:Intuit Dome\, Inglewood\, CA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Intuit Dome\, Inglewood\, CA\nU
+ nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910699@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270311T020000Z
+DTEND:20270311T043000Z
+SUMMARY:Rockets @ Jazz
+LOCATION:Delta Center\, Salt Lake City\, UT
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Delta Center\, Salt Lake City\,
+  UT\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910721@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270313T223000Z
+DTEND:20270314T010000Z
+SUMMARY:Pacers @ Rockets (Prime Video)
+LOCATION:Toyota Center (Houston)\, Houston\, TX
+DESCRIPTION:Regular Season\nTV: Prime Video\nVenue: Toyota Center (Houston)
+ \, Houston\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN
+ . Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910745@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270317T003000Z
+DTEND:20270317T030000Z
+SUMMARY:Spurs @ Rockets
+LOCATION:Toyota Center (Houston)\, Houston\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Toyota Center (Houston)\, Houst
+ on\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910752@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270318T003000Z
+DTEND:20270318T030000Z
+SUMMARY:Nets @ Rockets
+LOCATION:Toyota Center (Houston)\, Houston\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Toyota Center (Houston)\, Houst
+ on\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910767@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270320T000000Z
+DTEND:20270320T023000Z
+SUMMARY:Rockets @ Pelicans
+LOCATION:Smoothie King Center\, New Orleans\, LA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Smoothie King Center\, New Orle
+ ans\, LA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
+  may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910786@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270322T230000Z
+DTEND:20270323T013000Z
+SUMMARY:Rockets @ Cavaliers
+LOCATION:Rocket Arena\, Cleveland\, OH
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Rocket Arena\, Cleveland\, OH\n
+ Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910804@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270324T233000Z
+DTEND:20270325T020000Z
+SUMMARY:Rockets @ Knicks
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Madison Square Garden\, New Yor
+ k\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910812@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270325T230000Z
+DTEND:20270326T013000Z
+SUMMARY:Rockets @ Pistons
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Little Caesars Arena\, Detroit\
+ , MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910833@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270328T190000Z
+DTEND:20270328T213000Z
+SUMMARY:Lakers @ Rockets (ESPN)
+LOCATION:Toyota Center (Houston)\, Houston\, TX
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Toyota Center (Houston)\, Hous
+ ton\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
+  may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910853@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270331T030000Z
+DTEND:20270331T053000Z
+SUMMARY:Rockets @ Trail Blazers (NBC)
+LOCATION:Moda Center\, Portland\, OR
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: Moda Center\, Portland\, OR\nUn
+ official calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910863@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270401T020000Z
+DTEND:20270401T043000Z
+SUMMARY:Rockets @ Trail Blazers
+LOCATION:Moda Center\, Portland\, OR
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Moda Center\, Portland\, OR\nUn
+ official calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910876@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270403T003000Z
+DTEND:20270403T030000Z
+SUMMARY:Grizzlies @ Rockets
+LOCATION:Toyota Center (Houston)\, Houston\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Toyota Center (Houston)\, Houst
+ on\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910888@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270404T200000Z
+DTEND:20270404T223000Z
+SUMMARY:Bulls @ Rockets
+LOCATION:Toyota Center (Houston)\, Houston\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Toyota Center (Houston)\, Houst
+ on\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910915@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270408T003000Z
+DTEND:20270408T030000Z
+SUMMARY:Kings @ Rockets
+LOCATION:Toyota Center (Houston)\, Houston\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Toyota Center (Houston)\, Houst
+ on\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910931@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270410T003000Z
+DTEND:20270410T030000Z
+SUMMARY:Trail Blazers @ Rockets
+LOCATION:Toyota Center (Houston)\, Houston\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Toyota Center (Houston)\, Houst
+ on\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910946@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270412T003000Z
+DTEND:20270412T030000Z
+SUMMARY:Rockets @ Timberwolves
+LOCATION:Target Center\, Minneapolis\, MN
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Target Center\, Minneapolis\, M
+ N\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
+ ange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

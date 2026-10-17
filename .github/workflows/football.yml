@@ -10,7 +10,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: football-calendars
+  group: calendars   # shared with basketball so the two jobs never push at once
   cancel-in-progress: false
 
 jobs:

@@ -1,0 +1,1044 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jaxzn//NBA Calendars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:New York Knicks
+X-WR-CALDESC:New York Knicks NBA schedule (unofficial\, auto-updated)
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:espn-401909089@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261020T230000Z
+DTEND:20261021T013000Z
+SUMMARY:76ers @ Knicks (NBC)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: Madison Square Garden\, New Yor
+ k\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909095@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261023T230000Z
+DTEND:20261024T013000Z
+SUMMARY:Knicks @ Celtics (Prime Video)
+LOCATION:TD Garden\, Boston\, MA
+DESCRIPTION:Regular Season\nTV: Prime Video\nVenue: TD Garden\, Boston\, MA
+ \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909863@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261025T230000Z
+DTEND:20261026T013000Z
+SUMMARY:Magic @ Knicks
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Madison Square Garden\, New Yor
+ k\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909878@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261028T000000Z
+DTEND:20261028T023000Z
+SUMMARY:Pistons @ Knicks (NBC)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: Madison Square Garden\, New Yor
+ k\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909886@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261029T000000Z
+DTEND:20261029T023000Z
+SUMMARY:Knicks @ Bulls
+LOCATION:United Center\, Chicago\, IL
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: United Center\, Chicago\, IL\nU
+ nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909280@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261030T233000Z
+DTEND:20261031T020000Z
+SUMMARY:Knicks @ 76ers (Prime Video)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:NBA Cup - Group Play\nTV: Prime Video\nVenue: Xfinity Mobile Ar
+ ena\, Philadelphia\, PA\nUnofficial calendar\; not affiliated with the NBA
+  or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909910@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261103T003000Z
+DTEND:20261103T030000Z
+SUMMARY:Nets @ Knicks
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Madison Square Garden\, New Yor
+ k\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909926@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261105T003000Z
+DTEND:20261105T030000Z
+SUMMARY:Bulls @ Knicks
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Madison Square Garden\, New Yor
+ k\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909940@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261108T010000Z
+DTEND:20261108T033000Z
+SUMMARY:Knicks @ Cavaliers (NBA TV)
+LOCATION:Rocket Arena\, Cleveland\, OH
+DESCRIPTION:Regular Season\nTV: NBA TV\nVenue: Rocket Arena\, Cleveland\, O
+ H\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
+ ange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909960@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261111T003000Z
+DTEND:20261111T030000Z
+SUMMARY:Bucks @ Knicks
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Madison Square Garden\, New Yor
+ k\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909967@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261112T000000Z
+DTEND:20261112T023000Z
+SUMMARY:Cavaliers @ Knicks (ESPN)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Madison Square Garden\, New Yo
+ rk\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909296@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261114T000000Z
+DTEND:20261114T023000Z
+SUMMARY:Knicks @ Pacers (Prime Video)
+LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
+DESCRIPTION:NBA Cup - Group Play\nTV: Prime Video\nVenue: Gainbridge Fieldh
+ ouse\, Indianapolis\, IN\nUnofficial calendar\; not affiliated with the NB
+ A or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909990@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261115T230000Z
+DTEND:20261116T013000Z
+SUMMARY:Knicks @ Raptors
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Scotiabank Arena\, Toronto\, ON
+ \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910002@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261118T003000Z
+DTEND:20261118T030000Z
+SUMMARY:Knicks @ Raptors
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Scotiabank Arena\, Toronto\, ON
+ \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910021@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261120T010000Z
+DTEND:20261120T033000Z
+SUMMARY:Knicks @ Timberwolves (NBA TV)
+LOCATION:Target Center\, Minneapolis\, MN
+DESCRIPTION:Regular Season\nTV: NBA TV\nVenue: Target Center\, Minneapolis\
+ , MN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910024@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261122T003000Z
+DTEND:20261122T030000Z
+SUMMARY:Trail Blazers @ Knicks (NBA TV)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: NBA TV\nVenue: Madison Square Garden\, New 
+ York\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
+ s may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910034@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261123T010000Z
+DTEND:20261123T033000Z
+SUMMARY:Pacers @ Knicks
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Madison Square Garden\, New Yor
+ k\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909319@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261126T003000Z
+DTEND:20261126T030000Z
+SUMMARY:Cavaliers @ Knicks
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:NBA Cup - Group Play\nTV: TBD\nVenue: Madison Square Garden\, N
+ ew York\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
+ imes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909326@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261128T000000Z
+DTEND:20261128T023000Z
+SUMMARY:Heat @ Knicks (Prime Video)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:NBA Cup - Group Play\nTV: Prime Video\nVenue: Madison Square Ga
+ rden\, New York\, NY\nUnofficial calendar\; not affiliated with the NBA or
+  ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910056@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261129T230000Z
+DTEND:20261130T013000Z
+SUMMARY:Hawks @ Knicks
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Madison Square Garden\, New Yor
+ k\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910071@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261202T010000Z
+DTEND:20261202T033000Z
+SUMMARY:Knicks @ Bulls (NBC)
+LOCATION:United Center\, Chicago\, IL
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: United Center\, Chicago\, IL\nU
+ nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910080@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261203T010000Z
+DTEND:20261203T033000Z
+SUMMARY:Knicks @ Bucks
+LOCATION:Fiserv Forum\, Milwaukee\, WI
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Fiserv Forum\, Milwaukee\, WI\n
+ Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910094@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261213T013000Z
+DTEND:20261213T040000Z
+SUMMARY:Knicks @ Heat (ABC)
+LOCATION:Kaseya Center\, Miami\, FL
+DESCRIPTION:Regular Season\nTV: ABC\nVenue: Kaseya Center\, Miami\, FL\nUno
+ fficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910111@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261215T013000Z
+DTEND:20261215T040000Z
+SUMMARY:Knicks @ Rockets
+LOCATION:Toyota Center (Houston)\, Houston\, TX
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Toyota Center (Houston)\, Houst
+ on\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910126@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261217T010000Z
+DTEND:20261217T033000Z
+SUMMARY:Knicks @ Pelicans
+LOCATION:Smoothie King Center\, New Orleans\, LA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Smoothie King Center\, New Orle
+ ans\, LA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
+  may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910135@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261219T000000Z
+DTEND:20261219T023000Z
+SUMMARY:Knicks @ Wizards (MNMT)
+LOCATION:Capital One Arena\, Washington\, DC
+DESCRIPTION:Regular Season\nTV: MNMT\nVenue: Capital One Arena\, Washington
+ \, DC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
+ y change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910160@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261222T000000Z
+DTEND:20261222T023000Z
+SUMMARY:Knicks @ Cavaliers (NBCSN)
+LOCATION:Rocket Arena\, Cleveland\, OH
+DESCRIPTION:Regular Season\nTV: NBCSN\nVenue: Rocket Arena\, Cleveland\, OH
+ \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910178@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261224T003000Z
+DTEND:20261224T030000Z
+SUMMARY:Jazz @ Knicks
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Madison Square Garden\, New Yor
+ k\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909097@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261225T170000Z
+DTEND:20261225T193000Z
+SUMMARY:Spurs @ Knicks (ABC / ESPN)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: ABC / ESPN\nVenue: Madison Square Garden\, 
+ New York\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. 
+ Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910198@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261227T230000Z
+DTEND:20261228T013000Z
+SUMMARY:Nets @ Knicks
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Madison Square Garden\, New Yor
+ k\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910224@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20261231T020000Z
+DTEND:20261231T043000Z
+SUMMARY:Knicks @ Jazz
+LOCATION:Delta Center\, Salt Lake City\, UT
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Delta Center\, Salt Lake City\,
+  UT\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910234@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270101T020000Z
+DTEND:20270101T043000Z
+SUMMARY:Knicks @ Suns (NBA TV)
+LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
+DESCRIPTION:Regular Season\nTV: NBA TV\nVenue: Mortgage Matchup Center\, Ph
+ oenix\, AZ\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
+ es may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910242@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270102T220000Z
+DTEND:20270103T003000Z
+SUMMARY:Knicks @ Nuggets (NBA TV)
+LOCATION:Ball Arena\, Denver\, CO
+DESCRIPTION:Regular Season\nTV: NBA TV\nVenue: Ball Arena\, Denver\, CO\nUn
+ official calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910264@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270105T030000Z
+DTEND:20270105T053000Z
+SUMMARY:Knicks @ Trail Blazers
+LOCATION:Moda Center\, Portland\, OR
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Moda Center\, Portland\, OR\nUn
+ official calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910278@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270107T030000Z
+DTEND:20270107T053000Z
+SUMMARY:Knicks @ Warriors (ESPN)
+LOCATION:Chase Center\, San Francisco\, CA
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Chase Center\, San Francisco\,
+  CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910298@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270109T030000Z
+DTEND:20270109T053000Z
+SUMMARY:Knicks @ Kings
+LOCATION:Golden 1 Center\, Sacramento\, CA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Golden 1 Center\, Sacramento\, 
+ CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
+ hange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910316@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270112T003000Z
+DTEND:20270112T030000Z
+SUMMARY:Nuggets @ Knicks (NBCSN)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: NBCSN\nVenue: Madison Square Garden\, New Y
+ ork\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
+  may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910328@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270114T000000Z
+DTEND:20270114T023000Z
+SUMMARY:Knicks @ Celtics (ESPN)
+LOCATION:TD Garden\, Boston\, MA
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: TD Garden\, Boston\, MA\nUnoff
+ icial calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910337@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270115T003000Z
+DTEND:20270115T030000Z
+SUMMARY:Heat @ Knicks (NBA TV)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: NBA TV\nVenue: Madison Square Garden\, New 
+ York\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
+ s may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910353@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270117T003000Z
+DTEND:20270117T030000Z
+SUMMARY:Mavericks @ Knicks (NBA TV)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: NBA TV\nVenue: Madison Square Garden\, New 
+ York\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
+ s may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909475@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270118T220000Z
+DTEND:20270119T003000Z
+SUMMARY:Timberwolves @ Knicks (NBC)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: Madison Square Garden\, New Yor
+ k\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910378@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270121T003000Z
+DTEND:20270121T030000Z
+SUMMARY:Raptors @ Knicks
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Madison Square Garden\, New Yor
+ k\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910389@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270123T000000Z
+DTEND:20270123T023000Z
+SUMMARY:Knicks @ Hawks (ESPN)
+LOCATION:State Farm Arena\, Atlanta\, GA
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: State Farm Arena\, Atlanta\, G
+ A\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
+ ange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910411@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270125T000000Z
+DTEND:20270125T023000Z
+SUMMARY:Clippers @ Knicks
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Madison Square Garden\, New Yor
+ k\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910423@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270127T003000Z
+DTEND:20270127T030000Z
+SUMMARY:Suns @ Knicks
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Madison Square Garden\, New Yor
+ k\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910438@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270129T000000Z
+DTEND:20270129T023000Z
+SUMMARY:Hawks @ Knicks (Prime Video)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: Prime Video\nVenue: Madison Square Garden\,
+  New York\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN.
+  Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910457@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270131T013000Z
+DTEND:20270131T040000Z
+SUMMARY:Lakers @ Knicks (ABC)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: ABC\nVenue: Madison Square Garden\, New Yor
+ k\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910469@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270202T003000Z
+DTEND:20270202T030000Z
+SUMMARY:Knicks @ Nets
+LOCATION:Barclays Center\, Brooklyn\, NY
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Barclays Center\, Brooklyn\, NY
+ \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910482@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270204T000000Z
+DTEND:20270204T023000Z
+SUMMARY:Knicks @ Pistons (ESPN)
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Little Caesars Arena\, Detroit
+ \, MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
+ y change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910492@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270205T003000Z
+DTEND:20270205T030000Z
+SUMMARY:Raptors @ Knicks
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Madison Square Garden\, New Yor
+ k\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910519@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270208T023000Z
+DTEND:20270208T050000Z
+SUMMARY:Knicks @ Thunder (NBC)
+LOCATION:Paycom Center\, Oklahoma City\, OK
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: Paycom Center\, Oklahoma City\,
+  OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910531@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270210T003000Z
+DTEND:20270210T030000Z
+SUMMARY:Hornets @ Knicks
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Madison Square Garden\, New Yor
+ k\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910547@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270212T000000Z
+DTEND:20270212T023000Z
+SUMMARY:Knicks @ 76ers (Prime Video)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: Prime Video\nVenue: Xfinity Mobile Arena\, 
+ Philadelphia\, PA\nUnofficial calendar\; not affiliated with the NBA or ES
+ PN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910566@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270214T013000Z
+DTEND:20270214T040000Z
+SUMMARY:Warriors @ Knicks (ABC)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: ABC\nVenue: Madison Square Garden\, New Yor
+ k\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910575@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270216T010000Z
+DTEND:20270216T033000Z
+SUMMARY:Knicks @ Grizzlies
+LOCATION:FedExForum\, Memphis\, TN
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: FedExForum\, Memphis\, TN\nUnof
+ ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910585@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270218T000000Z
+DTEND:20270218T023000Z
+SUMMARY:Knicks @ Pistons (ESPN)
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Little Caesars Arena\, Detroit
+ \, MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
+ y change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910604@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270226T003000Z
+DTEND:20270226T030000Z
+SUMMARY:Thunder @ Knicks (Prime Video)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: Prime Video\nVenue: Madison Square Garden\,
+  New York\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN.
+  Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910621@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270228T013000Z
+DTEND:20270228T040000Z
+SUMMARY:76ers @ Knicks (ABC)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: ABC\nVenue: Madison Square Garden\, New Yor
+ k\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910629@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270301T003000Z
+DTEND:20270301T030000Z
+SUMMARY:Bucks @ Knicks
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Madison Square Garden\, New Yor
+ k\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910641@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270303T003000Z
+DTEND:20270303T030000Z
+SUMMARY:Grizzlies @ Knicks
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Madison Square Garden\, New Yor
+ k\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910658@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270305T023000Z
+DTEND:20270305T050000Z
+SUMMARY:Knicks @ Mavericks (Prime Video)
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:Regular Season\nTV: Prime Video\nVenue: American Airlines Cente
+ r\, Dallas\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN
+ . Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910678@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270308T003000Z
+DTEND:20270308T030000Z
+SUMMARY:Knicks @ Spurs (NBC)
+LOCATION:Frost Bank Center\, San Antonio\, TX
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: Frost Bank Center\, San Antonio
+ \, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
+ y change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910703@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270311T033000Z
+DTEND:20270311T060000Z
+SUMMARY:Knicks @ Clippers
+LOCATION:Intuit Dome\, Inglewood\, CA
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Intuit Dome\, Inglewood\, CA\nU
+ nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
+ .
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910711@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270312T030000Z
+DTEND:20270312T053000Z
+SUMMARY:Knicks @ Lakers (Prime Video)
+LOCATION:crypto.com Arena\, Los Angeles\, CA
+DESCRIPTION:Regular Season\nTV: Prime Video\nVenue: crypto.com Arena\, Los 
+ Angeles\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
+ imes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910727@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270314T160000Z
+DTEND:20270314T183000Z
+SUMMARY:Celtics @ Knicks (ABC)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: ABC\nVenue: Madison Square Garden\, New Yor
+ k\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910739@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270316T230000Z
+DTEND:20270317T013000Z
+SUMMARY:Knicks @ Wizards
+LOCATION:Capital One Arena\, Washington\, DC
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Capital One Arena\, Washington\
+ , DC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910750@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270317T233000Z
+DTEND:20270318T020000Z
+SUMMARY:Kings @ Knicks
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Madison Square Garden\, New Yor
+ k\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910772@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270320T170000Z
+DTEND:20270320T193000Z
+SUMMARY:Wizards @ Knicks
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Madison Square Garden\, New Yor
+ k\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910795@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270323T233000Z
+DTEND:20270324T020000Z
+SUMMARY:Pelicans @ Knicks
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Madison Square Garden\, New Yor
+ k\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910804@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270324T233000Z
+DTEND:20270325T020000Z
+SUMMARY:Rockets @ Knicks
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Madison Square Garden\, New Yor
+ k\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910818@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270326T230000Z
+DTEND:20270327T013000Z
+SUMMARY:Knicks @ Hornets (NBA TV)
+LOCATION:Spectrum Center\, Charlotte\, NC
+DESCRIPTION:Regular Season\nTV: NBA TV\nVenue: Spectrum Center\, Charlotte\
+ , NC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910831@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270328T163000Z
+DTEND:20270328T190000Z
+SUMMARY:Knicks @ Magic (ESPN)
+LOCATION:Kia Center\, Orlando\, FL
+DESCRIPTION:Regular Season\nTV: ESPN\nVenue: Kia Center\, Orlando\, FL\nUno
+ fficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910850@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270331T000000Z
+DTEND:20270331T023000Z
+SUMMARY:Knicks @ Magic (NBC)
+LOCATION:Kia Center\, Orlando\, FL
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: Kia Center\, Orlando\, FL\nUnof
+ ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910866@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270401T233000Z
+DTEND:20270402T020000Z
+SUMMARY:Hornets @ Knicks
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Madison Square Garden\, New Yor
+ k\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910870@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270402T233000Z
+DTEND:20270403T020000Z
+SUMMARY:Knicks @ Nets
+LOCATION:Barclays Center\, Brooklyn\, NY
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Barclays Center\, Brooklyn\, NY
+ \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910893@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270404T233000Z
+DTEND:20270405T020000Z
+SUMMARY:Celtics @ Knicks (NBC)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: Madison Square Garden\, New Yor
+ k\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910900@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270407T000000Z
+DTEND:20270407T023000Z
+SUMMARY:Knicks @ Hawks (NBC)
+LOCATION:State Farm Arena\, Atlanta\, GA
+DESCRIPTION:Regular Season\nTV: NBC\nVenue: State Farm Arena\, Atlanta\, GA
+ \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
+ nge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910919@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270409T000000Z
+DTEND:20270409T023000Z
+SUMMARY:Knicks @ Bucks
+LOCATION:Fiserv Forum\, Milwaukee\, WI
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Fiserv Forum\, Milwaukee\, WI\n
+ Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
+ e.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910926@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270409T230000Z
+DTEND:20270410T013000Z
+SUMMARY:Pistons @ Knicks (Prime Video)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: Prime Video\nVenue: Madison Square Garden\,
+  New York\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN.
+  Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910941@nba-calendars
+DTSTAMP:20261017T193156Z
+DTSTART:20270411T220000Z
+DTEND:20270412T003000Z
+SUMMARY:Pacers @ Knicks
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Madison Square Garden\, New Yor
+ k\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

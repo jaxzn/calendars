@@ -1,0 +1,233 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jaxzn//NFL Calendars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Los Angeles Rams 2026
+X-WR-CALDESC:Los Angeles Rams 2026 NFL schedule (unofficial\, auto-updated)
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:espn-401872657@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260911T003500Z
+DTEND:20260911T033500Z
+SUMMARY:49ers @ Rams (Netflix)
+LOCATION:Melbourne Cricket Ground\, Melbourne\, VIC
+DESCRIPTION:Week 1\nTV: Netflix\nVenue: Melbourne Cricket Ground\, Melbourn
+ e\, VIC\nFinal: 49ers 27\, Rams 7\nUnofficial calendar\; not affiliated wi
+ th the NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872947@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260922T001500Z
+DTEND:20260922T031500Z
+SUMMARY:Giants @ Rams (ESPN / ABC)
+LOCATION:SoFi Stadium\, Inglewood\, CA
+DESCRIPTION:Week 2\nTV: ESPN / ABC\nVenue: SoFi Stadium\, Inglewood\, CA\nF
+ inal: Giants 6\, Rams 28\nUnofficial calendar\; not affiliated with the NF
+ L or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872962@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260928T002000Z
+DTEND:20260928T032000Z
+SUMMARY:Rams @ Broncos (NBC)
+LOCATION:Empower Field at Mile High\, Denver\, CO
+DESCRIPTION:Week 3\nTV: NBC\nVenue: Empower Field at Mile High\, Denver\, C
+ O\nFinal: Rams 26\, Broncos 30\nUnofficial calendar\; not affiliated with 
+ the NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872970@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261004T170000Z
+DTEND:20261004T200000Z
+SUMMARY:Rams @ Eagles (Fox)
+LOCATION:Lincoln Financial Field\, Philadelphia\, PA
+DESCRIPTION:Week 4\nTV: Fox\nVenue: Lincoln Financial Field\, Philadelphia\
+ , PA\nFinal: Rams 24\, Eagles 20\nUnofficial calendar\; not affiliated wit
+ h the NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872994@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261013T001500Z
+DTEND:20261013T031500Z
+SUMMARY:Bills @ Rams (ESPN / ABC)
+LOCATION:SoFi Stadium\, Inglewood\, CA
+DESCRIPTION:Week 5\nTV: ESPN / ABC\nVenue: SoFi Stadium\, Inglewood\, CA\nF
+ inal: Bills 37\, Rams 34\nUnofficial calendar\; not affiliated with the NF
+ L or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873004@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261018T200500Z
+DTEND:20261018T230500Z
+SUMMARY:Cardinals @ Rams (Fox)
+LOCATION:SoFi Stadium\, Inglewood\, CA
+DESCRIPTION:Week 6\nTV: Fox\nVenue: SoFi Stadium\, Inglewood\, CA\nUnoffici
+ al calendar\; not affiliated with the NFL or ESPN. Times may change (flex 
+ scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873021@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261025T202500Z
+DTEND:20261025T232500Z
+SUMMARY:Rams @ Raiders (Fox)
+LOCATION:Allegiant Stadium\, Las Vegas\, NV
+DESCRIPTION:Week 7\nTV: Fox\nVenue: Allegiant Stadium\, Las Vegas\, NV\nUno
+ fficial calendar\; not affiliated with the NFL or ESPN. Times may change (
+ flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873032@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261101T210500Z
+DTEND:20261102T000500Z
+SUMMARY:Chargers @ Rams (Fox)
+LOCATION:SoFi Stadium\, Inglewood\, CA
+DESCRIPTION:Week 8\nTV: Fox\nVenue: SoFi Stadium\, Inglewood\, CA\nUnoffici
+ al calendar\; not affiliated with the NFL or ESPN. Times may change (flex 
+ scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873043@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261108T180000Z
+DTEND:20261108T210000Z
+SUMMARY:Rams @ Commanders (Fox)
+LOCATION:Northwest Stadium\, Landover\, MD
+DESCRIPTION:Week 9\nTV: Fox\nVenue: Northwest Stadium\, Landover\, MD\nUnof
+ ficial calendar\; not affiliated with the NFL or ESPN. Times may change (f
+ lex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873061@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261115T210500Z
+DTEND:20261116T000500Z
+SUMMARY:Rams @ Cardinals (CBS)
+LOCATION:State Farm Stadium\, Glendale\, AZ
+DESCRIPTION:Week 10\nTV: CBS\nVenue: State Farm Stadium\, Glendale\, AZ\nUn
+ official calendar\; not affiliated with the NFL or ESPN. Times may change 
+ (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873079@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261126T010000Z
+DTEND:20261126T040000Z
+SUMMARY:Packers @ Rams (Netflix)
+LOCATION:SoFi Stadium\, Inglewood\, CA
+DESCRIPTION:Week 12\nTV: Netflix\nVenue: SoFi Stadium\, Inglewood\, CA\nUno
+ fficial calendar\; not affiliated with the NFL or ESPN. Times may change (
+ flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873096@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261204T011500Z
+DTEND:20261204T041500Z
+SUMMARY:Chiefs @ Rams (Prime Video)
+LOCATION:SoFi Stadium\, Inglewood\, CA
+DESCRIPTION:Week 13\nTV: Prime Video\nVenue: SoFi Stadium\, Inglewood\, CA\
+ nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may chan
+ ge (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873120@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261213T212500Z
+DTEND:20261214T002500Z
+SUMMARY:Rams @ 49ers (Fox)
+LOCATION:Levi's Stadium\, Santa Clara\, CA
+DESCRIPTION:Week 14\nTV: Fox\nVenue: Levi's Stadium\, Santa Clara\, CA\nUno
+ fficial calendar\; not affiliated with the NFL or ESPN. Times may change (
+ flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873136@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261220T212500Z
+DTEND:20261221T002500Z
+SUMMARY:Cowboys @ Rams (CBS)
+LOCATION:SoFi Stadium\, Inglewood\, CA
+DESCRIPTION:Week 15\nTV: CBS\nVenue: SoFi Stadium\, Inglewood\, CA\nUnoffic
+ ial calendar\; not affiliated with the NFL or ESPN. Times may change (flex
+  scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873143@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261226T011500Z
+DTEND:20261226T041500Z
+SUMMARY:Rams @ Seahawks (Fox)
+LOCATION:Lumen Field\, Seattle\, WA
+DESCRIPTION:Week 16\nTV: Fox\nVenue: Lumen Field\, Seattle\, WA\nUnofficial
+  calendar\; not affiliated with the NFL or ESPN. Times may change (flex sc
+ heduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873159@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:Rams @ Buccaneers
+LOCATION:Raymond James Stadium\, Tampa\, FL
+DESCRIPTION:Week 17\nTV: TBD\nVenue: Raymond James Stadium\, Tampa\, FL\nDa
+ te/time not yet set by the NFL\; this is a placeholder.\nUnofficial calend
+ ar\; not affiliated with the NFL or ESPN. Times may change (flex schedulin
+ g).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873185@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Seahawks @ Rams
+LOCATION:SoFi Stadium\, Inglewood\, CA
+DESCRIPTION:Week 18\nTV: TBD\nVenue: SoFi Stadium\, Inglewood\, CA\nDate/ti
+ me not yet set by the NFL\; this is a placeholder.\nUnofficial calendar\; 
+ not affiliated with the NFL or ESPN. Times may change (flex scheduling).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

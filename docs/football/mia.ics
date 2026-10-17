@@ -1,0 +1,233 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jaxzn//NFL Calendars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Miami Dolphins 2026
+X-WR-CALDESC:Miami Dolphins 2026 NFL schedule (unofficial\, auto-updated)
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:espn-401872928@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260913T202500Z
+DTEND:20260913T232500Z
+SUMMARY:Dolphins @ Raiders (Fox)
+LOCATION:Allegiant Stadium\, Las Vegas\, NV
+DESCRIPTION:Week 1\nTV: Fox\nVenue: Allegiant Stadium\, Las Vegas\, NV\nFin
+ al: Dolphins 13\, Raiders 27\nUnofficial calendar\; not affiliated with th
+ e NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872942@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260920T202500Z
+DTEND:20260920T232500Z
+SUMMARY:Dolphins @ 49ers (Fox)
+LOCATION:Levi's Stadium\, Santa Clara\, CA
+DESCRIPTION:Week 2\nTV: Fox\nVenue: Levi's Stadium\, Santa Clara\, CA\nFina
+ l: Dolphins 13\, 49ers 35\nUnofficial calendar\; not affiliated with the N
+ FL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872952@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260927T170000Z
+DTEND:20260927T200000Z
+SUMMARY:Chiefs @ Dolphins (CBS)
+LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
+DESCRIPTION:Week 3\nTV: CBS\nVenue: Hard Rock Stadium\, Miami Gardens\, FL\
+ nFinal: Chiefs 24\, Dolphins 10\nUnofficial calendar\; not affiliated with
+  the NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872974@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261004T200500Z
+DTEND:20261004T230500Z
+SUMMARY:Dolphins @ Vikings (Fox)
+LOCATION:U.S. Bank Stadium\, Minneapolis\, MN
+DESCRIPTION:Week 4\nTV: Fox\nVenue: U.S. Bank Stadium\, Minneapolis\, MN\nF
+ inal: Dolphins 10\, Vikings 15\nUnofficial calendar\; not affiliated with 
+ the NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872982@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261011T170000Z
+DTEND:20261011T200000Z
+SUMMARY:Bengals @ Dolphins (Fox)
+LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
+DESCRIPTION:Week 5\nTV: Fox\nVenue: Hard Rock Stadium\, Miami Gardens\, FL\
+ nFinal: Bengals 31\, Dolphins 24\nUnofficial calendar\; not affiliated wit
+ h the NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873015@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261025T170000Z
+DTEND:20261025T200000Z
+SUMMARY:Dolphins @ Jets (CBS)
+LOCATION:MetLife Stadium\, East Rutherford\, NJ
+DESCRIPTION:Week 7\nTV: CBS\nVenue: MetLife Stadium\, East Rutherford\, NJ\
+ nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may chan
+ ge (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873034@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261101T212500Z
+DTEND:20261102T002500Z
+SUMMARY:Patriots @ Dolphins (CBS)
+LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
+DESCRIPTION:Week 8\nTV: CBS\nVenue: Hard Rock Stadium\, Miami Gardens\, FL\
+ nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may chan
+ ge (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873042@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261108T180000Z
+DTEND:20261108T210000Z
+SUMMARY:Lions @ Dolphins (Fox)
+LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
+DESCRIPTION:Week 9\nTV: Fox\nVenue: Hard Rock Stadium\, Miami Gardens\, FL\
+ nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may chan
+ ge (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873059@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261115T180000Z
+DTEND:20261115T210000Z
+SUMMARY:Dolphins @ Colts (CBS)
+LOCATION:Lucas Oil Stadium\, Indianapolis\, IN
+DESCRIPTION:Week 10\nTV: CBS\nVenue: Lucas Oil Stadium\, Indianapolis\, IN\
+ nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may chan
+ ge (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873070@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261122T180000Z
+DTEND:20261122T210000Z
+SUMMARY:Dolphins @ Bills (Fox)
+LOCATION:Highmark Stadium\, Orchard Park\, NY
+DESCRIPTION:Week 11\nTV: Fox\nVenue: Highmark Stadium\, Orchard Park\, NY\n
+ Unofficial calendar\; not affiliated with the NFL or ESPN. Times may chang
+ e (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873089@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261129T180000Z
+DTEND:20261129T210000Z
+SUMMARY:Jets @ Dolphins (CBS)
+LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
+DESCRIPTION:Week 12\nTV: CBS\nVenue: Hard Rock Stadium\, Miami Gardens\, FL
+ \nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may cha
+ nge (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873103@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261206T210500Z
+DTEND:20261207T000500Z
+SUMMARY:Dolphins @ Broncos (Fox)
+LOCATION:Empower Field at Mile High\, Denver\, CO
+DESCRIPTION:Week 13\nTV: Fox\nVenue: Empower Field at Mile High\, Denver\, 
+ CO\nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may c
+ hange (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873111@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261213T180000Z
+DTEND:20261213T210000Z
+SUMMARY:Bears @ Dolphins (CBS)
+LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
+DESCRIPTION:Week 14\nTV: CBS\nVenue: Hard Rock Stadium\, Miami Gardens\, FL
+ \nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may cha
+ nge (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873133@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261220T180000Z
+DTEND:20261220T210000Z
+SUMMARY:Dolphins @ Packers (Fox)
+LOCATION:Lambeau Field\, Green Bay\, WI
+DESCRIPTION:Week 15\nTV: Fox\nVenue: Lambeau Field\, Green Bay\, WI\nUnoffi
+ cial calendar\; not affiliated with the NFL or ESPN. Times may change (fle
+ x scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873150@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261227T180000Z
+DTEND:20261227T210000Z
+SUMMARY:Chargers @ Dolphins (Fox)
+LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
+DESCRIPTION:Week 16\nTV: Fox\nVenue: Hard Rock Stadium\, Miami Gardens\, FL
+ \nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may cha
+ nge (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873161@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20270103T180000Z
+DTEND:20270103T210000Z
+SUMMARY:Bills @ Dolphins (CBS)
+LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
+DESCRIPTION:Week 17\nTV: CBS\nVenue: Hard Rock Stadium\, Miami Gardens\, FL
+ \nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may cha
+ nge (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873180@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Dolphins @ Patriots
+LOCATION:Gillette Stadium\, Foxborough\, MA
+DESCRIPTION:Week 18\nTV: TBD\nVenue: Gillette Stadium\, Foxborough\, MA\nDa
+ te/time not yet set by the NFL\; this is a placeholder.\nUnofficial calend
+ ar\; not affiliated with the NFL or ESPN. Times may change (flex schedulin
+ g).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

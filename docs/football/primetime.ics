@@ -1,0 +1,962 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jaxzn//NFL Calendars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NFL Prime Time 2026
+X-WR-CALDESC:NFL 2026 prime-time and national-window games plus playoffs (u
+ nofficial\, auto-updated)
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:espn-401872656@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260910T002000Z
+DTEND:20260910T032000Z
+SUMMARY:Patriots @ Seahawks (NBC)
+LOCATION:Lumen Field\, Seattle\, WA
+DESCRIPTION:Week 1\nTV: NBC\nVenue: Lumen Field\, Seattle\, WA\nFinal: Patr
+ iots 10\, Seahawks 13\nUnofficial calendar\; not affiliated with the NFL o
+ r ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872657@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260911T003500Z
+DTEND:20260911T033500Z
+SUMMARY:49ers @ Rams (Netflix)
+LOCATION:Melbourne Cricket Ground\, Melbourne\, VIC
+DESCRIPTION:Week 1\nTV: Netflix\nVenue: Melbourne Cricket Ground\, Melbourn
+ e\, VIC\nFinal: 49ers 27\, Rams 7\nUnofficial calendar\; not affiliated wi
+ th the NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872930@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260914T002000Z
+DTEND:20260914T032000Z
+SUMMARY:Cowboys @ Giants (NBC)
+LOCATION:MetLife Stadium\, East Rutherford\, NJ
+DESCRIPTION:Week 1\nTV: NBC\nVenue: MetLife Stadium\, East Rutherford\, NJ\
+ nFinal: Cowboys 20\, Giants 28\nUnofficial calendar\; not affiliated with 
+ the NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872931@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260915T001500Z
+DTEND:20260915T031500Z
+SUMMARY:Broncos @ Chiefs (ESPN / ABC)
+LOCATION:Arrowhead Stadium\, Kansas City\, MO
+DESCRIPTION:Week 1\nTV: ESPN / ABC\nVenue: Arrowhead Stadium\, Kansas City\
+ , MO\nFinal: Broncos 10\, Chiefs 31\nUnofficial calendar\; not affiliated 
+ with the NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872932@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260918T001500Z
+DTEND:20260918T031500Z
+SUMMARY:Lions @ Bills (Prime Video)
+LOCATION:Highmark Stadium\, Orchard Park\, NY
+DESCRIPTION:Week 2\nTV: Prime Video\nVenue: Highmark Stadium\, Orchard Park
+ \, NY\nFinal: Lions 31\, Bills 41\nUnofficial calendar\; not affiliated wi
+ th the NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872945@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260921T002000Z
+DTEND:20260921T032000Z
+SUMMARY:Colts @ Chiefs (NBC)
+LOCATION:Arrowhead Stadium\, Kansas City\, MO
+DESCRIPTION:Week 2\nTV: NBC\nVenue: Arrowhead Stadium\, Kansas City\, MO\nF
+ inal: Colts 30\, Chiefs 33\nUnofficial calendar\; not affiliated with the 
+ NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872947@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260922T001500Z
+DTEND:20260922T031500Z
+SUMMARY:Giants @ Rams (ESPN / ABC)
+LOCATION:SoFi Stadium\, Inglewood\, CA
+DESCRIPTION:Week 2\nTV: ESPN / ABC\nVenue: SoFi Stadium\, Inglewood\, CA\nF
+ inal: Giants 6\, Rams 28\nUnofficial calendar\; not affiliated with the NF
+ L or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872948@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260925T001500Z
+DTEND:20260925T031500Z
+SUMMARY:Falcons @ Packers (Prime Video)
+LOCATION:Lambeau Field\, Green Bay\, WI
+DESCRIPTION:Week 3\nTV: Prime Video\nVenue: Lambeau Field\, Green Bay\, WI\
+ nFinal: Falcons 35\, Packers 14\nUnofficial calendar\; not affiliated with
+  the NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872962@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260928T002000Z
+DTEND:20260928T032000Z
+SUMMARY:Rams @ Broncos (NBC)
+LOCATION:Empower Field at Mile High\, Denver\, CO
+DESCRIPTION:Week 3\nTV: NBC\nVenue: Empower Field at Mile High\, Denver\, C
+ O\nFinal: Rams 26\, Broncos 30\nUnofficial calendar\; not affiliated with 
+ the NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872963@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260929T001500Z
+DTEND:20260929T031500Z
+SUMMARY:Eagles @ Bears (ESPN / ABC)
+LOCATION:Soldier Field\, Chicago\, IL
+DESCRIPTION:Week 3\nTV: ESPN / ABC\nVenue: Soldier Field\, Chicago\, IL\nFi
+ nal: Eagles 7\, Bears 27\nUnofficial calendar\; not affiliated with the NF
+ L or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872964@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261002T001500Z
+DTEND:20261002T031500Z
+SUMMARY:Steelers @ Browns (Prime Video)
+LOCATION:Huntington Bank Field\, Cleveland\, OH
+DESCRIPTION:Week 4\nTV: Prime Video\nVenue: Huntington Bank Field\, Clevela
+ nd\, OH\nFinal: Steelers 24\, Browns 27\nUnofficial calendar\; not affilia
+ ted with the NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872978@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261005T002000Z
+DTEND:20261005T032000Z
+SUMMARY:Lions @ Panthers (NBC)
+LOCATION:Bank of America Stadium\, Charlotte\, NC
+DESCRIPTION:Week 4\nTV: NBC\nVenue: Bank of America Stadium\, Charlotte\, N
+ C\nFinal: Lions 26\, Panthers 32\nUnofficial calendar\; not affiliated wit
+ h the NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872979@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261006T001500Z
+DTEND:20261006T031500Z
+SUMMARY:Falcons @ Saints (ESPN)
+LOCATION:Caesars Superdome\, New Orleans\, LA
+DESCRIPTION:Week 4\nTV: ESPN\nVenue: Caesars Superdome\, New Orleans\, LA\n
+ Final: Falcons 45\, Saints 24\nUnofficial calendar\; not affiliated with t
+ he NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872980@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261009T001500Z
+DTEND:20261009T031500Z
+SUMMARY:Buccaneers @ Cowboys (Prime Video)
+LOCATION:AT&T Stadium\, Arlington\, TX
+DESCRIPTION:Week 5\nTV: Prime Video\nVenue: AT&T Stadium\, Arlington\, TX\n
+ Final: Buccaneers 24\, Cowboys 16\nUnofficial calendar\; not affiliated wi
+ th the NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872993@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261012T002000Z
+DTEND:20261012T032000Z
+SUMMARY:Ravens @ Falcons (NBC)
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
+DESCRIPTION:Week 5\nTV: NBC\nVenue: Mercedes-Benz Stadium\, Atlanta\, GA\nF
+ inal: Ravens 30\, Falcons 23\nUnofficial calendar\; not affiliated with th
+ e NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872994@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261013T001500Z
+DTEND:20261013T031500Z
+SUMMARY:Bills @ Rams (ESPN / ABC)
+LOCATION:SoFi Stadium\, Inglewood\, CA
+DESCRIPTION:Week 5\nTV: ESPN / ABC\nVenue: SoFi Stadium\, Inglewood\, CA\nF
+ inal: Bills 37\, Rams 34\nUnofficial calendar\; not affiliated with the NF
+ L or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872995@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261016T001500Z
+DTEND:20261016T031500Z
+SUMMARY:Seahawks @ Broncos (Prime Video)
+LOCATION:Empower Field at Mile High\, Denver\, CO
+DESCRIPTION:Week 6\nTV: Prime Video\nVenue: Empower Field at Mile High\, De
+ nver\, CO\nFinal: Seahawks 14\, Broncos 17\nUnofficial calendar\; not affi
+ liated with the NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873007@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261019T002000Z
+DTEND:20261019T032000Z
+SUMMARY:Cowboys @ Packers (NBC)
+LOCATION:Lambeau Field\, Green Bay\, WI
+DESCRIPTION:Week 6\nTV: NBC\nVenue: Lambeau Field\, Green Bay\, WI\nUnoffic
+ ial calendar\; not affiliated with the NFL or ESPN. Times may change (flex
+  scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873008@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261020T001500Z
+DTEND:20261020T031500Z
+SUMMARY:Commanders @ 49ers (ESPN / ABC)
+LOCATION:Levi's Stadium\, Santa Clara\, CA
+DESCRIPTION:Week 6\nTV: ESPN / ABC\nVenue: Levi's Stadium\, Santa Clara\, C
+ A\nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may ch
+ ange (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873010@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261023T001500Z
+DTEND:20261023T031500Z
+SUMMARY:Patriots @ Bears (Prime Video)
+LOCATION:Soldier Field\, Chicago\, IL
+DESCRIPTION:Week 7\nTV: Prime Video\nVenue: Soldier Field\, Chicago\, IL\nU
+ nofficial calendar\; not affiliated with the NFL or ESPN. Times may change
+  (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873022@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261026T002000Z
+DTEND:20261026T032000Z
+SUMMARY:Chiefs @ Seahawks (NBC)
+LOCATION:Lumen Field\, Seattle\, WA
+DESCRIPTION:Week 7\nTV: NBC\nVenue: Lumen Field\, Seattle\, WA\nUnofficial 
+ calendar\; not affiliated with the NFL or ESPN. Times may change (flex sch
+ eduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873009@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261027T001500Z
+DTEND:20261027T031500Z
+SUMMARY:Cowboys @ Eagles (ESPN / ABC / Disney+)
+LOCATION:Lincoln Financial Field\, Philadelphia\, PA
+DESCRIPTION:Week 7\nTV: ESPN / ABC / Disney+\nVenue: Lincoln Financial Fiel
+ d\, Philadelphia\, PA\nUnofficial calendar\; not affiliated with the NFL o
+ r ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873023@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261030T001500Z
+DTEND:20261030T031500Z
+SUMMARY:Panthers @ Packers (Prime Video)
+LOCATION:Lambeau Field\, Green Bay\, WI
+DESCRIPTION:Week 8\nTV: Prime Video\nVenue: Lambeau Field\, Green Bay\, WI\
+ nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may chan
+ ge (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873035@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261102T012000Z
+DTEND:20261102T042000Z
+SUMMARY:Eagles @ Commanders (NBC)
+LOCATION:Northwest Stadium\, Landover\, MD
+DESCRIPTION:Week 8\nTV: NBC\nVenue: Northwest Stadium\, Landover\, MD\nUnof
+ ficial calendar\; not affiliated with the NFL or ESPN. Times may change (f
+ lex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873036@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261103T011500Z
+DTEND:20261103T041500Z
+SUMMARY:Bears @ Seahawks (ESPN)
+LOCATION:Lumen Field\, Seattle\, WA
+DESCRIPTION:Week 8\nTV: ESPN\nVenue: Lumen Field\, Seattle\, WA\nUnofficial
+  calendar\; not affiliated with the NFL or ESPN. Times may change (flex sc
+ heduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873037@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261106T011500Z
+DTEND:20261106T041500Z
+SUMMARY:Jaguars @ Ravens (Prime Video)
+LOCATION:M&T Bank Stadium\, Baltimore\, MD
+DESCRIPTION:Week 9\nTV: Prime Video\nVenue: M&T Bank Stadium\, Baltimore\, 
+ MD\nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may c
+ hange (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873050@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261109T012000Z
+DTEND:20261109T042000Z
+SUMMARY:Buccaneers @ Bears (NBC)
+LOCATION:Soldier Field\, Chicago\, IL
+DESCRIPTION:Week 9\nTV: NBC\nVenue: Soldier Field\, Chicago\, IL\nUnofficia
+ l calendar\; not affiliated with the NFL or ESPN. Times may change (flex s
+ cheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873051@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261110T011500Z
+DTEND:20261110T041500Z
+SUMMARY:Bills @ Vikings (ESPN / ABC)
+LOCATION:U.S. Bank Stadium\, Minneapolis\, MN
+DESCRIPTION:Week 9\nTV: ESPN / ABC\nVenue: U.S. Bank Stadium\, Minneapolis\
+ , MN\nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may
+  change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873052@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261113T011500Z
+DTEND:20261113T041500Z
+SUMMARY:Commanders @ Giants (Prime Video)
+LOCATION:MetLife Stadium\, East Rutherford\, NJ
+DESCRIPTION:Week 10\nTV: Prime Video\nVenue: MetLife Stadium\, East Rutherf
+ ord\, NJ\nUnofficial calendar\; not affiliated with the NFL or ESPN. Times
+  may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873064@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261116T012000Z
+DTEND:20261116T042000Z
+SUMMARY:Steelers @ Bengals (NBC)
+LOCATION:Paycor Stadium\, Cincinnati\, OH
+DESCRIPTION:Week 10\nTV: NBC\nVenue: Paycor Stadium\, Cincinnati\, OH\nUnof
+ ficial calendar\; not affiliated with the NFL or ESPN. Times may change (f
+ lex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873065@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261117T011500Z
+DTEND:20261117T041500Z
+SUMMARY:Chargers @ Ravens (ESPN)
+LOCATION:M&T Bank Stadium\, Baltimore\, MD
+DESCRIPTION:Week 10\nTV: ESPN\nVenue: M&T Bank Stadium\, Baltimore\, MD\nUn
+ official calendar\; not affiliated with the NFL or ESPN. Times may change 
+ (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873066@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261120T011500Z
+DTEND:20261120T041500Z
+SUMMARY:Colts @ Texans (Prime Video)
+LOCATION:Reliant Stadium\, Houston\, TX
+DESCRIPTION:Week 11\nTV: Prime Video\nVenue: Reliant Stadium\, Houston\, TX
+ \nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may cha
+ nge (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873077@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261123T012000Z
+DTEND:20261123T042000Z
+SUMMARY:Vikings @ 49ers (NBC)
+LOCATION:Estadio Banorte\, Mexico City\, Mexico
+DESCRIPTION:Week 11\nTV: NBC\nVenue: Estadio Banorte\, Mexico City\, Mexico
+ \nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may cha
+ nge (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873078@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261124T011500Z
+DTEND:20261124T041500Z
+SUMMARY:Bengals @ Commanders (ESPN)
+LOCATION:Northwest Stadium\, Landover\, MD
+DESCRIPTION:Week 11\nTV: ESPN\nVenue: Northwest Stadium\, Landover\, MD\nUn
+ official calendar\; not affiliated with the NFL or ESPN. Times may change 
+ (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873079@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261126T010000Z
+DTEND:20261126T040000Z
+SUMMARY:Packers @ Rams (Netflix)
+LOCATION:SoFi Stadium\, Inglewood\, CA
+DESCRIPTION:Week 12\nTV: Netflix\nVenue: SoFi Stadium\, Inglewood\, CA\nUno
+ fficial calendar\; not affiliated with the NFL or ESPN. Times may change (
+ flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873081@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261126T180000Z
+DTEND:20261126T210000Z
+SUMMARY:Bears @ Lions (CBS)
+LOCATION:Ford Field\, Detroit\, MI
+DESCRIPTION:Week 12\nTV: CBS\nVenue: Ford Field\, Detroit\, MI\nUnofficial 
+ calendar\; not affiliated with the NFL or ESPN. Times may change (flex sch
+ eduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873080@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261126T213000Z
+DTEND:20261127T003000Z
+SUMMARY:Eagles @ Cowboys (Fox)
+LOCATION:AT&T Stadium\, Arlington\, TX
+DESCRIPTION:Week 12\nTV: Fox\nVenue: AT&T Stadium\, Arlington\, TX\nUnoffic
+ ial calendar\; not affiliated with the NFL or ESPN. Times may change (flex
+  scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873082@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261127T012000Z
+DTEND:20261127T042000Z
+SUMMARY:Chiefs @ Bills (NBC)
+LOCATION:Highmark Stadium\, Orchard Park\, NY
+DESCRIPTION:Week 12\nTV: NBC\nVenue: Highmark Stadium\, Orchard Park\, NY\n
+ Unofficial calendar\; not affiliated with the NFL or ESPN. Times may chang
+ e (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873083@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261127T200000Z
+DTEND:20261127T230000Z
+SUMMARY:Broncos @ Steelers (Prime Video)
+LOCATION:Acrisure Stadium\, Pittsburgh\, PA
+DESCRIPTION:Week 12\nTV: Prime Video\nVenue: Acrisure Stadium\, Pittsburgh\
+ , PA\nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may
+  change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873093@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261130T012000Z
+DTEND:20261130T042000Z
+SUMMARY:Patriots @ Chargers (NBC)
+LOCATION:SoFi Stadium\, Inglewood\, CA
+DESCRIPTION:Week 12\nTV: NBC\nVenue: SoFi Stadium\, Inglewood\, CA\nUnoffic
+ ial calendar\; not affiliated with the NFL or ESPN. Times may change (flex
+  scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873094@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261201T011500Z
+DTEND:20261201T041500Z
+SUMMARY:Panthers @ Buccaneers (ESPN)
+LOCATION:Raymond James Stadium\, Tampa\, FL
+DESCRIPTION:Week 12\nTV: ESPN\nVenue: Raymond James Stadium\, Tampa\, FL\nU
+ nofficial calendar\; not affiliated with the NFL or ESPN. Times may change
+  (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873096@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261204T011500Z
+DTEND:20261204T041500Z
+SUMMARY:Chiefs @ Rams (Prime Video)
+LOCATION:SoFi Stadium\, Inglewood\, CA
+DESCRIPTION:Week 13\nTV: Prime Video\nVenue: SoFi Stadium\, Inglewood\, CA\
+ nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may chan
+ ge (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873107@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261207T012000Z
+DTEND:20261207T042000Z
+SUMMARY:Texans @ Steelers (NBC)
+LOCATION:Acrisure Stadium\, Pittsburgh\, PA
+DESCRIPTION:Week 13\nTV: NBC\nVenue: Acrisure Stadium\, Pittsburgh\, PA\nUn
+ official calendar\; not affiliated with the NFL or ESPN. Times may change 
+ (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873108@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261208T011500Z
+DTEND:20261208T041500Z
+SUMMARY:Cowboys @ Seahawks (ESPN / ABC)
+LOCATION:Lumen Field\, Seattle\, WA
+DESCRIPTION:Week 13\nTV: ESPN / ABC\nVenue: Lumen Field\, Seattle\, WA\nUno
+ fficial calendar\; not affiliated with the NFL or ESPN. Times may change (
+ flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873109@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261211T011500Z
+DTEND:20261211T041500Z
+SUMMARY:Vikings @ Patriots (Prime Video)
+LOCATION:Gillette Stadium\, Foxborough\, MA
+DESCRIPTION:Week 14\nTV: Prime Video\nVenue: Gillette Stadium\, Foxborough\
+ , MA\nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may
+  change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873122@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261214T012000Z
+DTEND:20261214T042000Z
+SUMMARY:Bills @ Packers (NBC)
+LOCATION:Lambeau Field\, Green Bay\, WI
+DESCRIPTION:Week 14\nTV: NBC\nVenue: Lambeau Field\, Green Bay\, WI\nUnoffi
+ cial calendar\; not affiliated with the NFL or ESPN. Times may change (fle
+ x scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873123@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261215T011500Z
+DTEND:20261215T041500Z
+SUMMARY:Steelers @ Jaguars (ESPN)
+LOCATION:EverBank Stadium\, Jacksonville\, FL
+DESCRIPTION:Week 14\nTV: ESPN\nVenue: EverBank Stadium\, Jacksonville\, FL\
+ nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may chan
+ ge (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873124@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261218T011500Z
+DTEND:20261218T041500Z
+SUMMARY:49ers @ Chargers (Prime Video)
+LOCATION:SoFi Stadium\, Inglewood\, CA
+DESCRIPTION:Week 15\nTV: Prime Video\nVenue: SoFi Stadium\, Inglewood\, CA\
+ nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may chan
+ ge (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873125@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261219T220000Z
+DTEND:20261220T010000Z
+SUMMARY:Seahawks @ Eagles (Fox)
+LOCATION:Lincoln Financial Field\, Philadelphia\, PA
+DESCRIPTION:Week 15\nTV: Fox\nVenue: Lincoln Financial Field\, Philadelphia
+ \, PA\nUnofficial calendar\; not affiliated with the NFL or ESPN. Times ma
+ y change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873126@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261220T012000Z
+DTEND:20261220T042000Z
+SUMMARY:Bears @ Bills (CBS)
+LOCATION:Highmark Stadium\, Orchard Park\, NY
+DESCRIPTION:Week 15\nTV: CBS\nVenue: Highmark Stadium\, Orchard Park\, NY\n
+ Unofficial calendar\; not affiliated with the NFL or ESPN. Times may chang
+ e (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873138@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261221T012000Z
+DTEND:20261221T042000Z
+SUMMARY:Lions @ Vikings (NBC)
+LOCATION:U.S. Bank Stadium\, Minneapolis\, MN
+DESCRIPTION:Week 15\nTV: NBC\nVenue: U.S. Bank Stadium\, Minneapolis\, MN\n
+ Unofficial calendar\; not affiliated with the NFL or ESPN. Times may chang
+ e (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873139@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261222T011500Z
+DTEND:20261222T041500Z
+SUMMARY:Patriots @ Chiefs (ESPN / ABC)
+LOCATION:Arrowhead Stadium\, Kansas City\, MO
+DESCRIPTION:Week 15\nTV: ESPN / ABC\nVenue: Arrowhead Stadium\, Kansas City
+ \, MO\nUnofficial calendar\; not affiliated with the NFL or ESPN. Times ma
+ y change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873140@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261225T011500Z
+DTEND:20261225T041500Z
+SUMMARY:Texans @ Eagles (Prime Video)
+LOCATION:Lincoln Financial Field\, Philadelphia\, PA
+DESCRIPTION:Week 16\nTV: Prime Video\nVenue: Lincoln Financial Field\, Phil
+ adelphia\, PA\nUnofficial calendar\; not affiliated with the NFL or ESPN. 
+ Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873141@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261225T180000Z
+DTEND:20261225T210000Z
+SUMMARY:Packers @ Bears (Netflix)
+LOCATION:Soldier Field\, Chicago\, IL
+DESCRIPTION:Week 16\nTV: Netflix\nVenue: Soldier Field\, Chicago\, IL\nUnof
+ ficial calendar\; not affiliated with the NFL or ESPN. Times may change (f
+ lex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873142@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261225T213000Z
+DTEND:20261226T003000Z
+SUMMARY:Bills @ Broncos (Netflix)
+LOCATION:Empower Field at Mile High\, Denver\, CO
+DESCRIPTION:Week 16\nTV: Netflix\nVenue: Empower Field at Mile High\, Denve
+ r\, CO\nUnofficial calendar\; not affiliated with the NFL or ESPN. Times m
+ ay change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873143@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261226T011500Z
+DTEND:20261226T041500Z
+SUMMARY:Rams @ Seahawks (Fox)
+LOCATION:Lumen Field\, Seattle\, WA
+DESCRIPTION:Week 16\nTV: Fox\nVenue: Lumen Field\, Seattle\, WA\nUnofficial
+  calendar\; not affiliated with the NFL or ESPN. Times may change (flex sc
+ heduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873154@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261228T012000Z
+DTEND:20261228T042000Z
+SUMMARY:Jaguars @ Cowboys (NBC)
+LOCATION:AT&T Stadium\, Arlington\, TX
+DESCRIPTION:Week 16\nTV: NBC\nVenue: AT&T Stadium\, Arlington\, TX\nUnoffic
+ ial calendar\; not affiliated with the NFL or ESPN. Times may change (flex
+  scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873155@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261229T011500Z
+DTEND:20261229T041500Z
+SUMMARY:Giants @ Lions (ESPN)
+LOCATION:Ford Field\, Detroit\, MI
+DESCRIPTION:Week 16\nTV: ESPN\nVenue: Ford Field\, Detroit\, MI\nUnofficial
+  calendar\; not affiliated with the NFL or ESPN. Times may change (flex sc
+ heduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873156@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20270101T011500Z
+DTEND:20270101T041500Z
+SUMMARY:Ravens @ Bengals (Prime Video)
+LOCATION:Paycor Stadium\, Cincinnati\, OH
+DESCRIPTION:Week 17\nTV: Prime Video\nVenue: Paycor Stadium\, Cincinnati\, 
+ OH\nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may c
+ hange (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873170@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20270104T012000Z
+DTEND:20270104T042000Z
+SUMMARY:Eagles @ 49ers (NBC)
+LOCATION:Levi's Stadium\, Santa Clara\, CA
+DESCRIPTION:Week 17\nTV: NBC\nVenue: Levi's Stadium\, Santa Clara\, CA\nUno
+ fficial calendar\; not affiliated with the NFL or ESPN. Times may change (
+ flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873171@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20270105T011500Z
+DTEND:20270105T041500Z
+SUMMARY:Texans @ Packers (ESPN)
+LOCATION:Lambeau Field\, Green Bay\, WI
+DESCRIPTION:Week 17\nTV: ESPN\nVenue: Lambeau Field\, Green Bay\, WI\nUnoff
+ icial calendar\; not affiliated with the NFL or ESPN. Times may change (fl
+ ex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872910@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:Wild Card Playoffs (teams TBD)
+DESCRIPTION:Wild Card Playoffs\nTV: TBD\nVenue: TBD\nDate/time not yet set 
+ by the NFL\; this is a placeholder.\nUnofficial calendar\; not affiliated 
+ with the NFL or ESPN. Times may change (flex scheduling).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872911@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:Wild Card Playoffs (teams TBD)
+DESCRIPTION:Wild Card Playoffs\nTV: TBD\nVenue: TBD\nDate/time not yet set 
+ by the NFL\; this is a placeholder.\nUnofficial calendar\; not affiliated 
+ with the NFL or ESPN. Times may change (flex scheduling).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872912@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:Wild Card Playoffs (teams TBD)
+DESCRIPTION:Wild Card Playoffs\nTV: TBD\nVenue: TBD\nDate/time not yet set 
+ by the NFL\; this is a placeholder.\nUnofficial calendar\; not affiliated 
+ with the NFL or ESPN. Times may change (flex scheduling).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872913@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:Wild Card Playoffs (teams TBD)
+DESCRIPTION:Wild Card Playoffs\nTV: TBD\nVenue: TBD\nDate/time not yet set 
+ by the NFL\; this is a placeholder.\nUnofficial calendar\; not affiliated 
+ with the NFL or ESPN. Times may change (flex scheduling).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872914@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:Wild Card Playoffs (teams TBD)
+DESCRIPTION:Wild Card Playoffs\nTV: TBD\nVenue: TBD\nDate/time not yet set 
+ by the NFL\; this is a placeholder.\nUnofficial calendar\; not affiliated 
+ with the NFL or ESPN. Times may change (flex scheduling).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872915@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:Wild Card Playoffs (teams TBD)
+DESCRIPTION:Wild Card Playoffs\nTV: TBD\nVenue: TBD\nDate/time not yet set 
+ by the NFL\; this is a placeholder.\nUnofficial calendar\; not affiliated 
+ with the NFL or ESPN. Times may change (flex scheduling).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872916@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Divisional Playoffs (teams TBD)
+DESCRIPTION:Divisional Playoffs\nTV: TBD\nVenue: TBD\nDate/time not yet set
+  by the NFL\; this is a placeholder.\nUnofficial calendar\; not affiliated
+  with the NFL or ESPN. Times may change (flex scheduling).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872917@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Divisional Playoffs (teams TBD)
+DESCRIPTION:Divisional Playoffs\nTV: TBD\nVenue: TBD\nDate/time not yet set
+  by the NFL\; this is a placeholder.\nUnofficial calendar\; not affiliated
+  with the NFL or ESPN. Times may change (flex scheduling).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872918@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:Divisional Playoffs (teams TBD)
+DESCRIPTION:Divisional Playoffs\nTV: TBD\nVenue: TBD\nDate/time not yet set
+  by the NFL\; this is a placeholder.\nUnofficial calendar\; not affiliated
+  with the NFL or ESPN. Times may change (flex scheduling).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872919@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:Divisional Playoffs (teams TBD)
+DESCRIPTION:Divisional Playoffs\nTV: TBD\nVenue: TBD\nDate/time not yet set
+  by the NFL\; this is a placeholder.\nUnofficial calendar\; not affiliated
+  with the NFL or ESPN. Times may change (flex scheduling).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872920@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:NFC Championship (teams TBD)
+DESCRIPTION:NFC Championship\nTV: TBD\nVenue: TBD\nDate/time not yet set by
+  the NFL\; this is a placeholder.\nUnofficial calendar\; not affiliated wi
+ th the NFL or ESPN. Times may change (flex scheduling).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872921@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:AFC Championship (teams TBD)
+DESCRIPTION:AFC Championship\nTV: TBD\nVenue: TBD\nDate/time not yet set by
+  the NFL\; this is a placeholder.\nUnofficial calendar\; not affiliated wi
+ th the NFL or ESPN. Times may change (flex scheduling).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873270@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20270214T233000Z
+DTEND:20270215T023000Z
+SUMMARY:Super Bowl LXI (teams TBD) (ESPN / ABC / Disney+)
+LOCATION:SoFi Stadium\, Inglewood\, CA
+DESCRIPTION:Super Bowl LXI\nTV: ESPN / ABC / Disney+\nVenue: SoFi Stadium\,
+  Inglewood\, CA\nUnofficial calendar\; not affiliated with the NFL or ESPN
+ . Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

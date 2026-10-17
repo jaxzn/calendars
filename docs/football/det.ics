@@ -1,0 +1,232 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jaxzn//NFL Calendars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Detroit Lions 2026
+X-WR-CALDESC:Detroit Lions 2026 NFL schedule (unofficial\, auto-updated)
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:espn-401872923@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260913T170000Z
+DTEND:20260913T200000Z
+SUMMARY:Saints @ Lions (Fox)
+LOCATION:Ford Field\, Detroit\, MI
+DESCRIPTION:Week 1\nTV: Fox\nVenue: Ford Field\, Detroit\, MI\nFinal: Saint
+ s 30\, Lions 31\nUnofficial calendar\; not affiliated with the NFL or ESPN
+ . Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872932@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260918T001500Z
+DTEND:20260918T031500Z
+SUMMARY:Lions @ Bills (Prime Video)
+LOCATION:Highmark Stadium\, Orchard Park\, NY
+DESCRIPTION:Week 2\nTV: Prime Video\nVenue: Highmark Stadium\, Orchard Park
+ \, NY\nFinal: Lions 31\, Bills 41\nUnofficial calendar\; not affiliated wi
+ th the NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872954@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260927T170000Z
+DTEND:20260927T200000Z
+SUMMARY:Jets @ Lions (Fox)
+LOCATION:Ford Field\, Detroit\, MI
+DESCRIPTION:Week 3\nTV: Fox\nVenue: Ford Field\, Detroit\, MI\nFinal: Jets 
+ 24\, Lions 31\nUnofficial calendar\; not affiliated with the NFL or ESPN. 
+ Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872978@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261005T002000Z
+DTEND:20261005T032000Z
+SUMMARY:Lions @ Panthers (NBC)
+LOCATION:Bank of America Stadium\, Charlotte\, NC
+DESCRIPTION:Week 4\nTV: NBC\nVenue: Bank of America Stadium\, Charlotte\, N
+ C\nFinal: Lions 26\, Panthers 32\nUnofficial calendar\; not affiliated wit
+ h the NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872991@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261011T202500Z
+DTEND:20261011T232500Z
+SUMMARY:Lions @ Cardinals (Fox)
+LOCATION:State Farm Stadium\, Glendale\, AZ
+DESCRIPTION:Week 5\nTV: Fox\nVenue: State Farm Stadium\, Glendale\, AZ\nFin
+ al: Lions 45\, Cardinals 21\nUnofficial calendar\; not affiliated with the
+  NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873020@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261025T202500Z
+DTEND:20261025T232500Z
+SUMMARY:Packers @ Lions (Fox)
+LOCATION:Ford Field\, Detroit\, MI
+DESCRIPTION:Week 7\nTV: Fox\nVenue: Ford Field\, Detroit\, MI\nUnofficial c
+ alendar\; not affiliated with the NFL or ESPN. Times may change (flex sche
+ duling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873030@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261101T180000Z
+DTEND:20261101T210000Z
+SUMMARY:Vikings @ Lions (Fox)
+LOCATION:Ford Field\, Detroit\, MI
+DESCRIPTION:Week 8\nTV: Fox\nVenue: Ford Field\, Detroit\, MI\nUnofficial c
+ alendar\; not affiliated with the NFL or ESPN. Times may change (flex sche
+ duling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873042@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261108T180000Z
+DTEND:20261108T210000Z
+SUMMARY:Lions @ Dolphins (Fox)
+LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
+DESCRIPTION:Week 9\nTV: Fox\nVenue: Hard Rock Stadium\, Miami Gardens\, FL\
+ nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may chan
+ ge (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873053@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261115T143000Z
+DTEND:20261115T173000Z
+SUMMARY:Patriots @ Lions (Fox)
+LOCATION:FC Bayern Munich Stadium\, Munich\, Germany
+DESCRIPTION:Week 10\nTV: Fox\nVenue: FC Bayern Munich Stadium\, Munich\, Ge
+ rmany\nUnofficial calendar\; not affiliated with the NFL or ESPN. Times ma
+ y change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873072@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261122T180000Z
+DTEND:20261122T210000Z
+SUMMARY:Buccaneers @ Lions (CBS)
+LOCATION:Ford Field\, Detroit\, MI
+DESCRIPTION:Week 11\nTV: CBS\nVenue: Ford Field\, Detroit\, MI\nUnofficial 
+ calendar\; not affiliated with the NFL or ESPN. Times may change (flex sch
+ eduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873081@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261126T180000Z
+DTEND:20261126T210000Z
+SUMMARY:Bears @ Lions (CBS)
+LOCATION:Ford Field\, Detroit\, MI
+DESCRIPTION:Week 12\nTV: CBS\nVenue: Ford Field\, Detroit\, MI\nUnofficial 
+ calendar\; not affiliated with the NFL or ESPN. Times may change (flex sch
+ eduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873098@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261206T180000Z
+DTEND:20261206T210000Z
+SUMMARY:Lions @ Falcons (CBS)
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
+DESCRIPTION:Week 13\nTV: CBS\nVenue: Mercedes-Benz Stadium\, Atlanta\, GA\n
+ Unofficial calendar\; not affiliated with the NFL or ESPN. Times may chang
+ e (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873117@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261213T180000Z
+DTEND:20261213T210000Z
+SUMMARY:Titans @ Lions (Fox)
+LOCATION:Ford Field\, Detroit\, MI
+DESCRIPTION:Week 14\nTV: Fox\nVenue: Ford Field\, Detroit\, MI\nUnofficial 
+ calendar\; not affiliated with the NFL or ESPN. Times may change (flex sch
+ eduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873138@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261221T012000Z
+DTEND:20261221T042000Z
+SUMMARY:Lions @ Vikings (NBC)
+LOCATION:U.S. Bank Stadium\, Minneapolis\, MN
+DESCRIPTION:Week 15\nTV: NBC\nVenue: U.S. Bank Stadium\, Minneapolis\, MN\n
+ Unofficial calendar\; not affiliated with the NFL or ESPN. Times may chang
+ e (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873155@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261229T011500Z
+DTEND:20261229T041500Z
+SUMMARY:Giants @ Lions (ESPN)
+LOCATION:Ford Field\, Detroit\, MI
+DESCRIPTION:Week 16\nTV: ESPN\nVenue: Ford Field\, Detroit\, MI\nUnofficial
+  calendar\; not affiliated with the NFL or ESPN. Times may change (flex sc
+ heduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873169@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20270103T212500Z
+DTEND:20270104T002500Z
+SUMMARY:Lions @ Bears (Fox)
+LOCATION:Soldier Field\, Chicago\, IL
+DESCRIPTION:Week 17\nTV: Fox\nVenue: Soldier Field\, Chicago\, IL\nUnoffici
+ al calendar\; not affiliated with the NFL or ESPN. Times may change (flex 
+ scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873176@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Lions @ Packers
+LOCATION:Lambeau Field\, Green Bay\, WI
+DESCRIPTION:Week 18\nTV: TBD\nVenue: Lambeau Field\, Green Bay\, WI\nDate/t
+ ime not yet set by the NFL\; this is a placeholder.\nUnofficial calendar\;
+  not affiliated with the NFL or ESPN. Times may change (flex scheduling).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

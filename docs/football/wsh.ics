@@ -1,0 +1,236 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jaxzn//NFL Calendars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Washington Commanders 2026
+X-WR-CALDESC:Washington Commanders 2026 NFL schedule (unofficial\, auto-upd
+ ated)
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:espn-401872929@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260913T202500Z
+DTEND:20260913T232500Z
+SUMMARY:Commanders @ Eagles (Fox)
+LOCATION:Lincoln Financial Field\, Philadelphia\, PA
+DESCRIPTION:Week 1\nTV: Fox\nVenue: Lincoln Financial Field\, Philadelphia\
+ , PA\nFinal: Commanders 22\, Eagles 24\nUnofficial calendar\; not affiliat
+ ed with the NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872944@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260920T202500Z
+DTEND:20260920T232500Z
+SUMMARY:Commanders @ Cowboys (Fox)
+LOCATION:AT&T Stadium\, Arlington\, TX
+DESCRIPTION:Week 2\nTV: Fox\nVenue: AT&T Stadium\, Arlington\, TX\nFinal: C
+ ommanders 20\, Cowboys 37\nUnofficial calendar\; not affiliated with the N
+ FL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872955@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260927T170000Z
+DTEND:20260927T200000Z
+SUMMARY:Seahawks @ Commanders (Fox)
+LOCATION:Northwest Stadium\, Landover\, MD
+DESCRIPTION:Week 3\nTV: Fox\nVenue: Northwest Stadium\, Landover\, MD\nFina
+ l: Seahawks 31\, Commanders 33\nUnofficial calendar\; not affiliated with 
+ the NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872965@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261004T133000Z
+DTEND:20261004T163000Z
+SUMMARY:Colts @ Commanders (NFL Network)
+LOCATION:Tottenham Hotspur Stadium\, London\, England
+DESCRIPTION:Week 4\nTV: NFL Network\nVenue: Tottenham Hotspur Stadium\, Lon
+ don\, England\nFinal: Colts 30\, Commanders 13\nUnofficial calendar\; not 
+ affiliated with the NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872988@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261011T170000Z
+DTEND:20261011T200000Z
+SUMMARY:Giants @ Commanders (Fox)
+LOCATION:Northwest Stadium\, Landover\, MD
+DESCRIPTION:Week 5\nTV: Fox\nVenue: Northwest Stadium\, Landover\, MD\nFina
+ l: Giants 27\, Commanders 27\nUnofficial calendar\; not affiliated with th
+ e NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873008@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261020T001500Z
+DTEND:20261020T031500Z
+SUMMARY:Commanders @ 49ers (ESPN / ABC)
+LOCATION:Levi's Stadium\, Santa Clara\, CA
+DESCRIPTION:Week 6\nTV: ESPN / ABC\nVenue: Levi's Stadium\, Santa Clara\, C
+ A\nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may ch
+ ange (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873035@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261102T012000Z
+DTEND:20261102T042000Z
+SUMMARY:Eagles @ Commanders (NBC)
+LOCATION:Northwest Stadium\, Landover\, MD
+DESCRIPTION:Week 8\nTV: NBC\nVenue: Northwest Stadium\, Landover\, MD\nUnof
+ ficial calendar\; not affiliated with the NFL or ESPN. Times may change (f
+ lex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873043@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261108T180000Z
+DTEND:20261108T210000Z
+SUMMARY:Rams @ Commanders (Fox)
+LOCATION:Northwest Stadium\, Landover\, MD
+DESCRIPTION:Week 9\nTV: Fox\nVenue: Northwest Stadium\, Landover\, MD\nUnof
+ ficial calendar\; not affiliated with the NFL or ESPN. Times may change (f
+ lex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873052@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261113T011500Z
+DTEND:20261113T041500Z
+SUMMARY:Commanders @ Giants (Prime Video)
+LOCATION:MetLife Stadium\, East Rutherford\, NJ
+DESCRIPTION:Week 10\nTV: Prime Video\nVenue: MetLife Stadium\, East Rutherf
+ ord\, NJ\nUnofficial calendar\; not affiliated with the NFL or ESPN. Times
+  may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873078@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261124T011500Z
+DTEND:20261124T041500Z
+SUMMARY:Bengals @ Commanders (ESPN)
+LOCATION:Northwest Stadium\, Landover\, MD
+DESCRIPTION:Week 11\nTV: ESPN\nVenue: Northwest Stadium\, Landover\, MD\nUn
+ official calendar\; not affiliated with the NFL or ESPN. Times may change 
+ (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873092@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261129T212500Z
+DTEND:20261130T002500Z
+SUMMARY:Commanders @ Cardinals (Fox)
+LOCATION:State Farm Stadium\, Glendale\, AZ
+DESCRIPTION:Week 12\nTV: Fox\nVenue: State Farm Stadium\, Glendale\, AZ\nUn
+ official calendar\; not affiliated with the NFL or ESPN. Times may change 
+ (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873102@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261206T180000Z
+DTEND:20261206T210000Z
+SUMMARY:Commanders @ Titans (CBS)
+LOCATION:Nissan Stadium\, Nashville\, TN
+DESCRIPTION:Week 13\nTV: CBS\nVenue: Nissan Stadium\, Nashville\, TN\nUnoff
+ icial calendar\; not affiliated with the NFL or ESPN. Times may change (fl
+ ex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873113@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261213T180000Z
+DTEND:20261213T210000Z
+SUMMARY:Texans @ Commanders (CBS)
+LOCATION:Northwest Stadium\, Landover\, MD
+DESCRIPTION:Week 14\nTV: CBS\nVenue: Northwest Stadium\, Landover\, MD\nUno
+ fficial calendar\; not affiliated with the NFL or ESPN. Times may change (
+ flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873127@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261220T180000Z
+DTEND:20261220T210000Z
+SUMMARY:Falcons @ Commanders (Fox)
+LOCATION:Northwest Stadium\, Landover\, MD
+DESCRIPTION:Week 15\nTV: Fox\nVenue: Northwest Stadium\, Landover\, MD\nUno
+ fficial calendar\; not affiliated with the NFL or ESPN. Times may change (
+ flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873147@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:Commanders @ Vikings
+LOCATION:U.S. Bank Stadium\, Minneapolis\, MN
+DESCRIPTION:Week 16\nTV: TBD\nVenue: U.S. Bank Stadium\, Minneapolis\, MN\n
+ Date/time not yet set by the NFL\; this is a placeholder.\nUnofficial cale
+ ndar\; not affiliated with the NFL or ESPN. Times may change (flex schedul
+ ing).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873160@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:Commanders @ Jaguars
+LOCATION:EverBank Stadium\, Jacksonville\, FL
+DESCRIPTION:Week 17\nTV: TBD\nVenue: EverBank Stadium\, Jacksonville\, FL\n
+ Date/time not yet set by the NFL\; this is a placeholder.\nUnofficial cale
+ ndar\; not affiliated with the NFL or ESPN. Times may change (flex schedul
+ ing).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873175@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Cowboys @ Commanders
+LOCATION:Northwest Stadium\, Landover\, MD
+DESCRIPTION:Week 18\nTV: TBD\nVenue: Northwest Stadium\, Landover\, MD\nDat
+ e/time not yet set by the NFL\; this is a placeholder.\nUnofficial calenda
+ r\; not affiliated with the NFL or ESPN. Times may change (flex scheduling
+ ).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,235 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jaxzn//NFL Calendars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Indianapolis Colts 2026
+X-WR-CALDESC:Indianapolis Colts 2026 NFL schedule (unofficial\, auto-update
+ d)
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:espn-401872659@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260913T170000Z
+DTEND:20260913T200000Z
+SUMMARY:Ravens @ Colts (CBS)
+LOCATION:Lucas Oil Stadium\, Indianapolis\, IN
+DESCRIPTION:Week 1\nTV: CBS\nVenue: Lucas Oil Stadium\, Indianapolis\, IN\n
+ Final: Ravens 41\, Colts 23\nUnofficial calendar\; not affiliated with the
+  NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872945@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260921T002000Z
+DTEND:20260921T032000Z
+SUMMARY:Colts @ Chiefs (NBC)
+LOCATION:Arrowhead Stadium\, Kansas City\, MO
+DESCRIPTION:Week 2\nTV: NBC\nVenue: Arrowhead Stadium\, Kansas City\, MO\nF
+ inal: Colts 30\, Chiefs 33\nUnofficial calendar\; not affiliated with the 
+ NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872951@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260927T170000Z
+DTEND:20260927T200000Z
+SUMMARY:Texans @ Colts (CBS)
+LOCATION:Lucas Oil Stadium\, Indianapolis\, IN
+DESCRIPTION:Week 3\nTV: CBS\nVenue: Lucas Oil Stadium\, Indianapolis\, IN\n
+ Final: Texans 17\, Colts 19\nUnofficial calendar\; not affiliated with the
+  NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872965@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261004T133000Z
+DTEND:20261004T163000Z
+SUMMARY:Colts @ Commanders (NFL Network)
+LOCATION:Tottenham Hotspur Stadium\, London\, England
+DESCRIPTION:Week 4\nTV: NFL Network\nVenue: Tottenham Hotspur Stadium\, Lon
+ don\, England\nFinal: Colts 30\, Commanders 13\nUnofficial calendar\; not 
+ affiliated with the NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872985@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261011T170000Z
+DTEND:20261011T200000Z
+SUMMARY:Colts @ Steelers (CBS)
+LOCATION:Acrisure Stadium\, Pittsburgh\, PA
+DESCRIPTION:Week 5\nTV: CBS\nVenue: Acrisure Stadium\, Pittsburgh\, PA\nFin
+ al: Colts 22\, Steelers 34\nUnofficial calendar\; not affiliated with the 
+ NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873003@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261018T170000Z
+DTEND:20261018T200000Z
+SUMMARY:Titans @ Colts (Fox)
+LOCATION:Lucas Oil Stadium\, Indianapolis\, IN
+DESCRIPTION:Week 6\nTV: Fox\nVenue: Lucas Oil Stadium\, Indianapolis\, IN\n
+ Unofficial calendar\; not affiliated with the NFL or ESPN. Times may chang
+ e (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873014@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261025T170000Z
+DTEND:20261025T200000Z
+SUMMARY:Colts @ Vikings (CBS)
+LOCATION:U.S. Bank Stadium\, Minneapolis\, MN
+DESCRIPTION:Week 7\nTV: CBS\nVenue: U.S. Bank Stadium\, Minneapolis\, MN\nU
+ nofficial calendar\; not affiliated with the NFL or ESPN. Times may change
+  (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873028@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261101T180000Z
+DTEND:20261101T210000Z
+SUMMARY:Colts @ Jaguars (CBS)
+LOCATION:EverBank Stadium\, Jacksonville\, FL
+DESCRIPTION:Week 8\nTV: CBS\nVenue: EverBank Stadium\, Jacksonville\, FL\nU
+ nofficial calendar\; not affiliated with the NFL or ESPN. Times may change
+  (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873040@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261108T180000Z
+DTEND:20261108T210000Z
+SUMMARY:Cowboys @ Colts (Fox)
+LOCATION:Lucas Oil Stadium\, Indianapolis\, IN
+DESCRIPTION:Week 9\nTV: Fox\nVenue: Lucas Oil Stadium\, Indianapolis\, IN\n
+ Unofficial calendar\; not affiliated with the NFL or ESPN. Times may chang
+ e (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873059@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261115T180000Z
+DTEND:20261115T210000Z
+SUMMARY:Dolphins @ Colts (CBS)
+LOCATION:Lucas Oil Stadium\, Indianapolis\, IN
+DESCRIPTION:Week 10\nTV: CBS\nVenue: Lucas Oil Stadium\, Indianapolis\, IN\
+ nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may chan
+ ge (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873066@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261120T011500Z
+DTEND:20261120T041500Z
+SUMMARY:Colts @ Texans (Prime Video)
+LOCATION:Reliant Stadium\, Houston\, TX
+DESCRIPTION:Week 11\nTV: Prime Video\nVenue: Reliant Stadium\, Houston\, TX
+ \nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may cha
+ nge (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873088@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261129T180000Z
+DTEND:20261129T210000Z
+SUMMARY:Giants @ Colts (Fox)
+LOCATION:Lucas Oil Stadium\, Indianapolis\, IN
+DESCRIPTION:Week 12\nTV: Fox\nVenue: Lucas Oil Stadium\, Indianapolis\, IN\
+ nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may chan
+ ge (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873114@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261213T180000Z
+DTEND:20261213T210000Z
+SUMMARY:Colts @ Eagles (Fox)
+LOCATION:Lincoln Financial Field\, Philadelphia\, PA
+DESCRIPTION:Week 14\nTV: Fox\nVenue: Lincoln Financial Field\, Philadelphia
+ \, PA\nUnofficial calendar\; not affiliated with the NFL or ESPN. Times ma
+ y change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873131@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261220T180000Z
+DTEND:20261220T210000Z
+SUMMARY:Colts @ Titans (CBS)
+LOCATION:Nissan Stadium\, Nashville\, TN
+DESCRIPTION:Week 15\nTV: CBS\nVenue: Nissan Stadium\, Nashville\, TN\nUnoff
+ icial calendar\; not affiliated with the NFL or ESPN. Times may change (fl
+ ex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873145@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:Bengals @ Colts
+LOCATION:Lucas Oil Stadium\, Indianapolis\, IN
+DESCRIPTION:Week 16\nTV: TBD\nVenue: Lucas Oil Stadium\, Indianapolis\, IN\
+ nDate/time not yet set by the NFL\; this is a placeholder.\nUnofficial cal
+ endar\; not affiliated with the NFL or ESPN. Times may change (flex schedu
+ ling).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873162@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20270103T180000Z
+DTEND:20270103T210000Z
+SUMMARY:Colts @ Browns (Fox)
+LOCATION:Huntington Bank Field\, Cleveland\, OH
+DESCRIPTION:Week 17\nTV: Fox\nVenue: Huntington Bank Field\, Cleveland\, OH
+ \nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may cha
+ nge (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873177@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Jaguars @ Colts
+LOCATION:Lucas Oil Stadium\, Indianapolis\, IN
+DESCRIPTION:Week 18\nTV: TBD\nVenue: Lucas Oil Stadium\, Indianapolis\, IN\
+ nDate/time not yet set by the NFL\; this is a placeholder.\nUnofficial cal
+ endar\; not affiliated with the NFL or ESPN. Times may change (flex schedu
+ ling).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

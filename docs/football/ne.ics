@@ -1,0 +1,235 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jaxzn//NFL Calendars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:New England Patriots 2026
+X-WR-CALDESC:New England Patriots 2026 NFL schedule (unofficial\, auto-upda
+ ted)
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:espn-401872656@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260910T002000Z
+DTEND:20260910T032000Z
+SUMMARY:Patriots @ Seahawks (NBC)
+LOCATION:Lumen Field\, Seattle\, WA
+DESCRIPTION:Week 1\nTV: NBC\nVenue: Lumen Field\, Seattle\, WA\nFinal: Patr
+ iots 10\, Seahawks 13\nUnofficial calendar\; not affiliated with the NFL o
+ r ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872946@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260920T170000Z
+DTEND:20260920T200000Z
+SUMMARY:Steelers @ Patriots (CBS)
+LOCATION:Gillette Stadium\, Foxborough\, MA
+DESCRIPTION:Week 2\nTV: CBS\nVenue: Gillette Stadium\, Foxborough\, MA\nFin
+ al: Steelers 3\, Patriots 20\nUnofficial calendar\; not affiliated with th
+ e NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872957@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260927T170000Z
+DTEND:20260927T200000Z
+SUMMARY:Patriots @ Jaguars (CBS)
+LOCATION:EverBank Stadium\, Jacksonville\, FL
+DESCRIPTION:Week 3\nTV: CBS\nVenue: EverBank Stadium\, Jacksonville\, FL\nF
+ inal: Patriots 6\, Jaguars 35\nUnofficial calendar\; not affiliated with t
+ he NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872971@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261004T170000Z
+DTEND:20261004T200000Z
+SUMMARY:Patriots @ Bills (CBS)
+LOCATION:Highmark Stadium\, Orchard Park\, NY
+DESCRIPTION:Week 4\nTV: CBS\nVenue: Highmark Stadium\, Orchard Park\, NY\nF
+ inal: Patriots 29\, Bills 26\nUnofficial calendar\; not affiliated with th
+ e NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872986@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261011T170000Z
+DTEND:20261011T200000Z
+SUMMARY:Raiders @ Patriots (CBS)
+LOCATION:Gillette Stadium\, Foxborough\, MA
+DESCRIPTION:Week 5\nTV: CBS\nVenue: Gillette Stadium\, Foxborough\, MA\nFin
+ al: Raiders 17\, Patriots 45\nUnofficial calendar\; not affiliated with th
+ e NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873001@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261018T170000Z
+DTEND:20261018T200000Z
+SUMMARY:Jets @ Patriots (CBS)
+LOCATION:Gillette Stadium\, Foxborough\, MA
+DESCRIPTION:Week 6\nTV: CBS\nVenue: Gillette Stadium\, Foxborough\, MA\nUno
+ fficial calendar\; not affiliated with the NFL or ESPN. Times may change (
+ flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873010@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261023T001500Z
+DTEND:20261023T031500Z
+SUMMARY:Patriots @ Bears (Prime Video)
+LOCATION:Soldier Field\, Chicago\, IL
+DESCRIPTION:Week 7\nTV: Prime Video\nVenue: Soldier Field\, Chicago\, IL\nU
+ nofficial calendar\; not affiliated with the NFL or ESPN. Times may change
+  (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873034@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261101T212500Z
+DTEND:20261102T002500Z
+SUMMARY:Patriots @ Dolphins (CBS)
+LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
+DESCRIPTION:Week 8\nTV: CBS\nVenue: Hard Rock Stadium\, Miami Gardens\, FL\
+ nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may chan
+ ge (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873049@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261108T212500Z
+DTEND:20261109T002500Z
+SUMMARY:Packers @ Patriots (Fox)
+LOCATION:Gillette Stadium\, Foxborough\, MA
+DESCRIPTION:Week 9\nTV: Fox\nVenue: Gillette Stadium\, Foxborough\, MA\nUno
+ fficial calendar\; not affiliated with the NFL or ESPN. Times may change (
+ flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873053@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261115T143000Z
+DTEND:20261115T173000Z
+SUMMARY:Patriots @ Lions (Fox)
+LOCATION:FC Bayern Munich Stadium\, Munich\, Germany
+DESCRIPTION:Week 10\nTV: Fox\nVenue: FC Bayern Munich Stadium\, Munich\, Ge
+ rmany\nUnofficial calendar\; not affiliated with the NFL or ESPN. Times ma
+ y change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873093@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261130T012000Z
+DTEND:20261130T042000Z
+SUMMARY:Patriots @ Chargers (NBC)
+LOCATION:SoFi Stadium\, Inglewood\, CA
+DESCRIPTION:Week 12\nTV: NBC\nVenue: SoFi Stadium\, Inglewood\, CA\nUnoffic
+ ial calendar\; not affiliated with the NFL or ESPN. Times may change (flex
+  scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873105@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261206T212500Z
+DTEND:20261207T002500Z
+SUMMARY:Bills @ Patriots (CBS)
+LOCATION:Gillette Stadium\, Foxborough\, MA
+DESCRIPTION:Week 13\nTV: CBS\nVenue: Gillette Stadium\, Foxborough\, MA\nUn
+ official calendar\; not affiliated with the NFL or ESPN. Times may change 
+ (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873109@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261211T011500Z
+DTEND:20261211T041500Z
+SUMMARY:Vikings @ Patriots (Prime Video)
+LOCATION:Gillette Stadium\, Foxborough\, MA
+DESCRIPTION:Week 14\nTV: Prime Video\nVenue: Gillette Stadium\, Foxborough\
+ , MA\nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may
+  change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873139@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261222T011500Z
+DTEND:20261222T041500Z
+SUMMARY:Patriots @ Chiefs (ESPN / ABC)
+LOCATION:Arrowhead Stadium\, Kansas City\, MO
+DESCRIPTION:Week 15\nTV: ESPN / ABC\nVenue: Arrowhead Stadium\, Kansas City
+ \, MO\nUnofficial calendar\; not affiliated with the NFL or ESPN. Times ma
+ y change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873151@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261227T180000Z
+DTEND:20261227T210000Z
+SUMMARY:Patriots @ Jets (CBS)
+LOCATION:MetLife Stadium\, East Rutherford\, NJ
+DESCRIPTION:Week 16\nTV: CBS\nVenue: MetLife Stadium\, East Rutherford\, NJ
+ \nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may cha
+ nge (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873157@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:Broncos @ Patriots
+LOCATION:Gillette Stadium\, Foxborough\, MA
+DESCRIPTION:Week 17\nTV: TBD\nVenue: Gillette Stadium\, Foxborough\, MA\nDa
+ te/time not yet set by the NFL\; this is a placeholder.\nUnofficial calend
+ ar\; not affiliated with the NFL or ESPN. Times may change (flex schedulin
+ g).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873180@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Dolphins @ Patriots
+LOCATION:Gillette Stadium\, Foxborough\, MA
+DESCRIPTION:Week 18\nTV: TBD\nVenue: Gillette Stadium\, Foxborough\, MA\nDa
+ te/time not yet set by the NFL\; this is a placeholder.\nUnofficial calend
+ ar\; not affiliated with the NFL or ESPN. Times may change (flex schedulin
+ g).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

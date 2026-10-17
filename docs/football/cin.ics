@@ -1,0 +1,235 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jaxzn//NFL Calendars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cincinnati Bengals 2026
+X-WR-CALDESC:Cincinnati Bengals 2026 NFL schedule (unofficial\, auto-update
+ d)
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:espn-401872925@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260913T170000Z
+DTEND:20260913T200000Z
+SUMMARY:Buccaneers @ Bengals (Fox)
+LOCATION:Paycor Stadium\, Cincinnati\, OH
+DESCRIPTION:Week 1\nTV: Fox\nVenue: Paycor Stadium\, Cincinnati\, OH\nFinal
+ : Buccaneers 27\, Bengals 33\nUnofficial calendar\; not affiliated with th
+ e NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872934@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260920T170000Z
+DTEND:20260920T200000Z
+SUMMARY:Bengals @ Texans (CBS)
+LOCATION:Reliant Stadium\, Houston\, TX
+DESCRIPTION:Week 2\nTV: CBS\nVenue: Reliant Stadium\, Houston\, TX\nFinal: 
+ Bengals 20\, Texans 6\nUnofficial calendar\; not affiliated with the NFL o
+ r ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872950@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20260927T170000Z
+DTEND:20260927T200000Z
+SUMMARY:Bengals @ Steelers (CBS)
+LOCATION:Acrisure Stadium\, Pittsburgh\, PA
+DESCRIPTION:Week 3\nTV: CBS\nVenue: Acrisure Stadium\, Pittsburgh\, PA\nFin
+ al: Bengals 27\, Steelers 30\nUnofficial calendar\; not affiliated with th
+ e NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872969@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261004T170000Z
+DTEND:20261004T200000Z
+SUMMARY:Jaguars @ Bengals (CBS)
+LOCATION:Paycor Stadium\, Cincinnati\, OH
+DESCRIPTION:Week 4\nTV: CBS\nVenue: Paycor Stadium\, Cincinnati\, OH\nFinal
+ : Jaguars 22\, Bengals 17\nUnofficial calendar\; not affiliated with the N
+ FL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872982@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261011T170000Z
+DTEND:20261011T200000Z
+SUMMARY:Bengals @ Dolphins (Fox)
+LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
+DESCRIPTION:Week 5\nTV: Fox\nVenue: Hard Rock Stadium\, Miami Gardens\, FL\
+ nFinal: Bengals 31\, Dolphins 24\nUnofficial calendar\; not affiliated wit
+ h the NFL or ESPN. Times may change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873012@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261025T170000Z
+DTEND:20261025T200000Z
+SUMMARY:Bengals @ Ravens (CBS)
+LOCATION:M&T Bank Stadium\, Baltimore\, MD
+DESCRIPTION:Week 7\nTV: CBS\nVenue: M&T Bank Stadium\, Baltimore\, MD\nUnof
+ ficial calendar\; not affiliated with the NFL or ESPN. Times may change (f
+ lex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873031@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261101T180000Z
+DTEND:20261101T210000Z
+SUMMARY:Titans @ Bengals (CBS)
+LOCATION:Paycor Stadium\, Cincinnati\, OH
+DESCRIPTION:Week 8\nTV: CBS\nVenue: Paycor Stadium\, Cincinnati\, OH\nUnoff
+ icial calendar\; not affiliated with the NFL or ESPN. Times may change (fl
+ ex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873038@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261108T143000Z
+DTEND:20261108T173000Z
+SUMMARY:Bengals @ Falcons (NFL Network)
+LOCATION:Santiago Bernabéu\, Madrid\, Spain
+DESCRIPTION:Week 9\nTV: NFL Network\nVenue: Santiago Bernabéu\, Madrid\, S
+ pain\nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may
+  change (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873064@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261116T012000Z
+DTEND:20261116T042000Z
+SUMMARY:Steelers @ Bengals (NBC)
+LOCATION:Paycor Stadium\, Cincinnati\, OH
+DESCRIPTION:Week 10\nTV: NBC\nVenue: Paycor Stadium\, Cincinnati\, OH\nUnof
+ ficial calendar\; not affiliated with the NFL or ESPN. Times may change (f
+ lex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873078@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261124T011500Z
+DTEND:20261124T041500Z
+SUMMARY:Bengals @ Commanders (ESPN)
+LOCATION:Northwest Stadium\, Landover\, MD
+DESCRIPTION:Week 11\nTV: ESPN\nVenue: Northwest Stadium\, Landover\, MD\nUn
+ official calendar\; not affiliated with the NFL or ESPN. Times may change 
+ (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873087@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261129T180000Z
+DTEND:20261129T210000Z
+SUMMARY:Saints @ Bengals (CBS)
+LOCATION:Paycor Stadium\, Cincinnati\, OH
+DESCRIPTION:Week 12\nTV: CBS\nVenue: Paycor Stadium\, Cincinnati\, OH\nUnof
+ ficial calendar\; not affiliated with the NFL or ESPN. Times may change (f
+ lex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873097@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261206T180000Z
+DTEND:20261206T210000Z
+SUMMARY:Bengals @ Browns (CBS)
+LOCATION:Huntington Bank Field\, Cleveland\, OH
+DESCRIPTION:Week 13\nTV: CBS\nVenue: Huntington Bank Field\, Cleveland\, OH
+ \nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may cha
+ nge (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873119@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261213T212500Z
+DTEND:20261214T002500Z
+SUMMARY:Chiefs @ Bengals (Fox)
+LOCATION:Paycor Stadium\, Cincinnati\, OH
+DESCRIPTION:Week 14\nTV: Fox\nVenue: Paycor Stadium\, Cincinnati\, OH\nUnof
+ ficial calendar\; not affiliated with the NFL or ESPN. Times may change (f
+ lex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873129@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20261220T180000Z
+DTEND:20261220T210000Z
+SUMMARY:Bengals @ Panthers (Fox)
+LOCATION:Bank of America Stadium\, Charlotte\, NC
+DESCRIPTION:Week 15\nTV: Fox\nVenue: Bank of America Stadium\, Charlotte\, 
+ NC\nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may c
+ hange (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873145@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:Bengals @ Colts
+LOCATION:Lucas Oil Stadium\, Indianapolis\, IN
+DESCRIPTION:Week 16\nTV: TBD\nVenue: Lucas Oil Stadium\, Indianapolis\, IN\
+ nDate/time not yet set by the NFL\; this is a placeholder.\nUnofficial cal
+ endar\; not affiliated with the NFL or ESPN. Times may change (flex schedu
+ ling).
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873156@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART:20270101T011500Z
+DTEND:20270101T041500Z
+SUMMARY:Ravens @ Bengals (Prime Video)
+LOCATION:Paycor Stadium\, Cincinnati\, OH
+DESCRIPTION:Week 17\nTV: Prime Video\nVenue: Paycor Stadium\, Cincinnati\, 
+ OH\nUnofficial calendar\; not affiliated with the NFL or ESPN. Times may c
+ hange (flex scheduling).
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873174@nfl-calendars
+DTSTAMP:20261017T185713Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Browns @ Bengals
+LOCATION:Paycor Stadium\, Cincinnati\, OH
+DESCRIPTION:Week 18\nTV: TBD\nVenue: Paycor Stadium\, Cincinnati\, OH\nDate
+ /time not yet set by the NFL\; this is a placeholder.\nUnofficial calendar
+ \; not affiliated with the NFL or ESPN. Times may change (flex scheduling)
+ .
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

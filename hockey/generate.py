@@ -587,6 +587,10 @@ def write_if_changed(path, content, ignore_dtstamp=False):
 
 
 # ----------------------------------------------------------------- HTML
+# index.html loads docs/assets/subscribe.js. That script opens webcal:// links
+# from a throwaway iframe on iOS WKWebView browsers so the tab does not keep a
+# failed main-frame navigation. Keep the script tag. The plain href is the
+# no-JS, Safari, and desktop fallback.
 def swatch_style(pair):
     if not pair or not pair[0]:
         return ""

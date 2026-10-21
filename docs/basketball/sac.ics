@@ -10,33 +10,33 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:espn-401909842@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261022T023000Z
 DTEND:20261022T050000Z
-SUMMARY:Kings @ Clippers
+SUMMARY:Kings @ Clippers (NBC Sports CA)
 LOCATION:Intuit Dome\, Inglewood\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Intuit Dome\, Inglewood\, CA\nU
- nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
- .
+DESCRIPTION:Regular Season\nTV: NBC Sports CA\nVenue: Intuit Dome\, Inglewo
+ od\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909852@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261024T020000Z
 DTEND:20261024T043000Z
-SUMMARY:Trail Blazers @ Kings
+SUMMARY:Trail Blazers @ Kings (KUNP 16 / BlazerVision)
 LOCATION:Golden 1 Center\, Sacramento\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Golden 1 Center\, Sacramento\, 
- CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: KUNP 16 / BlazerVision\nVenue: Golden 1 Cen
+ ter\, Sacramento\, CA\nUnofficial calendar\; not affiliated with the NBA o
+ r ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909867@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261026T010000Z
 DTEND:20261026T033000Z
 SUMMARY:Grizzlies @ Kings
@@ -49,84 +49,86 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909879@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261028T000000Z
 DTEND:20261028T023000Z
-SUMMARY:Kings @ Spurs
+SUMMARY:Kings @ Spurs (NBC Sports CA)
 LOCATION:Frost Bank Center\, San Antonio\, TX
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Frost Bank Center\, San Antonio
- \, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
- y change.
+DESCRIPTION:Regular Season\nTV: NBC Sports CA\nVenue: Frost Bank Center\, S
+ an Antonio\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN
+ . Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909894@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261030T000000Z
 DTEND:20261030T023000Z
-SUMMARY:Kings @ Pelicans
+SUMMARY:Kings @ Pelicans (NBC Sports CA)
 LOCATION:Smoothie King Center\, New Orleans\, LA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Smoothie King Center\, New Orle
- ans\, LA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
-  may change.
+DESCRIPTION:Regular Season\nTV: NBC Sports CA\nVenue: Smoothie King Center\
+ , New Orleans\, LA\nUnofficial calendar\; not affiliated with the NBA or E
+ SPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909899@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261101T000000Z
 DTEND:20261101T023000Z
-SUMMARY:Kings @ Grizzlies
+SUMMARY:Kings @ Grizzlies (NBC Sports CA)
 LOCATION:FedExForum\, Memphis\, TN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: FedExForum\, Memphis\, TN\nUnof
- ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: NBC Sports CA\nVenue: FedExForum\, Memphis\
+ , TN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909913@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261103T010000Z
 DTEND:20261103T033000Z
-SUMMARY:Kings @ Mavericks
+SUMMARY:Kings @ Mavericks (KFAA-TV / MavsTV)
 LOCATION:American Airlines Center\, Dallas\, TX
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: American Airlines Center\, Dall
- as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: KFAA-TV / MavsTV\nVenue: American Airlines 
+ Center\, Dallas\, TX\nUnofficial calendar\; not affiliated with the NBA or
+  ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909934@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261105T030000Z
 DTEND:20261105T053000Z
-SUMMARY:Lakers @ Kings
+SUMMARY:Lakers @ Kings (Spectrum Sports Net / Spectrum Sports Net + / NBC S
+ ports CA)
 LOCATION:Golden 1 Center\, Sacramento\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Golden 1 Center\, Sacramento\, 
- CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: Spectrum Sports Net / Spectrum Sports Net +
+  / NBC Sports CA\nVenue: Golden 1 Center\, Sacramento\, CA\nUnofficial cal
+ endar\; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909295@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261107T030000Z
 DTEND:20261107T053000Z
-SUMMARY:Spurs @ Kings
+SUMMARY:Spurs @ Kings (NBC Sports CA)
 LOCATION:Golden 1 Center\, Sacramento\, CA
-DESCRIPTION:NBA Cup - Group Play\nTV: TBD\nVenue: Golden 1 Center\, Sacrame
- nto\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
-  may change.
+DESCRIPTION:NBA Cup - Group Play\nTV: NBC Sports CA\nVenue: Golden 1 Center
+ \, Sacramento\, CA\nUnofficial calendar\; not affiliated with the NBA or E
+ SPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909951@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261109T020000Z
 DTEND:20261109T043000Z
 SUMMARY:Heat @ Kings
@@ -139,72 +141,72 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909964@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261111T030000Z
 DTEND:20261111T053000Z
-SUMMARY:Magic @ Kings
+SUMMARY:Magic @ Kings (NBC Sports CA)
 LOCATION:Golden 1 Center\, Sacramento\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Golden 1 Center\, Sacramento\, 
- CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: NBC Sports CA\nVenue: Golden 1 Center\, Sac
+ ramento\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
+ imes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909303@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261114T030000Z
 DTEND:20261114T053000Z
-SUMMARY:Trail Blazers @ Kings
+SUMMARY:Trail Blazers @ Kings (KUNP 16 / BlazerVision / NBC Sports CA)
 LOCATION:Golden 1 Center\, Sacramento\, CA
-DESCRIPTION:NBA Cup - Group Play\nTV: TBD\nVenue: Golden 1 Center\, Sacrame
- nto\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
-  may change.
+DESCRIPTION:NBA Cup - Group Play\nTV: KUNP 16 / BlazerVision / NBC Sports C
+ A\nVenue: Golden 1 Center\, Sacramento\, CA\nUnofficial calendar\; not aff
+ iliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909993@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261116T020000Z
 DTEND:20261116T043000Z
-SUMMARY:Thunder @ Kings
+SUMMARY:Thunder @ Kings (KSBI)
 LOCATION:Golden 1 Center\, Sacramento\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Golden 1 Center\, Sacramento\, 
- CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: KSBI\nVenue: Golden 1 Center\, Sacramento\,
+  CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
+ change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910018@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261119T030000Z
 DTEND:20261119T053000Z
-SUMMARY:Suns @ Kings
+SUMMARY:Suns @ Kings (NBC Sports CA / Suns Live)
 LOCATION:Golden 1 Center\, Sacramento\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Golden 1 Center\, Sacramento\, 
- CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Suns Live\nVenue: Golden 1 
+ Center\, Sacramento\, CA\nUnofficial calendar\; not affiliated with the NB
+ A or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909313@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261121T030000Z
 DTEND:20261121T053000Z
-SUMMARY:Kings @ Lakers
+SUMMARY:Kings @ Lakers (Spectrum Sports Net / Spectrum Sports Net +)
 LOCATION:crypto.com Arena\, Los Angeles\, CA
-DESCRIPTION:NBA Cup - Group Play\nTV: TBD\nVenue: crypto.com Arena\, Los An
- geles\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
- es may change.
+DESCRIPTION:NBA Cup - Group Play\nTV: Spectrum Sports Net / Spectrum Sports
+  Net +\nVenue: crypto.com Arena\, Los Angeles\, CA\nUnofficial calendar\; 
+ not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910028@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261122T030000Z
 DTEND:20261122T053000Z
 SUMMARY:Celtics @ Kings (NBA TV)
@@ -217,123 +219,124 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910045@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261124T030000Z
 DTEND:20261124T053000Z
-SUMMARY:Spurs @ Kings
+SUMMARY:Spurs @ Kings (NBC Sports CA)
 LOCATION:Golden 1 Center\, Sacramento\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Golden 1 Center\, Sacramento\, 
- CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: NBC Sports CA\nVenue: Golden 1 Center\, Sac
+ ramento\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
+ imes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909324@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261126T030000Z
 DTEND:20261126T053000Z
-SUMMARY:Kings @ Warriors
+SUMMARY:Kings @ Warriors (NBC Sports BA / NBC Sports CA)
 LOCATION:Chase Center\, San Francisco\, CA
-DESCRIPTION:NBA Cup - Group Play\nTV: TBD\nVenue: Chase Center\, San Franci
- sco\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
-  may change.
+DESCRIPTION:NBA Cup - Group Play\nTV: NBC Sports BA / NBC Sports CA\nVenue:
+  Chase Center\, San Francisco\, CA\nUnofficial calendar\; not affiliated w
+ ith the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910060@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261130T020000Z
 DTEND:20261130T043000Z
-SUMMARY:Timberwolves @ Kings
+SUMMARY:Timberwolves @ Kings (NBC Sports CA)
 LOCATION:Golden 1 Center\, Sacramento\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Golden 1 Center\, Sacramento\, 
- CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: NBC Sports CA\nVenue: Golden 1 Center\, Sac
+ ramento\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
+ imes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910067@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261201T030000Z
 DTEND:20261201T053000Z
-SUMMARY:Pelicans @ Kings
+SUMMARY:Pelicans @ Kings (NBC Sports CA)
 LOCATION:Golden 1 Center\, Sacramento\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Golden 1 Center\, Sacramento\, 
- CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: NBC Sports CA\nVenue: Golden 1 Center\, Sac
+ ramento\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
+ imes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910083@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261203T020000Z
 DTEND:20261203T043000Z
-SUMMARY:Kings @ Suns
+SUMMARY:Kings @ Suns (NBC Sports CA)
 LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Mortgage Matchup Center\, Phoen
- ix\, AZ\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: NBC Sports CA\nVenue: Mortgage Matchup Cent
+ er\, Phoenix\, AZ\nUnofficial calendar\; not affiliated with the NBA or ES
+ PN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910103@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261214T020000Z
 DTEND:20261214T043000Z
-SUMMARY:Pelicans @ Kings
+SUMMARY:Pelicans @ Kings (NBC Sports CA)
 LOCATION:Golden 1 Center\, Sacramento\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Golden 1 Center\, Sacramento\, 
- CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: NBC Sports CA\nVenue: Golden 1 Center\, Sac
+ ramento\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
+ imes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910127@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261217T010000Z
 DTEND:20261217T033000Z
-SUMMARY:Kings @ Thunder
+SUMMARY:Kings @ Thunder (KSBI)
 LOCATION:Paycom Center\, Oklahoma City\, OK
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Paycom Center\, Oklahoma City\,
-  OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: KSBI\nVenue: Paycom Center\, Oklahoma City\
+ , OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910143@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261219T010000Z
 DTEND:20261219T033000Z
-SUMMARY:Kings @ Pelicans
+SUMMARY:Kings @ Pelicans (NBC Sports CA)
 LOCATION:Smoothie King Center\, New Orleans\, LA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Smoothie King Center\, New Orle
- ans\, LA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
-  may change.
+DESCRIPTION:Regular Season\nTV: NBC Sports CA\nVenue: Smoothie King Center\
+ , New Orleans\, LA\nUnofficial calendar\; not affiliated with the NBA or E
+ SPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910153@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261220T230000Z
 DTEND:20261221T013000Z
-SUMMARY:Kings @ Heat
+SUMMARY:Kings @ Heat (WPLG / NBC Sports CA)
 LOCATION:Kaseya Center\, Miami\, FL
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Kaseya Center\, Miami\, FL\nUno
- fficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: WPLG / NBC Sports CA\nVenue: Kaseya Center\
+ , Miami\, FL\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
+ imes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910161@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261222T000000Z
 DTEND:20261222T023000Z
 SUMMARY:Kings @ Magic
@@ -345,20 +348,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910185@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261224T030000Z
 DTEND:20261224T053000Z
-SUMMARY:Mavericks @ Kings
+SUMMARY:Mavericks @ Kings (NBC Sports CA)
 LOCATION:Golden 1 Center\, Sacramento\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Golden 1 Center\, Sacramento\, 
- CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: NBC Sports CA\nVenue: Golden 1 Center\, Sac
+ ramento\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
+ imes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910200@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261227T230000Z
 DTEND:20261228T013000Z
 SUMMARY:Jazz @ Kings
@@ -371,72 +374,72 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910218@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261230T030000Z
 DTEND:20261230T053000Z
-SUMMARY:76ers @ Kings
+SUMMARY:76ers @ Kings (NBC Sports CA)
 LOCATION:Golden 1 Center\, Sacramento\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Golden 1 Center\, Sacramento\, 
- CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: NBC Sports CA\nVenue: Golden 1 Center\, Sac
+ ramento\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
+ imes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910231@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261231T230000Z
 DTEND:20270101T013000Z
-SUMMARY:Nets @ Kings
+SUMMARY:Nets @ Kings (DAZN (YES))
 LOCATION:Golden 1 Center\, Sacramento\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Golden 1 Center\, Sacramento\, 
- CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: Golden 1 Center\, Sacram
+ ento\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
+ s may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910249@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270103T020000Z
 DTEND:20270103T043000Z
-SUMMARY:Kings @ Suns
+SUMMARY:Kings @ Suns (Suns Live / NBC Sports CA)
 LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Mortgage Matchup Center\, Phoen
- ix\, AZ\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: Suns Live / NBC Sports CA\nVenue: Mortgage 
+ Matchup Center\, Phoenix\, AZ\nUnofficial calendar\; not affiliated with t
+ he NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910258@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270104T010000Z
 DTEND:20270104T033000Z
-SUMMARY:Kings @ Thunder
+SUMMARY:Kings @ Thunder (KSBI / NBC Sports CA)
 LOCATION:Paycom Center\, Oklahoma City\, OK
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Paycom Center\, Oklahoma City\,
-  OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: KSBI / NBC Sports CA\nVenue: Paycom Center\
+ , Oklahoma City\, OK\nUnofficial calendar\; not affiliated with the NBA or
+  ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910273@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270106T030000Z
 DTEND:20270106T053000Z
-SUMMARY:Pistons @ Kings
+SUMMARY:Pistons @ Kings (NBC Sports CA)
 LOCATION:Golden 1 Center\, Sacramento\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Golden 1 Center\, Sacramento\, 
- CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: NBC Sports CA\nVenue: Golden 1 Center\, Sac
+ ramento\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
+ imes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910290@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270108T030000Z
 DTEND:20270108T053000Z
 SUMMARY:Bulls @ Kings
@@ -449,7 +452,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910298@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270109T030000Z
 DTEND:20270109T053000Z
 SUMMARY:Knicks @ Kings
@@ -462,20 +465,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910312@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270111T020000Z
 DTEND:20270111T043000Z
-SUMMARY:Hornets @ Kings
+SUMMARY:Hornets @ Kings (NBC Sports CA)
 LOCATION:Golden 1 Center\, Sacramento\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Golden 1 Center\, Sacramento\, 
- CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: NBC Sports CA\nVenue: Golden 1 Center\, Sac
+ ramento\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
+ imes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910326@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270113T040000Z
 DTEND:20270113T063000Z
 SUMMARY:Kings @ Warriors (NBC)
@@ -488,7 +491,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910342@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270115T030000Z
 DTEND:20270115T053000Z
 SUMMARY:Clippers @ Kings
@@ -501,71 +504,72 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910349@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270116T030000Z
 DTEND:20270116T053000Z
-SUMMARY:Kings @ Trail Blazers
+SUMMARY:Kings @ Trail Blazers (KUNP 16 / BlazerVision / NBC Sports CA)
 LOCATION:Moda Center\, Portland\, OR
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Moda Center\, Portland\, OR\nUn
- official calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: KUNP 16 / BlazerVision / NBC Sports CA\nVen
+ ue: Moda Center\, Portland\, OR\nUnofficial calendar\; not affiliated with
+  the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910361@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270117T220000Z
 DTEND:20270118T003000Z
-SUMMARY:Kings @ Jazz
+SUMMARY:Kings @ Jazz (NBC Sports CA)
 LOCATION:Delta Center\, Salt Lake City\, UT
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Delta Center\, Salt Lake City\,
-  UT\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: NBC Sports CA\nVenue: Delta Center\, Salt L
+ ake City\, UT\nUnofficial calendar\; not affiliated with the NBA or ESPN. 
+ Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910374@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270120T030000Z
 DTEND:20270120T053000Z
-SUMMARY:Lakers @ Kings
+SUMMARY:Lakers @ Kings (Spectrum Sports Net / Spectrum Sports Net +)
 LOCATION:Golden 1 Center\, Sacramento\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Golden 1 Center\, Sacramento\, 
- CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: Spectrum Sports Net / Spectrum Sports Net +
+ \nVenue: Golden 1 Center\, Sacramento\, CA\nUnofficial calendar\; not affi
+ liated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910384@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270121T030000Z
 DTEND:20270121T053000Z
-SUMMARY:Bucks @ Kings
+SUMMARY:Bucks @ Kings (NBC Sports CA)
 LOCATION:Golden 1 Center\, Sacramento\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Golden 1 Center\, Sacramento\, 
- CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: NBC Sports CA\nVenue: Golden 1 Center\, Sac
+ ramento\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
+ imes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910398@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270123T030000Z
 DTEND:20270123T053000Z
-SUMMARY:Kings @ Lakers
+SUMMARY:Kings @ Lakers (Spectrum Sports Net / NBC Sports CA)
 LOCATION:crypto.com Arena\, Los Angeles\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: crypto.com Arena\, Los Angeles\
- , CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:Regular Season\nTV: Spectrum Sports Net / NBC Sports CA\nVenue:
+  crypto.com Arena\, Los Angeles\, CA\nUnofficial calendar\; not affiliated
+  with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910420@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270126T023000Z
 DTEND:20270126T050000Z
 SUMMARY:Kings @ Nuggets (NBCSN)
@@ -577,7 +581,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910429@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270128T000000Z
 DTEND:20270128T023000Z
 SUMMARY:Kings @ 76ers
@@ -590,7 +594,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910440@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270129T000000Z
 DTEND:20270129T023000Z
 SUMMARY:Kings @ Wizards
@@ -603,72 +607,72 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910459@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270131T200000Z
 DTEND:20270131T223000Z
-SUMMARY:Kings @ Pistons
+SUMMARY:Kings @ Pistons (NBC Sports CA)
 LOCATION:Little Caesars Arena\, Detroit\, MI
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Little Caesars Arena\, Detroit\
- , MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:Regular Season\nTV: NBC Sports CA\nVenue: Little Caesars Arena\
+ , Detroit\, MI\nUnofficial calendar\; not affiliated with the NBA or ESPN.
+  Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910497@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270205T030000Z
 DTEND:20270205T053000Z
-SUMMARY:Timberwolves @ Kings
+SUMMARY:Timberwolves @ Kings (NBC Sports CA)
 LOCATION:Golden 1 Center\, Sacramento\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Golden 1 Center\, Sacramento\, 
- CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: NBC Sports CA\nVenue: Golden 1 Center\, Sac
+ ramento\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
+ imes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910512@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270207T030000Z
 DTEND:20270207T053000Z
-SUMMARY:Suns @ Kings
+SUMMARY:Suns @ Kings (NBC Sports CA / Suns Live)
 LOCATION:Golden 1 Center\, Sacramento\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Golden 1 Center\, Sacramento\, 
- CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / Suns Live\nVenue: Golden 1 
+ Center\, Sacramento\, CA\nUnofficial calendar\; not affiliated with the NB
+ A or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910520@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270208T033000Z
 DTEND:20270208T060000Z
-SUMMARY:Rockets @ Kings
+SUMMARY:Rockets @ Kings (NBC Sports CA)
 LOCATION:Golden 1 Center\, Sacramento\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Golden 1 Center\, Sacramento\, 
- CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: NBC Sports CA\nVenue: Golden 1 Center\, Sac
+ ramento\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
+ imes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910534@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270210T010000Z
 DTEND:20270210T033000Z
-SUMMARY:Kings @ Bucks
+SUMMARY:Kings @ Bucks (MyMi)
 LOCATION:Fiserv Forum\, Milwaukee\, WI
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Fiserv Forum\, Milwaukee\, WI\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: MyMi\nVenue: Fiserv Forum\, Milwaukee\, WI\
+ nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may chan
+ ge.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910549@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270212T013000Z
 DTEND:20270212T040000Z
 SUMMARY:Kings @ Rockets
@@ -681,7 +685,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910560@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270213T190000Z
 DTEND:20270213T213000Z
 SUMMARY:Kings @ Pacers
@@ -694,20 +698,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910567@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270214T180000Z
 DTEND:20270214T203000Z
-SUMMARY:Kings @ Hawks
+SUMMARY:Kings @ Hawks (NBC Sports CA)
 LOCATION:State Farm Arena\, Atlanta\, GA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: State Farm Arena\, Atlanta\, GA
- \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
- nge.
+DESCRIPTION:Regular Season\nTV: NBC Sports CA\nVenue: State Farm Arena\, At
+ lanta\, GA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
+ es may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910594@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270218T030000Z
 DTEND:20270218T053000Z
 SUMMARY:Pacers @ Kings
@@ -720,7 +724,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910600@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270226T000000Z
 DTEND:20270226T023000Z
 SUMMARY:Kings @ Cavaliers
@@ -733,7 +737,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910620@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270228T010000Z
 DTEND:20270228T033000Z
 SUMMARY:Kings @ Grizzlies
@@ -745,7 +749,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910627@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270301T000000Z
 DTEND:20270301T023000Z
 SUMMARY:Kings @ Hornets
@@ -758,7 +762,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910645@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270303T030000Z
 DTEND:20270303T053000Z
 SUMMARY:Wizards @ Kings
@@ -771,97 +775,98 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910660@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270305T030000Z
 DTEND:20270305T053000Z
-SUMMARY:Thunder @ Kings
+SUMMARY:Thunder @ Kings (KSBI / NBC Sports CA)
 LOCATION:Golden 1 Center\, Sacramento\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Golden 1 Center\, Sacramento\, 
- CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: KSBI / NBC Sports CA\nVenue: Golden 1 Cente
+ r\, Sacramento\, CA\nUnofficial calendar\; not affiliated with the NBA or 
+ ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910674@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270307T030000Z
 DTEND:20270307T053000Z
-SUMMARY:Clippers @ Kings
+SUMMARY:Clippers @ Kings (ClipperVision)
 LOCATION:Golden 1 Center\, Sacramento\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Golden 1 Center\, Sacramento\, 
- CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: ClipperVision\nVenue: Golden 1 Center\, Sac
+ ramento\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
+ imes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910687@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270309T030000Z
 DTEND:20270309T053000Z
-SUMMARY:Nuggets @ Kings
+SUMMARY:Nuggets @ Kings (NBC Sports CA)
 LOCATION:Golden 1 Center\, Sacramento\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Golden 1 Center\, Sacramento\, 
- CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: NBC Sports CA\nVenue: Golden 1 Center\, Sac
+ ramento\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
+ imes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910702@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270311T030000Z
 DTEND:20270311T053000Z
-SUMMARY:Warriors @ Kings
+SUMMARY:Warriors @ Kings (NBC Sports CA / NBC Sports BA)
 LOCATION:Golden 1 Center\, Sacramento\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Golden 1 Center\, Sacramento\, 
- CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / NBC Sports BA\nVenue: Golde
+ n 1 Center\, Sacramento\, CA\nUnofficial calendar\; not affiliated with th
+ e NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910716@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270313T023000Z
 DTEND:20270313T050000Z
-SUMMARY:Kings @ Jazz
+SUMMARY:Kings @ Jazz (KJZZ-TV / Jazz+)
 LOCATION:Delta Center\, Salt Lake City\, UT
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Delta Center\, Salt Lake City\,
-  UT\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+\nVenue: Delta Center\, Salt
+  Lake City\, UT\nUnofficial calendar\; not affiliated with the NBA or ESPN
+ . Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910730@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270314T220000Z
 DTEND:20270315T003000Z
-SUMMARY:Cavaliers @ Kings
+SUMMARY:Cavaliers @ Kings (NBC Sports CA)
 LOCATION:Golden 1 Center\, Sacramento\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Golden 1 Center\, Sacramento\, 
- CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: NBC Sports CA\nVenue: Golden 1 Center\, Sac
+ ramento\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
+ imes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910740@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270316T233000Z
 DTEND:20270317T020000Z
-SUMMARY:Kings @ Celtics
+SUMMARY:Kings @ Celtics (NBC Sports BO / NBC Sports CA)
 LOCATION:TD Garden\, Boston\, MA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: TD Garden\, Boston\, MA\nUnoffi
- cial calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: NBC Sports BO / NBC Sports CA\nVenue: TD Ga
+ rden\, Boston\, MA\nUnofficial calendar\; not affiliated with the NBA or E
+ SPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910750@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270317T233000Z
 DTEND:20270318T020000Z
 SUMMARY:Kings @ Knicks
@@ -874,20 +879,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910766@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270319T233000Z
 DTEND:20270320T020000Z
-SUMMARY:Kings @ Raptors
+SUMMARY:Kings @ Raptors (NBC Sports CA)
 LOCATION:Scotiabank Arena\, Toronto\, ON
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Scotiabank Arena\, Toronto\, ON
- \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
- nge.
+DESCRIPTION:Regular Season\nTV: NBC Sports CA\nVenue: Scotiabank Arena\, To
+ ronto\, ON\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
+ es may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910780@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270321T190000Z
 DTEND:20270321T213000Z
 SUMMARY:Kings @ Nets (NBA TV)
@@ -900,85 +905,85 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910788@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270323T000000Z
 DTEND:20270323T023000Z
-SUMMARY:Kings @ Bulls
+SUMMARY:Kings @ Bulls (CHSN / NBC Sports CA)
 LOCATION:United Center\, Chicago\, IL
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: United Center\, Chicago\, IL\nU
- nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
- .
+DESCRIPTION:Regular Season\nTV: CHSN / NBC Sports CA\nVenue: United Center\
+ , Chicago\, IL\nUnofficial calendar\; not affiliated with the NBA or ESPN.
+  Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910809@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270325T020000Z
 DTEND:20270325T043000Z
-SUMMARY:Hawks @ Kings
+SUMMARY:Hawks @ Kings (NBC Sports CA)
 LOCATION:Golden 1 Center\, Sacramento\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Golden 1 Center\, Sacramento\, 
- CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: NBC Sports CA\nVenue: Golden 1 Center\, Sac
+ ramento\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
+ imes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910830@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270328T020000Z
 DTEND:20270328T043000Z
-SUMMARY:Raptors @ Kings
+SUMMARY:Raptors @ Kings (NBC Sports CA)
 LOCATION:Golden 1 Center\, Sacramento\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Golden 1 Center\, Sacramento\, 
- CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: NBC Sports CA\nVenue: Golden 1 Center\, Sac
+ ramento\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
+ imes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910847@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270330T020000Z
 DTEND:20270330T043000Z
-SUMMARY:Nuggets @ Kings
+SUMMARY:Nuggets @ Kings (NBC Sports CA)
 LOCATION:Golden 1 Center\, Sacramento\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Golden 1 Center\, Sacramento\, 
- CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: NBC Sports CA\nVenue: Golden 1 Center\, Sac
+ ramento\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
+ imes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910860@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270401T000000Z
 DTEND:20270401T023000Z
-SUMMARY:Kings @ Timberwolves
+SUMMARY:Kings @ Timberwolves (NBC Sports CA)
 LOCATION:Target Center\, Minneapolis\, MN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Target Center\, Minneapolis\, M
- N\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
- ange.
+DESCRIPTION:Regular Season\nTV: NBC Sports CA\nVenue: Target Center\, Minne
+ apolis\, MN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Ti
+ mes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910873@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270403T000000Z
 DTEND:20270403T023000Z
-SUMMARY:Kings @ Mavericks
+SUMMARY:Kings @ Mavericks (KFAA-TV / MavsTV)
 LOCATION:American Airlines Center\, Dallas\, TX
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: American Airlines Center\, Dall
- as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: KFAA-TV / MavsTV\nVenue: American Airlines 
+ Center\, Dallas\, TX\nUnofficial calendar\; not affiliated with the NBA or
+  ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910892@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270404T220000Z
 DTEND:20270405T003000Z
 SUMMARY:Warriors @ Kings
@@ -991,7 +996,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910903@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270407T000000Z
 DTEND:20270407T023000Z
 SUMMARY:Kings @ Spurs
@@ -1004,20 +1009,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910915@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270408T003000Z
 DTEND:20270408T030000Z
-SUMMARY:Kings @ Rockets
+SUMMARY:Kings @ Rockets (NBC Sports CA)
 LOCATION:Toyota Center (Houston)\, Houston\, TX
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Toyota Center (Houston)\, Houst
- on\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: NBC Sports CA\nVenue: Toyota Center (Housto
+ n)\, Houston\, TX\nUnofficial calendar\; not affiliated with the NBA or ES
+ PN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910936@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270410T020000Z
 DTEND:20270410T043000Z
 SUMMARY:Mavericks @ Kings
@@ -1030,14 +1035,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910950@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270412T003000Z
 DTEND:20270412T030000Z
-SUMMARY:Kings @ Clippers
+SUMMARY:Kings @ Clippers (NBC Sports CA)
 LOCATION:Intuit Dome\, Inglewood\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Intuit Dome\, Inglewood\, CA\nU
- nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
- .
+DESCRIPTION:Regular Season\nTV: NBC Sports CA\nVenue: Intuit Dome\, Inglewo
+ od\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT

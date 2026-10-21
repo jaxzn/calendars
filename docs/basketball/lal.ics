@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:espn-401909092@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261022T020000Z
 DTEND:20261022T043000Z
 SUMMARY:Warriors @ Lakers (ESPN)
@@ -23,59 +23,60 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909851@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261024T020000Z
 DTEND:20261024T043000Z
-SUMMARY:Clippers @ Lakers
+SUMMARY:Clippers @ Lakers (Spectrum Sports Net / Spectrum Sports Net + / Cl
+ ipperVision)
 LOCATION:crypto.com Arena\, Los Angeles\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: crypto.com Arena\, Los Angeles\
- , CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:Regular Season\nTV: Spectrum Sports Net / Spectrum Sports Net +
+  / ClipperVision\nVenue: crypto.com Arena\, Los Angeles\, CA\nUnofficial c
+ alendar\; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909861@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261025T210000Z
 DTEND:20261025T233000Z
-SUMMARY:Lakers @ Jazz
+SUMMARY:Lakers @ Jazz (Spectrum Sports Net / Spectrum Sports Net +)
 LOCATION:Delta Center\, Salt Lake City\, UT
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Delta Center\, Salt Lake City\,
-  UT\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: Spectrum Sports Net / Spectrum Sports Net +
+ \nVenue: Delta Center\, Salt Lake City\, UT\nUnofficial calendar\; not aff
+ iliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909880@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261028T030000Z
 DTEND:20261028T053000Z
-SUMMARY:Trail Blazers @ Lakers (Peacock)
+SUMMARY:Trail Blazers @ Lakers (Peacock / NBC)
 LOCATION:crypto.com Arena\, Los Angeles\, CA
-DESCRIPTION:Regular Season\nTV: Peacock\nVenue: crypto.com Arena\, Los Ange
- les\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
-  may change.
+DESCRIPTION:Regular Season\nTV: Peacock / NBC\nVenue: crypto.com Arena\, Lo
+ s Angeles\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN.
+  Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909892@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261029T023000Z
 DTEND:20261029T050000Z
-SUMMARY:Lakers @ Clippers
+SUMMARY:Lakers @ Clippers (Spectrum Sports Net / Spectrum Sports Net +)
 LOCATION:Intuit Dome\, Inglewood\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Intuit Dome\, Inglewood\, CA\nU
- nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
- .
+DESCRIPTION:Regular Season\nTV: Spectrum Sports Net / Spectrum Sports Net +
+ \nVenue: Intuit Dome\, Inglewood\, CA\nUnofficial calendar\; not affiliate
+ d with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909285@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261031T020000Z
 DTEND:20261031T043000Z
 SUMMARY:Lakers @ Warriors (Prime Video)
@@ -88,46 +89,47 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909906@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261102T020000Z
 DTEND:20261102T043000Z
-SUMMARY:Raptors @ Lakers
+SUMMARY:Raptors @ Lakers (Spectrum Sports Net / Spectrum Sports Net +)
 LOCATION:crypto.com Arena\, Los Angeles\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: crypto.com Arena\, Los Angeles\
- , CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:Regular Season\nTV: Spectrum Sports Net / Spectrum Sports Net +
+ \nVenue: crypto.com Arena\, Los Angeles\, CA\nUnofficial calendar\; not af
+ filiated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909921@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261103T030000Z
 DTEND:20261103T053000Z
-SUMMARY:Heat @ Lakers
+SUMMARY:Heat @ Lakers (Spectrum Sports Net / Spectrum Sports Net + / WPLG)
 LOCATION:crypto.com Arena\, Los Angeles\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: crypto.com Arena\, Los Angeles\
- , CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:Regular Season\nTV: Spectrum Sports Net / Spectrum Sports Net +
+  / WPLG\nVenue: crypto.com Arena\, Los Angeles\, CA\nUnofficial calendar\;
+  not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909934@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261105T030000Z
 DTEND:20261105T053000Z
-SUMMARY:Lakers @ Kings
+SUMMARY:Lakers @ Kings (Spectrum Sports Net / Spectrum Sports Net + / NBC S
+ ports CA)
 LOCATION:Golden 1 Center\, Sacramento\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Golden 1 Center\, Sacramento\, 
- CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: Spectrum Sports Net / Spectrum Sports Net +
+  / NBC Sports CA\nVenue: Golden 1 Center\, Sacramento\, CA\nUnofficial cal
+ endar\; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909294@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261107T030000Z
 DTEND:20261107T053000Z
 SUMMARY:Trail Blazers @ Lakers (Prime Video)
@@ -140,7 +142,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909946@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261108T230000Z
 DTEND:20261109T013000Z
 SUMMARY:Lakers @ Pistons (NBA TV)
@@ -153,85 +155,85 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909952@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261110T000000Z
 DTEND:20261110T023000Z
-SUMMARY:Lakers @ Hawks
+SUMMARY:Lakers @ Hawks (Spectrum Sports Net / Spectrum Sports Net +)
 LOCATION:State Farm Arena\, Atlanta\, GA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: State Farm Arena\, Atlanta\, GA
- \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
- nge.
+DESCRIPTION:Regular Season\nTV: Spectrum Sports Net / Spectrum Sports Net +
+ \nVenue: State Farm Arena\, Atlanta\, GA\nUnofficial calendar\; not affili
+ ated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909971@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261112T010000Z
 DTEND:20261112T033000Z
-SUMMARY:Lakers @ Bucks
+SUMMARY:Lakers @ Bucks (Spectrum Sports Net / Spectrum Sports Net + / MyMi)
 LOCATION:Fiserv Forum\, Milwaukee\, WI
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Fiserv Forum\, Milwaukee\, WI\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: Spectrum Sports Net / Spectrum Sports Net +
+  / MyMi\nVenue: Fiserv Forum\, Milwaukee\, WI\nUnofficial calendar\; not a
+ ffiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909986@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261115T210000Z
 DTEND:20261115T233000Z
-SUMMARY:Lakers @ Suns
+SUMMARY:Lakers @ Suns (Spectrum Sports Net / Spectrum Sports Net +)
 LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Mortgage Matchup Center\, Phoen
- ix\, AZ\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: Spectrum Sports Net / Spectrum Sports Net +
+ \nVenue: Mortgage Matchup Center\, Phoenix\, AZ\nUnofficial calendar\; not
+  affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910005@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261118T030000Z
 DTEND:20261118T053000Z
-SUMMARY:Hornets @ Lakers
+SUMMARY:Hornets @ Lakers (Spectrum Sports Net / Spectrum Sports Net +)
 LOCATION:crypto.com Arena\, Los Angeles\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: crypto.com Arena\, Los Angeles\
- , CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:Regular Season\nTV: Spectrum Sports Net / Spectrum Sports Net +
+ \nVenue: crypto.com Arena\, Los Angeles\, CA\nUnofficial calendar\; not af
+ filiated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910017@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261119T030000Z
 DTEND:20261119T053000Z
-SUMMARY:Jazz @ Lakers
+SUMMARY:Jazz @ Lakers (Spectrum Sports Net)
 LOCATION:crypto.com Arena\, Los Angeles\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: crypto.com Arena\, Los Angeles\
- , CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:Regular Season\nTV: Spectrum Sports Net\nVenue: crypto.com Aren
+ a\, Los Angeles\, CA\nUnofficial calendar\; not affiliated with the NBA or
+  ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909313@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261121T030000Z
 DTEND:20261121T053000Z
-SUMMARY:Kings @ Lakers
+SUMMARY:Kings @ Lakers (Spectrum Sports Net / Spectrum Sports Net +)
 LOCATION:crypto.com Arena\, Los Angeles\, CA
-DESCRIPTION:NBA Cup - Group Play\nTV: TBD\nVenue: crypto.com Arena\, Los An
- geles\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
- es may change.
+DESCRIPTION:NBA Cup - Group Play\nTV: Spectrum Sports Net / Spectrum Sports
+  Net +\nVenue: crypto.com Arena\, Los Angeles\, CA\nUnofficial calendar\; 
+ not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910044@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261124T030000Z
 DTEND:20261124T053000Z
 SUMMARY:Jazz @ Lakers (NBA TV)
@@ -244,7 +246,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909333@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261128T023000Z
 DTEND:20261128T050000Z
 SUMMARY:Lakers @ Spurs (Prime Video)
@@ -257,19 +259,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910051@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261129T210000Z
 DTEND:20261129T233000Z
-SUMMARY:Lakers @ Grizzlies
+SUMMARY:Lakers @ Grizzlies (Spectrum Sports Net / Spectrum Sports Net +)
 LOCATION:FedExForum\, Memphis\, TN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: FedExForum\, Memphis\, TN\nUnof
- ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: Spectrum Sports Net / Spectrum Sports Net +
+ \nVenue: FedExForum\, Memphis\, TN\nUnofficial calendar\; not affiliated w
+ ith the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910064@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261201T003000Z
 DTEND:20261201T030000Z
 SUMMARY:Lakers @ Rockets (NBCSN)
@@ -282,20 +285,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910081@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261203T010000Z
 DTEND:20261203T033000Z
-SUMMARY:Lakers @ Pelicans
+SUMMARY:Lakers @ Pelicans (Spectrum Sports Net / Spectrum Sports Net +)
 LOCATION:Smoothie King Center\, New Orleans\, LA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Smoothie King Center\, New Orle
- ans\, LA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
-  may change.
+DESCRIPTION:Regular Season\nTV: Spectrum Sports Net / Spectrum Sports Net +
+ \nVenue: Smoothie King Center\, New Orleans\, LA\nUnofficial calendar\; no
+ t affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910114@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261215T030000Z
 DTEND:20261215T053000Z
 SUMMARY:Pelicans @ Lakers (NBA TV)
@@ -308,7 +311,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910129@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261217T023000Z
 DTEND:20261217T050000Z
 SUMMARY:Lakers @ Timberwolves (ESPN)
@@ -321,20 +324,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910142@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261219T010000Z
 DTEND:20261219T033000Z
-SUMMARY:Lakers @ Timberwolves
+SUMMARY:Lakers @ Timberwolves (Spectrum Sports Net / Spectrum Sports Net +)
 LOCATION:Target Center\, Minneapolis\, MN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Target Center\, Minneapolis\, M
- N\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
- ange.
+DESCRIPTION:Regular Season\nTV: Spectrum Sports Net / Spectrum Sports Net +
+ \nVenue: Target Center\, Minneapolis\, MN\nUnofficial calendar\; not affil
+ iated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910148@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261220T020000Z
 DTEND:20261220T043000Z
 SUMMARY:Lakers @ Nuggets (NBA TV)
@@ -346,7 +349,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910167@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261222T030000Z
 DTEND:20261222T053000Z
 SUMMARY:Pacers @ Lakers (NBA TV)
@@ -359,7 +362,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910184@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261224T030000Z
 DTEND:20261224T053000Z
 SUMMARY:Nuggets @ Lakers (Prime Video)
@@ -372,7 +375,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909099@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261225T220000Z
 DTEND:20261226T003000Z
 SUMMARY:76ers @ Lakers (ABC / ESPN)
@@ -385,20 +388,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910206@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261228T020000Z
 DTEND:20261228T043000Z
-SUMMARY:Grizzlies @ Lakers
+SUMMARY:Grizzlies @ Lakers (Spectrum Sports Net / Spectrum Sports Net +)
 LOCATION:crypto.com Arena\, Los Angeles\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: crypto.com Arena\, Los Angeles\
- , CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:Regular Season\nTV: Spectrum Sports Net / Spectrum Sports Net +
+ \nVenue: crypto.com Arena\, Los Angeles\, CA\nUnofficial calendar\; not af
+ filiated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910219@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261230T033000Z
 DTEND:20261230T060000Z
 SUMMARY:Rockets @ Lakers (NBC)
@@ -411,59 +414,59 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910232@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270101T010000Z
 DTEND:20270101T033000Z
-SUMMARY:Lakers @ Pelicans
+SUMMARY:Lakers @ Pelicans (Spectrum Sports Net / Spectrum Sports Net +)
 LOCATION:Smoothie King Center\, New Orleans\, LA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Smoothie King Center\, New Orle
- ans\, LA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
-  may change.
+DESCRIPTION:Regular Season\nTV: Spectrum Sports Net / Spectrum Sports Net +
+ \nVenue: Smoothie King Center\, New Orleans\, LA\nUnofficial calendar\; no
+ t affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910246@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270103T010000Z
 DTEND:20270103T033000Z
-SUMMARY:Lakers @ Bulls
+SUMMARY:Lakers @ Bulls (Spectrum Sports Net / Spectrum Sports Net +)
 LOCATION:United Center\, Chicago\, IL
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: United Center\, Chicago\, IL\nU
- nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
- .
+DESCRIPTION:Regular Season\nTV: Spectrum Sports Net / Spectrum Sports Net +
+ \nVenue: United Center\, Chicago\, IL\nUnofficial calendar\; not affiliate
+ d with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910254@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270104T000000Z
 DTEND:20270104T023000Z
-SUMMARY:Lakers @ Raptors
+SUMMARY:Lakers @ Raptors (Spectrum Sports Net / Spectrum Sports Net +)
 LOCATION:Scotiabank Arena\, Toronto\, ON
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Scotiabank Arena\, Toronto\, ON
- \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
- nge.
+DESCRIPTION:Regular Season\nTV: Spectrum Sports Net / Spectrum Sports Net +
+ \nVenue: Scotiabank Arena\, Toronto\, ON\nUnofficial calendar\; not affili
+ ated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910268@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270106T000000Z
 DTEND:20270106T023000Z
-SUMMARY:Lakers @ Wizards
+SUMMARY:Lakers @ Wizards (Spectrum Sports Net / Spectrum Sports Net +)
 LOCATION:Capital One Arena\, Washington\, DC
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Capital One Arena\, Washington\
- , DC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:Regular Season\nTV: Spectrum Sports Net / Spectrum Sports Net +
+ \nVenue: Capital One Arena\, Washington\, DC\nUnofficial calendar\; not af
+ filiated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910289@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270108T030000Z
 DTEND:20270108T053000Z
 SUMMARY:Celtics @ Lakers (Prime Video)
@@ -476,20 +479,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910297@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270109T030000Z
 DTEND:20270109T053000Z
-SUMMARY:Pistons @ Lakers
+SUMMARY:Pistons @ Lakers (Spectrum Sports Net / Spectrum Sports Net +)
 LOCATION:crypto.com Arena\, Los Angeles\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: crypto.com Arena\, Los Angeles\
- , CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:Regular Season\nTV: Spectrum Sports Net / Spectrum Sports Net +
+ \nVenue: crypto.com Arena\, Los Angeles\, CA\nUnofficial calendar\; not af
+ filiated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910318@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270112T030000Z
 DTEND:20270112T053000Z
 SUMMARY:Lakers @ Clippers (NBCSN)
@@ -502,19 +505,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910333@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270114T030000Z
 DTEND:20270114T053000Z
-SUMMARY:Lakers @ Trail Blazers
+SUMMARY:Lakers @ Trail Blazers (KUNP 16 / Spectrum Sports Net / BlazerVisio
+ n / Spectrum Sports Net +)
 LOCATION:Moda Center\, Portland\, OR
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Moda Center\, Portland\, OR\nUn
- official calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: KUNP 16 / Spectrum Sports Net / BlazerVisio
+ n / Spectrum Sports Net +\nVenue: Moda Center\, Portland\, OR\nUnofficial 
+ calendar\; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910341@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270115T030000Z
 DTEND:20270115T053000Z
 SUMMARY:Magic @ Lakers (NBA TV)
@@ -527,33 +532,33 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910364@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270118T020000Z
 DTEND:20270118T043000Z
-SUMMARY:Bucks @ Lakers
+SUMMARY:Bucks @ Lakers (Spectrum Sports Net / Spectrum Sports Net +)
 LOCATION:crypto.com Arena\, Los Angeles\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: crypto.com Arena\, Los Angeles\
- , CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:Regular Season\nTV: Spectrum Sports Net / Spectrum Sports Net +
+ \nVenue: crypto.com Arena\, Los Angeles\, CA\nUnofficial calendar\; not af
+ filiated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910374@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270120T030000Z
 DTEND:20270120T053000Z
-SUMMARY:Lakers @ Kings
+SUMMARY:Lakers @ Kings (Spectrum Sports Net / Spectrum Sports Net +)
 LOCATION:Golden 1 Center\, Sacramento\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Golden 1 Center\, Sacramento\, 
- CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: Spectrum Sports Net / Spectrum Sports Net +
+ \nVenue: Golden 1 Center\, Sacramento\, CA\nUnofficial calendar\; not affi
+ liated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910388@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270122T030000Z
 DTEND:20270122T053000Z
 SUMMARY:Lakers @ Warriors (Prime Video)
@@ -566,33 +571,33 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910398@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270123T030000Z
 DTEND:20270123T053000Z
-SUMMARY:Kings @ Lakers
+SUMMARY:Kings @ Lakers (Spectrum Sports Net / NBC Sports CA)
 LOCATION:crypto.com Arena\, Los Angeles\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: crypto.com Arena\, Los Angeles\
- , CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:Regular Season\nTV: Spectrum Sports Net / NBC Sports CA\nVenue:
+  crypto.com Arena\, Los Angeles\, CA\nUnofficial calendar\; not affiliated
+  with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910408@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270124T210000Z
 DTEND:20270124T233000Z
-SUMMARY:Wizards @ Lakers
+SUMMARY:Wizards @ Lakers (Spectrum Sports Net / Spectrum Sports Net +)
 LOCATION:crypto.com Arena\, Los Angeles\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: crypto.com Arena\, Los Angeles\
- , CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:Regular Season\nTV: Spectrum Sports Net / Spectrum Sports Net +
+ \nVenue: crypto.com Arena\, Los Angeles\, CA\nUnofficial calendar\; not af
+ filiated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910427@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270127T040000Z
 DTEND:20270127T063000Z
 SUMMARY:Thunder @ Lakers (NBC)
@@ -605,20 +610,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910437@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270129T000000Z
 DTEND:20270129T023000Z
-SUMMARY:Lakers @ Pacers
+SUMMARY:Lakers @ Pacers (Spectrum Sports Net / Spectrum Sports Net +)
 LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Gainbridge Fieldhouse\, Indiana
- polis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
- es may change.
+DESCRIPTION:Regular Season\nTV: Spectrum Sports Net / Spectrum Sports Net +
+ \nVenue: Gainbridge Fieldhouse\, Indianapolis\, IN\nUnofficial calendar\; 
+ not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910457@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270131T013000Z
 DTEND:20270131T040000Z
 SUMMARY:Lakers @ Knicks (ABC)
@@ -631,20 +636,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910464@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270201T000000Z
 DTEND:20270201T023000Z
-SUMMARY:Lakers @ Hornets
+SUMMARY:Lakers @ Hornets (Spectrum Sports Net / Spectrum Sports Net +)
 LOCATION:Spectrum Center\, Charlotte\, NC
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Spectrum Center\, Charlotte\, N
- C\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
- ange.
+DESCRIPTION:Regular Season\nTV: Spectrum Sports Net / Spectrum Sports Net +
+ \nVenue: Spectrum Center\, Charlotte\, NC\nUnofficial calendar\; not affil
+ iated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910477@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270203T010000Z
 DTEND:20270203T033000Z
 SUMMARY:Lakers @ Celtics (NBC)
@@ -656,20 +661,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910489@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270205T003000Z
 DTEND:20270205T030000Z
-SUMMARY:Lakers @ Nets
+SUMMARY:Lakers @ Nets (Spectrum Sports Net / Spectrum Sports Net + / DAZN (
+ YES))
 LOCATION:Barclays Center\, Brooklyn\, NY
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Barclays Center\, Brooklyn\, NY
- \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
- nge.
+DESCRIPTION:Regular Season\nTV: Spectrum Sports Net / Spectrum Sports Net +
+  / DAZN (YES)\nVenue: Barclays Center\, Brooklyn\, NY\nUnofficial calendar
+ \; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910511@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270207T013000Z
 DTEND:20270207T040000Z
 SUMMARY:Lakers @ Spurs (ABC)
@@ -682,7 +688,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910527@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270209T023000Z
 DTEND:20270209T050000Z
 SUMMARY:Lakers @ Suns (NBCSN)
@@ -695,7 +701,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910544@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270211T030000Z
 DTEND:20270211T053000Z
 SUMMARY:Clippers @ Lakers (ESPN)
@@ -708,7 +714,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910559@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270213T033000Z
 DTEND:20270213T060000Z
 SUMMARY:Nuggets @ Lakers (ESPN)
@@ -721,20 +727,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910580@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270217T030000Z
 DTEND:20270217T053000Z
-SUMMARY:Bulls @ Lakers
+SUMMARY:Bulls @ Lakers (Spectrum Sports Net / Spectrum Sports Net +)
 LOCATION:crypto.com Arena\, Los Angeles\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: crypto.com Arena\, Los Angeles\
- , CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:Regular Season\nTV: Spectrum Sports Net / Spectrum Sports Net +
+ \nVenue: crypto.com Arena\, Los Angeles\, CA\nUnofficial calendar\; not af
+ filiated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910598@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270219T030000Z
 DTEND:20270219T053000Z
 SUMMARY:Rockets @ Lakers (Prime Video)
@@ -747,7 +753,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910615@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270227T030000Z
 DTEND:20270227T053000Z
 SUMMARY:Lakers @ Nuggets (ESPN)
@@ -759,7 +765,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910624@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270228T203000Z
 DTEND:20270228T230000Z
 SUMMARY:Lakers @ Mavericks (ABC)
@@ -772,19 +778,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910639@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270303T000000Z
 DTEND:20270303T023000Z
-SUMMARY:Lakers @ Magic
+SUMMARY:Lakers @ Magic (Spectrum Sports Net / Spectrum Sports Net +)
 LOCATION:Kia Center\, Orlando\, FL
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Kia Center\, Orlando\, FL\nUnof
- ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: Spectrum Sports Net / Spectrum Sports Net +
+ \nVenue: Kia Center\, Orlando\, FL\nUnofficial calendar\; not affiliated w
+ ith the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910656@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270305T000000Z
 DTEND:20270305T023000Z
 SUMMARY:Lakers @ 76ers (Prime Video)
@@ -797,7 +804,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910673@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270307T013000Z
 DTEND:20270307T040000Z
 SUMMARY:Thunder @ Lakers (ABC)
@@ -810,20 +817,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910680@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270308T033000Z
 DTEND:20270308T060000Z
-SUMMARY:Nets @ Lakers
+SUMMARY:Nets @ Lakers (Spectrum Sports Net / Spectrum Sports Net + / DAZN (
+ YES))
 LOCATION:crypto.com Arena\, Los Angeles\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: crypto.com Arena\, Los Angeles\
- , CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:Regular Season\nTV: Spectrum Sports Net / Spectrum Sports Net +
+  / DAZN (YES)\nVenue: crypto.com Arena\, Los Angeles\, CA\nUnofficial cale
+ ndar\; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910711@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270312T030000Z
 DTEND:20270312T053000Z
 SUMMARY:Knicks @ Lakers (Prime Video)
@@ -836,20 +844,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910718@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270313T030000Z
 DTEND:20270313T053000Z
-SUMMARY:Cavaliers @ Lakers
+SUMMARY:Cavaliers @ Lakers (Spectrum Sports Net / Spectrum Sports Net +)
 LOCATION:crypto.com Arena\, Los Angeles\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: crypto.com Arena\, Los Angeles\
- , CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:Regular Season\nTV: Spectrum Sports Net / Spectrum Sports Net +
+ \nVenue: crypto.com Arena\, Los Angeles\, CA\nUnofficial calendar\; not af
+ filiated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910733@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270315T020000Z
 DTEND:20270315T043000Z
 SUMMARY:Warriors @ Lakers (NBC)
@@ -862,19 +870,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910747@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270317T020000Z
 DTEND:20270317T043000Z
-SUMMARY:Lakers @ Trail Blazers
+SUMMARY:Lakers @ Trail Blazers (KUNP 16 / Spectrum Sports Net / BlazerVisio
+ n / Spectrum Sports Net +)
 LOCATION:Moda Center\, Portland\, OR
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Moda Center\, Portland\, OR\nUn
- official calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: KUNP 16 / Spectrum Sports Net / BlazerVisio
+ n / Spectrum Sports Net +\nVenue: Moda Center\, Portland\, OR\nUnofficial 
+ calendar\; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910755@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270318T020000Z
 DTEND:20270318T043000Z
 SUMMARY:Suns @ Lakers (ESPN)
@@ -887,20 +897,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910770@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270320T020000Z
 DTEND:20270320T043000Z
-SUMMARY:Hawks @ Lakers
+SUMMARY:Hawks @ Lakers (Spectrum Sports Net / Spectrum Sports Net +)
 LOCATION:crypto.com Arena\, Los Angeles\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: crypto.com Arena\, Los Angeles\
- , CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:Regular Season\nTV: Spectrum Sports Net / Spectrum Sports Net +
+ \nVenue: crypto.com Arena\, Los Angeles\, CA\nUnofficial calendar\; not af
+ filiated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910785@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270322T020000Z
 DTEND:20270322T043000Z
 SUMMARY:Mavericks @ Lakers (NBC)
@@ -913,7 +923,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910796@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270324T000000Z
 DTEND:20270324T023000Z
 SUMMARY:Lakers @ Heat (NBC)
@@ -925,20 +935,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910811@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270325T230000Z
 DTEND:20270326T013000Z
-SUMMARY:Lakers @ Cavaliers
+SUMMARY:Lakers @ Cavaliers (Spectrum Sports Net / Spectrum Sports Net +)
 LOCATION:Rocket Arena\, Cleveland\, OH
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Rocket Arena\, Cleveland\, OH\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: Spectrum Sports Net / Spectrum Sports Net +
+ \nVenue: Rocket Arena\, Cleveland\, OH\nUnofficial calendar\; not affiliat
+ ed with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910833@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270328T190000Z
 DTEND:20270328T213000Z
 SUMMARY:Lakers @ Rockets (ESPN)
@@ -951,19 +961,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910851@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270331T000000Z
 DTEND:20270331T023000Z
-SUMMARY:Lakers @ Grizzlies
+SUMMARY:Lakers @ Grizzlies (Spectrum Sports Net / Spectrum Sports Net +)
 LOCATION:FedExForum\, Memphis\, TN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: FedExForum\, Memphis\, TN\nUnof
- ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: Spectrum Sports Net / Spectrum Sports Net +
+ \nVenue: FedExForum\, Memphis\, TN\nUnofficial calendar\; not affiliated w
+ ith the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910867@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270402T013000Z
 DTEND:20270402T040000Z
 SUMMARY:Lakers @ Thunder (Prime Video)
@@ -976,7 +987,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910894@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270405T020000Z
 DTEND:20270405T043000Z
 SUMMARY:Spurs @ Lakers (NBC)
@@ -989,20 +1000,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910906@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270407T020000Z
 DTEND:20270407T043000Z
-SUMMARY:Mavericks @ Lakers
+SUMMARY:Mavericks @ Lakers (Spectrum Sports Net / Spectrum Sports Net +)
 LOCATION:crypto.com Arena\, Los Angeles\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: crypto.com Arena\, Los Angeles\
- , CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:Regular Season\nTV: Spectrum Sports Net / Spectrum Sports Net +
+ \nVenue: crypto.com Arena\, Los Angeles\, CA\nUnofficial calendar\; not af
+ filiated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910916@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270408T020000Z
 DTEND:20270408T043000Z
 SUMMARY:Timberwolves @ Lakers (ESPN)
@@ -1015,27 +1026,29 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910934@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270410T020000Z
 DTEND:20270410T043000Z
-SUMMARY:Timberwolves @ Lakers
+SUMMARY:Timberwolves @ Lakers (Spectrum Sports Net / Spectrum Sports Net +)
 LOCATION:crypto.com Arena\, Los Angeles\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: crypto.com Arena\, Los Angeles\
- , CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:Regular Season\nTV: Spectrum Sports Net / Spectrum Sports Net +
+ \nVenue: crypto.com Arena\, Los Angeles\, CA\nUnofficial calendar\; not af
+ filiated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910951@nba-calendars
-DTSTAMP:20261020T152559Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270412T003000Z
 DTEND:20270412T030000Z
-SUMMARY:Suns @ Lakers
+SUMMARY:Suns @ Lakers (Spectrum Sports Net / Spectrum Sports Net + / Suns L
+ ive / Arizona's Family 3TV)
 LOCATION:crypto.com Arena\, Los Angeles\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: crypto.com Arena\, Los Angeles\
- , CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:Regular Season\nTV: Spectrum Sports Net / Spectrum Sports Net +
+  / Suns Live / Arizona's Family 3TV\nVenue: crypto.com Arena\, Los Angeles
+ \, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
+ y change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT

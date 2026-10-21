@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:espn-401909092@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261022T020000Z
 DTEND:20261022T043000Z
 SUMMARY:Warriors @ Lakers (ESPN)
@@ -23,20 +23,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909850@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261024T020000Z
 DTEND:20261024T043000Z
-SUMMARY:Grizzlies @ Warriors
+SUMMARY:Grizzlies @ Warriors (NBC Sports BA)
 LOCATION:Chase Center\, San Francisco\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Chase Center\, San Francisco\, 
- CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: NBC Sports BA\nVenue: Chase Center\, San Fr
+ ancisco\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
+ imes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909860@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261025T020000Z
 DTEND:20261025T043000Z
 SUMMARY:Warriors @ Suns (NBA TV)
@@ -49,7 +49,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909876@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261027T020000Z
 DTEND:20261027T043000Z
 SUMMARY:Warriors @ Nuggets (NBCSN)
@@ -61,20 +61,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909888@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261029T000000Z
 DTEND:20261029T023000Z
-SUMMARY:Warriors @ Timberwolves
+SUMMARY:Warriors @ Timberwolves (NBC Sports BA)
 LOCATION:Target Center\, Minneapolis\, MN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Target Center\, Minneapolis\, M
- N\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
- ange.
+DESCRIPTION:Regular Season\nTV: NBC Sports BA\nVenue: Target Center\, Minne
+ apolis\, MN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Ti
+ mes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909285@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261031T020000Z
 DTEND:20261031T043000Z
 SUMMARY:Lakers @ Warriors (Prime Video)
@@ -87,7 +87,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909905@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261102T013000Z
 DTEND:20261102T040000Z
 SUMMARY:Clippers @ Warriors
@@ -100,20 +100,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909919@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261103T030000Z
 DTEND:20261103T053000Z
-SUMMARY:Suns @ Warriors
+SUMMARY:Suns @ Warriors (Suns Live / NBC Sports BA)
 LOCATION:Chase Center\, San Francisco\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Chase Center\, San Francisco\, 
- CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: Suns Live / NBC Sports BA\nVenue: Chase Cen
+ ter\, San Francisco\, CA\nUnofficial calendar\; not affiliated with the NB
+ A or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909937@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261106T030000Z
 DTEND:20261106T053000Z
 SUMMARY:Heat @ Warriors (NBA TV)
@@ -126,7 +126,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909942@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261108T013000Z
 DTEND:20261108T040000Z
 SUMMARY:Magic @ Warriors
@@ -139,7 +139,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909959@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261110T030000Z
 DTEND:20261110T053000Z
 SUMMARY:Pelicans @ Warriors (NBA TV)
@@ -152,7 +152,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909974@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261112T023000Z
 DTEND:20261112T050000Z
 SUMMARY:Warriors @ Rockets (ESPN)
@@ -165,7 +165,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909302@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261114T023000Z
 DTEND:20261114T050000Z
 SUMMARY:Warriors @ Spurs (Prime Video)
@@ -178,20 +178,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910000@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261117T010000Z
 DTEND:20261117T033000Z
-SUMMARY:Warriors @ Pelicans
+SUMMARY:Warriors @ Pelicans (NBC Sports BA)
 LOCATION:Smoothie King Center\, New Orleans\, LA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Smoothie King Center\, New Orle
- ans\, LA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
-  may change.
+DESCRIPTION:Regular Season\nTV: NBC Sports BA\nVenue: Smoothie King Center\
+ , New Orleans\, LA\nUnofficial calendar\; not affiliated with the NBA or E
+ SPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910016@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261119T023000Z
 DTEND:20261119T050000Z
 SUMMARY:Warriors @ Mavericks (ESPN)
@@ -204,71 +204,72 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910019@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261120T010000Z
 DTEND:20261120T033000Z
-SUMMARY:Warriors @ Grizzlies
+SUMMARY:Warriors @ Grizzlies (NBC Sports BA)
 LOCATION:FedExForum\, Memphis\, TN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: FedExForum\, Memphis\, TN\nUnof
- ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: NBC Sports BA\nVenue: FedExForum\, Memphis\
+ , TN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910035@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261123T013000Z
 DTEND:20261123T040000Z
-SUMMARY:Celtics @ Warriors
+SUMMARY:Celtics @ Warriors (NBC Sports BA / NBC Sports BO)
 LOCATION:Chase Center\, San Francisco\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Chase Center\, San Francisco\, 
- CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / NBC Sports BO\nVenue: Chase
+  Center\, San Francisco\, CA\nUnofficial calendar\; not affiliated with th
+ e NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909324@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261126T030000Z
 DTEND:20261126T053000Z
-SUMMARY:Kings @ Warriors
+SUMMARY:Kings @ Warriors (NBC Sports BA / NBC Sports CA)
 LOCATION:Chase Center\, San Francisco\, CA
-DESCRIPTION:NBA Cup - Group Play\nTV: TBD\nVenue: Chase Center\, San Franci
- sco\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
-  may change.
+DESCRIPTION:NBA Cup - Group Play\nTV: NBC Sports BA / NBC Sports CA\nVenue:
+  Chase Center\, San Francisco\, CA\nUnofficial calendar\; not affiliated w
+ ith the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909336@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261128T023000Z
 DTEND:20261128T050000Z
-SUMMARY:Warriors @ Trail Blazers
+SUMMARY:Warriors @ Trail Blazers (KUNP 16 / BlazerVision)
 LOCATION:Moda Center\, Portland\, OR
-DESCRIPTION:NBA Cup - Group Play\nTV: TBD\nVenue: Moda Center\, Portland\, 
- OR\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:NBA Cup - Group Play\nTV: KUNP 16 / BlazerVision\nVenue: Moda C
+ enter\, Portland\, OR\nUnofficial calendar\; not affiliated with the NBA o
+ r ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910059@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261130T013000Z
 DTEND:20261130T040000Z
-SUMMARY:Clippers @ Warriors
+SUMMARY:Clippers @ Warriors (NBC Sports BA)
 LOCATION:Chase Center\, San Francisco\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Chase Center\, San Francisco\, 
- CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: NBC Sports BA\nVenue: Chase Center\, San Fr
+ ancisco\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
+ imes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910075@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261202T040000Z
 DTEND:20261202T063000Z
 SUMMARY:Jazz @ Warriors (NBC)
@@ -281,71 +282,72 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910093@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261213T010000Z
 DTEND:20261213T033000Z
-SUMMARY:Warriors @ Cavaliers
+SUMMARY:Warriors @ Cavaliers (NBC Sports BA)
 LOCATION:Rocket Arena\, Cleveland\, OH
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Rocket Arena\, Cleveland\, OH\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: NBC Sports BA\nVenue: Rocket Arena\, Clevel
+ and\, OH\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
+  may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910110@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261215T010000Z
 DTEND:20261215T033000Z
-SUMMARY:Warriors @ Grizzlies
+SUMMARY:Warriors @ Grizzlies (NBC Sports BA)
 LOCATION:FedExForum\, Memphis\, TN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: FedExForum\, Memphis\, TN\nUnof
- ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: NBC Sports BA\nVenue: FedExForum\, Memphis\
+ , TN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910120@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261217T000000Z
 DTEND:20261217T023000Z
-SUMMARY:Warriors @ Pacers
+SUMMARY:Warriors @ Pacers (NBC Sports BA)
 LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Gainbridge Fieldhouse\, Indiana
- polis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
- es may change.
+DESCRIPTION:Regular Season\nTV: NBC Sports BA\nVenue: Gainbridge Fieldhouse
+ \, Indianapolis\, IN\nUnofficial calendar\; not affiliated with the NBA or
+  ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910139@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261219T003000Z
 DTEND:20261219T030000Z
-SUMMARY:Warriors @ Raptors
+SUMMARY:Warriors @ Raptors (NBC Sports BA)
 LOCATION:Scotiabank Arena\, Toronto\, ON
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Scotiabank Arena\, Toronto\, ON
- \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
- nge.
+DESCRIPTION:Regular Season\nTV: NBC Sports BA\nVenue: Scotiabank Arena\, To
+ ronto\, ON\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
+ es may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910157@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261221T010000Z
 DTEND:20261221T033000Z
-SUMMARY:Warriors @ Bucks
+SUMMARY:Warriors @ Bucks (NBC Sports BA)
 LOCATION:Fiserv Forum\, Milwaukee\, WI
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Fiserv Forum\, Milwaukee\, WI\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: NBC Sports BA\nVenue: Fiserv Forum\, Milwau
+ kee\, WI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
+  may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910171@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261223T033000Z
 DTEND:20261223T060000Z
 SUMMARY:Mavericks @ Warriors (NBC)
@@ -358,20 +360,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910186@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261224T033000Z
 DTEND:20261224T060000Z
-SUMMARY:Warriors @ Clippers
+SUMMARY:Warriors @ Clippers (NBC Sports BA)
 LOCATION:Intuit Dome\, Inglewood\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Intuit Dome\, Inglewood\, CA\nU
- nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
- .
+DESCRIPTION:Regular Season\nTV: NBC Sports BA\nVenue: Intuit Dome\, Inglewo
+ od\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909101@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261226T033000Z
 DTEND:20261226T060000Z
 SUMMARY:Nuggets @ Warriors (ABC / ESPN)
@@ -384,7 +386,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910204@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261228T013000Z
 DTEND:20261228T040000Z
 SUMMARY:Timberwolves @ Warriors
@@ -397,20 +399,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910209@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261229T020000Z
 DTEND:20261229T043000Z
-SUMMARY:Warriors @ Suns
+SUMMARY:Warriors @ Suns (Suns Live / NBC Sports BA)
 LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Mortgage Matchup Center\, Phoen
- ix\, AZ\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: Suns Live / NBC Sports BA\nVenue: Mortgage 
+ Matchup Center\, Phoenix\, AZ\nUnofficial calendar\; not affiliated with t
+ he NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910225@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261231T030000Z
 DTEND:20261231T053000Z
 SUMMARY:Rockets @ Warriors (NBA TV)
@@ -423,20 +425,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910248@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270103T013000Z
 DTEND:20270103T040000Z
-SUMMARY:Nets @ Warriors
+SUMMARY:Nets @ Warriors (DAZN (YES) / NBC Sports BA)
 LOCATION:Chase Center\, San Francisco\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Chase Center\, San Francisco\, 
- CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: DAZN (YES) / NBC Sports BA\nVenue: Chase Ce
+ nter\, San Francisco\, CA\nUnofficial calendar\; not affiliated with the N
+ BA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910278@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270107T030000Z
 DTEND:20270107T053000Z
 SUMMARY:Knicks @ Warriors (ESPN)
@@ -449,20 +451,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910288@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270108T030000Z
 DTEND:20270108T053000Z
-SUMMARY:Pistons @ Warriors
+SUMMARY:Pistons @ Warriors (NBC Sports BA)
 LOCATION:Chase Center\, San Francisco\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Chase Center\, San Francisco\, 
- CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: NBC Sports BA\nVenue: Chase Center\, San Fr
+ ancisco\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
+ imes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910302@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270110T013000Z
 DTEND:20270110T040000Z
 SUMMARY:Bulls @ Warriors
@@ -475,7 +477,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910326@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270113T040000Z
 DTEND:20270113T063000Z
 SUMMARY:Kings @ Warriors (NBC)
@@ -488,57 +490,59 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910332@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270114T030000Z
 DTEND:20270114T053000Z
-SUMMARY:Hornets @ Warriors
+SUMMARY:Hornets @ Warriors (NBC Sports BA)
 LOCATION:Chase Center\, San Francisco\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Chase Center\, San Francisco\, 
- CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: NBC Sports BA\nVenue: Chase Center\, San Fr
+ ancisco\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
+ imes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910343@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270116T000000Z
 DTEND:20270116T023000Z
-SUMMARY:Warriors @ Hawks
+SUMMARY:Warriors @ Hawks (NBC Sports BA)
 LOCATION:State Farm Arena\, Atlanta\, GA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: State Farm Arena\, Atlanta\, GA
- \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
- nge.
+DESCRIPTION:Regular Season\nTV: NBC Sports BA\nVenue: State Farm Arena\, At
+ lanta\, GA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
+ es may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910362@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270117T230000Z
 DTEND:20270118T013000Z
-SUMMARY:Warriors @ Heat
+SUMMARY:Warriors @ Heat (NBC Sports BA / WPLG)
 LOCATION:Kaseya Center\, Miami\, FL
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Kaseya Center\, Miami\, FL\nUno
- fficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: NBC Sports BA / WPLG\nVenue: Kaseya Center\
+ , Miami\, FL\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
+ imes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910368@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270120T000000Z
 DTEND:20270120T023000Z
-SUMMARY:Warriors @ Magic
+SUMMARY:Warriors @ Magic (NBC Sports BA)
 LOCATION:Kia Center\, Orlando\, FL
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Kia Center\, Orlando\, FL\nUnof
- ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: NBC Sports BA\nVenue: Kia Center\, Orlando\
+ , FL\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910388@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270122T030000Z
 DTEND:20270122T053000Z
 SUMMARY:Lakers @ Warriors (Prime Video)
@@ -551,20 +555,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910397@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270123T030000Z
 DTEND:20270123T053000Z
-SUMMARY:Bucks @ Warriors
+SUMMARY:Bucks @ Warriors (MyMi)
 LOCATION:Chase Center\, San Francisco\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Chase Center\, San Francisco\, 
- CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: MyMi\nVenue: Chase Center\, San Francisco\,
+  CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
+ change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910412@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270125T013000Z
 DTEND:20270125T040000Z
 SUMMARY:Thunder @ Warriors (NBC)
@@ -577,32 +581,33 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910436@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270128T030000Z
 DTEND:20270128T053000Z
-SUMMARY:Warriors @ Trail Blazers
+SUMMARY:Warriors @ Trail Blazers (KUNP 16 / BlazerVision)
 LOCATION:Moda Center\, Portland\, OR
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Moda Center\, Portland\, OR\nUn
- official calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: KUNP 16 / BlazerVision\nVenue: Moda Center\
+ , Portland\, OR\nUnofficial calendar\; not affiliated with the NBA or ESPN
+ . Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910443@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270129T020000Z
 DTEND:20270129T043000Z
-SUMMARY:Warriors @ Jazz
+SUMMARY:Warriors @ Jazz (KJZZ-TV / Jazz+)
 LOCATION:Delta Center\, Salt Lake City\, UT
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Delta Center\, Salt Lake City\,
-  UT\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+\nVenue: Delta Center\, Salt
+  Lake City\, UT\nUnofficial calendar\; not affiliated with the NBA or ESPN
+ . Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910453@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270130T223000Z
 DTEND:20270131T010000Z
 SUMMARY:Spurs @ Warriors (ABC)
@@ -615,7 +620,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910473@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270202T030000Z
 DTEND:20270202T053000Z
 SUMMARY:Spurs @ Warriors (NBCSN)
@@ -628,20 +633,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910487@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270204T033000Z
 DTEND:20270204T060000Z
-SUMMARY:Warriors @ Clippers
+SUMMARY:Warriors @ Clippers (ClipperVision)
 LOCATION:Intuit Dome\, Inglewood\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Intuit Dome\, Inglewood\, CA\nU
- nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
- .
+DESCRIPTION:Regular Season\nTV: ClipperVision\nVenue: Intuit Dome\, Inglewo
+ od\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910499@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270206T000000Z
 DTEND:20270206T023000Z
 SUMMARY:Warriors @ Hornets
@@ -654,7 +659,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910514@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270207T200000Z
 DTEND:20270207T223000Z
 SUMMARY:Warriors @ Pistons (NBA TV)
@@ -667,7 +672,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910532@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270210T010000Z
 DTEND:20270210T033000Z
 SUMMARY:Warriors @ Bulls
@@ -680,7 +685,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910541@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270211T003000Z
 DTEND:20270211T030000Z
 SUMMARY:Warriors @ Celtics (ESPN)
@@ -692,7 +697,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910566@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270214T013000Z
 DTEND:20270214T040000Z
 SUMMARY:Warriors @ Knicks (ABC)
@@ -705,7 +710,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909480@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270216T003000Z
 DTEND:20270216T030000Z
 SUMMARY:Pacers @ Warriors (NBCSN)
@@ -718,20 +723,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910593@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270218T030000Z
 DTEND:20270218T053000Z
-SUMMARY:Pelicans @ Warriors
+SUMMARY:Pelicans @ Warriors (NBC Sports BA)
 LOCATION:Chase Center\, San Francisco\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Chase Center\, San Francisco\, 
- CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: NBC Sports BA\nVenue: Chase Center\, San Fr
+ ancisco\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
+ imes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910608@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270226T030000Z
 DTEND:20270226T053000Z
 SUMMARY:Mavericks @ Warriors (Prime Video)
@@ -744,33 +749,33 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910635@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270302T013000Z
 DTEND:20270302T040000Z
-SUMMARY:Warriors @ Rockets
+SUMMARY:Warriors @ Rockets (NBC Sports BA)
 LOCATION:Toyota Center (Houston)\, Houston\, TX
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Toyota Center (Houston)\, Houst
- on\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: NBC Sports BA\nVenue: Toyota Center (Housto
+ n)\, Houston\, TX\nUnofficial calendar\; not affiliated with the NBA or ES
+ PN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910642@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270303T010000Z
 DTEND:20270303T033000Z
-SUMMARY:Warriors @ Mavericks
+SUMMARY:Warriors @ Mavericks (NBC Sports BA)
 LOCATION:American Airlines Center\, Dallas\, TX
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: American Airlines Center\, Dall
- as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: NBC Sports BA\nVenue: American Airlines Cen
+ ter\, Dallas\, TX\nUnofficial calendar\; not affiliated with the NBA or ES
+ PN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910659@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270305T030000Z
 DTEND:20270305T053000Z
 SUMMARY:Wizards @ Warriors
@@ -783,7 +788,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910679@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270308T030000Z
 DTEND:20270308T053000Z
 SUMMARY:Rockets @ Warriors (NBC)
@@ -796,7 +801,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910695@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270310T040000Z
 DTEND:20270310T063000Z
 SUMMARY:Trail Blazers @ Warriors (NBC)
@@ -809,20 +814,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910702@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270311T030000Z
 DTEND:20270311T053000Z
-SUMMARY:Warriors @ Kings
+SUMMARY:Warriors @ Kings (NBC Sports CA / NBC Sports BA)
 LOCATION:Golden 1 Center\, Sacramento\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Golden 1 Center\, Sacramento\, 
- CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: NBC Sports CA / NBC Sports BA\nVenue: Golde
+ n 1 Center\, Sacramento\, CA\nUnofficial calendar\; not affiliated with th
+ e NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910717@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270313T030000Z
 DTEND:20270313T053000Z
 SUMMARY:Warriors @ Nuggets (Prime Video)
@@ -835,7 +840,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910733@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270315T020000Z
 DTEND:20270315T043000Z
 SUMMARY:Warriors @ Lakers (NBC)
@@ -848,7 +853,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910746@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270317T020000Z
 DTEND:20270317T043000Z
 SUMMARY:Cavaliers @ Warriors
@@ -861,46 +866,46 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910754@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270318T020000Z
 DTEND:20270318T043000Z
-SUMMARY:Grizzlies @ Warriors
+SUMMARY:Grizzlies @ Warriors (NBC Sports BA)
 LOCATION:Chase Center\, San Francisco\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Chase Center\, San Francisco\, 
- CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: NBC Sports BA\nVenue: Chase Center\, San Fr
+ ancisco\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
+ imes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910769@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270320T020000Z
 DTEND:20270320T043000Z
-SUMMARY:Trail Blazers @ Warriors
+SUMMARY:Trail Blazers @ Warriors (KUNP 16 / NBC Sports BA)
 LOCATION:Chase Center\, San Francisco\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Chase Center\, San Francisco\, 
- CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: KUNP 16 / NBC Sports BA\nVenue: Chase Cente
+ r\, San Francisco\, CA\nUnofficial calendar\; not affiliated with the NBA 
+ or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910792@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270323T020000Z
 DTEND:20270323T043000Z
-SUMMARY:Hawks @ Warriors
+SUMMARY:Hawks @ Warriors (NBC Sports BA)
 LOCATION:Chase Center\, San Francisco\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Chase Center\, San Francisco\, 
- CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: NBC Sports BA\nVenue: Chase Center\, San Fr
+ ancisco\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
+ imes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910807@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270325T020000Z
 DTEND:20270325T043000Z
 SUMMARY:76ers @ Warriors (ESPN)
@@ -913,46 +918,46 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910817@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270326T020000Z
 DTEND:20270326T043000Z
-SUMMARY:Raptors @ Warriors
+SUMMARY:Raptors @ Warriors (NBC Sports BA)
 LOCATION:Chase Center\, San Francisco\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Chase Center\, San Francisco\, 
- CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: NBC Sports BA\nVenue: Chase Center\, San Fr
+ ancisco\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
+ imes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910826@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270327T230000Z
 DTEND:20270328T013000Z
-SUMMARY:Warriors @ Wizards
+SUMMARY:Warriors @ Wizards (NBC Sports BA)
 LOCATION:Capital One Arena\, Washington\, DC
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Capital One Arena\, Washington\
- , DC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:Regular Season\nTV: NBC Sports BA\nVenue: Capital One Arena\, W
+ ashington\, DC\nUnofficial calendar\; not affiliated with the NBA or ESPN.
+  Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910843@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270329T233000Z
 DTEND:20270330T020000Z
-SUMMARY:Warriors @ Nets
+SUMMARY:Warriors @ Nets (DAZN (YES))
 LOCATION:Barclays Center\, Brooklyn\, NY
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Barclays Center\, Brooklyn\, NY
- \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
- nge.
+DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: Barclays Center\, Brookl
+ yn\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910856@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270331T230000Z
 DTEND:20270401T013000Z
 SUMMARY:Warriors @ 76ers (ESPN)
@@ -965,7 +970,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910871@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270402T233000Z
 DTEND:20270403T020000Z
 SUMMARY:Warriors @ Timberwolves (Prime Video)
@@ -978,7 +983,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910892@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270404T220000Z
 DTEND:20270405T003000Z
 SUMMARY:Warriors @ Kings
@@ -991,7 +996,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910908@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270407T030000Z
 DTEND:20270407T053000Z
 SUMMARY:Suns @ Warriors (NBC)
@@ -1004,7 +1009,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910922@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270409T013000Z
 DTEND:20270409T040000Z
 SUMMARY:Warriors @ Thunder (Prime Video)
@@ -1017,27 +1022,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910930@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270410T000000Z
 DTEND:20270410T023000Z
-SUMMARY:Warriors @ Thunder
+SUMMARY:Warriors @ Thunder (NBC Sports BA)
 LOCATION:Paycom Center\, Oklahoma City\, OK
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Paycom Center\, Oklahoma City\,
-  OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: NBC Sports BA\nVenue: Paycom Center\, Oklah
+ oma City\, OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. 
+ Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910949@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270412T003000Z
 DTEND:20270412T030000Z
-SUMMARY:Jazz @ Warriors
+SUMMARY:Jazz @ Warriors (NBC Sports BA)
 LOCATION:Chase Center\, San Francisco\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Chase Center\, San Francisco\, 
- CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: NBC Sports BA\nVenue: Chase Center\, San Fr
+ ancisco\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
+ imes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT

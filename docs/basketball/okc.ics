@@ -10,20 +10,20 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:espn-401909090@nba-calendars
-DTSTAMP:20261017T193156Z
-DTSTART:20261021T013000Z
-DTEND:20261021T040000Z
+DTSTAMP:20261021T154330Z
+DTSTART:20261021T015000Z
+DTEND:20261021T042000Z
 SUMMARY:Thunder @ Spurs (NBC)
 LOCATION:Frost Bank Center\, San Antonio\, TX
 DESCRIPTION:Regular Season\nTV: NBC\nVenue: Frost Bank Center\, San Antonio
- \, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
- y change.
+ \, TX\nFinal: Thunder 116\, Spurs 104\nUnofficial calendar\; not affiliate
+ d with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909094@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261023T013000Z
 DTEND:20261023T040000Z
 SUMMARY:Nuggets @ Thunder (ESPN)
@@ -36,33 +36,33 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909865@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261025T230000Z
 DTEND:20261026T013000Z
-SUMMARY:Clippers @ Thunder
+SUMMARY:Clippers @ Thunder (KSBI / ClipperVision)
 LOCATION:Paycom Center\, Oklahoma City\, OK
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Paycom Center\, Oklahoma City\,
-  OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: KSBI / ClipperVision\nVenue: Paycom Center\
+ , Oklahoma City\, OK\nUnofficial calendar\; not affiliated with the NBA or
+  ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909873@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261027T000000Z
 DTEND:20261027T023000Z
-SUMMARY:Suns @ Thunder
+SUMMARY:Suns @ Thunder (KSBI / Suns Live / Arizona's Family 3TV)
 LOCATION:Paycom Center\, Oklahoma City\, OK
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Paycom Center\, Oklahoma City\,
-  OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: KSBI / Suns Live / Arizona's Family 3TV\nVe
+ nue: Paycom Center\, Oklahoma City\, OK\nUnofficial calendar\; not affilia
+ ted with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909891@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261029T013000Z
 DTEND:20261029T040000Z
 SUMMARY:Thunder @ Mavericks (ESPN)
@@ -75,7 +75,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909902@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261101T003000Z
 DTEND:20261101T030000Z
 SUMMARY:Thunder @ Rockets (NBA TV)
@@ -88,7 +88,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909907@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261103T000000Z
 DTEND:20261103T023000Z
 SUMMARY:Thunder @ Cavaliers (NBCSN)
@@ -101,46 +101,46 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909929@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261105T010000Z
 DTEND:20261105T033000Z
-SUMMARY:Cavaliers @ Thunder
+SUMMARY:Cavaliers @ Thunder (KSBI)
 LOCATION:Paycom Center\, Oklahoma City\, OK
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Paycom Center\, Oklahoma City\,
-  OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401909291@nba-calendars
-DTSTAMP:20261017T193156Z
-DTSTART:20261107T010000Z
-DTEND:20261107T033000Z
-SUMMARY:Thunder @ Grizzlies
-LOCATION:FedExForum\, Memphis\, TN
-DESCRIPTION:NBA Cup - Group Play\nTV: TBD\nVenue: FedExForum\, Memphis\, TN
- \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
- nge.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401909941@nba-calendars
-DTSTAMP:20261017T193156Z
-DTSTART:20261108T010000Z
-DTEND:20261108T033000Z
-SUMMARY:Wizards @ Thunder (MNMT)
-LOCATION:Paycom Center\, Oklahoma City\, OK
-DESCRIPTION:Regular Season\nTV: MNMT\nVenue: Paycom Center\, Oklahoma City\
+DESCRIPTION:Regular Season\nTV: KSBI\nVenue: Paycom Center\, Oklahoma City\
  , OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
   change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:espn-401909291@nba-calendars
+DTSTAMP:20261021T154330Z
+DTSTART:20261107T010000Z
+DTEND:20261107T033000Z
+SUMMARY:Thunder @ Grizzlies (KSBI)
+LOCATION:FedExForum\, Memphis\, TN
+DESCRIPTION:NBA Cup - Group Play\nTV: KSBI\nVenue: FedExForum\, Memphis\, T
+ N\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
+ ange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909941@nba-calendars
+DTSTAMP:20261021T154330Z
+DTSTART:20261108T010000Z
+DTEND:20261108T033000Z
+SUMMARY:Wizards @ Thunder (MNMT / KSBI)
+LOCATION:Paycom Center\, Oklahoma City\, OK
+DESCRIPTION:Regular Season\nTV: MNMT / KSBI\nVenue: Paycom Center\, Oklahom
+ a City\, OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Ti
+ mes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:espn-401909965@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261111T040000Z
 DTEND:20261111T063000Z
 SUMMARY:Thunder @ Trail Blazers (NBC)
@@ -152,96 +152,98 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909975@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261112T030000Z
 DTEND:20261112T053000Z
-SUMMARY:Thunder @ Trail Blazers
+SUMMARY:Thunder @ Trail Blazers (KUNP 16 / KSBI / BlazerVision)
 LOCATION:Moda Center\, Portland\, OR
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Moda Center\, Portland\, OR\nUn
- official calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: KUNP 16 / KSBI / BlazerVision\nVenue: Moda 
+ Center\, Portland\, OR\nUnofficial calendar\; not affiliated with the NBA 
+ or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909304@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261114T033000Z
 DTEND:20261114T060000Z
-SUMMARY:Thunder @ Clippers
+SUMMARY:Thunder @ Clippers (KSBI / KTLA / ClipperVision)
 LOCATION:Intuit Dome\, Inglewood\, CA
-DESCRIPTION:NBA Cup - Group Play\nTV: TBD\nVenue: Intuit Dome\, Inglewood\,
+DESCRIPTION:NBA Cup - Group Play\nTV: KSBI / KTLA / ClipperVision\nVenue: I
+ ntuit Dome\, Inglewood\, CA\nUnofficial calendar\; not affiliated with the
+  NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909993@nba-calendars
+DTSTAMP:20261021T154330Z
+DTSTART:20261116T020000Z
+DTEND:20261116T043000Z
+SUMMARY:Thunder @ Kings (KSBI)
+LOCATION:Golden 1 Center\, Sacramento\, CA
+DESCRIPTION:Regular Season\nTV: KSBI\nVenue: Golden 1 Center\, Sacramento\,
   CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
  change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:espn-401909993@nba-calendars
-DTSTAMP:20261017T193156Z
-DTSTART:20261116T020000Z
-DTEND:20261116T043000Z
-SUMMARY:Thunder @ Kings
-LOCATION:Golden 1 Center\, Sacramento\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Golden 1 Center\, Sacramento\, 
- CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:espn-401910014@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261119T010000Z
 DTEND:20261119T033000Z
-SUMMARY:Hawks @ Thunder
+SUMMARY:Hawks @ Thunder (KSBI)
 LOCATION:Paycom Center\, Oklahoma City\, OK
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Paycom Center\, Oklahoma City\,
-  OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: KSBI\nVenue: Paycom Center\, Oklahoma City\
+ , OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909310@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261121T010000Z
 DTEND:20261121T033000Z
-SUMMARY:Pelicans @ Thunder
+SUMMARY:Pelicans @ Thunder (KSBI)
 LOCATION:Paycom Center\, Oklahoma City\, OK
-DESCRIPTION:NBA Cup - Group Play\nTV: TBD\nVenue: Paycom Center\, Oklahoma 
- City\, OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
- s may change.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401910030@nba-calendars
-DTSTAMP:20261017T193156Z
-DTSTART:20261122T230000Z
-DTEND:20261123T013000Z
-SUMMARY:Thunder @ Heat
-LOCATION:Kaseya Center\, Miami\, FL
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Kaseya Center\, Miami\, FL\nUno
- fficial calendar\; not affiliated with the NBA or ESPN. Times may change.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401910038@nba-calendars
-DTSTAMP:20261017T193156Z
-DTSTART:20261124T003000Z
-DTEND:20261124T030000Z
-SUMMARY:Thunder @ Pacers
-LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Gainbridge Fieldhouse\, Indiana
- polis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
+DESCRIPTION:NBA Cup - Group Play\nTV: KSBI\nVenue: Paycom Center\, Oklahoma
+  City\, OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
  es may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:espn-401910030@nba-calendars
+DTSTAMP:20261021T154330Z
+DTSTART:20261122T230000Z
+DTEND:20261123T013000Z
+SUMMARY:Thunder @ Heat (KSBI / WPLG)
+LOCATION:Kaseya Center\, Miami\, FL
+DESCRIPTION:Regular Season\nTV: KSBI / WPLG\nVenue: Kaseya Center\, Miami\,
+  FL\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910038@nba-calendars
+DTSTAMP:20261021T154330Z
+DTSTART:20261124T003000Z
+DTEND:20261124T030000Z
+SUMMARY:Thunder @ Pacers (KSBI)
+LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
+DESCRIPTION:Regular Season\nTV: KSBI\nVenue: Gainbridge Fieldhouse\, Indian
+ apolis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Ti
+ mes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:espn-401909320@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261126T003000Z
 DTEND:20261126T030000Z
 SUMMARY:Timberwolves @ Thunder (ESPN)
@@ -254,7 +256,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910049@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261129T010000Z
 DTEND:20261129T033000Z
 SUMMARY:Thunder @ Bucks
@@ -267,85 +269,85 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910063@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261201T003000Z
 DTEND:20261201T030000Z
-SUMMARY:Thunder @ Nets
+SUMMARY:Thunder @ Nets (KSBI / DAZN (YES))
 LOCATION:Barclays Center\, Brooklyn\, NY
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Barclays Center\, Brooklyn\, NY
- \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
- nge.
+DESCRIPTION:Regular Season\nTV: KSBI / DAZN (YES)\nVenue: Barclays Center\,
+  Brooklyn\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN.
+  Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910082@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261203T010000Z
 DTEND:20261203T033000Z
-SUMMARY:Nets @ Thunder
+SUMMARY:Nets @ Thunder (KSBI / DAZN (YES))
 LOCATION:Paycom Center\, Oklahoma City\, OK
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Paycom Center\, Oklahoma City\,
-  OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: KSBI / DAZN (YES)\nVenue: Paycom Center\, O
+ klahoma City\, OK\nUnofficial calendar\; not affiliated with the NBA or ES
+ PN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910099@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261213T203000Z
 DTEND:20261213T230000Z
-SUMMARY:Raptors @ Thunder
+SUMMARY:Raptors @ Thunder (KSBI)
 LOCATION:Paycom Center\, Oklahoma City\, OK
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Paycom Center\, Oklahoma City\,
-  OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: KSBI\nVenue: Paycom Center\, Oklahoma City\
+ , OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910127@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261217T010000Z
 DTEND:20261217T033000Z
-SUMMARY:Kings @ Thunder
+SUMMARY:Kings @ Thunder (KSBI)
 LOCATION:Paycom Center\, Oklahoma City\, OK
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Paycom Center\, Oklahoma City\,
-  OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: KSBI\nVenue: Paycom Center\, Oklahoma City\
+ , OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910133@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261219T000000Z
 DTEND:20261219T023000Z
-SUMMARY:Thunder @ Hornets
+SUMMARY:Thunder @ Hornets (KSBI)
 LOCATION:Spectrum Center\, Charlotte\, NC
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Spectrum Center\, Charlotte\, N
- C\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
- ange.
+DESCRIPTION:Regular Season\nTV: KSBI\nVenue: Spectrum Center\, Charlotte\, 
+ NC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
+ hange.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910154@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261221T000000Z
 DTEND:20261221T023000Z
-SUMMARY:Thunder @ Hawks
+SUMMARY:Thunder @ Hawks (KSBI)
 LOCATION:State Farm Arena\, Atlanta\, GA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: State Farm Arena\, Atlanta\, GA
- \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
- nge.
+DESCRIPTION:Regular Season\nTV: KSBI\nVenue: State Farm Arena\, Atlanta\, G
+ A\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
+ ange.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910170@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261223T010000Z
 DTEND:20261223T033000Z
 SUMMARY:Pistons @ Thunder (NBC)
@@ -358,20 +360,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910182@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261224T010000Z
 DTEND:20261224T033000Z
-SUMMARY:Thunder @ Pelicans
+SUMMARY:Thunder @ Pelicans (KSBI)
 LOCATION:Smoothie King Center\, New Orleans\, LA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Smoothie King Center\, New Orle
- ans\, LA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
-  may change.
+DESCRIPTION:Regular Season\nTV: KSBI\nVenue: Smoothie King Center\, New Orl
+ eans\, LA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
+ s may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909100@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261226T010000Z
 DTEND:20261226T033000Z
 SUMMARY:Thunder @ Timberwolves (ABC / ESPN)
@@ -384,72 +386,72 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910195@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261227T203000Z
 DTEND:20261227T230000Z
-SUMMARY:Thunder @ Rockets
+SUMMARY:Thunder @ Rockets (KSBI)
 LOCATION:Toyota Center (Houston)\, Houston\, TX
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Toyota Center (Houston)\, Houst
- on\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: KSBI\nVenue: Toyota Center (Houston)\, Hous
+ ton\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
+  may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910216@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261230T010000Z
 DTEND:20261230T033000Z
-SUMMARY:Bucks @ Thunder
+SUMMARY:Bucks @ Thunder (KSBI)
 LOCATION:Paycom Center\, Oklahoma City\, OK
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Paycom Center\, Oklahoma City\,
-  OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: KSBI\nVenue: Paycom Center\, Oklahoma City\
+ , OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910233@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270101T010000Z
 DTEND:20270101T033000Z
-SUMMARY:Heat @ Thunder
+SUMMARY:Heat @ Thunder (KSBI)
 LOCATION:Paycom Center\, Oklahoma City\, OK
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Paycom Center\, Oklahoma City\,
-  OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: KSBI\nVenue: Paycom Center\, Oklahoma City\
+ , OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910247@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270103T010000Z
 DTEND:20270103T033000Z
-SUMMARY:Jazz @ Thunder
+SUMMARY:Jazz @ Thunder (KSBI)
 LOCATION:Paycom Center\, Oklahoma City\, OK
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Paycom Center\, Oklahoma City\,
-  OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: KSBI\nVenue: Paycom Center\, Oklahoma City\
+ , OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910258@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270104T010000Z
 DTEND:20270104T033000Z
-SUMMARY:Kings @ Thunder
+SUMMARY:Kings @ Thunder (KSBI / NBC Sports CA)
 LOCATION:Paycom Center\, Oklahoma City\, OK
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Paycom Center\, Oklahoma City\,
-  OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: KSBI / NBC Sports CA\nVenue: Paycom Center\
+ , Oklahoma City\, OK\nUnofficial calendar\; not affiliated with the NBA or
+  ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910275@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270107T003000Z
 DTEND:20270107T030000Z
 SUMMARY:Thunder @ 76ers (ESPN)
@@ -462,32 +464,32 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910282@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270108T000000Z
 DTEND:20270108T023000Z
-SUMMARY:Thunder @ Wizards
+SUMMARY:Thunder @ Wizards (KSBI)
 LOCATION:Capital One Arena\, Washington\, DC
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Capital One Arena\, Washington\
- , DC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:Regular Season\nTV: KSBI\nVenue: Capital One Arena\, Washington
+ \, DC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
+ y change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910308@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270110T230000Z
 DTEND:20270111T013000Z
-SUMMARY:Thunder @ Magic
+SUMMARY:Thunder @ Magic (KSBI)
 LOCATION:Kia Center\, Orlando\, FL
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Kia Center\, Orlando\, FL\nUnof
- ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: KSBI\nVenue: Kia Center\, Orlando\, FL\nUno
+ fficial calendar\; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910331@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270114T023000Z
 DTEND:20270114T050000Z
 SUMMARY:Rockets @ Thunder (ESPN)
@@ -500,7 +502,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910347@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270116T010000Z
 DTEND:20270116T033000Z
 SUMMARY:Jazz @ Thunder (NBA TV)
@@ -513,20 +515,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910360@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270117T203000Z
 DTEND:20270117T230000Z
-SUMMARY:Trail Blazers @ Thunder
+SUMMARY:Trail Blazers @ Thunder (KSBI / KUNP 16 / BlazerVision)
 LOCATION:Paycom Center\, Oklahoma City\, OK
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Paycom Center\, Oklahoma City\,
-  OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: KSBI / KUNP 16 / BlazerVision\nVenue: Payco
+ m Center\, Oklahoma City\, OK\nUnofficial calendar\; not affiliated with t
+ he NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910366@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270119T010000Z
 DTEND:20270119T033000Z
 SUMMARY:Thunder @ Mavericks
@@ -539,33 +541,33 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910380@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270121T010000Z
 DTEND:20270121T033000Z
-SUMMARY:Thunder @ Pelicans
+SUMMARY:Thunder @ Pelicans (KSBI / GCSEN / Pelicans.com)
 LOCATION:Smoothie King Center\, New Orleans\, LA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Smoothie King Center\, New Orle
- ans\, LA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
-  may change.
+DESCRIPTION:Regular Season\nTV: KSBI / GCSEN / Pelicans.com\nVenue: Smoothi
+ e King Center\, New Orleans\, LA\nUnofficial calendar\; not affiliated wit
+ h the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910394@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270123T010000Z
 DTEND:20270123T033000Z
-SUMMARY:Grizzlies @ Thunder
+SUMMARY:Grizzlies @ Thunder (KSBI)
 LOCATION:Paycom Center\, Oklahoma City\, OK
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Paycom Center\, Oklahoma City\,
-  OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: KSBI\nVenue: Paycom Center\, Oklahoma City\
+ , OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910412@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270125T013000Z
 DTEND:20270125T040000Z
 SUMMARY:Thunder @ Warriors (NBC)
@@ -578,7 +580,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910427@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270127T040000Z
 DTEND:20270127T063000Z
 SUMMARY:Thunder @ Lakers (NBC)
@@ -591,20 +593,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910442@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270129T010000Z
 DTEND:20270129T033000Z
-SUMMARY:Grizzlies @ Thunder
+SUMMARY:Grizzlies @ Thunder (KSBI)
 LOCATION:Paycom Center\, Oklahoma City\, OK
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Paycom Center\, Oklahoma City\,
-  OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: KSBI\nVenue: Paycom Center\, Oklahoma City\
+ , OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910452@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270130T200000Z
 DTEND:20270130T223000Z
 SUMMARY:Nuggets @ Thunder (ABC)
@@ -617,45 +619,45 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910463@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270131T230000Z
 DTEND:20270201T013000Z
-SUMMARY:Bulls @ Thunder
+SUMMARY:Bulls @ Thunder (KSBI / CHSN)
 LOCATION:Paycom Center\, Oklahoma City\, OK
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Paycom Center\, Oklahoma City\,
-  OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: KSBI / CHSN\nVenue: Paycom Center\, Oklahom
+ a City\, OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Ti
+ mes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910479@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270203T020000Z
 DTEND:20270203T043000Z
-SUMMARY:Thunder @ Nuggets
+SUMMARY:Thunder @ Nuggets (KSBI)
 LOCATION:Ball Arena\, Denver\, CO
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Ball Arena\, Denver\, CO\nUnoff
- icial calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: KSBI\nVenue: Ball Arena\, Denver\, CO\nUnof
+ ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910493@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270205T010000Z
 DTEND:20270205T033000Z
-SUMMARY:Thunder @ Bulls
+SUMMARY:Thunder @ Bulls (KSBI / CHSN)
 LOCATION:United Center\, Chicago\, IL
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: United Center\, Chicago\, IL\nU
- nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
- .
+DESCRIPTION:Regular Season\nTV: KSBI / CHSN\nVenue: United Center\, Chicago
+ \, IL\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
+ y change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910503@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270206T023000Z
 DTEND:20270206T050000Z
 SUMMARY:Pacers @ Thunder (Prime Video)
@@ -668,7 +670,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910519@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270208T023000Z
 DTEND:20270208T050000Z
 SUMMARY:Knicks @ Thunder (NBC)
@@ -681,20 +683,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910535@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270210T010000Z
 DTEND:20270210T033000Z
-SUMMARY:Trail Blazers @ Thunder
+SUMMARY:Trail Blazers @ Thunder (KSBI / KUNP 16 / BlazerVision)
 LOCATION:Paycom Center\, Oklahoma City\, OK
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Paycom Center\, Oklahoma City\,
-  OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: KSBI / KUNP 16 / BlazerVision\nVenue: Payco
+ m Center\, Oklahoma City\, OK\nUnofficial calendar\; not affiliated with t
+ he NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910551@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270212T023000Z
 DTEND:20270212T050000Z
 SUMMARY:Spurs @ Thunder (Prime Video)
@@ -707,7 +709,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910563@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270213T223000Z
 DTEND:20270214T010000Z
 SUMMARY:76ers @ Thunder (Prime Video)
@@ -720,20 +722,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910576@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270216T010000Z
 DTEND:20270216T033000Z
-SUMMARY:Magic @ Thunder
+SUMMARY:Magic @ Thunder (KSBI)
 LOCATION:Paycom Center\, Oklahoma City\, OK
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Paycom Center\, Oklahoma City\,
-  OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: KSBI\nVenue: Paycom Center\, Oklahoma City\
+ , OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910592@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270218T023000Z
 DTEND:20270218T050000Z
 SUMMARY:Celtics @ Thunder (ESPN)
@@ -746,7 +748,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910604@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270226T003000Z
 DTEND:20270226T030000Z
 SUMMARY:Thunder @ Knicks (Prime Video)
@@ -759,7 +761,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910618@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270227T223000Z
 DTEND:20270228T010000Z
 SUMMARY:Thunder @ Pistons (Prime Video)
@@ -772,7 +774,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910644@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270303T010000Z
 DTEND:20270303T033000Z
 SUMMARY:Timberwolves @ Thunder (NBC)
@@ -785,20 +787,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910660@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270305T030000Z
 DTEND:20270305T053000Z
-SUMMARY:Thunder @ Kings
+SUMMARY:Thunder @ Kings (KSBI / NBC Sports CA)
 LOCATION:Golden 1 Center\, Sacramento\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Golden 1 Center\, Sacramento\, 
- CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: KSBI / NBC Sports CA\nVenue: Golden 1 Cente
+ r\, Sacramento\, CA\nUnofficial calendar\; not affiliated with the NBA or 
+ ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910673@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270307T013000Z
 DTEND:20270307T040000Z
 SUMMARY:Thunder @ Lakers (ABC)
@@ -811,7 +813,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910686@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270309T023000Z
 DTEND:20270309T050000Z
 SUMMARY:Mavericks @ Thunder (NBCSN)
@@ -824,20 +826,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910698@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270311T003000Z
 DTEND:20270311T030000Z
-SUMMARY:Thunder @ Raptors
+SUMMARY:Thunder @ Raptors (KSBI)
 LOCATION:Scotiabank Arena\, Toronto\, ON
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Scotiabank Arena\, Toronto\, ON
- \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
- nge.
+DESCRIPTION:Regular Season\nTV: KSBI\nVenue: Scotiabank Arena\, Toronto\, O
+ N\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
+ ange.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910713@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270313T003000Z
 DTEND:20270313T030000Z
 SUMMARY:Thunder @ Celtics (Prime Video)
@@ -850,7 +852,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910728@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270314T183000Z
 DTEND:20270314T210000Z
 SUMMARY:Spurs @ Thunder (ABC)
@@ -863,20 +865,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910744@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270317T000000Z
 DTEND:20270317T023000Z
-SUMMARY:Hornets @ Thunder
+SUMMARY:Hornets @ Thunder (KSBI)
 LOCATION:Paycom Center\, Oklahoma City\, OK
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Paycom Center\, Oklahoma City\,
-  OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: KSBI\nVenue: Paycom Center\, Oklahoma City\
+ , OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910751@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270317T233000Z
 DTEND:20270318T020000Z
 SUMMARY:Mavericks @ Thunder (ESPN)
@@ -889,7 +891,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910776@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270321T000000Z
 DTEND:20270321T023000Z
 SUMMARY:Thunder @ Grizzlies (NBA TV)
@@ -902,7 +904,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910799@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270324T030000Z
 DTEND:20270324T053000Z
 SUMMARY:Thunder @ Suns (NBC)
@@ -915,33 +917,33 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910808@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270325T020000Z
 DTEND:20270325T043000Z
-SUMMARY:Thunder @ Suns
+SUMMARY:Thunder @ Suns (KSBI)
 LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Mortgage Matchup Center\, Phoen
- ix\, AZ\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: KSBI\nVenue: Mortgage Matchup Center\, Phoe
+ nix\, AZ\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
+  may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910821@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270327T000000Z
 DTEND:20270327T023000Z
-SUMMARY:Clippers @ Thunder
+SUMMARY:Clippers @ Thunder (KSBI)
 LOCATION:Paycom Center\, Oklahoma City\, OK
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Paycom Center\, Oklahoma City\,
-  OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: KSBI\nVenue: Paycom Center\, Oklahoma City\
+ , OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910837@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270328T233000Z
 DTEND:20270329T020000Z
 SUMMARY:Thunder @ Timberwolves (NBC)
@@ -954,20 +956,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910852@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270331T010000Z
 DTEND:20270331T033000Z
-SUMMARY:Thunder @ Jazz
+SUMMARY:Thunder @ Jazz (KSBI)
 LOCATION:Delta Center\, Salt Lake City\, UT
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Delta Center\, Salt Lake City\,
-  UT\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: KSBI\nVenue: Delta Center\, Salt Lake City\
+ , UT\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910867@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270402T013000Z
 DTEND:20270402T040000Z
 SUMMARY:Lakers @ Thunder (Prime Video)
@@ -980,33 +982,33 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910880@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270403T210000Z
 DTEND:20270403T233000Z
-SUMMARY:Pelicans @ Thunder
+SUMMARY:Pelicans @ Thunder (KSBI)
 LOCATION:Paycom Center\, Oklahoma City\, OK
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Paycom Center\, Oklahoma City\,
-  OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: KSBI\nVenue: Paycom Center\, Oklahoma City\
+ , OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910905@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270407T010000Z
 DTEND:20270407T033000Z
-SUMMARY:Thunder @ Jazz
+SUMMARY:Thunder @ Jazz (KSBI)
 LOCATION:Delta Center\, Salt Lake City\, UT
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Delta Center\, Salt Lake City\,
-  UT\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: KSBI\nVenue: Delta Center\, Salt Lake City\
+ , UT\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910922@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270409T013000Z
 DTEND:20270409T040000Z
 SUMMARY:Warriors @ Thunder (Prime Video)
@@ -1019,26 +1021,26 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910930@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270410T000000Z
 DTEND:20270410T023000Z
-SUMMARY:Warriors @ Thunder
+SUMMARY:Warriors @ Thunder (NBC Sports BA)
 LOCATION:Paycom Center\, Oklahoma City\, OK
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Paycom Center\, Oklahoma City\,
-  OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: NBC Sports BA\nVenue: Paycom Center\, Oklah
+ oma City\, OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. 
+ Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910948@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270412T003000Z
 DTEND:20270412T030000Z
-SUMMARY:Thunder @ Nuggets
+SUMMARY:Thunder @ Nuggets (KSBI)
 LOCATION:Ball Arena\, Denver\, CO
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Ball Arena\, Denver\, CO\nUnoff
- icial calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: KSBI\nVenue: Ball Arena\, Denver\, CO\nUnof
+ ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT

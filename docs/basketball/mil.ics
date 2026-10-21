@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:espn-401909835@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261021T230000Z
 DTEND:20261022T013000Z
 SUMMARY:Bucks @ Wizards (MNMT)
@@ -23,20 +23,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909848@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261023T200000Z
 DTEND:20261023T223000Z
-SUMMARY:Bulls @ Bucks
+SUMMARY:Bulls @ Bucks (MyMi)
 LOCATION:Fiserv Forum\, Milwaukee\, WI
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Fiserv Forum\, Milwaukee\, WI\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: MyMi\nVenue: Fiserv Forum\, Milwaukee\, WI\
+ nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may chan
+ ge.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909855@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261024T233000Z
 DTEND:20261025T020000Z
 SUMMARY:Bucks @ 76ers (NBA TV)
@@ -49,20 +49,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909872@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261027T000000Z
 DTEND:20261027T023000Z
-SUMMARY:Pacers @ Bucks
+SUMMARY:Pacers @ Bucks (MyMi)
 LOCATION:Fiserv Forum\, Milwaukee\, WI
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Fiserv Forum\, Milwaukee\, WI\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: MyMi\nVenue: Fiserv Forum\, Milwaukee\, WI\
+ nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may chan
+ ge.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909887@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261029T000000Z
 DTEND:20261029T023000Z
 SUMMARY:Rockets @ Bucks
@@ -75,7 +75,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909900@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261101T000000Z
 DTEND:20261101T023000Z
 SUMMARY:Cavaliers @ Bucks
@@ -88,7 +88,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909915@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261103T010000Z
 DTEND:20261103T033000Z
 SUMMARY:Bucks @ Timberwolves
@@ -101,45 +101,46 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909924@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261105T003000Z
 DTEND:20261105T030000Z
-SUMMARY:Bucks @ Celtics
+SUMMARY:Bucks @ Celtics (NBC Sports BO)
 LOCATION:TD Garden\, Boston\, MA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: TD Garden\, Boston\, MA\nUnoffi
- cial calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: NBC Sports BO\nVenue: TD Garden\, Boston\, 
+ MA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
+ hange.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909292@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261107T010000Z
 DTEND:20261107T033000Z
-SUMMARY:Raptors @ Bucks
+SUMMARY:Raptors @ Bucks (MyMi)
 LOCATION:Fiserv Forum\, Milwaukee\, WI
-DESCRIPTION:NBA Cup - Group Play\nTV: TBD\nVenue: Fiserv Forum\, Milwaukee\
- , WI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:NBA Cup - Group Play\nTV: MyMi\nVenue: Fiserv Forum\, Milwaukee
+ \, WI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
+ y change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909949@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261109T010000Z
 DTEND:20261109T033000Z
-SUMMARY:Celtics @ Bucks
+SUMMARY:Celtics @ Bucks (NBC Sports BO)
 LOCATION:Fiserv Forum\, Milwaukee\, WI
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Fiserv Forum\, Milwaukee\, WI\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: NBC Sports BO\nVenue: Fiserv Forum\, Milwau
+ kee\, WI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
+  may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909960@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261111T003000Z
 DTEND:20261111T030000Z
 SUMMARY:Bucks @ Knicks
@@ -152,20 +153,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909971@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261112T010000Z
 DTEND:20261112T033000Z
-SUMMARY:Lakers @ Bucks
+SUMMARY:Lakers @ Bucks (Spectrum Sports Net / Spectrum Sports Net + / MyMi)
 LOCATION:Fiserv Forum\, Milwaukee\, WI
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Fiserv Forum\, Milwaukee\, WI\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: Spectrum Sports Net / Spectrum Sports Net +
+  / MyMi\nVenue: Fiserv Forum\, Milwaukee\, WI\nUnofficial calendar\; not a
+ ffiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909297@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261114T000000Z
 DTEND:20261114T023000Z
 SUMMARY:Bucks @ Magic
@@ -178,7 +179,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909992@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261116T010000Z
 DTEND:20261116T033000Z
 SUMMARY:Hawks @ Bucks
@@ -191,7 +192,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910009@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261119T000000Z
 DTEND:20261119T023000Z
 SUMMARY:Bucks @ Heat (ESPN)
@@ -203,20 +204,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910020@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261120T010000Z
 DTEND:20261120T033000Z
-SUMMARY:Trail Blazers @ Bucks
+SUMMARY:Trail Blazers @ Bucks (KUNP 16 / BlazerVision / MyMi)
 LOCATION:Fiserv Forum\, Milwaukee\, WI
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Fiserv Forum\, Milwaukee\, WI\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: KUNP 16 / BlazerVision / MyMi\nVenue: Fiser
+ v Forum\, Milwaukee\, WI\nUnofficial calendar\; not affiliated with the NB
+ A or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910023@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261121T180000Z
 DTEND:20261121T203000Z
 SUMMARY:Bucks @ 76ers
@@ -229,7 +230,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910039@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261124T003000Z
 DTEND:20261124T030000Z
 SUMMARY:Bucks @ Raptors
@@ -242,33 +243,33 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909322@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261126T010000Z
 DTEND:20261126T033000Z
-SUMMARY:Nets @ Bucks
+SUMMARY:Nets @ Bucks (DAZN (YES))
 LOCATION:Fiserv Forum\, Milwaukee\, WI
-DESCRIPTION:NBA Cup - Group Play\nTV: TBD\nVenue: Fiserv Forum\, Milwaukee\
- , WI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:NBA Cup - Group Play\nTV: DAZN (YES)\nVenue: Fiserv Forum\, Mil
+ waukee\, WI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Ti
+ mes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909327@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261128T003000Z
 DTEND:20261128T030000Z
-SUMMARY:Bucks @ Pistons
+SUMMARY:Bucks @ Pistons (MyMi)
 LOCATION:Little Caesars Arena\, Detroit\, MI
-DESCRIPTION:NBA Cup - Group Play\nTV: TBD\nVenue: Little Caesars Arena\, De
- troit\, MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
- es may change.
+DESCRIPTION:NBA Cup - Group Play\nTV: MyMi\nVenue: Little Caesars Arena\, D
+ etroit\, MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Ti
+ mes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910049@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261129T010000Z
 DTEND:20261129T033000Z
 SUMMARY:Thunder @ Bucks
@@ -281,20 +282,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910066@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261201T010000Z
 DTEND:20261201T033000Z
-SUMMARY:Spurs @ Bucks
+SUMMARY:Spurs @ Bucks (MyMi)
 LOCATION:Fiserv Forum\, Milwaukee\, WI
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Fiserv Forum\, Milwaukee\, WI\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: MyMi\nVenue: Fiserv Forum\, Milwaukee\, WI\
+ nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may chan
+ ge.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910080@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261203T010000Z
 DTEND:20261203T033000Z
 SUMMARY:Knicks @ Bucks
@@ -307,7 +308,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910090@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261212T220000Z
 DTEND:20261213T003000Z
 SUMMARY:Bucks @ Grizzlies (NBA TV)
@@ -320,7 +321,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910109@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261215T010000Z
 DTEND:20261215T033000Z
 SUMMARY:Bucks @ Mavericks
@@ -333,7 +334,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910128@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261217T013000Z
 DTEND:20261217T040000Z
 SUMMARY:Bucks @ Rockets
@@ -346,33 +347,33 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910141@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261219T010000Z
 DTEND:20261219T033000Z
-SUMMARY:Suns @ Bucks
+SUMMARY:Suns @ Bucks (Suns Live)
 LOCATION:Fiserv Forum\, Milwaukee\, WI
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Fiserv Forum\, Milwaukee\, WI\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: Suns Live\nVenue: Fiserv Forum\, Milwaukee\
+ , WI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910157@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261221T010000Z
 DTEND:20261221T033000Z
-SUMMARY:Warriors @ Bucks
+SUMMARY:Warriors @ Bucks (NBC Sports BA)
 LOCATION:Fiserv Forum\, Milwaukee\, WI
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Fiserv Forum\, Milwaukee\, WI\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: NBC Sports BA\nVenue: Fiserv Forum\, Milwau
+ kee\, WI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
+  may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910166@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261222T010000Z
 DTEND:20261222T033000Z
 SUMMARY:Bucks @ Spurs
@@ -385,7 +386,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910181@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261224T010000Z
 DTEND:20261224T033000Z
 SUMMARY:Timberwolves @ Bucks
@@ -398,7 +399,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910199@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261227T230000Z
 DTEND:20261228T013000Z
 SUMMARY:Bucks @ Magic
@@ -410,33 +411,33 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910216@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261230T010000Z
 DTEND:20261230T033000Z
-SUMMARY:Bucks @ Thunder
+SUMMARY:Bucks @ Thunder (KSBI)
 LOCATION:Paycom Center\, Oklahoma City\, OK
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Paycom Center\, Oklahoma City\,
-  OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: KSBI\nVenue: Paycom Center\, Oklahoma City\
+ , OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910227@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20261231T200000Z
 DTEND:20261231T223000Z
-SUMMARY:Bucks @ Hawks
+SUMMARY:Bucks @ Hawks (Atlanta News First / MyMi)
 LOCATION:State Farm Arena\, Atlanta\, GA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: State Farm Arena\, Atlanta\, GA
- \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
- nge.
+DESCRIPTION:Regular Season\nTV: Atlanta News First / MyMi\nVenue: State Far
+ m Arena\, Atlanta\, GA\nUnofficial calendar\; not affiliated with the NBA 
+ or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910238@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270102T010000Z
 DTEND:20270102T033000Z
 SUMMARY:76ers @ Bucks
@@ -449,7 +450,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910252@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270103T223000Z
 DTEND:20270104T010000Z
 SUMMARY:Hornets @ Bucks
@@ -462,20 +463,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910270@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270106T010000Z
 DTEND:20270106T033000Z
-SUMMARY:Bucks @ Bulls
+SUMMARY:Bucks @ Bulls (CHSN)
 LOCATION:United Center\, Chicago\, IL
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: United Center\, Chicago\, IL\nU
- nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
- .
+DESCRIPTION:Regular Season\nTV: CHSN\nVenue: United Center\, Chicago\, IL\n
+ Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
+ e.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910286@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270108T010000Z
 DTEND:20270108T033000Z
 SUMMARY:Clippers @ Bucks
@@ -488,20 +489,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910301@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270110T000000Z
 DTEND:20270110T023000Z
-SUMMARY:Bucks @ Pacers
+SUMMARY:Bucks @ Pacers (MyMi)
 LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Gainbridge Fieldhouse\, Indiana
- polis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
- es may change.
+DESCRIPTION:Regular Season\nTV: MyMi\nVenue: Gainbridge Fieldhouse\, Indian
+ apolis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Ti
+ mes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910323@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270113T010000Z
 DTEND:20270113T033000Z
 SUMMARY:Nuggets @ Bucks
@@ -514,7 +515,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910329@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270114T000000Z
 DTEND:20270114T023000Z
 SUMMARY:Bucks @ Pacers
@@ -527,7 +528,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910346@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270116T010000Z
 DTEND:20270116T033000Z
 SUMMARY:Cavaliers @ Bucks
@@ -540,58 +541,58 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910364@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270118T020000Z
 DTEND:20270118T043000Z
-SUMMARY:Bucks @ Lakers
+SUMMARY:Bucks @ Lakers (Spectrum Sports Net / Spectrum Sports Net +)
 LOCATION:crypto.com Arena\, Los Angeles\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: crypto.com Arena\, Los Angeles\
- , CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:Regular Season\nTV: Spectrum Sports Net / Spectrum Sports Net +
+ \nVenue: crypto.com Arena\, Los Angeles\, CA\nUnofficial calendar\; not af
+ filiated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910384@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270121T030000Z
 DTEND:20270121T053000Z
-SUMMARY:Bucks @ Kings
+SUMMARY:Bucks @ Kings (NBC Sports CA)
 LOCATION:Golden 1 Center\, Sacramento\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Golden 1 Center\, Sacramento\, 
- CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: NBC Sports CA\nVenue: Golden 1 Center\, Sac
+ ramento\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
+ imes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910397@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270123T030000Z
 DTEND:20270123T053000Z
-SUMMARY:Bucks @ Warriors
+SUMMARY:Bucks @ Warriors (MyMi)
 LOCATION:Chase Center\, San Francisco\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Chase Center\, San Francisco\, 
- CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: MyMi\nVenue: Chase Center\, San Francisco\,
+  CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
+ change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910405@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270124T020000Z
 DTEND:20270124T043000Z
-SUMMARY:Bucks @ Nuggets
+SUMMARY:Bucks @ Nuggets (MyMi)
 LOCATION:Ball Arena\, Denver\, CO
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Ball Arena\, Denver\, CO\nUnoff
- icial calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: MyMi\nVenue: Ball Arena\, Denver\, CO\nUnof
+ ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910425@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270127T020000Z
 DTEND:20270127T043000Z
 SUMMARY:Bucks @ Jazz
@@ -604,7 +605,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910444@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270129T023000Z
 DTEND:20270129T050000Z
 SUMMARY:Heat @ Bucks (Prime Video)
@@ -617,20 +618,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910456@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270131T010000Z
 DTEND:20270131T033000Z
-SUMMARY:Hawks @ Bucks
+SUMMARY:Hawks @ Bucks (MyMi / Atlanta News First)
 LOCATION:Fiserv Forum\, Milwaukee\, WI
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Fiserv Forum\, Milwaukee\, WI\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: MyMi / Atlanta News First\nVenue: Fiserv Fo
+ rum\, Milwaukee\, WI\nUnofficial calendar\; not affiliated with the NBA or
+  ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910471@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270202T010000Z
 DTEND:20270202T033000Z
 SUMMARY:Grizzlies @ Bucks
@@ -643,58 +644,58 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910491@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270205T003000Z
 DTEND:20270205T030000Z
-SUMMARY:Bucks @ Heat
+SUMMARY:Bucks @ Heat (WPLG)
 LOCATION:Kaseya Center\, Miami\, FL
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Kaseya Center\, Miami\, FL\nUno
- fficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: WPLG\nVenue: Kaseya Center\, Miami\, FL\nUn
+ official calendar\; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910509@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270207T003000Z
 DTEND:20270207T030000Z
-SUMMARY:Bucks @ Raptors
+SUMMARY:Bucks @ Raptors (MyMi)
 LOCATION:Scotiabank Arena\, Toronto\, ON
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Scotiabank Arena\, Toronto\, ON
- \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
- nge.
+DESCRIPTION:Regular Season\nTV: MyMi\nVenue: Scotiabank Arena\, Toronto\, O
+ N\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
+ ange.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910526@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270209T010000Z
 DTEND:20270209T033000Z
-SUMMARY:Magic @ Bucks
+SUMMARY:Magic @ Bucks (MyMi)
 LOCATION:Fiserv Forum\, Milwaukee\, WI
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Fiserv Forum\, Milwaukee\, WI\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: MyMi\nVenue: Fiserv Forum\, Milwaukee\, WI\
+ nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may chan
+ ge.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910534@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270210T010000Z
 DTEND:20270210T033000Z
-SUMMARY:Kings @ Bucks
+SUMMARY:Kings @ Bucks (MyMi)
 LOCATION:Fiserv Forum\, Milwaukee\, WI
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Fiserv Forum\, Milwaukee\, WI\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: MyMi\nVenue: Fiserv Forum\, Milwaukee\, WI\
+ nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may chan
+ ge.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910545@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270212T000000Z
 DTEND:20270212T023000Z
 SUMMARY:Bucks @ Hornets
@@ -707,7 +708,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910565@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270214T000000Z
 DTEND:20270214T023000Z
 SUMMARY:Bucks @ Wizards
@@ -720,7 +721,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910578@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270217T000000Z
 DTEND:20270217T023000Z
 SUMMARY:Bucks @ Cavaliers
@@ -733,7 +734,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910584@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270218T000000Z
 DTEND:20270218T023000Z
 SUMMARY:Bucks @ Cavaliers
@@ -746,7 +747,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910606@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270226T010000Z
 DTEND:20270226T033000Z
 SUMMARY:Wizards @ Bucks
@@ -759,7 +760,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910629@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270301T003000Z
 DTEND:20270301T030000Z
 SUMMARY:Bucks @ Knicks
@@ -772,7 +773,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910643@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270303T010000Z
 DTEND:20270303T033000Z
 SUMMARY:Pistons @ Bucks
@@ -785,20 +786,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910650@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270304T010000Z
 DTEND:20270304T033000Z
-SUMMARY:Jazz @ Bucks
+SUMMARY:Jazz @ Bucks (MyMi / KJZZ-TV / Jazz+)
 LOCATION:Fiserv Forum\, Milwaukee\, WI
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Fiserv Forum\, Milwaukee\, WI\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: MyMi / KJZZ-TV / Jazz+\nVenue: Fiserv Forum
+ \, Milwaukee\, WI\nUnofficial calendar\; not affiliated with the NBA or ES
+ PN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910665@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270306T010000Z
 DTEND:20270306T033000Z
 SUMMARY:Bucks @ Pelicans
@@ -811,46 +812,46 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910690@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270310T003000Z
 DTEND:20270310T030000Z
-SUMMARY:Bucks @ Nets
+SUMMARY:Bucks @ Nets (DAZN (YES))
 LOCATION:Barclays Center\, Brooklyn\, NY
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Barclays Center\, Brooklyn\, NY
- \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
- nge.
+DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: Barclays Center\, Brookl
+ yn\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910705@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270312T000000Z
 DTEND:20270312T023000Z
-SUMMARY:Bucks @ Pistons
+SUMMARY:Bucks @ Pistons (MyMi)
 LOCATION:Little Caesars Arena\, Detroit\, MI
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Little Caesars Arena\, Detroit\
- , MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:Regular Season\nTV: MyMi\nVenue: Little Caesars Arena\, Detroit
+ \, MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
+ y change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910714@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270313T010000Z
 DTEND:20270313T033000Z
-SUMMARY:Heat @ Bucks
+SUMMARY:Heat @ Bucks (WPLG)
 LOCATION:Fiserv Forum\, Milwaukee\, WI
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Fiserv Forum\, Milwaukee\, WI\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: WPLG\nVenue: Fiserv Forum\, Milwaukee\, WI\
+ nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may chan
+ ge.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910742@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270317T000000Z
 DTEND:20270317T023000Z
 SUMMARY:Magic @ Bucks
@@ -863,7 +864,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910760@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270319T000000Z
 DTEND:20270319T023000Z
 SUMMARY:Pistons @ Bucks
@@ -876,20 +877,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910777@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270321T000000Z
 DTEND:20270321T023000Z
-SUMMARY:Pacers @ Bucks
+SUMMARY:Pacers @ Bucks (MyMi)
 LOCATION:Fiserv Forum\, Milwaukee\, WI
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Fiserv Forum\, Milwaukee\, WI\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: MyMi\nVenue: Fiserv Forum\, Milwaukee\, WI\
+ nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may chan
+ ge.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910790@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270323T000000Z
 DTEND:20270323T023000Z
 SUMMARY:Wizards @ Bucks
@@ -902,45 +903,46 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910810@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270325T023000Z
 DTEND:20270325T050000Z
-SUMMARY:Bucks @ Clippers
+SUMMARY:Bucks @ Clippers (ClipperVision / MyMi)
 LOCATION:Intuit Dome\, Inglewood\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Intuit Dome\, Inglewood\, CA\nU
- nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
- .
+DESCRIPTION:Regular Season\nTV: ClipperVision / MyMi\nVenue: Intuit Dome\, 
+ Inglewood\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN.
+  Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910822@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270327T020000Z
 DTEND:20270327T043000Z
-SUMMARY:Bucks @ Suns
+SUMMARY:Bucks @ Suns (Suns Live)
 LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Mortgage Matchup Center\, Phoen
- ix\, AZ\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: Suns Live\nVenue: Mortgage Matchup Center\,
+  Phoenix\, AZ\nUnofficial calendar\; not affiliated with the NBA or ESPN. 
+ Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910829@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270328T020000Z
 DTEND:20270328T043000Z
-SUMMARY:Bucks @ Trail Blazers
+SUMMARY:Bucks @ Trail Blazers (KUNP 16 / BlazerVision)
 LOCATION:Moda Center\, Portland\, OR
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Moda Center\, Portland\, OR\nUn
- official calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: KUNP 16 / BlazerVision\nVenue: Moda Center\
+ , Portland\, OR\nUnofficial calendar\; not affiliated with the NBA or ESPN
+ . Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910845@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270330T000000Z
 DTEND:20270330T023000Z
 SUMMARY:Mavericks @ Bucks
@@ -953,7 +955,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910859@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270401T000000Z
 DTEND:20270401T023000Z
 SUMMARY:Pelicans @ Bucks
@@ -966,7 +968,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910874@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270403T000000Z
 DTEND:20270403T023000Z
 SUMMARY:Hornets @ Bucks
@@ -979,33 +981,33 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910883@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270404T180000Z
 DTEND:20270404T203000Z
-SUMMARY:Nets @ Bucks
+SUMMARY:Nets @ Bucks (DAZN (YES))
 LOCATION:Fiserv Forum\, Milwaukee\, WI
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Fiserv Forum\, Milwaukee\, WI\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: Fiserv Forum\, Milwaukee
+ \, WI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
+ y change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910902@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270407T000000Z
 DTEND:20270407T023000Z
-SUMMARY:Bulls @ Bucks
+SUMMARY:Bulls @ Bucks (CHSN+)
 LOCATION:Fiserv Forum\, Milwaukee\, WI
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Fiserv Forum\, Milwaukee\, WI\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: CHSN+\nVenue: Fiserv Forum\, Milwaukee\, WI
+ \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
+ nge.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910919@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270409T000000Z
 DTEND:20270409T023000Z
 SUMMARY:Knicks @ Bucks
@@ -1018,26 +1020,26 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910929@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270410T000000Z
 DTEND:20270410T023000Z
-SUMMARY:Bucks @ Bulls
+SUMMARY:Bucks @ Bulls (CHSN)
 LOCATION:United Center\, Chicago\, IL
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: United Center\, Chicago\, IL\nU
- nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
- .
+DESCRIPTION:Regular Season\nTV: CHSN\nVenue: United Center\, Chicago\, IL\n
+ Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
+ e.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910937@nba-calendars
-DTSTAMP:20261017T193156Z
+DTSTAMP:20261021T154330Z
 DTSTART:20270411T220000Z
 DTEND:20270412T003000Z
-SUMMARY:Bucks @ Celtics
+SUMMARY:Bucks @ Celtics (MyMi)
 LOCATION:TD Garden\, Boston\, MA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: TD Garden\, Boston\, MA\nUnoffi
- cial calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: MyMi\nVenue: TD Garden\, Boston\, MA\nUnoff
+ icial calendar\; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT

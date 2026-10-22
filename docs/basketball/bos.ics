@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:espn-401909088@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261020T190000Z
 DTEND:20261020T213000Z
 SUMMARY:Celtics @ Pistons (NBC)
@@ -23,7 +23,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909095@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261023T230000Z
 DTEND:20261024T013000Z
 SUMMARY:Knicks @ Celtics (Prime Video)
@@ -36,7 +36,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909870@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261026T233000Z
 DTEND:20261027T020000Z
 SUMMARY:Bulls @ Celtics
@@ -48,46 +48,45 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909877@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261027T233000Z
 DTEND:20261028T020000Z
-SUMMARY:Nets @ Celtics (NBC Sports BO / DAZN (YES))
+SUMMARY:Nets @ Celtics (DAZN (YES))
 LOCATION:TD Garden\, Boston\, MA
-DESCRIPTION:Regular Season\nTV: NBC Sports BO / DAZN (YES)\nVenue: TD Garde
- n\, Boston\, MA\nUnofficial calendar\; not affiliated with the NBA or ESPN
- . Times may change.
+DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: TD Garden\, Boston\, MA\
+ nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may chan
+ ge.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909278@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261030T233000Z
 DTEND:20261031T020000Z
-SUMMARY:Bulls @ Celtics (NBC Sports BO / CHSN)
+SUMMARY:Bulls @ Celtics
 LOCATION:TD Garden\, Boston\, MA
-DESCRIPTION:NBA Cup - Group Play\nTV: NBC Sports BO / CHSN\nVenue: TD Garde
- n\, Boston\, MA\nUnofficial calendar\; not affiliated with the NBA or ESPN
- . Times may change.
+DESCRIPTION:NBA Cup - Group Play\nTV: TBD\nVenue: TD Garden\, Boston\, MA\n
+ Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
+ e.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909903@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261101T203000Z
 DTEND:20261101T230000Z
-SUMMARY:Celtics @ Magic (NBC Sports BO)
+SUMMARY:Celtics @ Magic
 LOCATION:Kia Center\, Orlando\, FL
-DESCRIPTION:Regular Season\nTV: NBC Sports BO\nVenue: Kia Center\, Orlando\
- , FL\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Kia Center\, Orlando\, FL\nUnof
+ ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909916@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261103T013000Z
 DTEND:20261103T040000Z
 SUMMARY:Celtics @ Rockets
@@ -100,46 +99,46 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909924@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261105T003000Z
 DTEND:20261105T030000Z
-SUMMARY:Bucks @ Celtics (NBC Sports BO)
+SUMMARY:Bucks @ Celtics (MyMi / Bucks App)
 LOCATION:TD Garden\, Boston\, MA
-DESCRIPTION:Regular Season\nTV: NBC Sports BO\nVenue: TD Garden\, Boston\, 
- MA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: MyMi / Bucks App\nVenue: TD Garden\, Boston
+ \, MA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
+ y change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909288@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261107T000000Z
 DTEND:20261107T023000Z
-SUMMARY:Celtics @ Hornets (NBC Sports BO)
+SUMMARY:Celtics @ Hornets
 LOCATION:Spectrum Center\, Charlotte\, NC
-DESCRIPTION:NBA Cup - Group Play\nTV: NBC Sports BO\nVenue: Spectrum Center
- \, Charlotte\, NC\nUnofficial calendar\; not affiliated with the NBA or ES
- PN. Times may change.
+DESCRIPTION:NBA Cup - Group Play\nTV: TBD\nVenue: Spectrum Center\, Charlot
+ te\, NC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909949@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261109T010000Z
 DTEND:20261109T033000Z
-SUMMARY:Celtics @ Bucks (NBC Sports BO)
+SUMMARY:Celtics @ Bucks (MyMi / Bucks App)
 LOCATION:Fiserv Forum\, Milwaukee\, WI
-DESCRIPTION:Regular Season\nTV: NBC Sports BO\nVenue: Fiserv Forum\, Milwau
- kee\, WI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
-  may change.
+DESCRIPTION:Regular Season\nTV: MyMi / Bucks App\nVenue: Fiserv Forum\, Mil
+ waukee\, WI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Ti
+ mes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909961@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261111T010000Z
 DTEND:20261111T033000Z
 SUMMARY:Celtics @ 76ers (NBC)
@@ -152,7 +151,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909968@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261112T000000Z
 DTEND:20261112T023000Z
 SUMMARY:Celtics @ Raptors
@@ -165,20 +164,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909989@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261115T230000Z
 DTEND:20261116T013000Z
-SUMMARY:Mavericks @ Celtics (NBC Sports BO)
+SUMMARY:Mavericks @ Celtics (KFAA-TV / MavsTV)
 LOCATION:TD Garden\, Boston\, MA
-DESCRIPTION:Regular Season\nTV: NBC Sports BO\nVenue: TD Garden\, Boston\, 
- MA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: KFAA-TV / MavsTV\nVenue: TD Garden\, Boston
+ \, MA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
+ y change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909994@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261117T000000Z
 DTEND:20261117T023000Z
 SUMMARY:Magic @ Celtics (NBCSN)
@@ -190,20 +189,19 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910015@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261119T020000Z
 DTEND:20261119T043000Z
-SUMMARY:Celtics @ Nuggets (NBC Sports BO)
+SUMMARY:Celtics @ Nuggets
 LOCATION:Ball Arena\, Denver\, CO
-DESCRIPTION:Regular Season\nTV: NBC Sports BO\nVenue: Ball Arena\, Denver\,
-  CO\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Ball Arena\, Denver\, CO\nUnoff
+ icial calendar\; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910028@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261122T030000Z
 DTEND:20261122T053000Z
 SUMMARY:Celtics @ Kings (NBA TV)
@@ -216,20 +214,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910035@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261123T013000Z
 DTEND:20261123T040000Z
-SUMMARY:Celtics @ Warriors (NBC Sports BA / NBC Sports BO)
+SUMMARY:Celtics @ Warriors
 LOCATION:Chase Center\, San Francisco\, CA
-DESCRIPTION:Regular Season\nTV: NBC Sports BA / NBC Sports BO\nVenue: Chase
-  Center\, San Francisco\, CA\nUnofficial calendar\; not affiliated with th
- e NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Chase Center\, San Francisco\, 
+ CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
+ hange.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909315@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261125T010000Z
 DTEND:20261125T033000Z
 SUMMARY:Celtics @ Wizards (NBC)
@@ -242,20 +240,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909330@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261128T010000Z
 DTEND:20261128T033000Z
-SUMMARY:Hawks @ Celtics (Atlanta News First)
+SUMMARY:Hawks @ Celtics
 LOCATION:TD Garden\, Boston\, MA
-DESCRIPTION:NBA Cup - Group Play\nTV: Atlanta News First\nVenue: TD Garden\
- , Boston\, MA\nUnofficial calendar\; not affiliated with the NBA or ESPN. 
- Times may change.
+DESCRIPTION:NBA Cup - Group Play\nTV: TBD\nVenue: TD Garden\, Boston\, MA\n
+ Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
+ e.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910052@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261129T210000Z
 DTEND:20261129T233000Z
 SUMMARY:Celtics @ Spurs (NBA TV)
@@ -268,59 +266,57 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910065@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261201T010000Z
 DTEND:20261201T033000Z
-SUMMARY:Celtics @ Mavericks
+SUMMARY:Celtics @ Mavericks (KFAA-TV / MavsTV)
 LOCATION:American Airlines Center\, Dallas\, TX
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: American Airlines Center\, Dall
- as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: KFAA-TV / MavsTV\nVenue: American Airlines 
+ Center\, Dallas\, TX\nUnofficial calendar\; not affiliated with the NBA or
+  ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910078@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261203T003000Z
 DTEND:20261203T030000Z
-SUMMARY:Hornets @ Celtics (NBC Sports BO)
+SUMMARY:Hornets @ Celtics
 LOCATION:TD Garden\, Boston\, MA
-DESCRIPTION:Regular Season\nTV: NBC Sports BO\nVenue: TD Garden\, Boston\, 
- MA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: TD Garden\, Boston\, MA\nUnoffi
+ cial calendar\; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910098@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261213T200000Z
 DTEND:20261213T223000Z
-SUMMARY:Celtics @ Nets (DAZN (YES) / NBC Sports BO)
+SUMMARY:Celtics @ Nets (DAZN (YES))
 LOCATION:Barclays Center\, Brooklyn\, NY
-DESCRIPTION:Regular Season\nTV: DAZN (YES) / NBC Sports BO\nVenue: Barclays
-  Center\, Brooklyn\, NY\nUnofficial calendar\; not affiliated with the NBA
-  or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: Barclays Center\, Brookl
+ yn\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910107@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261215T003000Z
 DTEND:20261215T030000Z
-SUMMARY:Wizards @ Celtics (MNMT / NBC Sports BO)
+SUMMARY:Wizards @ Celtics (MNMT)
 LOCATION:TD Garden\, Boston\, MA
-DESCRIPTION:Regular Season\nTV: MNMT / NBC Sports BO\nVenue: TD Garden\, Bo
- ston\, MA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
- s may change.
+DESCRIPTION:Regular Season\nTV: MNMT\nVenue: TD Garden\, Boston\, MA\nUnoff
+ icial calendar\; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910117@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261217T000000Z
 DTEND:20261217T023000Z
 SUMMARY:Wizards @ Celtics (ESPN)
@@ -332,33 +328,32 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910136@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261219T003000Z
 DTEND:20261219T030000Z
-SUMMARY:Jazz @ Celtics (NBC Sports BO)
+SUMMARY:Jazz @ Celtics (KJZZ-TV / Jazz+)
 LOCATION:TD Garden\, Boston\, MA
-DESCRIPTION:Regular Season\nTV: NBC Sports BO\nVenue: TD Garden\, Boston\, 
- MA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+\nVenue: TD Garden\, Boston\
+ , MA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910156@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261221T010000Z
 DTEND:20261221T033000Z
-SUMMARY:Pistons @ Celtics (NBC Sports BO)
+SUMMARY:Pistons @ Celtics
 LOCATION:TD Garden\, Boston\, MA
-DESCRIPTION:Regular Season\nTV: NBC Sports BO\nVenue: TD Garden\, Boston\, 
- MA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: TD Garden\, Boston\, MA\nUnoffi
+ cial calendar\; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910175@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261224T003000Z
 DTEND:20261224T030000Z
 SUMMARY:Trail Blazers @ Celtics (BlazerVision)
@@ -371,7 +366,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909098@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261225T193000Z
 DTEND:20261225T220000Z
 SUMMARY:Heat @ Celtics (ABC / ESPN)
@@ -384,7 +379,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910208@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261229T010000Z
 DTEND:20261229T033000Z
 SUMMARY:Cavaliers @ Celtics (NBC)
@@ -396,7 +391,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910222@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261231T010000Z
 DTEND:20261231T033000Z
 SUMMARY:Celtics @ Bulls
@@ -409,20 +404,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910240@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270102T023000Z
 DTEND:20270102T050000Z
-SUMMARY:Celtics @ Jazz
+SUMMARY:Celtics @ Jazz (KJZZ-TV / Jazz+)
 LOCATION:Delta Center\, Salt Lake City\, UT
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Delta Center\, Salt Lake City\,
-  UT\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+\nVenue: Delta Center\, Salt
+  Lake City\, UT\nUnofficial calendar\; not affiliated with the NBA or ESPN
+ . Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910250@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270103T030000Z
 DTEND:20270103T053000Z
 SUMMARY:Celtics @ Trail Blazers (NBA TV)
@@ -435,20 +430,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910262@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270105T020000Z
 DTEND:20270105T043000Z
-SUMMARY:Celtics @ Suns (NBC Sports BO / Suns Live)
+SUMMARY:Celtics @ Suns (Suns Live / Arizona's Family 3TV)
 LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
-DESCRIPTION:Regular Season\nTV: NBC Sports BO / Suns Live\nVenue: Mortgage 
- Matchup Center\, Phoenix\, AZ\nUnofficial calendar\; not affiliated with t
- he NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: Suns Live / Arizona's Family 3TV\nVenue: Mo
+ rtgage Matchup Center\, Phoenix\, AZ\nUnofficial calendar\; not affiliated
+  with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910289@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270108T030000Z
 DTEND:20270108T053000Z
 SUMMARY:Celtics @ Lakers (Prime Video)
@@ -461,7 +456,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910304@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270110T033000Z
 DTEND:20270110T060000Z
 SUMMARY:Celtics @ Clippers (ClipperVision)
@@ -474,7 +469,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910315@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270112T003000Z
 DTEND:20270112T030000Z
 SUMMARY:Rockets @ Celtics
@@ -486,7 +481,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910328@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270114T000000Z
 DTEND:20270114T023000Z
 SUMMARY:Knicks @ Celtics (ESPN)
@@ -498,46 +493,46 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910352@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270117T000000Z
 DTEND:20270117T023000Z
-SUMMARY:Nets @ Celtics (NBC Sports BO / DAZN (YES))
+SUMMARY:Nets @ Celtics (DAZN (YES))
 LOCATION:TD Garden\, Boston\, MA
-DESCRIPTION:Regular Season\nTV: NBC Sports BO / DAZN (YES)\nVenue: TD Garde
- n\, Boston\, MA\nUnofficial calendar\; not affiliated with the NBA or ESPN
- . Times may change.
+DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: TD Garden\, Boston\, MA\
+ nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may chan
+ ge.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910365@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270118T200000Z
 DTEND:20270118T223000Z
-SUMMARY:Celtics @ Wizards (MNMT / NBC Sports BO)
+SUMMARY:Celtics @ Wizards (MNMT)
 LOCATION:Capital One Arena\, Washington\, DC
-DESCRIPTION:Regular Season\nTV: MNMT / NBC Sports BO\nVenue: Capital One Ar
- ena\, Washington\, DC\nUnofficial calendar\; not affiliated with the NBA o
- r ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: MNMT\nVenue: Capital One Arena\, Washington
+ \, DC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
+ y change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910377@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270121T003000Z
 DTEND:20270121T030000Z
-SUMMARY:Pacers @ Celtics (NBC Sports BO)
+SUMMARY:Pacers @ Celtics (DAZN IND)
 LOCATION:TD Garden\, Boston\, MA
-DESCRIPTION:Regular Season\nTV: NBC Sports BO\nVenue: TD Garden\, Boston\, 
- MA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: DAZN IND\nVenue: TD Garden\, Boston\, MA\nU
+ nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
+ .
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910385@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270122T003000Z
 DTEND:20270122T030000Z
 SUMMARY:76ers @ Celtics (Prime Video)
@@ -550,19 +545,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910402@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270124T000000Z
 DTEND:20270124T023000Z
-SUMMARY:Hornets @ Celtics
+SUMMARY:Hornets @ Celtics (DAZN CHA)
 LOCATION:TD Garden\, Boston\, MA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: TD Garden\, Boston\, MA\nUnoffi
- cial calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: DAZN CHA\nVenue: TD Garden\, Boston\, MA\nU
+ nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
+ .
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910413@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270126T000000Z
 DTEND:20270126T023000Z
 SUMMARY:Raptors @ Celtics (NBCSN)
@@ -574,7 +570,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910430@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270128T003000Z
 DTEND:20270128T030000Z
 SUMMARY:Clippers @ Celtics (ClipperVision)
@@ -587,20 +583,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910446@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270130T003000Z
 DTEND:20270130T030000Z
-SUMMARY:Suns @ Celtics (Suns Live / NBC Sports BO)
+SUMMARY:Suns @ Celtics (Suns Live / Arizona's Family 3TV)
 LOCATION:TD Garden\, Boston\, MA
-DESCRIPTION:Regular Season\nTV: Suns Live / NBC Sports BO\nVenue: TD Garden
- \, Boston\, MA\nUnofficial calendar\; not affiliated with the NBA or ESPN.
-  Times may change.
+DESCRIPTION:Regular Season\nTV: Suns Live / Arizona's Family 3TV\nVenue: TD
+  Garden\, Boston\, MA\nUnofficial calendar\; not affiliated with the NBA o
+ r ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910461@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270131T230000Z
 DTEND:20270201T013000Z
 SUMMARY:Celtics @ Raptors
@@ -613,7 +609,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910477@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270203T010000Z
 DTEND:20270203T033000Z
 SUMMARY:Lakers @ Celtics (NBC)
@@ -625,7 +621,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910490@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270205T003000Z
 DTEND:20270205T030000Z
 SUMMARY:Celtics @ Hornets (Prime Video)
@@ -638,7 +634,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910498@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270206T000000Z
 DTEND:20270206T023000Z
 SUMMARY:Celtics @ Hawks
@@ -651,7 +647,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910518@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270208T000000Z
 DTEND:20270208T023000Z
 SUMMARY:Celtics @ 76ers (NBC)
@@ -664,20 +660,19 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910529@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270210T003000Z
 DTEND:20270210T030000Z
-SUMMARY:Nuggets @ Celtics (NBC Sports BO)
+SUMMARY:Nuggets @ Celtics
 LOCATION:TD Garden\, Boston\, MA
-DESCRIPTION:Regular Season\nTV: NBC Sports BO\nVenue: TD Garden\, Boston\, 
- MA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: TD Garden\, Boston\, MA\nUnoffi
+ cial calendar\; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910541@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270211T003000Z
 DTEND:20270211T030000Z
 SUMMARY:Warriors @ Celtics (ESPN)
@@ -689,7 +684,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910556@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270213T010000Z
 DTEND:20270213T033000Z
 SUMMARY:Timberwolves @ Celtics (Prime Video)
@@ -702,20 +697,19 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910568@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270214T180000Z
 DTEND:20270214T203000Z
-SUMMARY:Raptors @ Celtics (NBC Sports BO)
+SUMMARY:Raptors @ Celtics
 LOCATION:TD Garden\, Boston\, MA
-DESCRIPTION:Regular Season\nTV: NBC Sports BO\nVenue: TD Garden\, Boston\, 
- MA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: TD Garden\, Boston\, MA\nUnoffi
+ cial calendar\; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910592@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270218T023000Z
 DTEND:20270218T050000Z
 SUMMARY:Celtics @ Thunder (ESPN)
@@ -728,19 +722,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910597@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270219T010000Z
 DTEND:20270219T033000Z
-SUMMARY:Celtics @ Grizzlies
+SUMMARY:Celtics @ Grizzlies (DAZN MEM)
 LOCATION:FedExForum\, Memphis\, TN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: FedExForum\, Memphis\, TN\nUnof
- ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: DAZN MEM\nVenue: FedExForum\, Memphis\, TN\
+ nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may chan
+ ge.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910610@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270227T003000Z
 DTEND:20270227T030000Z
 SUMMARY:Cavaliers @ Celtics (ESPN)
@@ -752,7 +747,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910628@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270301T000000Z
 DTEND:20270301T023000Z
 SUMMARY:Celtics @ Timberwolves (NBC)
@@ -765,20 +760,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910638@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270303T000000Z
 DTEND:20270303T023000Z
-SUMMARY:Celtics @ Pacers
+SUMMARY:Celtics @ Pacers (DAZN IND)
 LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Gainbridge Fieldhouse\, Indiana
- polis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
- es may change.
+DESCRIPTION:Regular Season\nTV: DAZN IND\nVenue: Gainbridge Fieldhouse\, In
+ dianapolis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN
+ . Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910662@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270306T000000Z
 DTEND:20270306T023000Z
 SUMMARY:Celtics @ Pistons (ESPN)
@@ -791,7 +786,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910675@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270307T180000Z
 DTEND:20270307T203000Z
 SUMMARY:76ers @ Celtics (ABC)
@@ -803,7 +798,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910692@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270310T010000Z
 DTEND:20270310T033000Z
 SUMMARY:Celtics @ Bulls
@@ -816,20 +811,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910706@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270312T003000Z
 DTEND:20270312T030000Z
-SUMMARY:Grizzlies @ Celtics (NBC Sports BO)
+SUMMARY:Grizzlies @ Celtics (DAZN MEM)
 LOCATION:TD Garden\, Boston\, MA
-DESCRIPTION:Regular Season\nTV: NBC Sports BO\nVenue: TD Garden\, Boston\, 
- MA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: DAZN MEM\nVenue: TD Garden\, Boston\, MA\nU
+ nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
+ .
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910713@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270313T003000Z
 DTEND:20270313T030000Z
 SUMMARY:Thunder @ Celtics (Prime Video)
@@ -842,7 +837,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910727@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270314T160000Z
 DTEND:20270314T183000Z
 SUMMARY:Celtics @ Knicks (ABC)
@@ -855,46 +850,44 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910740@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270316T233000Z
 DTEND:20270317T020000Z
-SUMMARY:Kings @ Celtics (NBC Sports BO / NBC Sports CA)
+SUMMARY:Kings @ Celtics
 LOCATION:TD Garden\, Boston\, MA
-DESCRIPTION:Regular Season\nTV: NBC Sports BO / NBC Sports CA\nVenue: TD Ga
- rden\, Boston\, MA\nUnofficial calendar\; not affiliated with the NBA or E
- SPN. Times may change.
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: TD Garden\, Boston\, MA\nUnoffi
+ cial calendar\; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910759@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270318T233000Z
 DTEND:20270319T020000Z
-SUMMARY:Magic @ Celtics (NBC Sports BO)
+SUMMARY:Magic @ Celtics
 LOCATION:TD Garden\, Boston\, MA
-DESCRIPTION:Regular Season\nTV: NBC Sports BO\nVenue: TD Garden\, Boston\, 
- MA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: TD Garden\, Boston\, MA\nUnoffi
+ cial calendar\; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910779@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270321T190000Z
 DTEND:20270321T213000Z
-SUMMARY:Pelicans @ Celtics (NBC Sports BO)
+SUMMARY:Pelicans @ Celtics (GCSEN / Pelicans.com)
 LOCATION:TD Garden\, Boston\, MA
-DESCRIPTION:Regular Season\nTV: NBC Sports BO\nVenue: TD Garden\, Boston\, 
- MA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com\nVenue: TD Garden\, Bo
+ ston\, MA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
+ s may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910794@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270323T233000Z
 DTEND:20270324T020000Z
 SUMMARY:Celtics @ Nets (DAZN (YES))
@@ -907,7 +900,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910803@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270324T233000Z
 DTEND:20270325T020000Z
 SUMMARY:Spurs @ Celtics (ESPN)
@@ -919,7 +912,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910827@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270328T000000Z
 DTEND:20270328T023000Z
 SUMMARY:Celtics @ Heat (NBA TV)
@@ -932,33 +925,33 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910836@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270328T230000Z
 DTEND:20270329T013000Z
-SUMMARY:Celtics @ Pelicans (NBC Sports BO)
+SUMMARY:Celtics @ Pelicans (GCSEN / Pelicans.com)
 LOCATION:Smoothie King Center\, New Orleans\, LA
-DESCRIPTION:Regular Season\nTV: NBC Sports BO\nVenue: Smoothie King Center\
- , New Orleans\, LA\nUnofficial calendar\; not affiliated with the NBA or E
- SPN. Times may change.
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com\nVenue: Smoothie King 
+ Center\, New Orleans\, LA\nUnofficial calendar\; not affiliated with the N
+ BA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910849@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270331T000000Z
 DTEND:20270331T023000Z
-SUMMARY:Celtics @ Pacers (NBC Sports BO)
+SUMMARY:Celtics @ Pacers (DAZN IND)
 LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
-DESCRIPTION:Regular Season\nTV: NBC Sports BO\nVenue: Gainbridge Fieldhouse
- \, Indianapolis\, IN\nUnofficial calendar\; not affiliated with the NBA or
-  ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: DAZN IND\nVenue: Gainbridge Fieldhouse\, In
+ dianapolis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN
+ . Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910864@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270401T230000Z
 DTEND:20270402T013000Z
 SUMMARY:Celtics @ Cavaliers (Prime Video)
@@ -971,20 +964,19 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910869@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270402T233000Z
 DTEND:20270403T020000Z
-SUMMARY:Heat @ Celtics (NBC Sports BO / WPLG)
+SUMMARY:Heat @ Celtics
 LOCATION:TD Garden\, Boston\, MA
-DESCRIPTION:Regular Season\nTV: NBC Sports BO / WPLG\nVenue: TD Garden\, Bo
- ston\, MA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
- s may change.
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: TD Garden\, Boston\, MA\nUnoffi
+ cial calendar\; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910893@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270404T233000Z
 DTEND:20270405T020000Z
 SUMMARY:Celtics @ Knicks (NBC)
@@ -997,39 +989,39 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910910@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270407T230000Z
 DTEND:20270408T013000Z
-SUMMARY:Celtics @ Magic (NBC Sports BO)
+SUMMARY:Celtics @ Magic
 LOCATION:Kia Center\, Orlando\, FL
-DESCRIPTION:Regular Season\nTV: NBC Sports BO\nVenue: Kia Center\, Orlando\
- , FL\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Kia Center\, Orlando\, FL\nUnof
+ ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910923@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270409T230000Z
 DTEND:20270410T013000Z
-SUMMARY:Celtics @ Hawks (NBC Sports BO)
+SUMMARY:Celtics @ Hawks
 LOCATION:State Farm Arena\, Atlanta\, GA
-DESCRIPTION:Regular Season\nTV: NBC Sports BO\nVenue: State Farm Arena\, At
- lanta\, GA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
- es may change.
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: State Farm Arena\, Atlanta\, GA
+ \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
+ nge.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910937@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270411T220000Z
 DTEND:20270412T003000Z
-SUMMARY:Bucks @ Celtics (MyMi)
+SUMMARY:Bucks @ Celtics (MyMi / Bucks App)
 LOCATION:TD Garden\, Boston\, MA
-DESCRIPTION:Regular Season\nTV: MyMi\nVenue: TD Garden\, Boston\, MA\nUnoff
- icial calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: MyMi / Bucks App\nVenue: TD Garden\, Boston
+ \, MA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
+ y change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT

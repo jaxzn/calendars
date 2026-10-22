@@ -10,46 +10,46 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:espn-401909840@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261022T003000Z
 DTEND:20261022T030000Z
-SUMMARY:Mavericks @ Rockets
+SUMMARY:Mavericks @ Rockets (KFAA-TV / MavsTV)
 LOCATION:Toyota Center (Houston)\, Houston\, TX
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Toyota Center (Houston)\, Houst
- on\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: KFAA-TV / MavsTV\nVenue: Toyota Center (Hou
+ ston)\, Houston\, TX\nFinal: Mavericks 110\, Rockets 128\nUnofficial calen
+ dar\; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909844@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261023T230000Z
 DTEND:20261024T013000Z
-SUMMARY:Mavericks @ Pacers
+SUMMARY:Mavericks @ Pacers (KFAA-TV / MavsTV)
 LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Gainbridge Fieldhouse\, Indiana
- polis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
- es may change.
+DESCRIPTION:Regular Season\nTV: KFAA-TV / MavsTV\nVenue: Gainbridge Fieldho
+ use\, Indianapolis\, IN\nUnofficial calendar\; not affiliated with the NBA
+  or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909858@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261025T000000Z
 DTEND:20261025T023000Z
-SUMMARY:Spurs @ Mavericks
+SUMMARY:Spurs @ Mavericks (KFAA-TV / MavsTV / DAZN SAS)
 LOCATION:American Airlines Center\, Dallas\, TX
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: American Airlines Center\, Dall
- as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: KFAA-TV / MavsTV / DAZN SAS\nVenue: America
+ n Airlines Center\, Dallas\, TX\nUnofficial calendar\; not affiliated with
+  the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909871@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261026T233000Z
 DTEND:20261027T020000Z
 SUMMARY:Mavericks @ Heat (NBA TV)
@@ -62,7 +62,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909891@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261029T013000Z
 DTEND:20261029T040000Z
 SUMMARY:Thunder @ Mavericks (ESPN)
@@ -75,20 +75,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909283@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261031T000000Z
 DTEND:20261031T023000Z
-SUMMARY:Rockets @ Mavericks
+SUMMARY:Rockets @ Mavericks (KFAA-TV / MavsTV)
 LOCATION:American Airlines Center\, Dallas\, TX
-DESCRIPTION:NBA Cup - Group Play\nTV: TBD\nVenue: American Airlines Center\
- , Dallas\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. 
- Times may change.
+DESCRIPTION:NBA Cup - Group Play\nTV: KFAA-TV / MavsTV\nVenue: American Air
+ lines Center\, Dallas\, TX\nUnofficial calendar\; not affiliated with the 
+ NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909913@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261103T010000Z
 DTEND:20261103T033000Z
 SUMMARY:Kings @ Mavericks (KFAA-TV / MavsTV)
@@ -101,7 +101,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909933@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261105T023000Z
 DTEND:20261105T050000Z
 SUMMARY:Mavericks @ Spurs (ESPN)
@@ -114,46 +114,46 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909290@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261107T010000Z
 DTEND:20261107T033000Z
-SUMMARY:Jazz @ Mavericks
+SUMMARY:Jazz @ Mavericks (KFAA-TV / MavsTV / KJZZ-TV / Jazz+)
 LOCATION:American Airlines Center\, Dallas\, TX
-DESCRIPTION:NBA Cup - Group Play\nTV: TBD\nVenue: American Airlines Center\
- , Dallas\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. 
- Times may change.
+DESCRIPTION:NBA Cup - Group Play\nTV: KFAA-TV / MavsTV / KJZZ-TV / Jazz+\nV
+ enue: American Airlines Center\, Dallas\, TX\nUnofficial calendar\; not af
+ filiated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909948@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261109T003000Z
 DTEND:20261109T030000Z
-SUMMARY:Nets @ Mavericks (DAZN (YES))
+SUMMARY:Nets @ Mavericks (DAZN (YES) / KFAA-TV / MavsTV)
 LOCATION:American Airlines Center\, Dallas\, TX
-DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: American Airlines Center
- \, Dallas\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN.
-  Times may change.
+DESCRIPTION:Regular Season\nTV: DAZN (YES) / KFAA-TV / MavsTV\nVenue: Ameri
+ can Airlines Center\, Dallas\, TX\nUnofficial calendar\; not affiliated wi
+ th the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909956@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261110T010000Z
 DTEND:20261110T033000Z
-SUMMARY:Pacers @ Mavericks
+SUMMARY:Pacers @ Mavericks (KFAA-TV / MavsTV / DAZN IND)
 LOCATION:American Airlines Center\, Dallas\, TX
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: American Airlines Center\, Dall
- as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: KFAA-TV / MavsTV / DAZN IND\nVenue: America
+ n Airlines Center\, Dallas\, TX\nUnofficial calendar\; not affiliated with
+  the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909978@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261113T010000Z
 DTEND:20261113T033000Z
 SUMMARY:Mavericks @ Timberwolves (NBA TV)
@@ -166,7 +166,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909981@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261115T003000Z
 DTEND:20261115T030000Z
 SUMMARY:Mavericks @ Cavaliers (KFAA-TV / MavsTV)
@@ -179,20 +179,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909989@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261115T230000Z
 DTEND:20261116T013000Z
-SUMMARY:Mavericks @ Celtics (NBC Sports BO)
+SUMMARY:Mavericks @ Celtics (KFAA-TV / MavsTV)
 LOCATION:TD Garden\, Boston\, MA
-DESCRIPTION:Regular Season\nTV: NBC Sports BO\nVenue: TD Garden\, Boston\, 
- MA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: KFAA-TV / MavsTV\nVenue: TD Garden\, Boston
+ \, MA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
+ y change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910016@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261119T023000Z
 DTEND:20261119T050000Z
 SUMMARY:Warriors @ Mavericks (ESPN)
@@ -205,33 +205,33 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910025@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261122T010000Z
 DTEND:20261122T033000Z
-SUMMARY:Clippers @ Mavericks
+SUMMARY:Clippers @ Mavericks (KFAA-TV / MavsTV / ClipperVision)
 LOCATION:American Airlines Center\, Dallas\, TX
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: American Airlines Center\, Dall
- as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: KFAA-TV / MavsTV / ClipperVision\nVenue: Am
+ erican Airlines Center\, Dallas\, TX\nUnofficial calendar\; not affiliated
+  with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910033@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261123T000000Z
 DTEND:20261123T023000Z
-SUMMARY:Mavericks @ Jazz
+SUMMARY:Mavericks @ Jazz (KJZZ-TV / Jazz+ / KFAA-TV / MavsTV)
 LOCATION:Delta Center\, Salt Lake City\, UT
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Delta Center\, Salt Lake City\,
-  UT\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+ / KFAA-TV / MavsTV\nVenue: 
+ Delta Center\, Salt Lake City\, UT\nUnofficial calendar\; not affiliated w
+ ith the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909316@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261125T030000Z
 DTEND:20261125T053000Z
 SUMMARY:Mavericks @ Nuggets (NBCSN / NBC)
@@ -244,33 +244,34 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909332@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261128T020000Z
 DTEND:20261128T043000Z
-SUMMARY:Mavericks @ Suns (Suns Live)
+SUMMARY:Mavericks @ Suns (Suns Live / Arizona's Family 3TV / KFAA-TV / Mavs
+ TV)
 LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
-DESCRIPTION:NBA Cup - Group Play\nTV: Suns Live\nVenue: Mortgage Matchup Ce
- nter\, Phoenix\, AZ\nUnofficial calendar\; not affiliated with the NBA or 
- ESPN. Times may change.
+DESCRIPTION:NBA Cup - Group Play\nTV: Suns Live / Arizona's Family 3TV / KF
+ AA-TV / MavsTV\nVenue: Mortgage Matchup Center\, Phoenix\, AZ\nUnofficial 
+ calendar\; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910065@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261201T010000Z
 DTEND:20261201T033000Z
-SUMMARY:Celtics @ Mavericks
+SUMMARY:Celtics @ Mavericks (KFAA-TV / MavsTV)
 LOCATION:American Airlines Center\, Dallas\, TX
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: American Airlines Center\, Dall
- as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: KFAA-TV / MavsTV\nVenue: American Airlines 
+ Center\, Dallas\, TX\nUnofficial calendar\; not affiliated with the NBA or
+  ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910079@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261203T010000Z
 DTEND:20261203T033000Z
 SUMMARY:Magic @ Mavericks (KFAA-TV / MavsTV)
@@ -283,33 +284,33 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910109@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261215T010000Z
 DTEND:20261215T033000Z
-SUMMARY:Bucks @ Mavericks
+SUMMARY:Bucks @ Mavericks (KFAA-TV / MavsTV / MyMi / Bucks App)
 LOCATION:American Airlines Center\, Dallas\, TX
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: American Airlines Center\, Dall
- as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: KFAA-TV / MavsTV / MyMi / Bucks App\nVenue:
+  American Airlines Center\, Dallas\, TX\nUnofficial calendar\; not affilia
+ ted with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910122@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261217T003000Z
 DTEND:20261217T030000Z
-SUMMARY:Mavericks @ Nets (DAZN (YES))
+SUMMARY:Mavericks @ Nets (DAZN (YES) / KFAA-TV / MavsTV)
 LOCATION:Barclays Center\, Brooklyn\, NY
-DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: Barclays Center\, Brookl
- yn\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: DAZN (YES) / KFAA-TV / MavsTV\nVenue: Barcl
+ ays Center\, Brooklyn\, NY\nUnofficial calendar\; not affiliated with the 
+ NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910131@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261218T000000Z
 DTEND:20261218T023000Z
 SUMMARY:Mavericks @ 76ers (NBA TV)
@@ -322,20 +323,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910147@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261220T010000Z
 DTEND:20261220T033000Z
-SUMMARY:Bulls @ Mavericks (CHSN)
+SUMMARY:Bulls @ Mavericks (KFAA-TV / MavsTV)
 LOCATION:American Airlines Center\, Dallas\, TX
-DESCRIPTION:Regular Season\nTV: CHSN\nVenue: American Airlines Center\, Dal
- las\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
-  may change.
+DESCRIPTION:Regular Season\nTV: KFAA-TV / MavsTV\nVenue: American Airlines 
+ Center\, Dallas\, TX\nUnofficial calendar\; not affiliated with the NBA or
+  ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910171@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261223T033000Z
 DTEND:20261223T060000Z
 SUMMARY:Mavericks @ Warriors (NBC)
@@ -348,20 +349,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910185@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261224T030000Z
 DTEND:20261224T053000Z
-SUMMARY:Mavericks @ Kings (NBC Sports CA)
+SUMMARY:Mavericks @ Kings (KFAA-TV / MavsTV)
 LOCATION:Golden 1 Center\, Sacramento\, CA
-DESCRIPTION:Regular Season\nTV: NBC Sports CA\nVenue: Golden 1 Center\, Sac
- ramento\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
- imes may change.
+DESCRIPTION:Regular Season\nTV: KFAA-TV / MavsTV\nVenue: Golden 1 Center\, 
+ Sacramento\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN
+ . Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910193@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261227T010000Z
 DTEND:20261227T033000Z
 SUMMARY:Suns @ Mavericks (NBA TV)
@@ -374,7 +375,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910214@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261230T010000Z
 DTEND:20261230T033000Z
 SUMMARY:Heat @ Mavericks (NBC)
@@ -387,7 +388,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910239@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270102T013000Z
 DTEND:20270102T040000Z
 SUMMARY:Mavericks @ Rockets (KFAA-TV / MavsTV)
@@ -400,7 +401,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910245@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270103T003000Z
 DTEND:20270103T030000Z
 SUMMARY:Mavericks @ Hawks (NBA TV)
@@ -413,33 +414,33 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910261@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270105T010000Z
 DTEND:20270105T033000Z
-SUMMARY:Mavericks @ Pelicans
+SUMMARY:Mavericks @ Pelicans (GCSEN / Pelicans.com / KFAA-TV / MavsTV)
 LOCATION:Smoothie King Center\, New Orleans\, LA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Smoothie King Center\, New Orle
- ans\, LA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
-  may change.
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com / KFAA-TV / MavsTV\nVe
+ nue: Smoothie King Center\, New Orleans\, LA\nUnofficial calendar\; not af
+ filiated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910285@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270108T010000Z
 DTEND:20270108T033000Z
-SUMMARY:Trail Blazers @ Mavericks (BlazerVision)
+SUMMARY:Trail Blazers @ Mavericks (BlazerVision / KFAA-TV / MavsTV)
 LOCATION:American Airlines Center\, Dallas\, TX
-DESCRIPTION:Regular Season\nTV: BlazerVision\nVenue: American Airlines Cent
- er\, Dallas\, TX\nUnofficial calendar\; not affiliated with the NBA or ESP
- N. Times may change.
+DESCRIPTION:Regular Season\nTV: BlazerVision / KFAA-TV / MavsTV\nVenue: Ame
+ rican Airlines Center\, Dallas\, TX\nUnofficial calendar\; not affiliated 
+ with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910296@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270109T023000Z
 DTEND:20270109T050000Z
 SUMMARY:Suns @ Mavericks (ESPN)
@@ -452,44 +453,46 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910310@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270110T230000Z
 DTEND:20270111T013000Z
-SUMMARY:Mavericks @ Grizzlies
+SUMMARY:Mavericks @ Grizzlies (DAZN MEM / KFAA-TV / MavsTV)
 LOCATION:FedExForum\, Memphis\, TN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: FedExForum\, Memphis\, TN\nUnof
- ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: DAZN MEM / KFAA-TV / MavsTV\nVenue: FedExFo
+ rum\, Memphis\, TN\nUnofficial calendar\; not affiliated with the NBA or E
+ SPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910322@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270113T010000Z
 DTEND:20270113T033000Z
-SUMMARY:Mavericks @ Grizzlies
+SUMMARY:Mavericks @ Grizzlies (DAZN MEM / KFAA-TV / MavsTV)
 LOCATION:FedExForum\, Memphis\, TN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: FedExForum\, Memphis\, TN\nUnof
- ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: DAZN MEM / KFAA-TV / MavsTV\nVenue: FedExFo
+ rum\, Memphis\, TN\nUnofficial calendar\; not affiliated with the NBA or E
+ SPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910335@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270115T000000Z
 DTEND:20270115T023000Z
-SUMMARY:Mavericks @ Pistons
+SUMMARY:Mavericks @ Pistons (KFAA-TV / MavsTV)
 LOCATION:Little Caesars Arena\, Detroit\, MI
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Little Caesars Arena\, Detroit\
- , MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:Regular Season\nTV: KFAA-TV / MavsTV\nVenue: Little Caesars Are
+ na\, Detroit\, MI\nUnofficial calendar\; not affiliated with the NBA or ES
+ PN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910353@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270117T003000Z
 DTEND:20270117T030000Z
 SUMMARY:Mavericks @ Knicks (NBA TV)
@@ -502,20 +505,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910366@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270119T010000Z
 DTEND:20270119T033000Z
-SUMMARY:Thunder @ Mavericks
+SUMMARY:Thunder @ Mavericks (KFAA-TV / MavsTV / Thunder App)
 LOCATION:American Airlines Center\, Dallas\, TX
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: American Airlines Center\, Dall
- as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: KFAA-TV / MavsTV / Thunder App\nVenue: Amer
+ ican Airlines Center\, Dallas\, TX\nUnofficial calendar\; not affiliated w
+ ith the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910372@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270120T010000Z
 DTEND:20270120T033000Z
 SUMMARY:Hornets @ Mavericks (NBC)
@@ -528,46 +531,46 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910393@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270123T010000Z
 DTEND:20270123T033000Z
-SUMMARY:Mavericks @ Pelicans
+SUMMARY:Mavericks @ Pelicans (GCSEN / Pelicans.com / KFAA-TV / MavsTV)
 LOCATION:Smoothie King Center\, New Orleans\, LA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Smoothie King Center\, New Orle
- ans\, LA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
-  may change.
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com / KFAA-TV / MavsTV\nVe
+ nue: Smoothie King Center\, New Orleans\, LA\nUnofficial calendar\; not af
+ filiated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910404@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270124T010000Z
 DTEND:20270124T033000Z
-SUMMARY:Cavaliers @ Mavericks
+SUMMARY:Cavaliers @ Mavericks (KFAA-TV / MavsTV)
 LOCATION:American Airlines Center\, Dallas\, TX
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: American Airlines Center\, Dall
- as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: KFAA-TV / MavsTV\nVenue: American Airlines 
+ Center\, Dallas\, TX\nUnofficial calendar\; not affiliated with the NBA or
+  ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910417@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270126T010000Z
 DTEND:20270126T033000Z
-SUMMARY:Mavericks @ Bulls (CHSN)
+SUMMARY:Mavericks @ Bulls (KFAA-TV / MavsTV)
 LOCATION:United Center\, Chicago\, IL
-DESCRIPTION:Regular Season\nTV: CHSN\nVenue: United Center\, Chicago\, IL\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: KFAA-TV / MavsTV\nVenue: United Center\, Ch
+ icago\, IL\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
+ es may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910432@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270128T003000Z
 DTEND:20270128T030000Z
 SUMMARY:Mavericks @ Raptors (KFAA-TV / MavsTV)
@@ -580,20 +583,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910448@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270130T010000Z
 DTEND:20270130T033000Z
-SUMMARY:Pistons @ Mavericks
+SUMMARY:Pistons @ Mavericks (KFAA-TV / MavsTV)
 LOCATION:American Airlines Center\, Dallas\, TX
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: American Airlines Center\, Dall
- as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: KFAA-TV / MavsTV\nVenue: American Airlines 
+ Center\, Dallas\, TX\nUnofficial calendar\; not affiliated with the NBA or
+  ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910466@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270201T013000Z
 DTEND:20270201T040000Z
 SUMMARY:Rockets @ Mavericks (NBC)
@@ -606,20 +609,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910478@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270203T010000Z
 DTEND:20270203T033000Z
-SUMMARY:Raptors @ Mavericks
+SUMMARY:Raptors @ Mavericks (KFAA-TV / MavsTV)
 LOCATION:American Airlines Center\, Dallas\, TX
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: American Airlines Center\, Dall
- as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: KFAA-TV / MavsTV\nVenue: American Airlines 
+ Center\, Dallas\, TX\nUnofficial calendar\; not affiliated with the NBA or
+  ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910495@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270205T030000Z
 DTEND:20270205T053000Z
 SUMMARY:Mavericks @ Nuggets (Prime Video)
@@ -632,33 +635,33 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910504@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270206T200000Z
 DTEND:20270206T223000Z
-SUMMARY:Jazz @ Mavericks
+SUMMARY:Jazz @ Mavericks (KFAA-TV / MavsTV / KJZZ-TV / Jazz+)
 LOCATION:American Airlines Center\, Dallas\, TX
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: American Airlines Center\, Dall
- as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: KFAA-TV / MavsTV / KJZZ-TV / Jazz+\nVenue: 
+ American Airlines Center\, Dallas\, TX\nUnofficial calendar\; not affiliat
+ ed with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910516@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270207T213000Z
 DTEND:20270208T000000Z
-SUMMARY:Clippers @ Mavericks
+SUMMARY:Clippers @ Mavericks (KFAA-TV / MavsTV / ClipperVision)
 LOCATION:American Airlines Center\, Dallas\, TX
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: American Airlines Center\, Dall
- as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: KFAA-TV / MavsTV / ClipperVision\nVenue: Am
+ erican Airlines Center\, Dallas\, TX\nUnofficial calendar\; not affiliated
+  with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910533@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270210T010000Z
 DTEND:20270210T033000Z
 SUMMARY:Spurs @ Mavericks (NBC)
@@ -671,20 +674,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910548@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270212T010000Z
 DTEND:20270212T033000Z
-SUMMARY:Trail Blazers @ Mavericks (KUNP 16 / BlazerVision)
+SUMMARY:Trail Blazers @ Mavericks (KUNP 16 / BlazerVision / KFAA-TV / MavsT
+ V)
 LOCATION:American Airlines Center\, Dallas\, TX
-DESCRIPTION:Regular Season\nTV: KUNP 16 / BlazerVision\nVenue: American Air
- lines Center\, Dallas\, TX\nUnofficial calendar\; not affiliated with the 
- NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: KUNP 16 / BlazerVision / KFAA-TV / MavsTV\n
+ Venue: American Airlines Center\, Dallas\, TX\nUnofficial calendar\; not a
+ ffiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910561@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270213T200000Z
 DTEND:20270213T223000Z
 SUMMARY:Mavericks @ Hornets (Prime Video)
@@ -697,7 +701,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909478@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270215T193000Z
 DTEND:20270215T220000Z
 SUMMARY:76ers @ Mavericks (NBC)
@@ -710,7 +714,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910586@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270218T000000Z
 DTEND:20270218T023000Z
 SUMMARY:Mavericks @ Magic (KFAA-TV / MavsTV)
@@ -723,7 +727,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910608@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270226T030000Z
 DTEND:20270226T053000Z
 SUMMARY:Mavericks @ Warriors (Prime Video)
@@ -736,7 +740,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910616@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270227T030000Z
 DTEND:20270227T053000Z
 SUMMARY:Mavericks @ Trail Blazers (KUNP 16 / BlazerVision / KFAA-TV / MavsT
@@ -750,7 +754,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910624@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270228T203000Z
 DTEND:20270228T230000Z
 SUMMARY:Lakers @ Mavericks (ABC)
@@ -763,20 +767,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910642@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270303T010000Z
 DTEND:20270303T033000Z
-SUMMARY:Warriors @ Mavericks (NBC Sports BA)
+SUMMARY:Warriors @ Mavericks (KFAA-TV / MavsTV)
 LOCATION:American Airlines Center\, Dallas\, TX
-DESCRIPTION:Regular Season\nTV: NBC Sports BA\nVenue: American Airlines Cen
- ter\, Dallas\, TX\nUnofficial calendar\; not affiliated with the NBA or ES
- PN. Times may change.
+DESCRIPTION:Regular Season\nTV: KFAA-TV / MavsTV\nVenue: American Airlines 
+ Center\, Dallas\, TX\nUnofficial calendar\; not affiliated with the NBA or
+  ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910658@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270305T023000Z
 DTEND:20270305T050000Z
 SUMMARY:Knicks @ Mavericks (Prime Video)
@@ -789,7 +793,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910686@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270309T023000Z
 DTEND:20270309T050000Z
 SUMMARY:Mavericks @ Thunder (NBCSN)
@@ -802,33 +806,33 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910693@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270310T010000Z
 DTEND:20270310T033000Z
-SUMMARY:Grizzlies @ Mavericks
+SUMMARY:Grizzlies @ Mavericks (KFAA-TV / MavsTV / DAZN MEM)
 LOCATION:American Airlines Center\, Dallas\, TX
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: American Airlines Center\, Dall
- as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: KFAA-TV / MavsTV / DAZN MEM\nVenue: America
+ n Airlines Center\, Dallas\, TX\nUnofficial calendar\; not affiliated with
+  the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910710@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270312T010000Z
 DTEND:20270312T033000Z
-SUMMARY:Wizards @ Mavericks
+SUMMARY:Wizards @ Mavericks (KFAA-TV / MavsTV)
 LOCATION:American Airlines Center\, Dallas\, TX
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: American Airlines Center\, Dall
- as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: KFAA-TV / MavsTV\nVenue: American Airlines 
+ Center\, Dallas\, TX\nUnofficial calendar\; not affiliated with the NBA or
+  ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910724@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270314T010000Z
 DTEND:20270314T033000Z
 SUMMARY:Pelicans @ Mavericks (KFAA-TV / MavsTV / GCSEN / Pelicans.com)
@@ -841,7 +845,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910738@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270316T013000Z
 DTEND:20270316T040000Z
 SUMMARY:Hawks @ Mavericks (NBCSN)
@@ -854,7 +858,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910751@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270317T233000Z
 DTEND:20270318T020000Z
 SUMMARY:Mavericks @ Thunder (ESPN)
@@ -867,7 +871,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910768@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270320T000000Z
 DTEND:20270320T023000Z
 SUMMARY:Mavericks @ Spurs (NBA TV)
@@ -880,7 +884,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910785@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270322T020000Z
 DTEND:20270322T043000Z
 SUMMARY:Mavericks @ Lakers (NBC)
@@ -893,72 +897,72 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910793@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270323T023000Z
 DTEND:20270323T050000Z
-SUMMARY:Mavericks @ Clippers
+SUMMARY:Mavericks @ Clippers (ClipperVision / KFAA-TV / MavsTV)
 LOCATION:Intuit Dome\, Inglewood\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Intuit Dome\, Inglewood\, CA\nU
- nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
- .
+DESCRIPTION:Regular Season\nTV: ClipperVision / KFAA-TV / MavsTV\nVenue: In
+ tuit Dome\, Inglewood\, CA\nUnofficial calendar\; not affiliated with the 
+ NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910806@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270325T000000Z
 DTEND:20270325T023000Z
-SUMMARY:Mavericks @ Timberwolves
+SUMMARY:Mavericks @ Timberwolves (DAZN MIN / KFAA-TV / MavsTV)
 LOCATION:Target Center\, Minneapolis\, MN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Target Center\, Minneapolis\, M
- N\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
- ange.
+DESCRIPTION:Regular Season\nTV: DAZN MIN / KFAA-TV / MavsTV\nVenue: Target 
+ Center\, Minneapolis\, MN\nUnofficial calendar\; not affiliated with the N
+ BA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910819@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270327T000000Z
 DTEND:20270327T023000Z
-SUMMARY:Pelicans @ Mavericks
+SUMMARY:Pelicans @ Mavericks (KFAA-TV / MavsTV / GCSEN / Pelicans.com)
 LOCATION:American Airlines Center\, Dallas\, TX
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: American Airlines Center\, Dall
- as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: KFAA-TV / MavsTV / GCSEN / Pelicans.com\nVe
+ nue: American Airlines Center\, Dallas\, TX\nUnofficial calendar\; not aff
+ iliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910835@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270328T220000Z
 DTEND:20270329T003000Z
-SUMMARY:Mavericks @ Wizards (MNMT)
+SUMMARY:Mavericks @ Wizards (MNMT / KFAA-TV / MavsTV)
 LOCATION:Capital One Arena\, Washington\, DC
-DESCRIPTION:Regular Season\nTV: MNMT\nVenue: Capital One Arena\, Washington
- \, DC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
- y change.
+DESCRIPTION:Regular Season\nTV: MNMT / KFAA-TV / MavsTV\nVenue: Capital One
+  Arena\, Washington\, DC\nUnofficial calendar\; not affiliated with the NB
+ A or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910845@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270330T000000Z
 DTEND:20270330T023000Z
-SUMMARY:Mavericks @ Bucks
+SUMMARY:Mavericks @ Bucks (MyMi / Bucks App / KFAA-TV / MavsTV)
 LOCATION:Fiserv Forum\, Milwaukee\, WI
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Fiserv Forum\, Milwaukee\, WI\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: MyMi / Bucks App / KFAA-TV / MavsTV\nVenue:
+  Fiserv Forum\, Milwaukee\, WI\nUnofficial calendar\; not affiliated with 
+ the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910862@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270401T013000Z
 DTEND:20270401T040000Z
 SUMMARY:Nuggets @ Mavericks (ESPN)
@@ -971,7 +975,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910873@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270403T000000Z
 DTEND:20270403T023000Z
 SUMMARY:Kings @ Mavericks (KFAA-TV / MavsTV)
@@ -984,7 +988,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910886@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270404T190000Z
 DTEND:20270404T213000Z
 SUMMARY:Timberwolves @ Mavericks (NBA TV)
@@ -997,53 +1001,55 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910906@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270407T020000Z
 DTEND:20270407T043000Z
-SUMMARY:Mavericks @ Lakers (Spectrum Sports Net / Spectrum Sports Net +)
+SUMMARY:Mavericks @ Lakers (Spectrum Sports Net / Spectrum Sports Net + / K
+ FAA-TV / MavsTV)
 LOCATION:crypto.com Arena\, Los Angeles\, CA
 DESCRIPTION:Regular Season\nTV: Spectrum Sports Net / Spectrum Sports Net +
- \nVenue: crypto.com Arena\, Los Angeles\, CA\nUnofficial calendar\; not af
- filiated with the NBA or ESPN. Times may change.
+  / KFAA-TV / MavsTV\nVenue: crypto.com Arena\, Los Angeles\, CA\nUnofficia
+ l calendar\; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910917@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270408T020000Z
 DTEND:20270408T043000Z
-SUMMARY:Mavericks @ Trail Blazers (KUNP 16 / BlazerVision)
+SUMMARY:Mavericks @ Trail Blazers (KUNP 16 / BlazerVision / KFAA-TV / MavsT
+ V)
 LOCATION:Moda Center\, Portland\, OR
-DESCRIPTION:Regular Season\nTV: KUNP 16 / BlazerVision\nVenue: Moda Center\
- , Portland\, OR\nUnofficial calendar\; not affiliated with the NBA or ESPN
- . Times may change.
+DESCRIPTION:Regular Season\nTV: KUNP 16 / BlazerVision / KFAA-TV / MavsTV\n
+ Venue: Moda Center\, Portland\, OR\nUnofficial calendar\; not affiliated w
+ ith the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910936@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270410T020000Z
 DTEND:20270410T043000Z
-SUMMARY:Mavericks @ Kings
+SUMMARY:Mavericks @ Kings (KFAA-TV / MavsTV)
 LOCATION:Golden 1 Center\, Sacramento\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Golden 1 Center\, Sacramento\, 
- CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: KFAA-TV / MavsTV\nVenue: Golden 1 Center\, 
+ Sacramento\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN
+ . Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910945@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270412T003000Z
 DTEND:20270412T030000Z
-SUMMARY:Grizzlies @ Mavericks
+SUMMARY:Grizzlies @ Mavericks (KFAA-TV / MavsTV / DAZN MEM)
 LOCATION:American Airlines Center\, Dallas\, TX
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: American Airlines Center\, Dall
- as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: KFAA-TV / MavsTV / DAZN MEM\nVenue: America
+ n Airlines Center\, Dallas\, TX\nUnofficial calendar\; not affiliated with
+  the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT

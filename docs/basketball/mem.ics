@@ -10,134 +10,137 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:espn-401909838@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261022T000000Z
 DTEND:20261022T023000Z
-SUMMARY:Jazz @ Grizzlies
+SUMMARY:Jazz @ Grizzlies (DAZN MEM / KJZZ-TV / Jazz+)
 LOCATION:FedExForum\, Memphis\, TN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: FedExForum\, Memphis\, TN\nUnof
- ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: DAZN MEM / KJZZ-TV / Jazz+\nVenue: FedExFor
+ um\, Memphis\, TN\nFinal: Jazz 103\, Grizzlies 123\nUnofficial calendar\; 
+ not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909850@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261024T020000Z
 DTEND:20261024T043000Z
-SUMMARY:Grizzlies @ Warriors (NBC Sports BA)
+SUMMARY:Grizzlies @ Warriors
 LOCATION:Chase Center\, San Francisco\, CA
-DESCRIPTION:Regular Season\nTV: NBC Sports BA\nVenue: Chase Center\, San Fr
- ancisco\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
- imes may change.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401909867@nba-calendars
-DTSTAMP:20261021T154330Z
-DTSTART:20261026T010000Z
-DTEND:20261026T033000Z
-SUMMARY:Grizzlies @ Kings
-LOCATION:Golden 1 Center\, Sacramento\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Golden 1 Center\, Sacramento\, 
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Chase Center\, San Francisco\, 
  CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
  hange.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:espn-401909867@nba-calendars
+DTSTAMP:20261022T154318Z
+DTSTART:20261026T010000Z
+DTEND:20261026T033000Z
+SUMMARY:Grizzlies @ Kings (DAZN MEM)
+LOCATION:Golden 1 Center\, Sacramento\, CA
+DESCRIPTION:Regular Season\nTV: DAZN MEM\nVenue: Golden 1 Center\, Sacramen
+ to\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:espn-401909875@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261027T010000Z
 DTEND:20261027T033000Z
-SUMMARY:Grizzlies @ Jazz
+SUMMARY:Grizzlies @ Jazz (KJZZ-TV / Jazz+ / DAZN MEM)
 LOCATION:Delta Center\, Salt Lake City\, UT
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Delta Center\, Salt Lake City\,
-  UT\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+ / DAZN MEM\nVenue: Delta Ce
+ nter\, Salt Lake City\, UT\nUnofficial calendar\; not affiliated with the 
+ NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909895@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261030T020000Z
 DTEND:20261030T043000Z
-SUMMARY:Grizzlies @ Trail Blazers (KUNP 16 / BlazerVision)
+SUMMARY:Grizzlies @ Trail Blazers (KUNP 16 / BlazerVision / DAZN MEM)
 LOCATION:Moda Center\, Portland\, OR
-DESCRIPTION:Regular Season\nTV: KUNP 16 / BlazerVision\nVenue: Moda Center\
- , Portland\, OR\nUnofficial calendar\; not affiliated with the NBA or ESPN
- . Times may change.
+DESCRIPTION:Regular Season\nTV: KUNP 16 / BlazerVision / DAZN MEM\nVenue: M
+ oda Center\, Portland\, OR\nUnofficial calendar\; not affiliated with the 
+ NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909899@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261101T000000Z
 DTEND:20261101T023000Z
-SUMMARY:Kings @ Grizzlies (NBC Sports CA)
+SUMMARY:Kings @ Grizzlies (DAZN MEM)
 LOCATION:FedExForum\, Memphis\, TN
-DESCRIPTION:Regular Season\nTV: NBC Sports CA\nVenue: FedExForum\, Memphis\
- , TN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:Regular Season\nTV: DAZN MEM\nVenue: FedExForum\, Memphis\, TN\
+ nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may chan
+ ge.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909914@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261103T010000Z
 DTEND:20261103T033000Z
-SUMMARY:Pelicans @ Grizzlies
+SUMMARY:Pelicans @ Grizzlies (GCSEN / Pelicans.com)
 LOCATION:FedExForum\, Memphis\, TN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: FedExForum\, Memphis\, TN\nUnof
- ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com\nVenue: FedExForum\, M
+ emphis\, TN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Ti
+ mes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909927@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261105T010000Z
 DTEND:20261105T033000Z
-SUMMARY:Pacers @ Grizzlies
+SUMMARY:Pacers @ Grizzlies (DAZN MEM / DAZN IND)
 LOCATION:FedExForum\, Memphis\, TN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: FedExForum\, Memphis\, TN\nUnof
- ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: DAZN MEM / DAZN IND\nVenue: FedExForum\, Me
+ mphis\, TN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
+ es may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909291@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261107T010000Z
 DTEND:20261107T033000Z
-SUMMARY:Thunder @ Grizzlies (KSBI)
+SUMMARY:Thunder @ Grizzlies (KSBI / DAZN MEM / Thunder App)
 LOCATION:FedExForum\, Memphis\, TN
-DESCRIPTION:NBA Cup - Group Play\nTV: KSBI\nVenue: FedExForum\, Memphis\, T
- N\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
- ange.
+DESCRIPTION:NBA Cup - Group Play\nTV: KSBI / DAZN MEM / Thunder App\nVenue:
+  FedExForum\, Memphis\, TN\nUnofficial calendar\; not affiliated with the 
+ NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909955@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261110T003000Z
 DTEND:20261110T030000Z
-SUMMARY:Grizzlies @ Raptors
+SUMMARY:Grizzlies @ Raptors (DAZN MEM)
 LOCATION:Scotiabank Arena\, Toronto\, ON
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Scotiabank Arena\, Toronto\, ON
- \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
- nge.
+DESCRIPTION:Regular Season\nTV: DAZN MEM\nVenue: Scotiabank Arena\, Toronto
+ \, ON\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
+ y change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909970@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261112T010000Z
 DTEND:20261112T033000Z
 SUMMARY:Nuggets @ Grizzlies
@@ -149,33 +152,33 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909300@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261114T010000Z
 DTEND:20261114T033000Z
-SUMMARY:Grizzlies @ Pelicans (GCSEN / Pelicans.com)
+SUMMARY:Grizzlies @ Pelicans (GCSEN / Pelicans.com / DAZN MEM)
 LOCATION:Smoothie King Center\, New Orleans\, LA
-DESCRIPTION:NBA Cup - Group Play\nTV: GCSEN / Pelicans.com\nVenue: Smoothie
-  King Center\, New Orleans\, LA\nUnofficial calendar\; not affiliated with
-  the NBA or ESPN. Times may change.
+DESCRIPTION:NBA Cup - Group Play\nTV: GCSEN / Pelicans.com / DAZN MEM\nVenu
+ e: Smoothie King Center\, New Orleans\, LA\nUnofficial calendar\; not affi
+ liated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909983@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261115T010000Z
 DTEND:20261115T033000Z
-SUMMARY:Nets @ Grizzlies (DAZN (YES))
+SUMMARY:Nets @ Grizzlies (DAZN (YES) / DAZN MEM)
 LOCATION:FedExForum\, Memphis\, TN
-DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: FedExForum\, Memphis\, T
- N\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
- ange.
+DESCRIPTION:Regular Season\nTV: DAZN (YES) / DAZN MEM\nVenue: FedExForum\, 
+ Memphis\, TN\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
+ imes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909996@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261117T000000Z
 DTEND:20261117T023000Z
 SUMMARY:Grizzlies @ Wizards (MNMT)
@@ -188,59 +191,59 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910007@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261119T000000Z
 DTEND:20261119T023000Z
-SUMMARY:Grizzlies @ Cavaliers
+SUMMARY:Grizzlies @ Cavaliers (DAZN CLE / DAZN MEM)
 LOCATION:Rocket Arena\, Cleveland\, OH
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Rocket Arena\, Cleveland\, OH\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: DAZN CLE / DAZN MEM\nVenue: Rocket Arena\, 
+ Cleveland\, OH\nUnofficial calendar\; not affiliated with the NBA or ESPN.
+  Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910019@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261120T010000Z
 DTEND:20261120T033000Z
-SUMMARY:Warriors @ Grizzlies (NBC Sports BA)
+SUMMARY:Warriors @ Grizzlies (DAZN MEM)
 LOCATION:FedExForum\, Memphis\, TN
-DESCRIPTION:Regular Season\nTV: NBC Sports BA\nVenue: FedExForum\, Memphis\
- , TN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:Regular Season\nTV: DAZN MEM\nVenue: FedExForum\, Memphis\, TN\
+ nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may chan
+ ge.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910026@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261122T010000Z
 DTEND:20261122T033000Z
-SUMMARY:Grizzlies @ Timberwolves
+SUMMARY:Grizzlies @ Timberwolves (DAZN MIN / DAZN MEM)
 LOCATION:Target Center\, Minneapolis\, MN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Target Center\, Minneapolis\, M
- N\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
- ange.
+DESCRIPTION:Regular Season\nTV: DAZN MIN / DAZN MEM\nVenue: Target Center\,
+  Minneapolis\, MN\nUnofficial calendar\; not affiliated with the NBA or ES
+ PN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910036@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261124T000000Z
 DTEND:20261124T023000Z
-SUMMARY:Grizzlies @ Hornets
+SUMMARY:Grizzlies @ Hornets (DAZN MEM)
 LOCATION:Spectrum Center\, Charlotte\, NC
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Spectrum Center\, Charlotte\, N
- C\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
- ange.
+DESCRIPTION:Regular Season\nTV: DAZN MEM\nVenue: Spectrum Center\, Charlott
+ e\, NC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909321@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261126T010000Z
 DTEND:20261126T033000Z
 SUMMARY:Clippers @ Grizzlies (ClipperVision)
@@ -253,59 +256,60 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909331@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261128T013000Z
 DTEND:20261128T040000Z
-SUMMARY:Grizzlies @ Timberwolves
+SUMMARY:Grizzlies @ Timberwolves (DAZN MIN / DAZN MEM)
 LOCATION:Target Center\, Minneapolis\, MN
-DESCRIPTION:NBA Cup - Group Play\nTV: TBD\nVenue: Target Center\, Minneapol
- is\, MN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:NBA Cup - Group Play\nTV: DAZN MIN / DAZN MEM\nVenue: Target Ce
+ nter\, Minneapolis\, MN\nUnofficial calendar\; not affiliated with the NBA
+  or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910051@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261129T210000Z
 DTEND:20261129T233000Z
-SUMMARY:Lakers @ Grizzlies (Spectrum Sports Net / Spectrum Sports Net +)
+SUMMARY:Lakers @ Grizzlies (Spectrum Sports Net / Spectrum Sports Net + / D
+ AZN MEM)
 LOCATION:FedExForum\, Memphis\, TN
 DESCRIPTION:Regular Season\nTV: Spectrum Sports Net / Spectrum Sports Net +
- \nVenue: FedExForum\, Memphis\, TN\nUnofficial calendar\; not affiliated w
- ith the NBA or ESPN. Times may change.
+  / DAZN MEM\nVenue: FedExForum\, Memphis\, TN\nUnofficial calendar\; not a
+ ffiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910069@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261202T000000Z
 DTEND:20261202T023000Z
-SUMMARY:Grizzlies @ 76ers
+SUMMARY:Grizzlies @ 76ers (DAZN MEM)
 LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Xfinity Mobile Arena\, Philadel
- phia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
- s may change.
+DESCRIPTION:Regular Season\nTV: DAZN MEM\nVenue: Xfinity Mobile Arena\, Phi
+ ladelphia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN.
+  Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910076@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261203T000000Z
 DTEND:20261203T023000Z
-SUMMARY:Grizzlies @ Pistons
+SUMMARY:Grizzlies @ Pistons (DAZN MEM)
 LOCATION:Little Caesars Arena\, Detroit\, MI
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Little Caesars Arena\, Detroit\
- , MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:Regular Season\nTV: DAZN MEM\nVenue: Little Caesars Arena\, Det
+ roit\, MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
+ s may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910090@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261212T220000Z
 DTEND:20261213T003000Z
 SUMMARY:Bucks @ Grizzlies (NBA TV)
@@ -318,35 +322,23 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910110@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261215T010000Z
 DTEND:20261215T033000Z
-SUMMARY:Warriors @ Grizzlies (NBC Sports BA)
+SUMMARY:Warriors @ Grizzlies (DAZN MEM)
 LOCATION:FedExForum\, Memphis\, TN
-DESCRIPTION:Regular Season\nTV: NBC Sports BA\nVenue: FedExForum\, Memphis\
- , TN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:Regular Season\nTV: DAZN MEM\nVenue: FedExForum\, Memphis\, TN\
+ nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may chan
+ ge.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910125@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261217T010000Z
 DTEND:20261217T033000Z
-SUMMARY:Heat @ Grizzlies (WPLG)
-LOCATION:FedExForum\, Memphis\, TN
-DESCRIPTION:Regular Season\nTV: WPLG\nVenue: FedExForum\, Memphis\, TN\nUno
- fficial calendar\; not affiliated with the NBA or ESPN. Times may change.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401910140@nba-calendars
-DTSTAMP:20261021T154330Z
-DTSTART:20261219T010000Z
-DTEND:20261219T033000Z
-SUMMARY:Rockets @ Grizzlies
+SUMMARY:Heat @ Grizzlies
 LOCATION:FedExForum\, Memphis\, TN
 DESCRIPTION:Regular Season\nTV: TBD\nVenue: FedExForum\, Memphis\, TN\nUnof
  ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
@@ -354,34 +346,47 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:espn-401910140@nba-calendars
+DTSTAMP:20261022T154318Z
+DTSTART:20261219T010000Z
+DTEND:20261219T033000Z
+SUMMARY:Rockets @ Grizzlies (DAZN MEM)
+LOCATION:FedExForum\, Memphis\, TN
+DESCRIPTION:Regular Season\nTV: DAZN MEM\nVenue: FedExForum\, Memphis\, TN\
+ nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:espn-401910151@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261220T210000Z
 DTEND:20261220T233000Z
-SUMMARY:Suns @ Grizzlies (Suns Live)
+SUMMARY:Suns @ Grizzlies (Suns Live / DAZN MEM / Arizona's Family 3TV)
 LOCATION:FedExForum\, Memphis\, TN
-DESCRIPTION:Regular Season\nTV: Suns Live\nVenue: FedExForum\, Memphis\, TN
- \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
- nge.
+DESCRIPTION:Regular Season\nTV: Suns Live / DAZN MEM / Arizona's Family 3TV
+ \nVenue: FedExForum\, Memphis\, TN\nUnofficial calendar\; not affiliated w
+ ith the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910165@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261222T010000Z
 DTEND:20261222T033000Z
-SUMMARY:Grizzlies @ Pelicans
+SUMMARY:Grizzlies @ Pelicans (GCSEN / Pelicans.com / DAZN MEM)
 LOCATION:Smoothie King Center\, New Orleans\, LA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Smoothie King Center\, New Orle
- ans\, LA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
-  may change.
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com / DAZN MEM\nVenue: Smo
+ othie King Center\, New Orleans\, LA\nUnofficial calendar\; not affiliated
+  with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910180@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261224T010000Z
 DTEND:20261224T033000Z
 SUMMARY:Raptors @ Grizzlies
@@ -393,143 +398,151 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910194@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261227T033000Z
 DTEND:20261227T060000Z
-SUMMARY:Grizzlies @ Clippers
+SUMMARY:Grizzlies @ Clippers (ClipperVision / DAZN MEM)
 LOCATION:Intuit Dome\, Inglewood\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Intuit Dome\, Inglewood\, CA\nU
- nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
- .
+DESCRIPTION:Regular Season\nTV: ClipperVision / DAZN MEM\nVenue: Intuit Dom
+ e\, Inglewood\, CA\nUnofficial calendar\; not affiliated with the NBA or E
+ SPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910206@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261228T020000Z
 DTEND:20261228T043000Z
-SUMMARY:Grizzlies @ Lakers (Spectrum Sports Net / Spectrum Sports Net +)
+SUMMARY:Grizzlies @ Lakers (Spectrum Sports Net / Spectrum Sports Net + / D
+ AZN MEM)
 LOCATION:crypto.com Arena\, Los Angeles\, CA
 DESCRIPTION:Regular Season\nTV: Spectrum Sports Net / Spectrum Sports Net +
- \nVenue: crypto.com Arena\, Los Angeles\, CA\nUnofficial calendar\; not af
- filiated with the NBA or ESPN. Times may change.
+  / DAZN MEM\nVenue: crypto.com Arena\, Los Angeles\, CA\nUnofficial calend
+ ar\; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910215@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261230T010000Z
 DTEND:20261230T033000Z
-SUMMARY:Spurs @ Grizzlies
+SUMMARY:Spurs @ Grizzlies (DAZN MEM / DAZN SAS)
 LOCATION:FedExForum\, Memphis\, TN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: FedExForum\, Memphis\, TN\nUnof
- ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: DAZN MEM / DAZN SAS\nVenue: FedExForum\, Me
+ mphis\, TN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
+ es may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910253@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270103T230000Z
 DTEND:20270104T013000Z
-SUMMARY:Grizzlies @ Magic
+SUMMARY:Grizzlies @ Magic (DAZN MEM)
 LOCATION:Kia Center\, Orlando\, FL
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Kia Center\, Orlando\, FL\nUnof
- ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: DAZN MEM\nVenue: Kia Center\, Orlando\, FL\
+ nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may chan
+ ge.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910269@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270106T003000Z
 DTEND:20270106T030000Z
-SUMMARY:Grizzlies @ Heat
+SUMMARY:Grizzlies @ Heat (DAZN MEM)
 LOCATION:Kaseya Center\, Miami\, FL
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Kaseya Center\, Miami\, FL\nUno
- fficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: DAZN MEM\nVenue: Kaseya Center\, Miami\, FL
+ \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
+ nge.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910287@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270108T013000Z
 DTEND:20270108T040000Z
-SUMMARY:Grizzlies @ Rockets
+SUMMARY:Grizzlies @ Rockets (DAZN MEM)
 LOCATION:Toyota Center (Houston)\, Houston\, TX
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Toyota Center (Houston)\, Houst
- on\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: DAZN MEM\nVenue: Toyota Center (Houston)\, 
+ Houston\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
+ imes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910295@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270109T010000Z
 DTEND:20270109T033000Z
-SUMMARY:Grizzlies @ Spurs
+SUMMARY:Grizzlies @ Spurs (DAZN SAS / DAZN MEM)
 LOCATION:Frost Bank Center\, San Antonio\, TX
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Frost Bank Center\, San Antonio
- \, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
- y change.
+DESCRIPTION:Regular Season\nTV: DAZN SAS / DAZN MEM\nVenue: Frost Bank Cent
+ er\, San Antonio\, TX\nUnofficial calendar\; not affiliated with the NBA o
+ r ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910310@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270110T230000Z
 DTEND:20270111T013000Z
-SUMMARY:Mavericks @ Grizzlies
+SUMMARY:Mavericks @ Grizzlies (DAZN MEM / KFAA-TV / MavsTV)
 LOCATION:FedExForum\, Memphis\, TN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: FedExForum\, Memphis\, TN\nUnof
- ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: DAZN MEM / KFAA-TV / MavsTV\nVenue: FedExFo
+ rum\, Memphis\, TN\nUnofficial calendar\; not affiliated with the NBA or E
+ SPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910322@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270113T010000Z
 DTEND:20270113T033000Z
-SUMMARY:Mavericks @ Grizzlies
+SUMMARY:Mavericks @ Grizzlies (DAZN MEM / KFAA-TV / MavsTV)
 LOCATION:FedExForum\, Memphis\, TN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: FedExForum\, Memphis\, TN\nUnof
- ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: DAZN MEM / KFAA-TV / MavsTV\nVenue: FedExFo
+ rum\, Memphis\, TN\nUnofficial calendar\; not affiliated with the NBA or E
+ SPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910339@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270115T020000Z
 DTEND:20270115T043000Z
-SUMMARY:Grizzlies @ Nuggets
+SUMMARY:Grizzlies @ Nuggets (DAZN MEM)
 LOCATION:Ball Arena\, Denver\, CO
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Ball Arena\, Denver\, CO\nUnoff
- icial calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: DAZN MEM\nVenue: Ball Arena\, Denver\, CO\n
+ Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
+ e.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910354@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270117T010000Z
 DTEND:20270117T033000Z
-SUMMARY:Cavaliers @ Grizzlies
+SUMMARY:Cavaliers @ Grizzlies (DAZN MEM / DAZN CLE)
 LOCATION:FedExForum\, Memphis\, TN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: FedExForum\, Memphis\, TN\nUnof
- ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: DAZN MEM / DAZN CLE\nVenue: FedExForum\, Me
+ mphis\, TN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
+ es may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909476@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270119T003000Z
 DTEND:20270119T030000Z
 SUMMARY:Rockets @ Grizzlies (NBCSN)
@@ -541,96 +554,98 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910381@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270121T020000Z
 DTEND:20270121T043000Z
-SUMMARY:Grizzlies @ Suns (Suns Live)
+SUMMARY:Grizzlies @ Suns (Suns Live / Arizona's Family 3TV / DAZN MEM)
 LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
-DESCRIPTION:Regular Season\nTV: Suns Live\nVenue: Mortgage Matchup Center\,
-  Phoenix\, AZ\nUnofficial calendar\; not affiliated with the NBA or ESPN. 
- Times may change.
+DESCRIPTION:Regular Season\nTV: Suns Live / Arizona's Family 3TV / DAZN MEM
+ \nVenue: Mortgage Matchup Center\, Phoenix\, AZ\nUnofficial calendar\; not
+  affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910394@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270123T010000Z
 DTEND:20270123T033000Z
-SUMMARY:Grizzlies @ Thunder (KSBI)
+SUMMARY:Grizzlies @ Thunder (KSBI / Thunder App / DAZN MEM)
 LOCATION:Paycom Center\, Oklahoma City\, OK
-DESCRIPTION:Regular Season\nTV: KSBI\nVenue: Paycom Center\, Oklahoma City\
- , OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:Regular Season\nTV: KSBI / Thunder App / DAZN MEM\nVenue: Payco
+ m Center\, Oklahoma City\, OK\nUnofficial calendar\; not affiliated with t
+ he NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910418@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270126T010000Z
 DTEND:20270126T033000Z
-SUMMARY:Timberwolves @ Grizzlies
+SUMMARY:Timberwolves @ Grizzlies (DAZN MEM / DAZN MIN)
 LOCATION:FedExForum\, Memphis\, TN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: FedExForum\, Memphis\, TN\nUnof
- ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: DAZN MEM / DAZN MIN\nVenue: FedExForum\, Me
+ mphis\, TN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
+ es may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910442@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270129T010000Z
 DTEND:20270129T033000Z
-SUMMARY:Grizzlies @ Thunder (KSBI)
+SUMMARY:Grizzlies @ Thunder (KSBI / Thunder App / DAZN MEM)
 LOCATION:Paycom Center\, Oklahoma City\, OK
-DESCRIPTION:Regular Season\nTV: KSBI\nVenue: Paycom Center\, Oklahoma City\
- , OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:Regular Season\nTV: KSBI / Thunder App / DAZN MEM\nVenue: Payco
+ m Center\, Oklahoma City\, OK\nUnofficial calendar\; not affiliated with t
+ he NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910458@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270131T023000Z
 DTEND:20270131T050000Z
-SUMMARY:Grizzlies @ Jazz
+SUMMARY:Grizzlies @ Jazz (KJZZ-TV / Jazz+ / DAZN MEM)
 LOCATION:Delta Center\, Salt Lake City\, UT
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Delta Center\, Salt Lake City\,
-  UT\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+ / DAZN MEM\nVenue: Delta Ce
+ nter\, Salt Lake City\, UT\nUnofficial calendar\; not affiliated with the 
+ NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910471@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270202T010000Z
 DTEND:20270202T033000Z
-SUMMARY:Grizzlies @ Bucks
+SUMMARY:Grizzlies @ Bucks (MyMi / Bucks App / DAZN MEM)
 LOCATION:Fiserv Forum\, Milwaukee\, WI
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Fiserv Forum\, Milwaukee\, WI\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: MyMi / Bucks App / DAZN MEM\nVenue: Fiserv 
+ Forum\, Milwaukee\, WI\nUnofficial calendar\; not affiliated with the NBA 
+ or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910484@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270204T010000Z
 DTEND:20270204T033000Z
-SUMMARY:76ers @ Grizzlies
+SUMMARY:76ers @ Grizzlies (DAZN MEM)
 LOCATION:FedExForum\, Memphis\, TN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: FedExForum\, Memphis\, TN\nUnof
- ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: DAZN MEM\nVenue: FedExForum\, Memphis\, TN\
+ nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may chan
+ ge.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910506@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270206T223000Z
 DTEND:20270207T010000Z
 SUMMARY:Trail Blazers @ Grizzlies (Prime Video)
@@ -643,234 +658,241 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910525@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270209T010000Z
 DTEND:20270209T033000Z
-SUMMARY:Trail Blazers @ Grizzlies (KUNP 16 / BlazerVision)
+SUMMARY:Trail Blazers @ Grizzlies (KUNP 16 / BlazerVision / DAZN MEM)
 LOCATION:FedExForum\, Memphis\, TN
-DESCRIPTION:Regular Season\nTV: KUNP 16 / BlazerVision\nVenue: FedExForum\,
-  Memphis\, TN\nUnofficial calendar\; not affiliated with the NBA or ESPN. 
- Times may change.
+DESCRIPTION:Regular Season\nTV: KUNP 16 / BlazerVision / DAZN MEM\nVenue: F
+ edExForum\, Memphis\, TN\nUnofficial calendar\; not affiliated with the NB
+ A or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910542@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270211T010000Z
 DTEND:20270211T033000Z
-SUMMARY:Magic @ Grizzlies
+SUMMARY:Magic @ Grizzlies (DAZN MEM)
 LOCATION:FedExForum\, Memphis\, TN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: FedExForum\, Memphis\, TN\nUnof
- ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401910557@nba-calendars
-DTSTAMP:20261021T154330Z
-DTSTART:20270213T010000Z
-DTEND:20270213T033000Z
-SUMMARY:Clippers @ Grizzlies (ClipperVision)
-LOCATION:FedExForum\, Memphis\, TN
-DESCRIPTION:Regular Season\nTV: ClipperVision\nVenue: FedExForum\, Memphis\
- , TN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401910575@nba-calendars
-DTSTAMP:20261021T154330Z
-DTSTART:20270216T010000Z
-DTEND:20270216T033000Z
-SUMMARY:Knicks @ Grizzlies
-LOCATION:FedExForum\, Memphis\, TN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: FedExForum\, Memphis\, TN\nUnof
- ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401910590@nba-calendars
-DTSTAMP:20261021T154330Z
-DTSTART:20270218T010000Z
-DTEND:20270218T033000Z
-SUMMARY:Spurs @ Grizzlies
-LOCATION:FedExForum\, Memphis\, TN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: FedExForum\, Memphis\, TN\nUnof
- ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401910597@nba-calendars
-DTSTAMP:20261021T154330Z
-DTSTART:20270219T010000Z
-DTEND:20270219T033000Z
-SUMMARY:Celtics @ Grizzlies
-LOCATION:FedExForum\, Memphis\, TN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: FedExForum\, Memphis\, TN\nUnof
- ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401910613@nba-calendars
-DTSTAMP:20261021T154330Z
-DTSTART:20270227T010000Z
-DTEND:20270227T033000Z
-SUMMARY:Grizzlies @ Spurs
-LOCATION:Moody Center\, Austin\, TX
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Moody Center\, Austin\, TX\nUno
- fficial calendar\; not affiliated with the NBA or ESPN. Times may change.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401910620@nba-calendars
-DTSTAMP:20261021T154330Z
-DTSTART:20270228T010000Z
-DTEND:20270228T033000Z
-SUMMARY:Kings @ Grizzlies
-LOCATION:FedExForum\, Memphis\, TN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: FedExForum\, Memphis\, TN\nUnof
- ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401910641@nba-calendars
-DTSTAMP:20261021T154330Z
-DTSTART:20270303T003000Z
-DTEND:20270303T030000Z
-SUMMARY:Grizzlies @ Knicks
-LOCATION:Madison Square Garden\, New York\, NY
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Madison Square Garden\, New Yor
- k\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
- ay change.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401910657@nba-calendars
-DTSTAMP:20261021T154330Z
-DTSTART:20270305T003000Z
-DTEND:20270305T030000Z
-SUMMARY:Grizzlies @ Hawks (Atlanta News First)
-LOCATION:State Farm Arena\, Atlanta\, GA
-DESCRIPTION:Regular Season\nTV: Atlanta News First\nVenue: State Farm Arena
- \, Atlanta\, GA\nUnofficial calendar\; not affiliated with the NBA or ESPN
- . Times may change.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401910672@nba-calendars
-DTSTAMP:20261021T154330Z
-DTSTART:20270307T010000Z
-DTEND:20270307T033000Z
-SUMMARY:Pelicans @ Grizzlies (GCSEN / Pelicans.com)
-LOCATION:FedExForum\, Memphis\, TN
-DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com\nVenue: FedExForum\, M
- emphis\, TN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Ti
- mes may change.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401910684@nba-calendars
-DTSTAMP:20261021T154330Z
-DTSTART:20270309T010000Z
-DTEND:20270309T033000Z
-SUMMARY:Hawks @ Grizzlies
-LOCATION:FedExForum\, Memphis\, TN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: FedExForum\, Memphis\, TN\nUnof
- ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401910693@nba-calendars
-DTSTAMP:20261021T154330Z
-DTSTART:20270310T010000Z
-DTEND:20270310T033000Z
-SUMMARY:Grizzlies @ Mavericks
-LOCATION:American Airlines Center\, Dallas\, TX
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: American Airlines Center\, Dall
- as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401910706@nba-calendars
-DTSTAMP:20261021T154330Z
-DTSTART:20270312T003000Z
-DTEND:20270312T030000Z
-SUMMARY:Grizzlies @ Celtics (NBC Sports BO)
-LOCATION:TD Garden\, Boston\, MA
-DESCRIPTION:Regular Season\nTV: NBC Sports BO\nVenue: TD Garden\, Boston\, 
- MA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401910723@nba-calendars
-DTSTAMP:20261021T154330Z
-DTSTART:20270314T010000Z
-DTEND:20270314T033000Z
-SUMMARY:Grizzlies @ Bulls (CHSN+)
-LOCATION:United Center\, Chicago\, IL
-DESCRIPTION:Regular Season\nTV: CHSN+\nVenue: United Center\, Chicago\, IL\
+DESCRIPTION:Regular Season\nTV: DAZN MEM\nVenue: FedExForum\, Memphis\, TN\
  nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may chan
  ge.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:espn-401910737@nba-calendars
-DTSTAMP:20261021T154330Z
-DTSTART:20270316T000000Z
-DTEND:20270316T023000Z
-SUMMARY:Suns @ Grizzlies (Suns Live / Arizona's Family 3TV)
+UID:espn-401910557@nba-calendars
+DTSTAMP:20261022T154318Z
+DTSTART:20270213T010000Z
+DTEND:20270213T033000Z
+SUMMARY:Clippers @ Grizzlies (ClipperVision / DAZN MEM)
 LOCATION:FedExForum\, Memphis\, TN
-DESCRIPTION:Regular Season\nTV: Suns Live / Arizona's Family 3TV\nVenue: Fe
- dExForum\, Memphis\, TN\nUnofficial calendar\; not affiliated with the NBA
-  or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: ClipperVision / DAZN MEM\nVenue: FedExForum
+ \, Memphis\, TN\nUnofficial calendar\; not affiliated with the NBA or ESPN
+ . Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:espn-401910754@nba-calendars
-DTSTAMP:20261021T154330Z
-DTSTART:20270318T020000Z
-DTEND:20270318T043000Z
-SUMMARY:Grizzlies @ Warriors (NBC Sports BA)
-LOCATION:Chase Center\, San Francisco\, CA
-DESCRIPTION:Regular Season\nTV: NBC Sports BA\nVenue: Chase Center\, San Fr
- ancisco\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
- imes may change.
+UID:espn-401910575@nba-calendars
+DTSTAMP:20261022T154318Z
+DTSTART:20270216T010000Z
+DTEND:20270216T033000Z
+SUMMARY:Knicks @ Grizzlies (DAZN MEM)
+LOCATION:FedExForum\, Memphis\, TN
+DESCRIPTION:Regular Season\nTV: DAZN MEM\nVenue: FedExForum\, Memphis\, TN\
+ nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may chan
+ ge.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:espn-401910765@nba-calendars
-DTSTAMP:20261021T154330Z
-DTSTART:20270319T023000Z
-DTEND:20270319T050000Z
-SUMMARY:Grizzlies @ Clippers
-LOCATION:Intuit Dome\, Inglewood\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Intuit Dome\, Inglewood\, CA\nU
+UID:espn-401910590@nba-calendars
+DTSTAMP:20261022T154318Z
+DTSTART:20270218T010000Z
+DTEND:20270218T033000Z
+SUMMARY:Spurs @ Grizzlies (DAZN MEM / DAZN SAS)
+LOCATION:FedExForum\, Memphis\, TN
+DESCRIPTION:Regular Season\nTV: DAZN MEM / DAZN SAS\nVenue: FedExForum\, Me
+ mphis\, TN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
+ es may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910597@nba-calendars
+DTSTAMP:20261022T154318Z
+DTSTART:20270219T010000Z
+DTEND:20270219T033000Z
+SUMMARY:Celtics @ Grizzlies (DAZN MEM)
+LOCATION:FedExForum\, Memphis\, TN
+DESCRIPTION:Regular Season\nTV: DAZN MEM\nVenue: FedExForum\, Memphis\, TN\
+ nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910613@nba-calendars
+DTSTAMP:20261022T154318Z
+DTSTART:20270227T010000Z
+DTEND:20270227T033000Z
+SUMMARY:Grizzlies @ Spurs (DAZN SAS / DAZN MEM)
+LOCATION:Moody Center\, Austin\, TX
+DESCRIPTION:Regular Season\nTV: DAZN SAS / DAZN MEM\nVenue: Moody Center\, 
+ Austin\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Ti
+ mes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910620@nba-calendars
+DTSTAMP:20261022T154318Z
+DTSTART:20270228T010000Z
+DTEND:20270228T033000Z
+SUMMARY:Kings @ Grizzlies (DAZN MEM)
+LOCATION:FedExForum\, Memphis\, TN
+DESCRIPTION:Regular Season\nTV: DAZN MEM\nVenue: FedExForum\, Memphis\, TN\
+ nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910641@nba-calendars
+DTSTAMP:20261022T154318Z
+DTSTART:20270303T003000Z
+DTEND:20270303T030000Z
+SUMMARY:Grizzlies @ Knicks (DAZN MEM)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: DAZN MEM\nVenue: Madison Square Garden\, Ne
+ w York\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Ti
+ mes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910657@nba-calendars
+DTSTAMP:20261022T154318Z
+DTSTART:20270305T003000Z
+DTEND:20270305T030000Z
+SUMMARY:Grizzlies @ Hawks (DAZN MEM)
+LOCATION:State Farm Arena\, Atlanta\, GA
+DESCRIPTION:Regular Season\nTV: DAZN MEM\nVenue: State Farm Arena\, Atlanta
+ \, GA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
+ y change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910672@nba-calendars
+DTSTAMP:20261022T154318Z
+DTSTART:20270307T010000Z
+DTEND:20270307T033000Z
+SUMMARY:Pelicans @ Grizzlies (GCSEN / Pelicans.com / DAZN MEM)
+LOCATION:FedExForum\, Memphis\, TN
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com / DAZN MEM\nVenue: Fed
+ ExForum\, Memphis\, TN\nUnofficial calendar\; not affiliated with the NBA 
+ or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910684@nba-calendars
+DTSTAMP:20261022T154318Z
+DTSTART:20270309T010000Z
+DTEND:20270309T033000Z
+SUMMARY:Hawks @ Grizzlies (DAZN MEM)
+LOCATION:FedExForum\, Memphis\, TN
+DESCRIPTION:Regular Season\nTV: DAZN MEM\nVenue: FedExForum\, Memphis\, TN\
+ nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may chan
+ ge.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910693@nba-calendars
+DTSTAMP:20261022T154318Z
+DTSTART:20270310T010000Z
+DTEND:20270310T033000Z
+SUMMARY:Grizzlies @ Mavericks (KFAA-TV / MavsTV / DAZN MEM)
+LOCATION:American Airlines Center\, Dallas\, TX
+DESCRIPTION:Regular Season\nTV: KFAA-TV / MavsTV / DAZN MEM\nVenue: America
+ n Airlines Center\, Dallas\, TX\nUnofficial calendar\; not affiliated with
+  the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910706@nba-calendars
+DTSTAMP:20261022T154318Z
+DTSTART:20270312T003000Z
+DTEND:20270312T030000Z
+SUMMARY:Grizzlies @ Celtics (DAZN MEM)
+LOCATION:TD Garden\, Boston\, MA
+DESCRIPTION:Regular Season\nTV: DAZN MEM\nVenue: TD Garden\, Boston\, MA\nU
  nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
  .
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:espn-401910723@nba-calendars
+DTSTAMP:20261022T154318Z
+DTSTART:20270314T010000Z
+DTEND:20270314T033000Z
+SUMMARY:Grizzlies @ Bulls (DAZN MEM)
+LOCATION:United Center\, Chicago\, IL
+DESCRIPTION:Regular Season\nTV: DAZN MEM\nVenue: United Center\, Chicago\, 
+ IL\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
+ hange.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910737@nba-calendars
+DTSTAMP:20261022T154318Z
+DTSTART:20270316T000000Z
+DTEND:20270316T023000Z
+SUMMARY:Suns @ Grizzlies (Suns Live / Arizona's Family 3TV / DAZN MEM)
+LOCATION:FedExForum\, Memphis\, TN
+DESCRIPTION:Regular Season\nTV: Suns Live / Arizona's Family 3TV / DAZN MEM
+ \nVenue: FedExForum\, Memphis\, TN\nUnofficial calendar\; not affiliated w
+ ith the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910754@nba-calendars
+DTSTAMP:20261022T154318Z
+DTSTART:20270318T020000Z
+DTEND:20270318T043000Z
+SUMMARY:Grizzlies @ Warriors (DAZN MEM)
+LOCATION:Chase Center\, San Francisco\, CA
+DESCRIPTION:Regular Season\nTV: DAZN MEM\nVenue: Chase Center\, San Francis
+ co\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910765@nba-calendars
+DTSTAMP:20261022T154318Z
+DTSTART:20270319T023000Z
+DTEND:20270319T050000Z
+SUMMARY:Grizzlies @ Clippers (ClipperVision / DAZN MEM)
+LOCATION:Intuit Dome\, Inglewood\, CA
+DESCRIPTION:Regular Season\nTV: ClipperVision / DAZN MEM\nVenue: Intuit Dom
+ e\, Inglewood\, CA\nUnofficial calendar\; not affiliated with the NBA or E
+ SPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:espn-401910776@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270321T000000Z
 DTEND:20270321T023000Z
 SUMMARY:Thunder @ Grizzlies (NBA TV)
@@ -883,139 +905,145 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910789@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270323T000000Z
 DTEND:20270323T023000Z
-SUMMARY:Hornets @ Grizzlies
+SUMMARY:Hornets @ Grizzlies (DAZN MEM / DAZN CHA)
 LOCATION:FedExForum\, Memphis\, TN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: FedExForum\, Memphis\, TN\nUnof
- ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401910801@nba-calendars
-DTSTAMP:20261021T154330Z
-DTSTART:20270324T230000Z
-DTEND:20270325T013000Z
-SUMMARY:Grizzlies @ Pacers
-LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Gainbridge Fieldhouse\, Indiana
- polis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
+DESCRIPTION:Regular Season\nTV: DAZN MEM / DAZN CHA\nVenue: FedExForum\, Me
+ mphis\, TN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
  es may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:espn-401910801@nba-calendars
+DTSTAMP:20261022T154318Z
+DTSTART:20270324T230000Z
+DTEND:20270325T013000Z
+SUMMARY:Grizzlies @ Pacers (DAZN IND / DAZN MEM)
+LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
+DESCRIPTION:Regular Season\nTV: DAZN IND / DAZN MEM\nVenue: Gainbridge Fiel
+ dhouse\, Indianapolis\, IN\nUnofficial calendar\; not affiliated with the 
+ NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:espn-401910816@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270326T000000Z
 DTEND:20270326T023000Z
-SUMMARY:Bulls @ Grizzlies (CHSN+)
+SUMMARY:Bulls @ Grizzlies (DAZN MEM)
 LOCATION:FedExForum\, Memphis\, TN
-DESCRIPTION:Regular Season\nTV: CHSN+\nVenue: FedExForum\, Memphis\, TN\nUn
- official calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: DAZN MEM\nVenue: FedExForum\, Memphis\, TN\
+ nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may chan
+ ge.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910832@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270328T190000Z
 DTEND:20270328T213000Z
-SUMMARY:Grizzlies @ Nets
+SUMMARY:Grizzlies @ Nets (DAZN (YES) / DAZN MEM)
 LOCATION:Barclays Center\, Brooklyn\, NY
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Barclays Center\, Brooklyn\, NY
- \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
- nge.
+DESCRIPTION:Regular Season\nTV: DAZN (YES) / DAZN MEM\nVenue: Barclays Cent
+ er\, Brooklyn\, NY\nUnofficial calendar\; not affiliated with the NBA or E
+ SPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910851@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270331T000000Z
 DTEND:20270331T023000Z
-SUMMARY:Lakers @ Grizzlies (Spectrum Sports Net / Spectrum Sports Net +)
+SUMMARY:Lakers @ Grizzlies (Spectrum Sports Net / Spectrum Sports Net + / D
+ AZN MEM)
 LOCATION:FedExForum\, Memphis\, TN
 DESCRIPTION:Regular Season\nTV: Spectrum Sports Net / Spectrum Sports Net +
- \nVenue: FedExForum\, Memphis\, TN\nUnofficial calendar\; not affiliated w
- ith the NBA or ESPN. Times may change.
+  / DAZN MEM\nVenue: FedExForum\, Memphis\, TN\nUnofficial calendar\; not a
+ ffiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910876@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270403T003000Z
 DTEND:20270403T030000Z
-SUMMARY:Grizzlies @ Rockets
+SUMMARY:Grizzlies @ Rockets (DAZN MEM)
 LOCATION:Toyota Center (Houston)\, Houston\, TX
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Toyota Center (Houston)\, Houst
- on\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: DAZN MEM\nVenue: Toyota Center (Houston)\, 
+ Houston\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
+ imes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910890@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270404T210000Z
 DTEND:20270404T233000Z
-SUMMARY:Grizzlies @ Nuggets
+SUMMARY:Grizzlies @ Nuggets (DAZN MEM)
 LOCATION:Ball Arena\, Denver\, CO
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Ball Arena\, Denver\, CO\nUnoff
- icial calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: DAZN MEM\nVenue: Ball Arena\, Denver\, CO\n
+ Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
+ e.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910901@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270407T000000Z
 DTEND:20270407T023000Z
-SUMMARY:Pistons @ Grizzlies
+SUMMARY:Pistons @ Grizzlies (DAZN MEM)
 LOCATION:FedExForum\, Memphis\, TN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: FedExForum\, Memphis\, TN\nUnof
- ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: DAZN MEM\nVenue: FedExForum\, Memphis\, TN\
+ nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may chan
+ ge.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910914@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270408T000000Z
 DTEND:20270408T023000Z
-SUMMARY:Wizards @ Grizzlies
+SUMMARY:Wizards @ Grizzlies (DAZN MEM)
 LOCATION:FedExForum\, Memphis\, TN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: FedExForum\, Memphis\, TN\nUnof
- ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: DAZN MEM\nVenue: FedExForum\, Memphis\, TN\
+ nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may chan
+ ge.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910935@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270410T020000Z
 DTEND:20270410T043000Z
-SUMMARY:Grizzlies @ Suns (Suns Live / Arizona's Family 3TV)
+SUMMARY:Grizzlies @ Suns (Suns Live / Arizona's Family 3TV / DAZN MEM)
 LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
-DESCRIPTION:Regular Season\nTV: Suns Live / Arizona's Family 3TV\nVenue: Mo
- rtgage Matchup Center\, Phoenix\, AZ\nUnofficial calendar\; not affiliated
-  with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: Suns Live / Arizona's Family 3TV / DAZN MEM
+ \nVenue: Mortgage Matchup Center\, Phoenix\, AZ\nUnofficial calendar\; not
+  affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910945@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270412T003000Z
 DTEND:20270412T030000Z
-SUMMARY:Grizzlies @ Mavericks
+SUMMARY:Grizzlies @ Mavericks (KFAA-TV / MavsTV / DAZN MEM)
 LOCATION:American Airlines Center\, Dallas\, TX
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: American Airlines Center\, Dall
- as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: KFAA-TV / MavsTV / DAZN MEM\nVenue: America
+ n Airlines Center\, Dallas\, TX\nUnofficial calendar\; not affiliated with
+  the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT

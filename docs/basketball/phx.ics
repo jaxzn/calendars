@@ -10,20 +10,22 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:espn-401909841@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261022T020000Z
 DTEND:20261022T043000Z
-SUMMARY:Suns @ Trail Blazers (KUNP 16 / BlazerVision / Suns Live)
+SUMMARY:Suns @ Trail Blazers (KUNP 16 / BlazerVision / Suns Live / Arizona'
+ s Family 3TV)
 LOCATION:Moda Center\, Portland\, OR
-DESCRIPTION:Regular Season\nTV: KUNP 16 / BlazerVision / Suns Live\nVenue: 
- Moda Center\, Portland\, OR\nUnofficial calendar\; not affiliated with the
-  NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: KUNP 16 / BlazerVision / Suns Live / Arizon
+ a's Family 3TV\nVenue: Moda Center\, Portland\, OR\nFinal: Suns 83\, Trail
+  Blazers 124\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
+ imes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909860@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261025T020000Z
 DTEND:20261025T043000Z
 SUMMARY:Warriors @ Suns (NBA TV)
@@ -36,59 +38,61 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909873@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261027T000000Z
 DTEND:20261027T023000Z
-SUMMARY:Suns @ Thunder (KSBI / Suns Live / Arizona's Family 3TV)
+SUMMARY:Suns @ Thunder (KSBI / Suns Live / Arizona's Family 3TV / Thunder A
+ pp)
 LOCATION:Paycom Center\, Oklahoma City\, OK
-DESCRIPTION:Regular Season\nTV: KSBI / Suns Live / Arizona's Family 3TV\nVe
- nue: Paycom Center\, Oklahoma City\, OK\nUnofficial calendar\; not affilia
- ted with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: KSBI / Suns Live / Arizona's Family 3TV / T
+ hunder App\nVenue: Paycom Center\, Oklahoma City\, OK\nUnofficial calendar
+ \; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909286@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261031T020000Z
 DTEND:20261031T043000Z
-SUMMARY:Nuggets @ Suns (Suns Live)
+SUMMARY:Nuggets @ Suns (Suns Live / Arizona's Family 3TV)
 LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
-DESCRIPTION:NBA Cup - Group Play\nTV: Suns Live\nVenue: Mortgage Matchup Ce
- nter\, Phoenix\, AZ\nUnofficial calendar\; not affiliated with the NBA or 
- ESPN. Times may change.
+DESCRIPTION:NBA Cup - Group Play\nTV: Suns Live / Arizona's Family 3TV\nVen
+ ue: Mortgage Matchup Center\, Phoenix\, AZ\nUnofficial calendar\; not affi
+ liated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909919@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261103T030000Z
 DTEND:20261103T053000Z
-SUMMARY:Suns @ Warriors (Suns Live / NBC Sports BA)
+SUMMARY:Suns @ Warriors (Suns Live / Arizona's Family 3TV)
 LOCATION:Chase Center\, San Francisco\, CA
-DESCRIPTION:Regular Season\nTV: Suns Live / NBC Sports BA\nVenue: Chase Cen
- ter\, San Francisco\, CA\nUnofficial calendar\; not affiliated with the NB
- A or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: Suns Live / Arizona's Family 3TV\nVenue: Ch
+ ase Center\, San Francisco\, CA\nUnofficial calendar\; not affiliated with
+  the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909932@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261105T020000Z
 DTEND:20261105T043000Z
-SUMMARY:Trail Blazers @ Suns (KUNP 16 / BlazerVision)
+SUMMARY:Trail Blazers @ Suns (KUNP 16 / BlazerVision / Arizona's Family 3TV
+  / Suns Live)
 LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
-DESCRIPTION:Regular Season\nTV: KUNP 16 / BlazerVision\nVenue: Mortgage Mat
- chup Center\, Phoenix\, AZ\nUnofficial calendar\; not affiliated with the 
- NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: KUNP 16 / BlazerVision / Arizona's Family 3
+ TV / Suns Live\nVenue: Mortgage Matchup Center\, Phoenix\, AZ\nUnofficial 
+ calendar\; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909936@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261106T020000Z
 DTEND:20261106T043000Z
 SUMMARY:Magic @ Suns (Suns Live / Arizona's Family 3TV)
@@ -101,150 +105,154 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909943@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261108T020000Z
 DTEND:20261108T043000Z
-SUMMARY:Rockets @ Suns
+SUMMARY:Rockets @ Suns (Arizona's Family 3TV / Suns Live)
 LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Mortgage Matchup Center\, Phoen
- ix\, AZ\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: Arizona's Family 3TV / Suns Live\nVenue: Mo
+ rtgage Matchup Center\, Phoenix\, AZ\nUnofficial calendar\; not affiliated
+  with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909958@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261110T020000Z
 DTEND:20261110T043000Z
-SUMMARY:Spurs @ Suns
+SUMMARY:Spurs @ Suns (Arizona's Family 3TV / Suns Live / DAZN SAS)
 LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Mortgage Matchup Center\, Phoen
- ix\, AZ\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401909962@nba-calendars
-DTSTAMP:20261021T154330Z
-DTSTART:20261111T020000Z
-DTEND:20261111T043000Z
-SUMMARY:Clippers @ Suns (Suns Live)
-LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
-DESCRIPTION:Regular Season\nTV: Suns Live\nVenue: Mortgage Matchup Center\,
-  Phoenix\, AZ\nUnofficial calendar\; not affiliated with the NBA or ESPN. 
- Times may change.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401909979@nba-calendars
-DTSTAMP:20261021T154330Z
-DTSTART:20261113T020000Z
-DTEND:20261113T043000Z
-SUMMARY:Hornets @ Suns (Suns Live)
-LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
-DESCRIPTION:Regular Season\nTV: Suns Live\nVenue: Mortgage Matchup Center\,
-  Phoenix\, AZ\nUnofficial calendar\; not affiliated with the NBA or ESPN. 
- Times may change.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401909986@nba-calendars
-DTSTAMP:20261021T154330Z
-DTSTART:20261115T210000Z
-DTEND:20261115T233000Z
-SUMMARY:Lakers @ Suns (Spectrum Sports Net / Spectrum Sports Net +)
-LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
-DESCRIPTION:Regular Season\nTV: Spectrum Sports Net / Spectrum Sports Net +
+DESCRIPTION:Regular Season\nTV: Arizona's Family 3TV / Suns Live / DAZN SAS
  \nVenue: Mortgage Matchup Center\, Phoenix\, AZ\nUnofficial calendar\; not
   affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:espn-401909962@nba-calendars
+DTSTAMP:20261022T154318Z
+DTSTART:20261111T020000Z
+DTEND:20261111T043000Z
+SUMMARY:Clippers @ Suns (Suns Live / Arizona's Family 3TV / ClipperVision)
+LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
+DESCRIPTION:Regular Season\nTV: Suns Live / Arizona's Family 3TV / ClipperV
+ ision\nVenue: Mortgage Matchup Center\, Phoenix\, AZ\nUnofficial calendar\
+ ; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909979@nba-calendars
+DTSTAMP:20261022T154318Z
+DTSTART:20261113T020000Z
+DTEND:20261113T043000Z
+SUMMARY:Hornets @ Suns (Suns Live / Arizona's Family 3TV)
+LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
+DESCRIPTION:Regular Season\nTV: Suns Live / Arizona's Family 3TV\nVenue: Mo
+ rtgage Matchup Center\, Phoenix\, AZ\nUnofficial calendar\; not affiliated
+  with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909986@nba-calendars
+DTSTAMP:20261022T154318Z
+DTSTART:20261115T210000Z
+DTEND:20261115T233000Z
+SUMMARY:Lakers @ Suns (Spectrum Sports Net / Spectrum Sports Net + / Arizon
+ a's Family 3TV / Suns Live)
+LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
+DESCRIPTION:Regular Season\nTV: Spectrum Sports Net / Spectrum Sports Net +
+  / Arizona's Family 3TV / Suns Live\nVenue: Mortgage Matchup Center\, Phoe
+ nix\, AZ\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
+  may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:espn-401910001@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261117T020000Z
 DTEND:20261117T043000Z
-SUMMARY:Suns @ Nuggets (Suns Live)
+SUMMARY:Suns @ Nuggets (Suns Live / Arizona's Family 3TV)
 LOCATION:Ball Arena\, Denver\, CO
-DESCRIPTION:Regular Season\nTV: Suns Live\nVenue: Ball Arena\, Denver\, CO\
- nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may chan
- ge.
+DESCRIPTION:Regular Season\nTV: Suns Live / Arizona's Family 3TV\nVenue: Ba
+ ll Arena\, Denver\, CO\nUnofficial calendar\; not affiliated with the NBA 
+ or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910018@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261119T030000Z
 DTEND:20261119T053000Z
-SUMMARY:Suns @ Kings (NBC Sports CA / Suns Live)
+SUMMARY:Suns @ Kings (Suns Live / Arizona's Family 3TV)
 LOCATION:Golden 1 Center\, Sacramento\, CA
-DESCRIPTION:Regular Season\nTV: NBC Sports CA / Suns Live\nVenue: Golden 1 
- Center\, Sacramento\, CA\nUnofficial calendar\; not affiliated with the NB
- A or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: Suns Live / Arizona's Family 3TV\nVenue: Go
+ lden 1 Center\, Sacramento\, CA\nUnofficial calendar\; not affiliated with
+  the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909311@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261121T023000Z
 DTEND:20261121T050000Z
-SUMMARY:Suns @ Jazz (Suns Live)
+SUMMARY:Suns @ Jazz (Suns Live / KJZZ-TV / Jazz+ / Arizona's Family 3TV)
 LOCATION:Delta Center\, Salt Lake City\, UT
-DESCRIPTION:NBA Cup - Group Play\nTV: Suns Live\nVenue: Delta Center\, Salt
-  Lake City\, UT\nUnofficial calendar\; not affiliated with the NBA or ESPN
- . Times may change.
+DESCRIPTION:NBA Cup - Group Play\nTV: Suns Live / KJZZ-TV / Jazz+ / Arizona
+ 's Family 3TV\nVenue: Delta Center\, Salt Lake City\, UT\nUnofficial calen
+ dar\; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910042@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261124T010000Z
 DTEND:20261124T033000Z
-SUMMARY:Suns @ Pelicans (Suns Live)
+SUMMARY:Suns @ Pelicans (Suns Live / GCSEN / Pelicans.com / Arizona's Famil
+ y 3TV)
 LOCATION:Smoothie King Center\, New Orleans\, LA
-DESCRIPTION:Regular Season\nTV: Suns Live\nVenue: Smoothie King Center\, Ne
- w Orleans\, LA\nUnofficial calendar\; not affiliated with the NBA or ESPN.
-  Times may change.
+DESCRIPTION:Regular Season\nTV: Suns Live / GCSEN / Pelicans.com / Arizona'
+ s Family 3TV\nVenue: Smoothie King Center\, New Orleans\, LA\nUnofficial c
+ alendar\; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909323@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261126T013000Z
 DTEND:20261126T040000Z
-SUMMARY:Suns @ Rockets (Suns Live)
+SUMMARY:Suns @ Rockets (Suns Live / Arizona's Family 3TV)
 LOCATION:Toyota Center (Houston)\, Houston\, TX
-DESCRIPTION:NBA Cup - Group Play\nTV: Suns Live\nVenue: Toyota Center (Hous
- ton)\, Houston\, TX\nUnofficial calendar\; not affiliated with the NBA or 
- ESPN. Times may change.
+DESCRIPTION:NBA Cup - Group Play\nTV: Suns Live / Arizona's Family 3TV\nVen
+ ue: Toyota Center (Houston)\, Houston\, TX\nUnofficial calendar\; not affi
+ liated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909332@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261128T020000Z
 DTEND:20261128T043000Z
-SUMMARY:Mavericks @ Suns (Suns Live)
+SUMMARY:Mavericks @ Suns (Suns Live / Arizona's Family 3TV / KFAA-TV / Mavs
+ TV)
 LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
-DESCRIPTION:NBA Cup - Group Play\nTV: Suns Live\nVenue: Mortgage Matchup Ce
- nter\, Phoenix\, AZ\nUnofficial calendar\; not affiliated with the NBA or 
- ESPN. Times may change.
+DESCRIPTION:NBA Cup - Group Play\nTV: Suns Live / Arizona's Family 3TV / KF
+ AA-TV / MavsTV\nVenue: Mortgage Matchup Center\, Phoenix\, AZ\nUnofficial 
+ calendar\; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910053@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261129T220000Z
 DTEND:20261130T003000Z
 SUMMARY:Suns @ Jazz (Suns Live / KJZZ-TV / Jazz+ / Arizona's Family 3TV)
@@ -257,124 +265,124 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910073@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261202T020000Z
 DTEND:20261202T043000Z
-SUMMARY:Clippers @ Suns (Suns Live)
+SUMMARY:Clippers @ Suns (Suns Live / Arizona's Family 3TV / ClipperVision)
 LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
-DESCRIPTION:Regular Season\nTV: Suns Live\nVenue: Mortgage Matchup Center\,
-  Phoenix\, AZ\nUnofficial calendar\; not affiliated with the NBA or ESPN. 
- Times may change.
+DESCRIPTION:Regular Season\nTV: Suns Live / Arizona's Family 3TV / ClipperV
+ ision\nVenue: Mortgage Matchup Center\, Phoenix\, AZ\nUnofficial calendar\
+ ; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910083@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261203T020000Z
 DTEND:20261203T043000Z
-SUMMARY:Kings @ Suns (NBC Sports CA)
+SUMMARY:Kings @ Suns (Arizona's Family 3TV / Suns Live)
 LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
-DESCRIPTION:Regular Season\nTV: NBC Sports CA\nVenue: Mortgage Matchup Cent
- er\, Phoenix\, AZ\nUnofficial calendar\; not affiliated with the NBA or ES
- PN. Times may change.
+DESCRIPTION:Regular Season\nTV: Arizona's Family 3TV / Suns Live\nVenue: Mo
+ rtgage Matchup Center\, Phoenix\, AZ\nUnofficial calendar\; not affiliated
+  with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910095@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261213T020000Z
 DTEND:20261213T043000Z
-SUMMARY:Timberwolves @ Suns (Suns Live)
+SUMMARY:Timberwolves @ Suns (Suns Live / Arizona's Family 3TV / DAZN MIN)
 LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
-DESCRIPTION:Regular Season\nTV: Suns Live\nVenue: Mortgage Matchup Center\,
-  Phoenix\, AZ\nUnofficial calendar\; not affiliated with the NBA or ESPN. 
- Times may change.
+DESCRIPTION:Regular Season\nTV: Suns Live / Arizona's Family 3TV / DAZN MIN
+ \nVenue: Mortgage Matchup Center\, Phoenix\, AZ\nUnofficial calendar\; not
+  affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910112@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261215T020000Z
 DTEND:20261215T043000Z
-SUMMARY:Hawks @ Suns (Suns Live)
+SUMMARY:Hawks @ Suns (Suns Live / Arizona's Family 3TV)
 LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
-DESCRIPTION:Regular Season\nTV: Suns Live\nVenue: Mortgage Matchup Center\,
-  Phoenix\, AZ\nUnofficial calendar\; not affiliated with the NBA or ESPN. 
- Times may change.
+DESCRIPTION:Regular Season\nTV: Suns Live / Arizona's Family 3TV\nVenue: Mo
+ rtgage Matchup Center\, Phoenix\, AZ\nUnofficial calendar\; not affiliated
+  with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910119@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261217T000000Z
 DTEND:20261217T023000Z
-SUMMARY:Suns @ Pistons (Suns Live)
+SUMMARY:Suns @ Pistons (Suns Live / Arizona's Family 3TV)
 LOCATION:Little Caesars Arena\, Detroit\, MI
-DESCRIPTION:Regular Season\nTV: Suns Live\nVenue: Little Caesars Arena\, De
- troit\, MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
- es may change.
+DESCRIPTION:Regular Season\nTV: Suns Live / Arizona's Family 3TV\nVenue: Li
+ ttle Caesars Arena\, Detroit\, MI\nUnofficial calendar\; not affiliated wi
+ th the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910141@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261219T010000Z
 DTEND:20261219T033000Z
-SUMMARY:Suns @ Bucks (Suns Live)
+SUMMARY:Suns @ Bucks (Suns Live / MyMi / Bucks App / Arizona's Family 3TV)
 LOCATION:Fiserv Forum\, Milwaukee\, WI
-DESCRIPTION:Regular Season\nTV: Suns Live\nVenue: Fiserv Forum\, Milwaukee\
- , WI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:Regular Season\nTV: Suns Live / MyMi / Bucks App / Arizona's Fa
+ mily 3TV\nVenue: Fiserv Forum\, Milwaukee\, WI\nUnofficial calendar\; not 
+ affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910151@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261220T210000Z
 DTEND:20261220T233000Z
-SUMMARY:Suns @ Grizzlies (Suns Live)
+SUMMARY:Suns @ Grizzlies (Suns Live / DAZN MEM / Arizona's Family 3TV)
 LOCATION:FedExForum\, Memphis\, TN
-DESCRIPTION:Regular Season\nTV: Suns Live\nVenue: FedExForum\, Memphis\, TN
- \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
- nge.
+DESCRIPTION:Regular Season\nTV: Suns Live / DAZN MEM / Arizona's Family 3TV
+ \nVenue: FedExForum\, Memphis\, TN\nUnofficial calendar\; not affiliated w
+ ith the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910164@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261222T010000Z
 DTEND:20261222T033000Z
-SUMMARY:Suns @ Timberwolves (Suns Live)
+SUMMARY:Suns @ Timberwolves (Suns Live / Arizona's Family CBS5)
 LOCATION:Target Center\, Minneapolis\, MN
-DESCRIPTION:Regular Season\nTV: Suns Live\nVenue: Target Center\, Minneapol
- is\, MN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: Suns Live / Arizona's Family CBS5\nVenue: T
+ arget Center\, Minneapolis\, MN\nUnofficial calendar\; not affiliated with
+  the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910183@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261224T020000Z
 DTEND:20261224T043000Z
-SUMMARY:Pacers @ Suns (Suns Live)
+SUMMARY:Pacers @ Suns (Suns Live / DAZN IND / Arizona's Family CBS5)
 LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
-DESCRIPTION:Regular Season\nTV: Suns Live\nVenue: Mortgage Matchup Center\,
-  Phoenix\, AZ\nUnofficial calendar\; not affiliated with the NBA or ESPN. 
- Times may change.
+DESCRIPTION:Regular Season\nTV: Suns Live / DAZN IND / Arizona's Family CBS
+ 5\nVenue: Mortgage Matchup Center\, Phoenix\, AZ\nUnofficial calendar\; no
+ t affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910193@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261227T010000Z
 DTEND:20261227T033000Z
 SUMMARY:Suns @ Mavericks (NBA TV)
@@ -387,33 +395,33 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910209@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261229T020000Z
 DTEND:20261229T043000Z
-SUMMARY:Warriors @ Suns (Suns Live / NBC Sports BA)
+SUMMARY:Warriors @ Suns (Arizona's Family CBS5 / Suns Live)
 LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
-DESCRIPTION:Regular Season\nTV: Suns Live / NBC Sports BA\nVenue: Mortgage 
- Matchup Center\, Phoenix\, AZ\nUnofficial calendar\; not affiliated with t
- he NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: Arizona's Family CBS5 / Suns Live\nVenue: M
+ ortgage Matchup Center\, Phoenix\, AZ\nUnofficial calendar\; not affiliate
+ d with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910223@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261231T020000Z
 DTEND:20261231T043000Z
-SUMMARY:76ers @ Suns (Suns Live)
+SUMMARY:76ers @ Suns (Suns Live / Arizona's Family 3TV)
 LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
-DESCRIPTION:Regular Season\nTV: Suns Live\nVenue: Mortgage Matchup Center\,
-  Phoenix\, AZ\nUnofficial calendar\; not affiliated with the NBA or ESPN. 
- Times may change.
+DESCRIPTION:Regular Season\nTV: Suns Live / Arizona's Family 3TV\nVenue: Mo
+ rtgage Matchup Center\, Phoenix\, AZ\nUnofficial calendar\; not affiliated
+  with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910234@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270101T020000Z
 DTEND:20270101T043000Z
 SUMMARY:Knicks @ Suns (NBA TV)
@@ -426,33 +434,33 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910249@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270103T020000Z
 DTEND:20270103T043000Z
-SUMMARY:Kings @ Suns (Suns Live / NBC Sports CA)
+SUMMARY:Kings @ Suns (Suns Live / Arizona's Family 3TV)
 LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
-DESCRIPTION:Regular Season\nTV: Suns Live / NBC Sports CA\nVenue: Mortgage 
- Matchup Center\, Phoenix\, AZ\nUnofficial calendar\; not affiliated with t
- he NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: Suns Live / Arizona's Family 3TV\nVenue: Mo
+ rtgage Matchup Center\, Phoenix\, AZ\nUnofficial calendar\; not affiliated
+  with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910262@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270105T020000Z
 DTEND:20270105T043000Z
-SUMMARY:Celtics @ Suns (NBC Sports BO / Suns Live)
+SUMMARY:Celtics @ Suns (Suns Live / Arizona's Family 3TV)
 LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
-DESCRIPTION:Regular Season\nTV: NBC Sports BO / Suns Live\nVenue: Mortgage 
- Matchup Center\, Phoenix\, AZ\nUnofficial calendar\; not affiliated with t
- he NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: Suns Live / Arizona's Family 3TV\nVenue: Mo
+ rtgage Matchup Center\, Phoenix\, AZ\nUnofficial calendar\; not affiliated
+  with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910272@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270106T030000Z
 DTEND:20270106T053000Z
 SUMMARY:Suns @ Nuggets (NBC)
@@ -464,7 +472,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910296@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270109T023000Z
 DTEND:20270109T050000Z
 SUMMARY:Suns @ Mavericks (ESPN)
@@ -477,20 +485,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910311@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270111T000000Z
 DTEND:20270111T023000Z
-SUMMARY:Bulls @ Suns (Suns Live / CHSN)
+SUMMARY:Bulls @ Suns (Suns Live / Arizona's Family 3TV)
 LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
-DESCRIPTION:Regular Season\nTV: Suns Live / CHSN\nVenue: Mortgage Matchup C
- enter\, Phoenix\, AZ\nUnofficial calendar\; not affiliated with the NBA or
-  ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: Suns Live / Arizona's Family 3TV\nVenue: Mo
+ rtgage Matchup Center\, Phoenix\, AZ\nUnofficial calendar\; not affiliated
+  with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910330@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270114T003000Z
 DTEND:20270114T030000Z
 SUMMARY:Suns @ Raptors (Arizona's Family 3TV / Suns Live)
@@ -503,20 +511,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910344@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270116T000000Z
 DTEND:20270116T023000Z
-SUMMARY:Suns @ Pacers (Suns Live)
+SUMMARY:Suns @ Pacers (Suns Live / Arizona's Family 3TV)
 LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
-DESCRIPTION:Regular Season\nTV: Suns Live\nVenue: Gainbridge Fieldhouse\, I
- ndianapolis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESP
- N. Times may change.
+DESCRIPTION:Regular Season\nTV: Suns Live / Arizona's Family 3TV\nVenue: Ga
+ inbridge Fieldhouse\, Indianapolis\, IN\nUnofficial calendar\; not affilia
+ ted with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910367@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270119T033000Z
 DTEND:20270119T060000Z
 SUMMARY:Suns @ Clippers (NBA TV)
@@ -529,101 +537,114 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910381@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270121T020000Z
 DTEND:20270121T043000Z
-SUMMARY:Grizzlies @ Suns (Suns Live)
+SUMMARY:Grizzlies @ Suns (Suns Live / Arizona's Family 3TV / DAZN MEM)
 LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
-DESCRIPTION:Regular Season\nTV: Suns Live\nVenue: Mortgage Matchup Center\,
-  Phoenix\, AZ\nUnofficial calendar\; not affiliated with the NBA or ESPN. 
- Times may change.
+DESCRIPTION:Regular Season\nTV: Suns Live / Arizona's Family 3TV / DAZN MEM
+ \nVenue: Mortgage Matchup Center\, Phoenix\, AZ\nUnofficial calendar\; not
+  affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910395@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270123T020000Z
 DTEND:20270123T043000Z
-SUMMARY:Jazz @ Suns (Suns Live)
+SUMMARY:Jazz @ Suns (Suns Live / Arizona's Family 3TV / KJZZ-TV / Jazz+)
 LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
-DESCRIPTION:Regular Season\nTV: Suns Live\nVenue: Mortgage Matchup Center\,
-  Phoenix\, AZ\nUnofficial calendar\; not affiliated with the NBA or ESPN. 
- Times may change.
+DESCRIPTION:Regular Season\nTV: Suns Live / Arizona's Family 3TV / KJZZ-TV 
+ / Jazz+\nVenue: Mortgage Matchup Center\, Phoenix\, AZ\nUnofficial calenda
+ r\; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910407@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270124T210000Z
 DTEND:20270124T233000Z
-SUMMARY:Jazz @ Suns (Suns Live)
+SUMMARY:Jazz @ Suns (Suns Live / Arizona's Family 3TV / KJZZ-TV / Jazz+)
 LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
-DESCRIPTION:Regular Season\nTV: Suns Live\nVenue: Mortgage Matchup Center\,
-  Phoenix\, AZ\nUnofficial calendar\; not affiliated with the NBA or ESPN. 
- Times may change.
+DESCRIPTION:Regular Season\nTV: Suns Live / Arizona's Family 3TV / KJZZ-TV 
+ / Jazz+\nVenue: Mortgage Matchup Center\, Phoenix\, AZ\nUnofficial calenda
+ r\; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910423@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270127T003000Z
 DTEND:20270127T030000Z
-SUMMARY:Suns @ Knicks (Suns Live)
+SUMMARY:Suns @ Knicks (Suns Live / Arizona's Family 3TV)
 LOCATION:Madison Square Garden\, New York\, NY
-DESCRIPTION:Regular Season\nTV: Suns Live\nVenue: Madison Square Garden\, N
- ew York\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
- imes may change.
+DESCRIPTION:Regular Season\nTV: Suns Live / Arizona's Family 3TV\nVenue: Ma
+ dison Square Garden\, New York\, NY\nUnofficial calendar\; not affiliated 
+ with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910431@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270128T003000Z
 DTEND:20270128T030000Z
-SUMMARY:Suns @ Nets (DAZN (YES))
+SUMMARY:Suns @ Nets (DAZN (YES) / Arizona's Family 3TV / Suns Live)
 LOCATION:Barclays Center\, Brooklyn\, NY
-DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: Barclays Center\, Brookl
- yn\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: DAZN (YES) / Arizona's Family 3TV / Suns Li
+ ve\nVenue: Barclays Center\, Brooklyn\, NY\nUnofficial calendar\; not affi
+ liated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910446@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270130T003000Z
 DTEND:20270130T030000Z
-SUMMARY:Suns @ Celtics (Suns Live / NBC Sports BO)
+SUMMARY:Suns @ Celtics (Suns Live / Arizona's Family 3TV)
 LOCATION:TD Garden\, Boston\, MA
-DESCRIPTION:Regular Season\nTV: Suns Live / NBC Sports BO\nVenue: TD Garden
- \, Boston\, MA\nUnofficial calendar\; not affiliated with the NBA or ESPN.
-  Times may change.
+DESCRIPTION:Regular Season\nTV: Suns Live / Arizona's Family 3TV\nVenue: TD
+  Garden\, Boston\, MA\nUnofficial calendar\; not affiliated with the NBA o
+ r ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910462@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270131T230000Z
 DTEND:20270201T013000Z
-SUMMARY:Suns @ Timberwolves (Suns Live / Arizona's Family 3TV)
+SUMMARY:Suns @ Timberwolves (Suns Live / Arizona's Family 3TV / DAZN MIN)
 LOCATION:Target Center\, Minneapolis\, MN
-DESCRIPTION:Regular Season\nTV: Suns Live / Arizona's Family 3TV\nVenue: Ta
- rget Center\, Minneapolis\, MN\nUnofficial calendar\; not affiliated with 
- the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: Suns Live / Arizona's Family 3TV / DAZN MIN
+ \nVenue: Target Center\, Minneapolis\, MN\nUnofficial calendar\; not affil
+ iated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910485@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270204T020000Z
 DTEND:20270204T043000Z
-SUMMARY:Cavaliers @ Suns (Suns Live / Arizona's Family 3TV)
+SUMMARY:Cavaliers @ Suns (Suns Live / Arizona's Family 3TV / DAZN CLE)
+LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
+DESCRIPTION:Regular Season\nTV: Suns Live / Arizona's Family 3TV / DAZN CLE
+ \nVenue: Mortgage Matchup Center\, Phoenix\, AZ\nUnofficial calendar\; not
+  affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910502@nba-calendars
+DTSTAMP:20261022T154318Z
+DTSTART:20270206T020000Z
+DTEND:20270206T043000Z
+SUMMARY:Rockets @ Suns (Suns Live / Arizona's Family 3TV)
 LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
 DESCRIPTION:Regular Season\nTV: Suns Live / Arizona's Family 3TV\nVenue: Mo
  rtgage Matchup Center\, Phoenix\, AZ\nUnofficial calendar\; not affiliated
@@ -632,34 +653,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:espn-401910502@nba-calendars
-DTSTAMP:20261021T154330Z
-DTSTART:20270206T020000Z
-DTEND:20270206T043000Z
-SUMMARY:Rockets @ Suns (Suns Live)
-LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
-DESCRIPTION:Regular Season\nTV: Suns Live\nVenue: Mortgage Matchup Center\,
-  Phoenix\, AZ\nUnofficial calendar\; not affiliated with the NBA or ESPN. 
- Times may change.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:espn-401910512@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270207T030000Z
 DTEND:20270207T053000Z
-SUMMARY:Suns @ Kings (NBC Sports CA / Suns Live)
+SUMMARY:Suns @ Kings (Suns Live / Arizona's Family 3TV)
 LOCATION:Golden 1 Center\, Sacramento\, CA
-DESCRIPTION:Regular Season\nTV: NBC Sports CA / Suns Live\nVenue: Golden 1 
- Center\, Sacramento\, CA\nUnofficial calendar\; not affiliated with the NB
- A or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: Suns Live / Arizona's Family 3TV\nVenue: Go
+ lden 1 Center\, Sacramento\, CA\nUnofficial calendar\; not affiliated with
+  the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910527@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270209T023000Z
 DTEND:20270209T050000Z
 SUMMARY:Lakers @ Suns (NBCSN)
@@ -672,7 +680,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910543@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270211T020000Z
 DTEND:20270211T043000Z
 SUMMARY:Pistons @ Suns (Suns Live / Arizona's Family 3TV)
@@ -685,85 +693,87 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910552@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270213T000000Z
 DTEND:20270213T023000Z
-SUMMARY:Suns @ Hawks (Suns Live)
+SUMMARY:Suns @ Hawks (Suns Live / Arizona's Family 3TV)
 LOCATION:State Farm Arena\, Atlanta\, GA
-DESCRIPTION:Regular Season\nTV: Suns Live\nVenue: State Farm Arena\, Atlant
- a\, GA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
- ay change.
+DESCRIPTION:Regular Season\nTV: Suns Live / Arizona's Family 3TV\nVenue: St
+ ate Farm Arena\, Atlanta\, GA\nUnofficial calendar\; not affiliated with t
+ he NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910569@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270214T180000Z
 DTEND:20270214T203000Z
-SUMMARY:Suns @ Cavaliers (Suns Live)
+SUMMARY:Suns @ Cavaliers (Suns Live / Arizona's Family 3TV)
 LOCATION:Rocket Arena\, Cleveland\, OH
-DESCRIPTION:Regular Season\nTV: Suns Live\nVenue: Rocket Arena\, Cleveland\
- , OH\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:Regular Season\nTV: Suns Live / Arizona's Family 3TV\nVenue: Ro
+ cket Arena\, Cleveland\, OH\nUnofficial calendar\; not affiliated with the
+  NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910574@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270216T000000Z
 DTEND:20270216T023000Z
-SUMMARY:Suns @ Wizards
+SUMMARY:Suns @ Wizards (Arizona's Family 3TV / Suns Live)
 LOCATION:Capital One Arena\, Washington\, DC
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Capital One Arena\, Washington\
- , DC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:Regular Season\nTV: Arizona's Family 3TV / Suns Live\nVenue: Ca
+ pital One Arena\, Washington\, DC\nUnofficial calendar\; not affiliated wi
+ th the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910587@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270218T000000Z
 DTEND:20270218T023000Z
-SUMMARY:Suns @ 76ers (Suns Live)
+SUMMARY:Suns @ 76ers (Suns Live / Arizona's Family 3TV)
 LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
-DESCRIPTION:Regular Season\nTV: Suns Live\nVenue: Xfinity Mobile Arena\, Ph
- iladelphia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN
- . Times may change.
+DESCRIPTION:Regular Season\nTV: Suns Live / Arizona's Family 3TV\nVenue: Xf
+ inity Mobile Arena\, Philadelphia\, PA\nUnofficial calendar\; not affiliat
+ ed with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910607@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270226T010000Z
 DTEND:20270226T033000Z
-SUMMARY:Suns @ Pelicans (Suns Live)
+SUMMARY:Suns @ Pelicans (Suns Live / GCSEN / Pelicans.com / Arizona's Famil
+ y 3TV)
 LOCATION:Smoothie King Center\, New Orleans\, LA
-DESCRIPTION:Regular Season\nTV: Suns Live\nVenue: Smoothie King Center\, Ne
- w Orleans\, LA\nUnofficial calendar\; not affiliated with the NBA or ESPN.
-  Times may change.
+DESCRIPTION:Regular Season\nTV: Suns Live / GCSEN / Pelicans.com / Arizona'
+ s Family 3TV\nVenue: Smoothie King Center\, New Orleans\, LA\nUnofficial c
+ alendar\; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910622@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270228T020000Z
 DTEND:20270228T043000Z
-SUMMARY:Pelicans @ Suns (Suns Live)
+SUMMARY:Pelicans @ Suns (Suns Live / Arizona's Family 3TV / GCSEN / Pelican
+ s.com)
 LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
-DESCRIPTION:Regular Season\nTV: Suns Live\nVenue: Mortgage Matchup Center\,
-  Phoenix\, AZ\nUnofficial calendar\; not affiliated with the NBA or ESPN. 
- Times may change.
+DESCRIPTION:Regular Season\nTV: Suns Live / Arizona's Family 3TV / GCSEN / 
+ Pelicans.com\nVenue: Mortgage Matchup Center\, Phoenix\, AZ\nUnofficial ca
+ lendar\; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910637@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270302T023000Z
 DTEND:20270302T050000Z
 SUMMARY:Wizards @ Suns (NBCSN)
@@ -776,98 +786,98 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910652@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270304T020000Z
 DTEND:20270304T043000Z
-SUMMARY:Nets @ Suns (DAZN (YES) / Suns Live)
+SUMMARY:Nets @ Suns (DAZN (YES) / Suns Live / Arizona's Family 3TV)
 LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
-DESCRIPTION:Regular Season\nTV: DAZN (YES) / Suns Live\nVenue: Mortgage Mat
- chup Center\, Phoenix\, AZ\nUnofficial calendar\; not affiliated with the 
- NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: DAZN (YES) / Suns Live / Arizona's Family 3
+ TV\nVenue: Mortgage Matchup Center\, Phoenix\, AZ\nUnofficial calendar\; n
+ ot affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910666@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270306T020000Z
 DTEND:20270306T043000Z
-SUMMARY:Timberwolves @ Suns (Suns Live)
+SUMMARY:Timberwolves @ Suns (Suns Live / Arizona's Family 3TV / DAZN MIN)
 LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
-DESCRIPTION:Regular Season\nTV: Suns Live\nVenue: Mortgage Matchup Center\,
-  Phoenix\, AZ\nUnofficial calendar\; not affiliated with the NBA or ESPN. 
- Times may change.
+DESCRIPTION:Regular Season\nTV: Suns Live / Arizona's Family 3TV / DAZN MIN
+ \nVenue: Mortgage Matchup Center\, Phoenix\, AZ\nUnofficial calendar\; not
+  affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910683@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270309T003000Z
 DTEND:20270309T030000Z
-SUMMARY:Suns @ Heat (Suns Live / WPLG)
+SUMMARY:Suns @ Heat (Suns Live / Arizona's Family 3TV)
 LOCATION:Kaseya Center\, Miami\, FL
-DESCRIPTION:Regular Season\nTV: Suns Live / WPLG\nVenue: Kaseya Center\, Mi
- ami\, FL\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
-  may change.
+DESCRIPTION:Regular Season\nTV: Suns Live / Arizona's Family 3TV\nVenue: Ka
+ seya Center\, Miami\, FL\nUnofficial calendar\; not affiliated with the NB
+ A or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910689@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270310T000000Z
 DTEND:20270310T023000Z
-SUMMARY:Suns @ Magic (Suns Live)
+SUMMARY:Suns @ Magic (Suns Live / Arizona's Family 3TV)
 LOCATION:Kia Center\, Orlando\, FL
-DESCRIPTION:Regular Season\nTV: Suns Live\nVenue: Kia Center\, Orlando\, FL
- \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
- nge.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401910709@nba-calendars
-DTSTAMP:20261021T154330Z
-DTSTART:20270312T010000Z
-DTEND:20270312T033000Z
-SUMMARY:Suns @ Bulls (CHSN)
-LOCATION:United Center\, Chicago\, IL
-DESCRIPTION:Regular Season\nTV: CHSN\nVenue: United Center\, Chicago\, IL\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401910722@nba-calendars
-DTSTAMP:20261021T154330Z
-DTSTART:20270313T230000Z
-DTEND:20270314T013000Z
-SUMMARY:Suns @ Hornets
-LOCATION:Spectrum Center\, Charlotte\, NC
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Spectrum Center\, Charlotte\, N
- C\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
- ange.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401910737@nba-calendars
-DTSTAMP:20261021T154330Z
-DTSTART:20270316T000000Z
-DTEND:20270316T023000Z
-SUMMARY:Suns @ Grizzlies (Suns Live / Arizona's Family 3TV)
-LOCATION:FedExForum\, Memphis\, TN
-DESCRIPTION:Regular Season\nTV: Suns Live / Arizona's Family 3TV\nVenue: Fe
- dExForum\, Memphis\, TN\nUnofficial calendar\; not affiliated with the NBA
+DESCRIPTION:Regular Season\nTV: Suns Live / Arizona's Family 3TV\nVenue: Ki
+ a Center\, Orlando\, FL\nUnofficial calendar\; not affiliated with the NBA
   or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:espn-401910709@nba-calendars
+DTSTAMP:20261022T154318Z
+DTSTART:20270312T010000Z
+DTEND:20270312T033000Z
+SUMMARY:Suns @ Bulls (Arizona's Family 3TV / Suns Live)
+LOCATION:United Center\, Chicago\, IL
+DESCRIPTION:Regular Season\nTV: Arizona's Family 3TV / Suns Live\nVenue: Un
+ ited Center\, Chicago\, IL\nUnofficial calendar\; not affiliated with the 
+ NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910722@nba-calendars
+DTSTAMP:20261022T154318Z
+DTSTART:20270313T230000Z
+DTEND:20270314T013000Z
+SUMMARY:Suns @ Hornets (DAZN CHA / Arizona's Family 3TV / Suns Live)
+LOCATION:Spectrum Center\, Charlotte\, NC
+DESCRIPTION:Regular Season\nTV: DAZN CHA / Arizona's Family 3TV / Suns Live
+ \nVenue: Spectrum Center\, Charlotte\, NC\nUnofficial calendar\; not affil
+ iated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910737@nba-calendars
+DTSTAMP:20261022T154318Z
+DTSTART:20270316T000000Z
+DTEND:20270316T023000Z
+SUMMARY:Suns @ Grizzlies (Suns Live / Arizona's Family 3TV / DAZN MEM)
+LOCATION:FedExForum\, Memphis\, TN
+DESCRIPTION:Regular Season\nTV: Suns Live / Arizona's Family 3TV / DAZN MEM
+ \nVenue: FedExForum\, Memphis\, TN\nUnofficial calendar\; not affiliated w
+ ith the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:espn-401910755@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270318T020000Z
 DTEND:20270318T043000Z
 SUMMARY:Suns @ Lakers (ESPN)
@@ -880,7 +890,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910771@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270320T023000Z
 DTEND:20270320T050000Z
 SUMMARY:Heat @ Suns (NBA TV)
@@ -893,20 +903,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910782@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270321T210000Z
 DTEND:20270321T233000Z
-SUMMARY:Trail Blazers @ Suns (KUNP 16 / BlazerVision / Suns Live)
+SUMMARY:Trail Blazers @ Suns (KUNP 16 / BlazerVision / Suns Live / Arizona'
+ s Family 3TV)
 LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
-DESCRIPTION:Regular Season\nTV: KUNP 16 / BlazerVision / Suns Live\nVenue: 
- Mortgage Matchup Center\, Phoenix\, AZ\nUnofficial calendar\; not affiliat
- ed with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: KUNP 16 / BlazerVision / Suns Live / Arizon
+ a's Family 3TV\nVenue: Mortgage Matchup Center\, Phoenix\, AZ\nUnofficial 
+ calendar\; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910799@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270324T030000Z
 DTEND:20270324T053000Z
 SUMMARY:Thunder @ Suns (NBC)
@@ -919,33 +930,34 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910808@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270325T020000Z
 DTEND:20270325T043000Z
-SUMMARY:Thunder @ Suns (KSBI)
+SUMMARY:Thunder @ Suns (KSBI / Arizona's Family 3TV / Suns Live / Thunder A
+ pp)
 LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
-DESCRIPTION:Regular Season\nTV: KSBI\nVenue: Mortgage Matchup Center\, Phoe
- nix\, AZ\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
-  may change.
+DESCRIPTION:Regular Season\nTV: KSBI / Arizona's Family 3TV / Suns Live / T
+ hunder App\nVenue: Mortgage Matchup Center\, Phoenix\, AZ\nUnofficial cale
+ ndar\; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910822@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270327T020000Z
 DTEND:20270327T043000Z
-SUMMARY:Bucks @ Suns (Suns Live)
+SUMMARY:Bucks @ Suns (Suns Live / Arizona's Family 3TV / MyMi / Bucks App)
 LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
-DESCRIPTION:Regular Season\nTV: Suns Live\nVenue: Mortgage Matchup Center\,
-  Phoenix\, AZ\nUnofficial calendar\; not affiliated with the NBA or ESPN. 
- Times may change.
+DESCRIPTION:Regular Season\nTV: Suns Live / Arizona's Family 3TV / MyMi / B
+ ucks App\nVenue: Mortgage Matchup Center\, Phoenix\, AZ\nUnofficial calend
+ ar\; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910838@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270329T010000Z
 DTEND:20270329T033000Z
 SUMMARY:Raptors @ Suns (Suns Live / Arizona's Family 3TV)
@@ -958,7 +970,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910846@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270330T013000Z
 DTEND:20270330T040000Z
 SUMMARY:Suns @ Spurs (NBCSN)
@@ -971,20 +983,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910861@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270401T000000Z
 DTEND:20270401T023000Z
-SUMMARY:Suns @ Spurs (Suns Live)
+SUMMARY:Suns @ Spurs (Suns Live / DAZN SAS / Arizona's Family 3TV)
 LOCATION:Frost Bank Center\, San Antonio\, TX
-DESCRIPTION:Regular Season\nTV: Suns Live\nVenue: Frost Bank Center\, San A
- ntonio\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Ti
- mes may change.
+DESCRIPTION:Regular Season\nTV: Suns Live / DAZN SAS / Arizona's Family 3TV
+ \nVenue: Frost Bank Center\, San Antonio\, TX\nUnofficial calendar\; not a
+ ffiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910877@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270403T020000Z
 DTEND:20270403T043000Z
 SUMMARY:Nuggets @ Suns (Prime Video)
@@ -997,20 +1009,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910889@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270404T203000Z
 DTEND:20270404T230000Z
-SUMMARY:Suns @ Clippers (Suns Live)
+SUMMARY:Suns @ Clippers (Suns Live / ClipperVision / Arizona's Family 3TV)
 LOCATION:Intuit Dome\, Inglewood\, CA
-DESCRIPTION:Regular Season\nTV: Suns Live\nVenue: Intuit Dome\, Inglewood\,
-  CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: Suns Live / ClipperVision / Arizona's Famil
+ y 3TV\nVenue: Intuit Dome\, Inglewood\, CA\nUnofficial calendar\; not affi
+ liated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910908@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270407T030000Z
 DTEND:20270407T053000Z
 SUMMARY:Suns @ Warriors (NBC)
@@ -1023,20 +1035,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910935@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270410T020000Z
 DTEND:20270410T043000Z
-SUMMARY:Grizzlies @ Suns (Suns Live / Arizona's Family 3TV)
+SUMMARY:Grizzlies @ Suns (Suns Live / Arizona's Family 3TV / DAZN MEM)
 LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
-DESCRIPTION:Regular Season\nTV: Suns Live / Arizona's Family 3TV\nVenue: Mo
- rtgage Matchup Center\, Phoenix\, AZ\nUnofficial calendar\; not affiliated
-  with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: Suns Live / Arizona's Family 3TV / DAZN MEM
+ \nVenue: Mortgage Matchup Center\, Phoenix\, AZ\nUnofficial calendar\; not
+  affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910951@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270412T003000Z
 DTEND:20270412T030000Z
 SUMMARY:Suns @ Lakers (Spectrum Sports Net / Spectrum Sports Net + / Suns L

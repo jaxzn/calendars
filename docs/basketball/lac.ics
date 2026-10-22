@@ -10,20 +10,20 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:espn-401909842@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261022T023000Z
 DTEND:20261022T050000Z
-SUMMARY:Kings @ Clippers (NBC Sports CA)
+SUMMARY:Kings @ Clippers (KTLA / ClipperVision)
 LOCATION:Intuit Dome\, Inglewood\, CA
-DESCRIPTION:Regular Season\nTV: NBC Sports CA\nVenue: Intuit Dome\, Inglewo
- od\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: KTLA / ClipperVision\nVenue: Intuit Dome\, 
+ Inglewood\, CA\nFinal: Kings 96\, Clippers 121\nUnofficial calendar\; not 
+ affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909851@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261024T020000Z
 DTEND:20261024T043000Z
 SUMMARY:Clippers @ Lakers (Spectrum Sports Net / Spectrum Sports Net + / Cl
@@ -37,33 +37,34 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909865@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261025T230000Z
 DTEND:20261026T013000Z
-SUMMARY:Clippers @ Thunder (KSBI / ClipperVision)
+SUMMARY:Clippers @ Thunder (KSBI / ClipperVision / Thunder App)
 LOCATION:Paycom Center\, Oklahoma City\, OK
-DESCRIPTION:Regular Season\nTV: KSBI / ClipperVision\nVenue: Paycom Center\
- , Oklahoma City\, OK\nUnofficial calendar\; not affiliated with the NBA or
-  ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: KSBI / ClipperVision / Thunder App\nVenue: 
+ Paycom Center\, Oklahoma City\, OK\nUnofficial calendar\; not affiliated w
+ ith the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909892@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261029T023000Z
 DTEND:20261029T050000Z
-SUMMARY:Lakers @ Clippers (Spectrum Sports Net / Spectrum Sports Net +)
+SUMMARY:Lakers @ Clippers (Spectrum Sports Net / Spectrum Sports Net + / KT
+ LA / ClipperVision)
 LOCATION:Intuit Dome\, Inglewood\, CA
 DESCRIPTION:Regular Season\nTV: Spectrum Sports Net / Spectrum Sports Net +
- \nVenue: Intuit Dome\, Inglewood\, CA\nUnofficial calendar\; not affiliate
- d with the NBA or ESPN. Times may change.
+  / KTLA / ClipperVision\nVenue: Intuit Dome\, Inglewood\, CA\nUnofficial c
+ alendar\; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909284@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261031T000000Z
 DTEND:20261031T023000Z
 SUMMARY:Clippers @ Timberwolves (ClipperVision)
@@ -76,85 +77,85 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909905@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261102T013000Z
 DTEND:20261102T040000Z
-SUMMARY:Clippers @ Warriors
+SUMMARY:Clippers @ Warriors (ClipperVision)
 LOCATION:Chase Center\, San Francisco\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Chase Center\, San Francisco\, 
- CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: ClipperVision\nVenue: Chase Center\, San Fr
+ ancisco\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
+ imes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909920@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261103T030000Z
 DTEND:20261103T053000Z
-SUMMARY:Raptors @ Clippers
+SUMMARY:Raptors @ Clippers (KTLA / ClipperVision)
 LOCATION:Intuit Dome\, Inglewood\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Intuit Dome\, Inglewood\, CA\nU
- nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
- .
+DESCRIPTION:Regular Season\nTV: KTLA / ClipperVision\nVenue: Intuit Dome\, 
+ Inglewood\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN.
+  Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909935@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261105T033000Z
 DTEND:20261105T060000Z
-SUMMARY:Heat @ Clippers
+SUMMARY:Heat @ Clippers (ClipperVision)
 LOCATION:Intuit Dome\, Inglewood\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Intuit Dome\, Inglewood\, CA\nU
- nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
- .
+DESCRIPTION:Regular Season\nTV: ClipperVision\nVenue: Intuit Dome\, Inglewo
+ od\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909950@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261109T020000Z
 DTEND:20261109T043000Z
-SUMMARY:Pelicans @ Clippers
+SUMMARY:Pelicans @ Clippers (ClipperVision / GCSEN / Pelicans.com)
 LOCATION:Intuit Dome\, Inglewood\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Intuit Dome\, Inglewood\, CA\nU
- nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
- .
+DESCRIPTION:Regular Season\nTV: ClipperVision / GCSEN / Pelicans.com\nVenue
+ : Intuit Dome\, Inglewood\, CA\nUnofficial calendar\; not affiliated with 
+ the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909962@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261111T020000Z
 DTEND:20261111T043000Z
-SUMMARY:Clippers @ Suns (Suns Live)
+SUMMARY:Clippers @ Suns (Suns Live / Arizona's Family 3TV / ClipperVision)
 LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
-DESCRIPTION:Regular Season\nTV: Suns Live\nVenue: Mortgage Matchup Center\,
-  Phoenix\, AZ\nUnofficial calendar\; not affiliated with the NBA or ESPN. 
- Times may change.
+DESCRIPTION:Regular Season\nTV: Suns Live / Arizona's Family 3TV / ClipperV
+ ision\nVenue: Mortgage Matchup Center\, Phoenix\, AZ\nUnofficial calendar\
+ ; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909304@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261114T033000Z
 DTEND:20261114T060000Z
-SUMMARY:Thunder @ Clippers (KSBI / KTLA / ClipperVision)
+SUMMARY:Thunder @ Clippers (KSBI / KTLA / ClipperVision / Thunder App)
 LOCATION:Intuit Dome\, Inglewood\, CA
-DESCRIPTION:NBA Cup - Group Play\nTV: KSBI / KTLA / ClipperVision\nVenue: I
- ntuit Dome\, Inglewood\, CA\nUnofficial calendar\; not affiliated with the
-  NBA or ESPN. Times may change.
+DESCRIPTION:NBA Cup - Group Play\nTV: KSBI / KTLA / ClipperVision / Thunder
+  App\nVenue: Intuit Dome\, Inglewood\, CA\nUnofficial calendar\; not affil
+ iated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909987@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261115T213000Z
 DTEND:20261116T000000Z
 SUMMARY:Hornets @ Clippers (ClipperVision)
@@ -167,7 +168,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910006@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261118T040000Z
 DTEND:20261118T063000Z
 SUMMARY:Jazz @ Clippers (NBC)
@@ -180,46 +181,46 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910022@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261120T010000Z
 DTEND:20261120T033000Z
-SUMMARY:Clippers @ Spurs
+SUMMARY:Clippers @ Spurs (DAZN SAS / KTLA / ClipperVision)
 LOCATION:Frost Bank Center\, San Antonio\, TX
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Frost Bank Center\, San Antonio
- \, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
- y change.
+DESCRIPTION:Regular Season\nTV: DAZN SAS / KTLA / ClipperVision\nVenue: Fro
+ st Bank Center\, San Antonio\, TX\nUnofficial calendar\; not affiliated wi
+ th the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910025@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261122T010000Z
 DTEND:20261122T033000Z
-SUMMARY:Clippers @ Mavericks
+SUMMARY:Clippers @ Mavericks (KFAA-TV / MavsTV / ClipperVision)
 LOCATION:American Airlines Center\, Dallas\, TX
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: American Airlines Center\, Dall
- as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: KFAA-TV / MavsTV / ClipperVision\nVenue: Am
+ erican Airlines Center\, Dallas\, TX\nUnofficial calendar\; not affiliated
+  with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910043@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261124T013000Z
 DTEND:20261124T040000Z
-SUMMARY:Clippers @ Rockets
+SUMMARY:Clippers @ Rockets (ClipperVision)
 LOCATION:Toyota Center (Houston)\, Houston\, TX
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Toyota Center (Houston)\, Houst
- on\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: ClipperVision\nVenue: Toyota Center (Housto
+ n)\, Houston\, TX\nUnofficial calendar\; not affiliated with the NBA or ES
+ PN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909321@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261126T010000Z
 DTEND:20261126T033000Z
 SUMMARY:Clippers @ Grizzlies (ClipperVision)
@@ -232,25 +233,25 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909335@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261128T023000Z
 DTEND:20261128T050000Z
-SUMMARY:Pelicans @ Clippers
+SUMMARY:Pelicans @ Clippers (ClipperVision / GCSEN / Pelicans.com)
 LOCATION:Intuit Dome\, Inglewood\, CA
-DESCRIPTION:NBA Cup - Group Play\nTV: TBD\nVenue: Intuit Dome\, Inglewood\,
-  CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:NBA Cup - Group Play\nTV: ClipperVision / GCSEN / Pelicans.com\
+ nVenue: Intuit Dome\, Inglewood\, CA\nUnofficial calendar\; not affiliated
+  with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910059@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261130T013000Z
 DTEND:20261130T040000Z
-SUMMARY:Clippers @ Warriors (NBC Sports BA)
+SUMMARY:Clippers @ Warriors (ClipperVision)
 LOCATION:Chase Center\, San Francisco\, CA
-DESCRIPTION:Regular Season\nTV: NBC Sports BA\nVenue: Chase Center\, San Fr
+DESCRIPTION:Regular Season\nTV: ClipperVision\nVenue: Chase Center\, San Fr
  ancisco\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
  imes may change.
 STATUS:CONFIRMED
@@ -258,20 +259,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910073@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261202T020000Z
 DTEND:20261202T043000Z
-SUMMARY:Clippers @ Suns (Suns Live)
+SUMMARY:Clippers @ Suns (Suns Live / Arizona's Family 3TV / ClipperVision)
 LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
-DESCRIPTION:Regular Season\nTV: Suns Live\nVenue: Mortgage Matchup Center\,
-  Phoenix\, AZ\nUnofficial calendar\; not affiliated with the NBA or ESPN. 
- Times may change.
+DESCRIPTION:Regular Season\nTV: Suns Live / Arizona's Family 3TV / ClipperV
+ ision\nVenue: Mortgage Matchup Center\, Phoenix\, AZ\nUnofficial calendar\
+ ; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910084@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261203T033000Z
 DTEND:20261203T060000Z
 SUMMARY:Timberwolves @ Clippers (NBA TV)
@@ -284,33 +285,33 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910102@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261214T000000Z
 DTEND:20261214T023000Z
-SUMMARY:Clippers @ Spurs
+SUMMARY:Clippers @ Spurs (DAZN SAS / ClipperVision)
 LOCATION:Frost Bank Center\, San Antonio\, TX
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Frost Bank Center\, San Antonio
- \, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
- y change.
+DESCRIPTION:Regular Season\nTV: DAZN SAS / ClipperVision\nVenue: Frost Bank
+  Center\, San Antonio\, TX\nUnofficial calendar\; not affiliated with the 
+ NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910118@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261217T000000Z
 DTEND:20261217T023000Z
-SUMMARY:Clippers @ Hornets
+SUMMARY:Clippers @ Hornets (ClipperVision)
 LOCATION:Spectrum Center\, Charlotte\, NC
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Spectrum Center\, Charlotte\, N
- C\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
- ange.
+DESCRIPTION:Regular Season\nTV: ClipperVision\nVenue: Spectrum Center\, Cha
+ rlotte\, NC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Ti
+ mes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910134@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261219T000000Z
 DTEND:20261219T023000Z
 SUMMARY:Clippers @ Heat (Prime Video)
@@ -323,38 +324,38 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910158@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261221T030000Z
 DTEND:20261221T053000Z
-SUMMARY:Pacers @ Clippers
+SUMMARY:Pacers @ Clippers (ClipperVision / DAZN IND)
 LOCATION:Intuit Dome\, Inglewood\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Intuit Dome\, Inglewood\, CA\nU
- nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
- .
+DESCRIPTION:Regular Season\nTV: ClipperVision / DAZN IND\nVenue: Intuit Dom
+ e\, Inglewood\, CA\nUnofficial calendar\; not affiliated with the NBA or E
+ SPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910168@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261222T033000Z
 DTEND:20261222T060000Z
-SUMMARY:Nuggets @ Clippers
+SUMMARY:Nuggets @ Clippers (ClipperVision)
 LOCATION:Intuit Dome\, Inglewood\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Intuit Dome\, Inglewood\, CA\nU
- nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
- .
+DESCRIPTION:Regular Season\nTV: ClipperVision\nVenue: Intuit Dome\, Inglewo
+ od\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910186@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261224T033000Z
 DTEND:20261224T060000Z
-SUMMARY:Warriors @ Clippers (NBC Sports BA)
+SUMMARY:Warriors @ Clippers (ClipperVision)
 LOCATION:Intuit Dome\, Inglewood\, CA
-DESCRIPTION:Regular Season\nTV: NBC Sports BA\nVenue: Intuit Dome\, Inglewo
+DESCRIPTION:Regular Season\nTV: ClipperVision\nVenue: Intuit Dome\, Inglewo
  od\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
  may change.
 STATUS:CONFIRMED
@@ -362,59 +363,59 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910194@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261227T033000Z
 DTEND:20261227T060000Z
-SUMMARY:Grizzlies @ Clippers
+SUMMARY:Grizzlies @ Clippers (ClipperVision / DAZN MEM)
 LOCATION:Intuit Dome\, Inglewood\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Intuit Dome\, Inglewood\, CA\nU
- nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
- .
+DESCRIPTION:Regular Season\nTV: ClipperVision / DAZN MEM\nVenue: Intuit Dom
+ e\, Inglewood\, CA\nUnofficial calendar\; not affiliated with the NBA or E
+ SPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910205@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261228T020000Z
 DTEND:20261228T043000Z
-SUMMARY:76ers @ Clippers
+SUMMARY:76ers @ Clippers (ClipperVision)
 LOCATION:Intuit Dome\, Inglewood\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Intuit Dome\, Inglewood\, CA\nU
- nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
- .
+DESCRIPTION:Regular Season\nTV: ClipperVision\nVenue: Intuit Dome\, Inglewo
+ od\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910213@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261230T000000Z
 DTEND:20261230T023000Z
-SUMMARY:Clippers @ Pacers (ClipperVision)
+SUMMARY:Clippers @ Pacers (ClipperVision / DAZN IND)
 LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
-DESCRIPTION:Regular Season\nTV: ClipperVision\nVenue: Gainbridge Fieldhouse
- \, Indianapolis\, IN\nUnofficial calendar\; not affiliated with the NBA or
-  ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: ClipperVision / DAZN IND\nVenue: Gainbridge
+  Fieldhouse\, Indianapolis\, IN\nUnofficial calendar\; not affiliated with
+  the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910228@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261231T200000Z
 DTEND:20261231T223000Z
-SUMMARY:Clippers @ Cavaliers
+SUMMARY:Clippers @ Cavaliers (DAZN CLE / ClipperVision)
 LOCATION:Rocket Arena\, Cleveland\, OH
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Rocket Arena\, Cleveland\, OH\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: DAZN CLE / ClipperVision\nVenue: Rocket Are
+ na\, Cleveland\, OH\nUnofficial calendar\; not affiliated with the NBA or 
+ ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910237@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270102T003000Z
 DTEND:20270102T030000Z
 SUMMARY:Clippers @ Raptors (ClipperVision)
@@ -427,45 +428,46 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910255@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270104T000000Z
 DTEND:20270104T023000Z
-SUMMARY:Clippers @ Wizards
+SUMMARY:Clippers @ Wizards (ClipperVision)
 LOCATION:Capital One Arena\, Washington\, DC
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Capital One Arena\, Washington\
- , DC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:Regular Season\nTV: ClipperVision\nVenue: Capital One Arena\, W
+ ashington\, DC\nUnofficial calendar\; not affiliated with the NBA or ESPN.
+  Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910267@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270106T000000Z
 DTEND:20270106T023000Z
-SUMMARY:Clippers @ Magic
+SUMMARY:Clippers @ Magic (ClipperVision)
 LOCATION:Kia Center\, Orlando\, FL
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Kia Center\, Orlando\, FL\nUnof
- ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: ClipperVision\nVenue: Kia Center\, Orlando\
+ , FL\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910286@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270108T010000Z
 DTEND:20270108T033000Z
-SUMMARY:Clippers @ Bucks
+SUMMARY:Clippers @ Bucks (MyMi / Bucks App / ClipperVision)
 LOCATION:Fiserv Forum\, Milwaukee\, WI
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Fiserv Forum\, Milwaukee\, WI\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: MyMi / Bucks App / ClipperVision\nVenue: Fi
+ serv Forum\, Milwaukee\, WI\nUnofficial calendar\; not affiliated with the
+  NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910304@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270110T033000Z
 DTEND:20270110T060000Z
 SUMMARY:Celtics @ Clippers (ClipperVision)
@@ -478,7 +480,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910318@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270112T030000Z
 DTEND:20270112T053000Z
 SUMMARY:Lakers @ Clippers (NBCSN)
@@ -491,20 +493,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910342@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270115T030000Z
 DTEND:20270115T053000Z
-SUMMARY:Clippers @ Kings
+SUMMARY:Clippers @ Kings (ClipperVision)
 LOCATION:Golden 1 Center\, Sacramento\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Golden 1 Center\, Sacramento\, 
- CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: ClipperVision\nVenue: Golden 1 Center\, Sac
+ ramento\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
+ imes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910350@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270116T033000Z
 DTEND:20270116T060000Z
 SUMMARY:Magic @ Clippers (NBA TV)
@@ -517,7 +519,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910367@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270119T033000Z
 DTEND:20270119T060000Z
 SUMMARY:Suns @ Clippers (NBA TV)
@@ -530,20 +532,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910382@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270121T020000Z
 DTEND:20270121T043000Z
-SUMMARY:Clippers @ Jazz
+SUMMARY:Clippers @ Jazz (KJZZ-TV / Jazz+ / ClipperVision)
 LOCATION:Delta Center\, Salt Lake City\, UT
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Delta Center\, Salt Lake City\,
-  UT\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+ / ClipperVision\nVenue: Del
+ ta Center\, Salt Lake City\, UT\nUnofficial calendar\; not affiliated with
+  the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910399@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270123T033000Z
 DTEND:20270123T060000Z
 SUMMARY:Wizards @ Clippers (MNMT / ClipperVision)
@@ -556,7 +558,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910411@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270125T000000Z
 DTEND:20270125T023000Z
 SUMMARY:Clippers @ Knicks (ClipperVision)
@@ -569,20 +571,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910415@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270126T000000Z
 DTEND:20270126T023000Z
-SUMMARY:Clippers @ 76ers
+SUMMARY:Clippers @ 76ers (KTLA / ClipperVision)
 LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Xfinity Mobile Arena\, Philadel
- phia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
- s may change.
+DESCRIPTION:Regular Season\nTV: KTLA / ClipperVision\nVenue: Xfinity Mobile
+  Arena\, Philadelphia\, PA\nUnofficial calendar\; not affiliated with the 
+ NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910430@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270128T003000Z
 DTEND:20270128T030000Z
 SUMMARY:Clippers @ Celtics (ClipperVision)
@@ -595,33 +597,33 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910447@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270130T003000Z
 DTEND:20270130T030000Z
-SUMMARY:Clippers @ Nets (DAZN (YES))
+SUMMARY:Clippers @ Nets (DAZN (YES) / ClipperVision)
 LOCATION:Barclays Center\, Brooklyn\, NY
-DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: Barclays Center\, Brookl
- yn\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: DAZN (YES) / ClipperVision\nVenue: Barclays
+  Center\, Brooklyn\, NY\nUnofficial calendar\; not affiliated with the NBA
+  or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910480@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270203T033000Z
 DTEND:20270203T060000Z
-SUMMARY:Spurs @ Clippers (ClipperVision)
+SUMMARY:Spurs @ Clippers (ClipperVision / DAZN SAS)
 LOCATION:Intuit Dome\, Inglewood\, CA
-DESCRIPTION:Regular Season\nTV: ClipperVision\nVenue: Intuit Dome\, Inglewo
- od\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: ClipperVision / DAZN SAS\nVenue: Intuit Dom
+ e\, Inglewood\, CA\nUnofficial calendar\; not affiliated with the NBA or E
+ SPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910487@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270204T033000Z
 DTEND:20270204T060000Z
 SUMMARY:Warriors @ Clippers (ClipperVision)
@@ -634,7 +636,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910501@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270206T020000Z
 DTEND:20270206T043000Z
 SUMMARY:Clippers @ Nuggets (ClipperVision)
@@ -647,20 +649,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910516@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270207T213000Z
 DTEND:20270208T000000Z
-SUMMARY:Clippers @ Mavericks
+SUMMARY:Clippers @ Mavericks (KFAA-TV / MavsTV / ClipperVision)
 LOCATION:American Airlines Center\, Dallas\, TX
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: American Airlines Center\, Dall
- as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: KFAA-TV / MavsTV / ClipperVision\nVenue: Am
+ erican Airlines Center\, Dallas\, TX\nUnofficial calendar\; not affiliated
+  with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910537@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270210T033000Z
 DTEND:20270210T060000Z
 SUMMARY:Pistons @ Clippers (ClipperVision)
@@ -673,7 +675,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910544@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270211T030000Z
 DTEND:20270211T053000Z
 SUMMARY:Clippers @ Lakers (ESPN)
@@ -686,20 +688,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910557@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270213T010000Z
 DTEND:20270213T033000Z
-SUMMARY:Clippers @ Grizzlies (ClipperVision)
+SUMMARY:Clippers @ Grizzlies (ClipperVision / DAZN MEM)
 LOCATION:FedExForum\, Memphis\, TN
-DESCRIPTION:Regular Season\nTV: ClipperVision\nVenue: FedExForum\, Memphis\
- , TN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:Regular Season\nTV: ClipperVision / DAZN MEM\nVenue: FedExForum
+ \, Memphis\, TN\nUnofficial calendar\; not affiliated with the NBA or ESPN
+ . Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910572@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270214T190000Z
 DTEND:20270214T213000Z
 SUMMARY:Clippers @ Pelicans (GCSEN / Pelicans.com / ClipperVision)
@@ -712,7 +714,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910582@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270217T040000Z
 DTEND:20270217T063000Z
 SUMMARY:Rockets @ Clippers (NBC)
@@ -725,7 +727,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910595@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270218T033000Z
 DTEND:20270218T060000Z
 SUMMARY:Bulls @ Clippers (ClipperVision)
@@ -738,7 +740,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910609@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270226T033000Z
 DTEND:20270226T060000Z
 SUMMARY:Jazz @ Clippers (ClipperVision / KJZZ-TV / Jazz+)
@@ -751,20 +753,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910631@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270301T033000Z
 DTEND:20270301T060000Z
-SUMMARY:Trail Blazers @ Clippers (KUNP 16 / BlazerVision)
+SUMMARY:Trail Blazers @ Clippers (KUNP 16 / BlazerVision / ClipperVision)
 LOCATION:Intuit Dome\, Inglewood\, CA
-DESCRIPTION:Regular Season\nTV: KUNP 16 / BlazerVision\nVenue: Intuit Dome\
- , Inglewood\, CA\nUnofficial calendar\; not affiliated with the NBA or ESP
- N. Times may change.
+DESCRIPTION:Regular Season\nTV: KUNP 16 / BlazerVision / ClipperVision\nVen
+ ue: Intuit Dome\, Inglewood\, CA\nUnofficial calendar\; not affiliated wit
+ h the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910646@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270303T040000Z
 DTEND:20270303T063000Z
 SUMMARY:Clippers @ Trail Blazers (NBC)
@@ -776,20 +778,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910661@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270305T033000Z
 DTEND:20270305T060000Z
-SUMMARY:Nets @ Clippers (DAZN (YES))
+SUMMARY:Nets @ Clippers (DAZN (YES) / ClipperVision)
 LOCATION:Intuit Dome\, Inglewood\, CA
-DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: Intuit Dome\, Inglewood\
- , CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:Regular Season\nTV: DAZN (YES) / ClipperVision\nVenue: Intuit D
+ ome\, Inglewood\, CA\nUnofficial calendar\; not affiliated with the NBA or
+  ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910674@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270307T030000Z
 DTEND:20270307T053000Z
 SUMMARY:Clippers @ Kings (ClipperVision)
@@ -802,46 +804,46 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910688@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270309T033000Z
 DTEND:20270309T060000Z
-SUMMARY:Rockets @ Clippers
+SUMMARY:Rockets @ Clippers (ClipperVision)
 LOCATION:Intuit Dome\, Inglewood\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Intuit Dome\, Inglewood\, CA\nU
- nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
- .
+DESCRIPTION:Regular Season\nTV: ClipperVision\nVenue: Intuit Dome\, Inglewo
+ od\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910703@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270311T033000Z
 DTEND:20270311T060000Z
-SUMMARY:Knicks @ Clippers
+SUMMARY:Knicks @ Clippers (KTLA / ClipperVision)
 LOCATION:Intuit Dome\, Inglewood\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Intuit Dome\, Inglewood\, CA\nU
- nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
- .
+DESCRIPTION:Regular Season\nTV: KTLA / ClipperVision\nVenue: Intuit Dome\, 
+ Inglewood\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN.
+  Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910712@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270312T033000Z
 DTEND:20270312T060000Z
-SUMMARY:Cavaliers @ Clippers
+SUMMARY:Cavaliers @ Clippers (ClipperVision / DAZN CLE)
 LOCATION:Intuit Dome\, Inglewood\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Intuit Dome\, Inglewood\, CA\nU
- nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
- .
+DESCRIPTION:Regular Season\nTV: ClipperVision / DAZN CLE\nVenue: Intuit Dom
+ e\, Inglewood\, CA\nUnofficial calendar\; not affiliated with the NBA or E
+ SPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910726@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270314T033000Z
 DTEND:20270314T060000Z
 SUMMARY:Clippers @ Trail Blazers (ESPN)
@@ -854,7 +856,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910748@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270317T030000Z
 DTEND:20270317T053000Z
 SUMMARY:Nuggets @ Clippers (NBC)
@@ -867,98 +869,98 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910765@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270319T023000Z
 DTEND:20270319T050000Z
-SUMMARY:Grizzlies @ Clippers
+SUMMARY:Grizzlies @ Clippers (ClipperVision / DAZN MEM)
 LOCATION:Intuit Dome\, Inglewood\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Intuit Dome\, Inglewood\, CA\nU
- nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
- .
+DESCRIPTION:Regular Season\nTV: ClipperVision / DAZN MEM\nVenue: Intuit Dom
+ e\, Inglewood\, CA\nUnofficial calendar\; not affiliated with the NBA or E
+ SPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910778@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270321T023000Z
 DTEND:20270321T050000Z
-SUMMARY:Hawks @ Clippers
+SUMMARY:Hawks @ Clippers (ClipperVision)
 LOCATION:Intuit Dome\, Inglewood\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Intuit Dome\, Inglewood\, CA\nU
- nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
- .
+DESCRIPTION:Regular Season\nTV: ClipperVision\nVenue: Intuit Dome\, Inglewo
+ od\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910793@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270323T023000Z
 DTEND:20270323T050000Z
-SUMMARY:Mavericks @ Clippers
+SUMMARY:Mavericks @ Clippers (ClipperVision / KFAA-TV / MavsTV)
 LOCATION:Intuit Dome\, Inglewood\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Intuit Dome\, Inglewood\, CA\nU
- nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
- .
+DESCRIPTION:Regular Season\nTV: ClipperVision / KFAA-TV / MavsTV\nVenue: In
+ tuit Dome\, Inglewood\, CA\nUnofficial calendar\; not affiliated with the 
+ NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910810@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270325T023000Z
 DTEND:20270325T050000Z
-SUMMARY:Bucks @ Clippers (ClipperVision / MyMi)
+SUMMARY:Bucks @ Clippers (ClipperVision / MyMi / Bucks App)
 LOCATION:Intuit Dome\, Inglewood\, CA
-DESCRIPTION:Regular Season\nTV: ClipperVision / MyMi\nVenue: Intuit Dome\, 
- Inglewood\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN.
-  Times may change.
+DESCRIPTION:Regular Season\nTV: ClipperVision / MyMi / Bucks App\nVenue: In
+ tuit Dome\, Inglewood\, CA\nUnofficial calendar\; not affiliated with the 
+ NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910821@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270327T000000Z
 DTEND:20270327T023000Z
-SUMMARY:Clippers @ Thunder (KSBI)
+SUMMARY:Clippers @ Thunder (KSBI / Thunder App / KTLA / ClipperVision)
 LOCATION:Paycom Center\, Oklahoma City\, OK
-DESCRIPTION:Regular Season\nTV: KSBI\nVenue: Paycom Center\, Oklahoma City\
- , OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:Regular Season\nTV: KSBI / Thunder App / KTLA / ClipperVision\n
+ Venue: Paycom Center\, Oklahoma City\, OK\nUnofficial calendar\; not affil
+ iated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910828@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270328T000000Z
 DTEND:20270328T023000Z
-SUMMARY:Clippers @ Bulls (CHSN)
+SUMMARY:Clippers @ Bulls (ClipperVision)
 LOCATION:United Center\, Chicago\, IL
-DESCRIPTION:Regular Season\nTV: CHSN\nVenue: United Center\, Chicago\, IL\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: ClipperVision\nVenue: United Center\, Chica
+ go\, IL\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910842@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270329T230000Z
 DTEND:20270330T013000Z
-SUMMARY:Clippers @ Pistons
+SUMMARY:Clippers @ Pistons (ClipperVision)
 LOCATION:Little Caesars Arena\, Detroit\, MI
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Little Caesars Arena\, Detroit\
- , MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:Regular Season\nTV: ClipperVision\nVenue: Little Caesars Arena\
+ , Detroit\, MI\nUnofficial calendar\; not affiliated with the NBA or ESPN.
+  Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910854@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270331T230000Z
 DTEND:20270401T013000Z
 SUMMARY:Clippers @ Hawks (ClipperVision)
@@ -971,58 +973,59 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910879@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270403T023000Z
 DTEND:20270403T050000Z
-SUMMARY:Spurs @ Clippers
+SUMMARY:Spurs @ Clippers (KTLA / ClipperVision / DAZN SAS)
 LOCATION:Intuit Dome\, Inglewood\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Intuit Dome\, Inglewood\, CA\nU
- nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
- .
+DESCRIPTION:Regular Season\nTV: KTLA / ClipperVision / DAZN SAS\nVenue: Int
+ uit Dome\, Inglewood\, CA\nUnofficial calendar\; not affiliated with the N
+ BA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910889@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270404T203000Z
 DTEND:20270404T230000Z
-SUMMARY:Suns @ Clippers (Suns Live)
+SUMMARY:Suns @ Clippers (Suns Live / ClipperVision / Arizona's Family 3TV)
 LOCATION:Intuit Dome\, Inglewood\, CA
-DESCRIPTION:Regular Season\nTV: Suns Live\nVenue: Intuit Dome\, Inglewood\,
-  CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: Suns Live / ClipperVision / Arizona's Famil
+ y 3TV\nVenue: Intuit Dome\, Inglewood\, CA\nUnofficial calendar\; not affi
+ liated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910907@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270407T023000Z
 DTEND:20270407T050000Z
-SUMMARY:Timberwolves @ Clippers (ClipperVision)
+SUMMARY:Timberwolves @ Clippers (ClipperVision / DAZN MIN)
 LOCATION:Intuit Dome\, Inglewood\, CA
-DESCRIPTION:Regular Season\nTV: ClipperVision\nVenue: Intuit Dome\, Inglewo
- od\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: ClipperVision / DAZN MIN\nVenue: Intuit Dom
+ e\, Inglewood\, CA\nUnofficial calendar\; not affiliated with the NBA or E
+ SPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910920@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270409T010000Z
 DTEND:20270409T033000Z
-SUMMARY:Clippers @ Nuggets
+SUMMARY:Clippers @ Nuggets (ClipperVision)
 LOCATION:Ball Arena\, Denver\, CO
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Ball Arena\, Denver\, CO\nUnoff
- icial calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: ClipperVision\nVenue: Ball Arena\, Denver\,
+  CO\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
+ change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910933@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270410T013000Z
 DTEND:20270410T040000Z
 SUMMARY:Clippers @ Jazz (KJZZ-TV / Jazz+ / ClipperVision)
@@ -1035,12 +1038,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910950@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270412T003000Z
 DTEND:20270412T030000Z
-SUMMARY:Kings @ Clippers (NBC Sports CA)
+SUMMARY:Kings @ Clippers (ClipperVision)
 LOCATION:Intuit Dome\, Inglewood\, CA
-DESCRIPTION:Regular Season\nTV: NBC Sports CA\nVenue: Intuit Dome\, Inglewo
+DESCRIPTION:Regular Season\nTV: ClipperVision\nVenue: Intuit Dome\, Inglewo
  od\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
  may change.
 STATUS:CONFIRMED

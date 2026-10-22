@@ -10,59 +10,59 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:espn-401909839@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261022T000000Z
 DTEND:20261022T023000Z
-SUMMARY:Pacers @ Pelicans (GCSEN / Pelicans.com)
+SUMMARY:Pacers @ Pelicans (GCSEN / Pelicans.com / DAZN IND)
 LOCATION:Smoothie King Center\, New Orleans\, LA
-DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com\nVenue: Smoothie King 
- Center\, New Orleans\, LA\nUnofficial calendar\; not affiliated with the N
- BA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com / DAZN IND\nVenue: Smo
+ othie King Center\, New Orleans\, LA\nFinal: Pacers 123\, Pelicans 120\nUn
+ official calendar\; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909844@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261023T230000Z
 DTEND:20261024T013000Z
-SUMMARY:Mavericks @ Pacers
+SUMMARY:Mavericks @ Pacers (KFAA-TV / MavsTV)
 LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Gainbridge Fieldhouse\, Indiana
- polis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
- es may change.
+DESCRIPTION:Regular Season\nTV: KFAA-TV / MavsTV\nVenue: Gainbridge Fieldho
+ use\, Indianapolis\, IN\nUnofficial calendar\; not affiliated with the NBA
+  or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909862@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261025T220000Z
 DTEND:20261026T003000Z
-SUMMARY:Pacers @ Nets (DAZN (YES))
+SUMMARY:Pacers @ Nets (DAZN (YES) / DAZN IND)
 LOCATION:Barclays Center\, Brooklyn\, NY
-DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: Barclays Center\, Brookl
- yn\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: DAZN (YES) / DAZN IND\nVenue: Barclays Cent
+ er\, Brooklyn\, NY\nUnofficial calendar\; not affiliated with the NBA or E
+ SPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909872@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261027T000000Z
 DTEND:20261027T023000Z
-SUMMARY:Pacers @ Bucks (MyMi)
+SUMMARY:Pacers @ Bucks (MyMi / Bucks App / DAZN IND)
 LOCATION:Fiserv Forum\, Milwaukee\, WI
-DESCRIPTION:Regular Season\nTV: MyMi\nVenue: Fiserv Forum\, Milwaukee\, WI\
- nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may chan
- ge.
+DESCRIPTION:Regular Season\nTV: MyMi / Bucks App / DAZN IND\nVenue: Fiserv 
+ Forum\, Milwaukee\, WI\nUnofficial calendar\; not affiliated with the NBA 
+ or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909884@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261028T230000Z
 DTEND:20261029T013000Z
 SUMMARY:76ers @ Pacers (ESPN)
@@ -75,58 +75,59 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909282@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261031T000000Z
 DTEND:20261031T023000Z
-SUMMARY:Pacers @ Heat
+SUMMARY:Pacers @ Heat (DAZN IND)
 LOCATION:Kaseya Center\, Miami\, FL
-DESCRIPTION:NBA Cup - Group Play\nTV: TBD\nVenue: Kaseya Center\, Miami\, F
- L\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
- ange.
+DESCRIPTION:NBA Cup - Group Play\nTV: DAZN IND\nVenue: Kaseya Center\, Miam
+ i\, FL\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909904@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261101T220000Z
 DTEND:20261102T003000Z
-SUMMARY:Nets @ Pacers (DAZN (YES))
+SUMMARY:Nets @ Pacers (DAZN (YES) / DAZN IND)
 LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
-DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: Gainbridge Fieldhouse\, 
- Indianapolis\, IN\nUnofficial calendar\; not affiliated with the NBA or ES
- PN. Times may change.
+DESCRIPTION:Regular Season\nTV: DAZN (YES) / DAZN IND\nVenue: Gainbridge Fi
+ eldhouse\, Indianapolis\, IN\nUnofficial calendar\; not affiliated with th
+ e NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909909@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261103T003000Z
 DTEND:20261103T030000Z
-SUMMARY:Hawks @ Pacers
+SUMMARY:Hawks @ Pacers (DAZN IND)
 LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Gainbridge Fieldhouse\, Indiana
- polis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
- es may change.
+DESCRIPTION:Regular Season\nTV: DAZN IND\nVenue: Gainbridge Fieldhouse\, In
+ dianapolis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN
+ . Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909927@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261105T010000Z
 DTEND:20261105T033000Z
-SUMMARY:Pacers @ Grizzlies
+SUMMARY:Pacers @ Grizzlies (DAZN MEM / DAZN IND)
 LOCATION:FedExForum\, Memphis\, TN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: FedExForum\, Memphis\, TN\nUnof
- ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: DAZN MEM / DAZN IND\nVenue: FedExForum\, Me
+ mphis\, TN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
+ es may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909938@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261107T220000Z
 DTEND:20261108T003000Z
 SUMMARY:Nuggets @ Pacers (NBA TV)
@@ -139,33 +140,33 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909956@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261110T010000Z
 DTEND:20261110T033000Z
-SUMMARY:Pacers @ Mavericks
+SUMMARY:Pacers @ Mavericks (KFAA-TV / MavsTV / DAZN IND)
 LOCATION:American Airlines Center\, Dallas\, TX
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: American Airlines Center\, Dall
- as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: KFAA-TV / MavsTV / DAZN IND\nVenue: America
+ n Airlines Center\, Dallas\, TX\nUnofficial calendar\; not affiliated with
+  the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909966@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261112T000000Z
 DTEND:20261112T023000Z
-SUMMARY:Wizards @ Pacers (MNMT)
+SUMMARY:Wizards @ Pacers (MNMT / DAZN IND)
 LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
-DESCRIPTION:Regular Season\nTV: MNMT\nVenue: Gainbridge Fieldhouse\, Indian
- apolis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Ti
- mes may change.
+DESCRIPTION:Regular Season\nTV: MNMT / DAZN IND\nVenue: Gainbridge Fieldhou
+ se\, Indianapolis\, IN\nUnofficial calendar\; not affiliated with the NBA 
+ or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909296@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261114T000000Z
 DTEND:20261114T023000Z
 SUMMARY:Knicks @ Pacers (Prime Video)
@@ -178,72 +179,72 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909985@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261115T180000Z
 DTEND:20261115T203000Z
-SUMMARY:Pacers @ 76ers
+SUMMARY:Pacers @ 76ers (DAZN IND)
 LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Xfinity Mobile Arena\, Philadel
- phia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
- s may change.
+DESCRIPTION:Regular Season\nTV: DAZN IND\nVenue: Xfinity Mobile Arena\, Phi
+ ladelphia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN.
+  Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910008@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261119T000000Z
 DTEND:20261119T023000Z
-SUMMARY:Rockets @ Pacers
+SUMMARY:Rockets @ Pacers (DAZN IND)
 LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Gainbridge Fieldhouse\, Indiana
- polis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
- es may change.
+DESCRIPTION:Regular Season\nTV: DAZN IND\nVenue: Gainbridge Fieldhouse\, In
+ dianapolis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN
+ . Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909307@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261121T003000Z
 DTEND:20261121T030000Z
-SUMMARY:Pacers @ Cavaliers
+SUMMARY:Pacers @ Cavaliers (DAZN CLE)
 LOCATION:Rocket Arena\, Cleveland\, OH
-DESCRIPTION:NBA Cup - Group Play\nTV: TBD\nVenue: Rocket Arena\, Cleveland\
- , OH\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:NBA Cup - Group Play\nTV: DAZN CLE\nVenue: Rocket Arena\, Cleve
+ land\, OH\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
+ s may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910034@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261123T010000Z
 DTEND:20261123T033000Z
-SUMMARY:Pacers @ Knicks
+SUMMARY:Pacers @ Knicks (DAZN IND)
 LOCATION:Madison Square Garden\, New York\, NY
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Madison Square Garden\, New Yor
- k\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
- ay change.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401910038@nba-calendars
-DTSTAMP:20261021T154330Z
-DTSTART:20261124T003000Z
-DTEND:20261124T030000Z
-SUMMARY:Thunder @ Pacers (KSBI)
-LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
-DESCRIPTION:Regular Season\nTV: KSBI\nVenue: Gainbridge Fieldhouse\, Indian
- apolis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Ti
+DESCRIPTION:Regular Season\nTV: DAZN IND\nVenue: Madison Square Garden\, Ne
+ w York\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Ti
  mes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:espn-401910038@nba-calendars
+DTSTAMP:20261022T154318Z
+DTSTART:20261124T003000Z
+DTEND:20261124T030000Z
+SUMMARY:Thunder @ Pacers (KSBI / DAZN IND / Thunder App)
+LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
+DESCRIPTION:Regular Season\nTV: KSBI / DAZN IND / Thunder App\nVenue: Gainb
+ ridge Fieldhouse\, Indianapolis\, IN\nUnofficial calendar\; not affiliated
+  with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:espn-401909328@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261128T003000Z
 DTEND:20261128T030000Z
 SUMMARY:76ers @ Pacers
@@ -256,33 +257,33 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910048@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261129T010000Z
 DTEND:20261129T033000Z
-SUMMARY:Pacers @ Bulls (CHSN)
+SUMMARY:Pacers @ Bulls (DAZN IND)
 LOCATION:United Center\, Chicago\, IL
-DESCRIPTION:Regular Season\nTV: CHSN\nVenue: United Center\, Chicago\, IL\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: DAZN IND\nVenue: United Center\, Chicago\, 
+ IL\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
+ hange.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910068@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261202T000000Z
 DTEND:20261202T023000Z
-SUMMARY:Pacers @ Cavaliers
+SUMMARY:Pacers @ Cavaliers (DAZN CLE / DAZN IND)
 LOCATION:Rocket Arena\, Cleveland\, OH
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Rocket Arena\, Cleveland\, OH\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: DAZN CLE / DAZN IND\nVenue: Rocket Arena\, 
+ Cleveland\, OH\nUnofficial calendar\; not affiliated with the NBA or ESPN.
+  Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910085@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261204T000000Z
 DTEND:20261204T023000Z
 SUMMARY:Pacers @ Hawks
@@ -295,33 +296,33 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910100@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261213T220000Z
 DTEND:20261214T003000Z
-SUMMARY:Pistons @ Pacers
+SUMMARY:Pistons @ Pacers (DAZN IND)
 LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Gainbridge Fieldhouse\, Indiana
- polis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
- es may change.
+DESCRIPTION:Regular Season\nTV: DAZN IND\nVenue: Gainbridge Fieldhouse\, In
+ dianapolis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN
+ . Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910120@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261217T000000Z
 DTEND:20261217T023000Z
-SUMMARY:Warriors @ Pacers (NBC Sports BA)
+SUMMARY:Warriors @ Pacers (DAZN IND)
 LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
-DESCRIPTION:Regular Season\nTV: NBC Sports BA\nVenue: Gainbridge Fieldhouse
- \, Indianapolis\, IN\nUnofficial calendar\; not affiliated with the NBA or
-  ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: DAZN IND\nVenue: Gainbridge Fieldhouse\, In
+ dianapolis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN
+ . Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910130@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261218T000000Z
 DTEND:20261218T023000Z
 SUMMARY:Trail Blazers @ Pacers (BlazerVision)
@@ -334,20 +335,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910158@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261221T030000Z
 DTEND:20261221T053000Z
-SUMMARY:Pacers @ Clippers
+SUMMARY:Pacers @ Clippers (ClipperVision / DAZN IND)
 LOCATION:Intuit Dome\, Inglewood\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Intuit Dome\, Inglewood\, CA\nU
- nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
- .
+DESCRIPTION:Regular Season\nTV: ClipperVision / DAZN IND\nVenue: Intuit Dom
+ e\, Inglewood\, CA\nUnofficial calendar\; not affiliated with the NBA or E
+ SPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910167@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261222T030000Z
 DTEND:20261222T053000Z
 SUMMARY:Pacers @ Lakers (NBA TV)
@@ -360,84 +361,85 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910183@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261224T020000Z
 DTEND:20261224T043000Z
-SUMMARY:Pacers @ Suns (Suns Live)
+SUMMARY:Pacers @ Suns (Suns Live / DAZN IND / Arizona's Family CBS5)
 LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
-DESCRIPTION:Regular Season\nTV: Suns Live\nVenue: Mortgage Matchup Center\,
-  Phoenix\, AZ\nUnofficial calendar\; not affiliated with the NBA or ESPN. 
- Times may change.
+DESCRIPTION:Regular Season\nTV: Suns Live / DAZN IND / Arizona's Family CBS
+ 5\nVenue: Mortgage Matchup Center\, Phoenix\, AZ\nUnofficial calendar\; no
+ t affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910189@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261226T220000Z
 DTEND:20261227T003000Z
-SUMMARY:Pacers @ Jazz (KJZZ-TV / Jazz+)
+SUMMARY:Pacers @ Jazz (KJZZ-TV / Jazz+ / DAZN IND)
 LOCATION:Delta Center\, Salt Lake City\, UT
-DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+\nVenue: Delta Center\, Salt
-  Lake City\, UT\nUnofficial calendar\; not affiliated with the NBA or ESPN
- . Times may change.
+DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+ / DAZN IND\nVenue: Delta Ce
+ nter\, Salt Lake City\, UT\nUnofficial calendar\; not affiliated with the 
+ NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910203@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261228T010000Z
 DTEND:20261228T033000Z
-SUMMARY:Pacers @ Nuggets
+SUMMARY:Pacers @ Nuggets (DAZN IND)
 LOCATION:Ball Arena\, Denver\, CO
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Ball Arena\, Denver\, CO\nUnoff
- icial calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: DAZN IND\nVenue: Ball Arena\, Denver\, CO\n
+ Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
+ e.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910213@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261230T000000Z
 DTEND:20261230T023000Z
-SUMMARY:Clippers @ Pacers (ClipperVision)
+SUMMARY:Clippers @ Pacers (ClipperVision / DAZN IND)
 LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
-DESCRIPTION:Regular Season\nTV: ClipperVision\nVenue: Gainbridge Fieldhouse
- \, Indianapolis\, IN\nUnofficial calendar\; not affiliated with the NBA or
-  ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: ClipperVision / DAZN IND\nVenue: Gainbridge
+  Fieldhouse\, Indianapolis\, IN\nUnofficial calendar\; not affiliated with
+  the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910229@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261231T200000Z
 DTEND:20261231T223000Z
-SUMMARY:Magic @ Pacers
+SUMMARY:Magic @ Pacers (DAZN IND)
 LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Gainbridge Fieldhouse\, Indiana
- polis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
- es may change.
+DESCRIPTION:Regular Season\nTV: DAZN IND\nVenue: Gainbridge Fieldhouse\, In
+ dianapolis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN
+ . Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910243@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270103T000000Z
 DTEND:20270103T023000Z
-SUMMARY:Timberwolves @ Pacers
+SUMMARY:Timberwolves @ Pacers (DAZN IND / DAZN MIN)
 LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Gainbridge Fieldhouse\, Indiana
- polis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
- es may change.
+DESCRIPTION:Regular Season\nTV: DAZN IND / DAZN MIN\nVenue: Gainbridge Fiel
+ dhouse\, Indianapolis\, IN\nUnofficial calendar\; not affiliated with the 
+ NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910259@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270105T000000Z
 DTEND:20270105T023000Z
 SUMMARY:Bulls @ Pacers (NBCSN)
@@ -450,124 +452,124 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910277@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270107T010000Z
 DTEND:20270107T033000Z
-SUMMARY:Pacers @ Spurs
+SUMMARY:Pacers @ Spurs (DAZN IND)
 LOCATION:Frost Bank Center\, San Antonio\, TX
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Frost Bank Center\, San Antonio
- \, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
- y change.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401910279@nba-calendars
-DTSTAMP:20261021T154330Z
-DTSTART:20270108T000000Z
-DTEND:20270108T023000Z
-SUMMARY:Pacers @ Hawks (Atlanta News First)
-LOCATION:State Farm Arena\, Atlanta\, GA
-DESCRIPTION:Regular Season\nTV: Atlanta News First\nVenue: State Farm Arena
- \, Atlanta\, GA\nUnofficial calendar\; not affiliated with the NBA or ESPN
- . Times may change.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401910301@nba-calendars
-DTSTAMP:20261021T154330Z
-DTSTART:20270110T000000Z
-DTEND:20270110T023000Z
-SUMMARY:Bucks @ Pacers (MyMi)
-LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
-DESCRIPTION:Regular Season\nTV: MyMi\nVenue: Gainbridge Fieldhouse\, Indian
- apolis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Ti
- mes may change.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401910313@nba-calendars
-DTSTAMP:20261021T154330Z
-DTSTART:20270112T000000Z
-DTEND:20270112T023000Z
-SUMMARY:Nets @ Pacers (DAZN (YES))
-LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
-DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: Gainbridge Fieldhouse\, 
- Indianapolis\, IN\nUnofficial calendar\; not affiliated with the NBA or ES
- PN. Times may change.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401910329@nba-calendars
-DTSTAMP:20261021T154330Z
-DTSTART:20270114T000000Z
-DTEND:20270114T023000Z
-SUMMARY:Bucks @ Pacers
-LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Gainbridge Fieldhouse\, Indiana
- polis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
+DESCRIPTION:Regular Season\nTV: DAZN IND\nVenue: Frost Bank Center\, San An
+ tonio\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
  es may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:espn-401910279@nba-calendars
+DTSTAMP:20261022T154318Z
+DTSTART:20270108T000000Z
+DTEND:20270108T023000Z
+SUMMARY:Pacers @ Hawks (DAZN IND)
+LOCATION:State Farm Arena\, Atlanta\, GA
+DESCRIPTION:Regular Season\nTV: DAZN IND\nVenue: State Farm Arena\, Atlanta
+ \, GA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
+ y change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910301@nba-calendars
+DTSTAMP:20261022T154318Z
+DTSTART:20270110T000000Z
+DTEND:20270110T023000Z
+SUMMARY:Bucks @ Pacers (MyMi / DAZN IND / Bucks App)
+LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
+DESCRIPTION:Regular Season\nTV: MyMi / DAZN IND / Bucks App\nVenue: Gainbri
+ dge Fieldhouse\, Indianapolis\, IN\nUnofficial calendar\; not affiliated w
+ ith the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910313@nba-calendars
+DTSTAMP:20261022T154318Z
+DTSTART:20270112T000000Z
+DTEND:20270112T023000Z
+SUMMARY:Nets @ Pacers (DAZN (YES) / DAZN IND)
+LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
+DESCRIPTION:Regular Season\nTV: DAZN (YES) / DAZN IND\nVenue: Gainbridge Fi
+ eldhouse\, Indianapolis\, IN\nUnofficial calendar\; not affiliated with th
+ e NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910329@nba-calendars
+DTSTAMP:20261022T154318Z
+DTSTART:20270114T000000Z
+DTEND:20270114T023000Z
+SUMMARY:Bucks @ Pacers (DAZN IND / MyMi / Bucks App)
+LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
+DESCRIPTION:Regular Season\nTV: DAZN IND / MyMi / Bucks App\nVenue: Gainbri
+ dge Fieldhouse\, Indianapolis\, IN\nUnofficial calendar\; not affiliated w
+ ith the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:espn-401910344@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270116T000000Z
 DTEND:20270116T023000Z
-SUMMARY:Suns @ Pacers (Suns Live)
+SUMMARY:Suns @ Pacers (Suns Live / Arizona's Family 3TV)
 LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
-DESCRIPTION:Regular Season\nTV: Suns Live\nVenue: Gainbridge Fieldhouse\, I
- ndianapolis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESP
- N. Times may change.
+DESCRIPTION:Regular Season\nTV: Suns Live / Arizona's Family 3TV\nVenue: Ga
+ inbridge Fieldhouse\, Indianapolis\, IN\nUnofficial calendar\; not affilia
+ ted with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910358@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270117T180000Z
 DTEND:20270117T203000Z
-SUMMARY:Pacers @ Wizards
+SUMMARY:Pacers @ Wizards (DAZN IND)
 LOCATION:Capital One Arena\, Washington\, DC
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Capital One Arena\, Washington\
- , DC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401910369@nba-calendars
-DTSTAMP:20261021T154330Z
-DTSTART:20270120T000000Z
-DTEND:20270120T023000Z
-SUMMARY:Pacers @ 76ers
-LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Xfinity Mobile Arena\, Philadel
- phia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
+DESCRIPTION:Regular Season\nTV: DAZN IND\nVenue: Capital One Arena\, Washin
+ gton\, DC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
  s may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:espn-401910369@nba-calendars
+DTSTAMP:20261022T154318Z
+DTSTART:20270120T000000Z
+DTEND:20270120T023000Z
+SUMMARY:Pacers @ 76ers (DAZN IND)
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Regular Season\nTV: DAZN IND\nVenue: Xfinity Mobile Arena\, Phi
+ ladelphia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN.
+  Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:espn-401910377@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270121T003000Z
 DTEND:20270121T030000Z
-SUMMARY:Pacers @ Celtics (NBC Sports BO)
+SUMMARY:Pacers @ Celtics (DAZN IND)
 LOCATION:TD Garden\, Boston\, MA
-DESCRIPTION:Regular Season\nTV: NBC Sports BO\nVenue: TD Garden\, Boston\, 
- MA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: DAZN IND\nVenue: TD Garden\, Boston\, MA\nU
+ nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
+ .
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910392@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270123T003000Z
 DTEND:20270123T030000Z
 SUMMARY:Pacers @ Pistons
@@ -580,36 +582,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910422@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270127T000000Z
 DTEND:20270127T023000Z
-SUMMARY:Bulls @ Pacers (CHSN)
-LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
-DESCRIPTION:Regular Season\nTV: CHSN\nVenue: Gainbridge Fieldhouse\, Indian
- apolis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Ti
- mes may change.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401910437@nba-calendars
-DTSTAMP:20261021T154330Z
-DTSTART:20270129T000000Z
-DTEND:20270129T023000Z
-SUMMARY:Lakers @ Pacers (Spectrum Sports Net / Spectrum Sports Net +)
-LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
-DESCRIPTION:Regular Season\nTV: Spectrum Sports Net / Spectrum Sports Net +
- \nVenue: Gainbridge Fieldhouse\, Indianapolis\, IN\nUnofficial calendar\; 
- not affiliated with the NBA or ESPN. Times may change.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401910454@nba-calendars
-DTSTAMP:20261021T154330Z
-DTSTART:20270131T000000Z
-DTEND:20270131T023000Z
-SUMMARY:Wizards @ Pacers
+SUMMARY:Bulls @ Pacers
 LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
 DESCRIPTION:Regular Season\nTV: TBD\nVenue: Gainbridge Fieldhouse\, Indiana
  polis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
@@ -618,8 +594,35 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:espn-401910437@nba-calendars
+DTSTAMP:20261022T154318Z
+DTSTART:20270129T000000Z
+DTEND:20270129T023000Z
+SUMMARY:Lakers @ Pacers (Spectrum Sports Net / Spectrum Sports Net + / DAZN
+  IND)
+LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
+DESCRIPTION:Regular Season\nTV: Spectrum Sports Net / Spectrum Sports Net +
+  / DAZN IND\nVenue: Gainbridge Fieldhouse\, Indianapolis\, IN\nUnofficial 
+ calendar\; not affiliated with the NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910454@nba-calendars
+DTSTAMP:20261022T154318Z
+DTSTART:20270131T000000Z
+DTEND:20270131T023000Z
+SUMMARY:Wizards @ Pacers (DAZN IND)
+LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
+DESCRIPTION:Regular Season\nTV: DAZN IND\nVenue: Gainbridge Fieldhouse\, In
+ dianapolis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN
+ . Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:espn-401910470@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270202T003000Z
 DTEND:20270202T030000Z
 SUMMARY:Heat @ Pacers (NBCSN)
@@ -632,20 +635,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910483@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270204T000000Z
 DTEND:20270204T023000Z
-SUMMARY:Hawks @ Pacers
+SUMMARY:Hawks @ Pacers (DAZN IND)
 LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Gainbridge Fieldhouse\, Indiana
- polis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
- es may change.
+DESCRIPTION:Regular Season\nTV: DAZN IND\nVenue: Gainbridge Fieldhouse\, In
+ dianapolis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN
+ . Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910503@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270206T023000Z
 DTEND:20270206T050000Z
 SUMMARY:Pacers @ Thunder (Prime Video)
@@ -658,59 +661,59 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910522@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270209T000000Z
 DTEND:20270209T023000Z
-SUMMARY:Pelicans @ Pacers
+SUMMARY:Pelicans @ Pacers (DAZN IND / GCSEN / Pelicans.com)
 LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Gainbridge Fieldhouse\, Indiana
- polis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
- es may change.
+DESCRIPTION:Regular Season\nTV: DAZN IND / GCSEN / Pelicans.com\nVenue: Gai
+ nbridge Fieldhouse\, Indianapolis\, IN\nUnofficial calendar\; not affiliat
+ ed with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910539@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270211T000000Z
 DTEND:20270211T023000Z
-SUMMARY:Cavaliers @ Pacers
+SUMMARY:Cavaliers @ Pacers (DAZN IND / DAZN CLE)
 LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Gainbridge Fieldhouse\, Indiana
- polis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
- es may change.
+DESCRIPTION:Regular Season\nTV: DAZN IND / DAZN CLE\nVenue: Gainbridge Fiel
+ dhouse\, Indianapolis\, IN\nUnofficial calendar\; not affiliated with the 
+ NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910546@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270212T000000Z
 DTEND:20270212T023000Z
-SUMMARY:Jazz @ Pacers
+SUMMARY:Jazz @ Pacers (KJZZ-TV / Jazz+)
 LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Gainbridge Fieldhouse\, Indiana
- polis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
- es may change.
+DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+\nVenue: Gainbridge Fieldhou
+ se\, Indianapolis\, IN\nUnofficial calendar\; not affiliated with the NBA 
+ or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910560@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270213T190000Z
 DTEND:20270213T213000Z
-SUMMARY:Kings @ Pacers
+SUMMARY:Kings @ Pacers (DAZN IND)
 LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Gainbridge Fieldhouse\, Indiana
- polis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
- es may change.
+DESCRIPTION:Regular Season\nTV: DAZN IND\nVenue: Gainbridge Fieldhouse\, In
+ dianapolis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN
+ . Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909480@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270216T003000Z
 DTEND:20270216T030000Z
 SUMMARY:Pacers @ Warriors (NBCSN)
@@ -723,72 +726,72 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910594@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270218T030000Z
 DTEND:20270218T053000Z
-SUMMARY:Pacers @ Kings
+SUMMARY:Pacers @ Kings (DAZN IND)
 LOCATION:Golden 1 Center\, Sacramento\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Golden 1 Center\, Sacramento\, 
- CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: DAZN IND\nVenue: Golden 1 Center\, Sacramen
+ to\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910599@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270219T030000Z
 DTEND:20270219T053000Z
-SUMMARY:Pacers @ Trail Blazers (KUNP 16 / BlazerVision)
+SUMMARY:Pacers @ Trail Blazers (KUNP 16 / BlazerVision / DAZN IND)
 LOCATION:Moda Center\, Portland\, OR
-DESCRIPTION:Regular Season\nTV: KUNP 16 / BlazerVision\nVenue: Moda Center\
- , Portland\, OR\nUnofficial calendar\; not affiliated with the NBA or ESPN
- . Times may change.
+DESCRIPTION:Regular Season\nTV: KUNP 16 / BlazerVision / DAZN IND\nVenue: M
+ oda Center\, Portland\, OR\nUnofficial calendar\; not affiliated with the 
+ NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910612@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270227T010000Z
 DTEND:20270227T033000Z
-SUMMARY:Pacers @ Timberwolves
+SUMMARY:Pacers @ Timberwolves (DAZN MIN)
 LOCATION:Target Center\, Minneapolis\, MN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Target Center\, Minneapolis\, M
- N\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
- ange.
+DESCRIPTION:Regular Season\nTV: DAZN MIN\nVenue: Target Center\, Minneapoli
+ s\, MN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910625@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270228T210000Z
 DTEND:20270228T233000Z
-SUMMARY:Raptors @ Pacers
+SUMMARY:Raptors @ Pacers (DAZN IND)
 LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Gainbridge Fieldhouse\, Indiana
- polis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
- es may change.
+DESCRIPTION:Regular Season\nTV: DAZN IND\nVenue: Gainbridge Fieldhouse\, In
+ dianapolis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN
+ . Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910638@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270303T000000Z
 DTEND:20270303T023000Z
-SUMMARY:Celtics @ Pacers
+SUMMARY:Celtics @ Pacers (DAZN IND)
 LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Gainbridge Fieldhouse\, Indiana
- polis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
- es may change.
+DESCRIPTION:Regular Season\nTV: DAZN IND\nVenue: Gainbridge Fieldhouse\, In
+ dianapolis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN
+ . Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910655@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270305T000000Z
 DTEND:20270305T023000Z
 SUMMARY:Pacers @ Magic
@@ -800,7 +803,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910668@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270306T200000Z
 DTEND:20270306T223000Z
 SUMMARY:Pacers @ Heat (Prime Video)
@@ -813,7 +816,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910681@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270309T000000Z
 DTEND:20270309T023000Z
 SUMMARY:Hornets @ Pacers (NBCSN)
@@ -826,20 +829,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910704@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270312T000000Z
 DTEND:20270312T023000Z
-SUMMARY:Pacers @ Hornets
+SUMMARY:Pacers @ Hornets (DAZN CHA)
 LOCATION:Spectrum Center\, Charlotte\, NC
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Spectrum Center\, Charlotte\, N
- C\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
- ange.
+DESCRIPTION:Regular Season\nTV: DAZN CHA\nVenue: Spectrum Center\, Charlott
+ e\, NC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910721@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270313T223000Z
 DTEND:20270314T010000Z
 SUMMARY:Pacers @ Rockets (Prime Video)
@@ -852,20 +855,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910735@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270315T233000Z
 DTEND:20270316T020000Z
-SUMMARY:Pacers @ Nets (DAZN (YES))
+SUMMARY:Pacers @ Nets (DAZN (YES) / DAZN IND)
 LOCATION:Barclays Center\, Brooklyn\, NY
-DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: Barclays Center\, Brookl
- yn\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: DAZN (YES) / DAZN IND\nVenue: Barclays Cent
+ er\, Brooklyn\, NY\nUnofficial calendar\; not affiliated with the NBA or E
+ SPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910741@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270317T000000Z
 DTEND:20270317T023000Z
 SUMMARY:Pistons @ Pacers (NBC)
@@ -878,7 +881,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910757@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270318T230000Z
 DTEND:20270319T013000Z
 SUMMARY:Raptors @ Pacers
@@ -891,20 +894,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910777@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270321T000000Z
 DTEND:20270321T023000Z
-SUMMARY:Pacers @ Bucks (MyMi)
+SUMMARY:Pacers @ Bucks (MyMi / Bucks App / DAZN IND)
 LOCATION:Fiserv Forum\, Milwaukee\, WI
-DESCRIPTION:Regular Season\nTV: MyMi\nVenue: Fiserv Forum\, Milwaukee\, WI\
- nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may chan
- ge.
+DESCRIPTION:Regular Season\nTV: MyMi / Bucks App / DAZN IND\nVenue: Fiserv 
+ Forum\, Milwaukee\, WI\nUnofficial calendar\; not affiliated with the NBA 
+ or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910787@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270322T230000Z
 DTEND:20270323T013000Z
 SUMMARY:Pacers @ Magic (NBCSN)
@@ -916,131 +919,131 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910801@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270324T230000Z
 DTEND:20270325T013000Z
-SUMMARY:Grizzlies @ Pacers
+SUMMARY:Grizzlies @ Pacers (DAZN IND / DAZN MEM)
 LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Gainbridge Fieldhouse\, Indiana
- polis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
- es may change.
+DESCRIPTION:Regular Season\nTV: DAZN IND / DAZN MEM\nVenue: Gainbridge Fiel
+ dhouse\, Indianapolis\, IN\nUnofficial calendar\; not affiliated with the 
+ NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910813@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270325T230000Z
 DTEND:20270326T013000Z
-SUMMARY:Spurs @ Pacers
+SUMMARY:Spurs @ Pacers (DAZN SAS)
 LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Gainbridge Fieldhouse\, Indiana
- polis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
- es may change.
+DESCRIPTION:Regular Season\nTV: DAZN SAS\nVenue: Gainbridge Fieldhouse\, In
+ dianapolis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN
+ . Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910844@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270330T000000Z
 DTEND:20270330T023000Z
-SUMMARY:Pacers @ Bulls (CHSN)
+SUMMARY:Pacers @ Bulls (DAZN IND)
 LOCATION:United Center\, Chicago\, IL
-DESCRIPTION:Regular Season\nTV: CHSN\nVenue: United Center\, Chicago\, IL\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: DAZN IND\nVenue: United Center\, Chicago\, 
+ IL\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
+ hange.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910849@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270331T000000Z
 DTEND:20270331T023000Z
-SUMMARY:Celtics @ Pacers (NBC Sports BO)
+SUMMARY:Celtics @ Pacers (DAZN IND)
 LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
-DESCRIPTION:Regular Season\nTV: NBC Sports BO\nVenue: Gainbridge Fieldhouse
- \, Indianapolis\, IN\nUnofficial calendar\; not affiliated with the NBA or
-  ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: DAZN IND\nVenue: Gainbridge Fieldhouse\, In
+ dianapolis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN
+ . Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910865@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270401T230000Z
 DTEND:20270402T013000Z
-SUMMARY:Magic @ Pacers
+SUMMARY:Magic @ Pacers (DAZN IND)
 LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Gainbridge Fieldhouse\, Indiana
- polis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
- es may change.
+DESCRIPTION:Regular Season\nTV: DAZN IND\nVenue: Gainbridge Fieldhouse\, In
+ dianapolis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN
+ . Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910887@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270404T193000Z
 DTEND:20270404T220000Z
-SUMMARY:Pacers @ Raptors
+SUMMARY:Pacers @ Raptors (DAZN IND)
 LOCATION:Scotiabank Arena\, Toronto\, ON
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Scotiabank Arena\, Toronto\, ON
- \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
- nge.
+DESCRIPTION:Regular Season\nTV: DAZN IND\nVenue: Scotiabank Arena\, Toronto
+ \, ON\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
+ y change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910898@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270406T230000Z
 DTEND:20270407T013000Z
-SUMMARY:Pacers @ Hornets
+SUMMARY:Pacers @ Hornets (DAZN CHA / DAZN IND)
 LOCATION:Spectrum Center\, Charlotte\, NC
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Spectrum Center\, Charlotte\, N
- C\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
- ange.
+DESCRIPTION:Regular Season\nTV: DAZN CHA / DAZN IND\nVenue: Spectrum Center
+ \, Charlotte\, NC\nUnofficial calendar\; not affiliated with the NBA or ES
+ PN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910909@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270407T230000Z
 DTEND:20270408T013000Z
-SUMMARY:Pacers @ Pistons
+SUMMARY:Pacers @ Pistons (DAZN IND)
 LOCATION:Little Caesars Arena\, Detroit\, MI
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Little Caesars Arena\, Detroit\
- , MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:Regular Season\nTV: DAZN IND\nVenue: Little Caesars Arena\, Det
+ roit\, MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
+ s may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910925@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270409T230000Z
 DTEND:20270410T013000Z
-SUMMARY:Cavaliers @ Pacers
+SUMMARY:Cavaliers @ Pacers (DAZN CLE)
 LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Gainbridge Fieldhouse\, Indiana
- polis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
- es may change.
+DESCRIPTION:Regular Season\nTV: DAZN CLE\nVenue: Gainbridge Fieldhouse\, In
+ dianapolis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN
+ . Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910941@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270411T220000Z
 DTEND:20270412T003000Z
-SUMMARY:Pacers @ Knicks
+SUMMARY:Pacers @ Knicks (DAZN IND)
 LOCATION:Madison Square Garden\, New York\, NY
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Madison Square Garden\, New Yor
- k\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
- ay change.
+DESCRIPTION:Regular Season\nTV: DAZN IND\nVenue: Madison Square Garden\, Ne
+ w York\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Ti
+ mes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT

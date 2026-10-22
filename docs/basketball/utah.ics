@@ -10,19 +10,20 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:espn-401909838@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261022T000000Z
 DTEND:20261022T023000Z
-SUMMARY:Jazz @ Grizzlies
+SUMMARY:Jazz @ Grizzlies (DAZN MEM / KJZZ-TV / Jazz+)
 LOCATION:FedExForum\, Memphis\, TN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: FedExForum\, Memphis\, TN\nUnof
- ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: DAZN MEM / KJZZ-TV / Jazz+\nVenue: FedExFor
+ um\, Memphis\, TN\nFinal: Jazz 103\, Grizzlies 123\nUnofficial calendar\; 
+ not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909849@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261024T013000Z
 DTEND:20261024T040000Z
 SUMMARY:Pelicans @ Jazz (KJZZ-TV / Jazz+ / GCSEN / Pelicans.com)
@@ -35,111 +36,112 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909861@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261025T210000Z
 DTEND:20261025T233000Z
-SUMMARY:Lakers @ Jazz (Spectrum Sports Net / Spectrum Sports Net +)
+SUMMARY:Lakers @ Jazz (Spectrum Sports Net / Spectrum Sports Net + / KJZZ-T
+ V / Jazz+)
 LOCATION:Delta Center\, Salt Lake City\, UT
 DESCRIPTION:Regular Season\nTV: Spectrum Sports Net / Spectrum Sports Net +
- \nVenue: Delta Center\, Salt Lake City\, UT\nUnofficial calendar\; not aff
- iliated with the NBA or ESPN. Times may change.
+  / KJZZ-TV / Jazz+\nVenue: Delta Center\, Salt Lake City\, UT\nUnofficial 
+ calendar\; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909875@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261027T010000Z
 DTEND:20261027T033000Z
-SUMMARY:Grizzlies @ Jazz
+SUMMARY:Grizzlies @ Jazz (KJZZ-TV / Jazz+ / DAZN MEM)
 LOCATION:Delta Center\, Salt Lake City\, UT
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Delta Center\, Salt Lake City\,
-  UT\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+ / DAZN MEM\nVenue: Delta Ce
+ nter\, Salt Lake City\, UT\nUnofficial calendar\; not affiliated with the 
+ NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909890@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261029T010000Z
 DTEND:20261029T033000Z
-SUMMARY:Spurs @ Jazz
+SUMMARY:Spurs @ Jazz (KJZZ-TV / Jazz+ / DAZN SAS)
 LOCATION:Delta Center\, Salt Lake City\, UT
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Delta Center\, Salt Lake City\,
-  UT\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+ / DAZN SAS\nVenue: Delta Ce
+ nter\, Salt Lake City\, UT\nUnofficial calendar\; not affiliated with the 
+ NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909896@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261031T190000Z
 DTEND:20261031T213000Z
-SUMMARY:Trail Blazers @ Jazz (KUNP 16 / BlazerVision)
+SUMMARY:Trail Blazers @ Jazz (KUNP 16 / BlazerVision / KJZZ-TV / Jazz+)
 LOCATION:Delta Center\, Salt Lake City\, UT
-DESCRIPTION:Regular Season\nTV: KUNP 16 / BlazerVision\nVenue: Delta Center
- \, Salt Lake City\, UT\nUnofficial calendar\; not affiliated with the NBA 
- or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: KUNP 16 / BlazerVision / KJZZ-TV / Jazz+\nV
+ enue: Delta Center\, Salt Lake City\, UT\nUnofficial calendar\; not affili
+ ated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909917@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261103T013000Z
 DTEND:20261103T040000Z
-SUMMARY:Jazz @ Spurs
+SUMMARY:Jazz @ Spurs (DAZN SAS / KJZZ-TV / Jazz+)
 LOCATION:Frost Bank Center\, San Antonio\, TX
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Frost Bank Center\, San Antonio
- \, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
- y change.
+DESCRIPTION:Regular Season\nTV: DAZN SAS / KJZZ-TV / Jazz+\nVenue: Frost Ba
+ nk Center\, San Antonio\, TX\nUnofficial calendar\; not affiliated with th
+ e NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909928@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261105T010000Z
 DTEND:20261105T033000Z
-SUMMARY:Jazz @ Pelicans
+SUMMARY:Jazz @ Pelicans (GCSEN / Pelicans.com / KJZZ-TV / Jazz+)
 LOCATION:Smoothie King Center\, New Orleans\, LA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Smoothie King Center\, New Orle
- ans\, LA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
-  may change.
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com / KJZZ-TV / Jazz+\nVen
+ ue: Smoothie King Center\, New Orleans\, LA\nUnofficial calendar\; not aff
+ iliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909290@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261107T010000Z
 DTEND:20261107T033000Z
-SUMMARY:Jazz @ Mavericks
+SUMMARY:Jazz @ Mavericks (KFAA-TV / MavsTV / KJZZ-TV / Jazz+)
 LOCATION:American Airlines Center\, Dallas\, TX
-DESCRIPTION:NBA Cup - Group Play\nTV: TBD\nVenue: American Airlines Center\
- , Dallas\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. 
- Times may change.
+DESCRIPTION:NBA Cup - Group Play\nTV: KFAA-TV / MavsTV / KJZZ-TV / Jazz+\nV
+ enue: American Airlines Center\, Dallas\, TX\nUnofficial calendar\; not af
+ filiated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909947@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261109T000000Z
 DTEND:20261109T023000Z
-SUMMARY:Jazz @ Timberwolves
+SUMMARY:Jazz @ Timberwolves (DAZN MIN / KJZZ-TV / Jazz+)
 LOCATION:Target Center\, Minneapolis\, MN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Target Center\, Minneapolis\, M
- N\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
- ange.
+DESCRIPTION:Regular Season\nTV: DAZN MIN / KJZZ-TV / Jazz+\nVenue: Target C
+ enter\, Minneapolis\, MN\nUnofficial calendar\; not affiliated with the NB
+ A or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909963@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261111T020000Z
 DTEND:20261111T043000Z
 SUMMARY:Heat @ Jazz (KJZZ-TV / Jazz+)
@@ -152,46 +154,46 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909973@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261112T020000Z
 DTEND:20261112T043000Z
-SUMMARY:Magic @ Jazz
+SUMMARY:Magic @ Jazz (KJZZ-TV / Jazz+)
 LOCATION:Delta Center\, Salt Lake City\, UT
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Delta Center\, Salt Lake City\,
-  UT\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+\nVenue: Delta Center\, Salt
+  Lake City\, UT\nUnofficial calendar\; not affiliated with the NBA or ESPN
+ . Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909301@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261114T013000Z
 DTEND:20261114T040000Z
-SUMMARY:Jazz @ Rockets
+SUMMARY:Jazz @ Rockets (KJZZ-TV / Jazz+)
 LOCATION:Toyota Center (Houston)\, Houston\, TX
-DESCRIPTION:NBA Cup - Group Play\nTV: TBD\nVenue: Toyota Center (Houston)\,
-  Houston\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. 
- Times may change.
+DESCRIPTION:NBA Cup - Group Play\nTV: KJZZ-TV / Jazz+\nVenue: Toyota Center
+  (Houston)\, Houston\, TX\nUnofficial calendar\; not affiliated with the N
+ BA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909988@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261115T220000Z
 DTEND:20261116T003000Z
-SUMMARY:Spurs @ Jazz
+SUMMARY:Spurs @ Jazz (KJZZ-TV / Jazz+ / DAZN SAS)
 LOCATION:Delta Center\, Salt Lake City\, UT
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Delta Center\, Salt Lake City\,
-  UT\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+ / DAZN SAS\nVenue: Delta Ce
+ nter\, Salt Lake City\, UT\nUnofficial calendar\; not affiliated with the 
+ NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910006@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261118T040000Z
 DTEND:20261118T063000Z
 SUMMARY:Jazz @ Clippers (NBC)
@@ -204,46 +206,47 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910017@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261119T030000Z
 DTEND:20261119T053000Z
-SUMMARY:Jazz @ Lakers (Spectrum Sports Net)
+SUMMARY:Jazz @ Lakers (Spectrum Sports Net / Spectrum Sports Net + / KJZZ-T
+ V / Jazz+)
 LOCATION:crypto.com Arena\, Los Angeles\, CA
-DESCRIPTION:Regular Season\nTV: Spectrum Sports Net\nVenue: crypto.com Aren
- a\, Los Angeles\, CA\nUnofficial calendar\; not affiliated with the NBA or
-  ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: Spectrum Sports Net / Spectrum Sports Net +
+  / KJZZ-TV / Jazz+\nVenue: crypto.com Arena\, Los Angeles\, CA\nUnofficial
+  calendar\; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909311@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261121T023000Z
 DTEND:20261121T050000Z
-SUMMARY:Suns @ Jazz (Suns Live)
+SUMMARY:Suns @ Jazz (Suns Live / KJZZ-TV / Jazz+ / Arizona's Family 3TV)
 LOCATION:Delta Center\, Salt Lake City\, UT
-DESCRIPTION:NBA Cup - Group Play\nTV: Suns Live\nVenue: Delta Center\, Salt
-  Lake City\, UT\nUnofficial calendar\; not affiliated with the NBA or ESPN
- . Times may change.
+DESCRIPTION:NBA Cup - Group Play\nTV: Suns Live / KJZZ-TV / Jazz+ / Arizona
+ 's Family 3TV\nVenue: Delta Center\, Salt Lake City\, UT\nUnofficial calen
+ dar\; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910033@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261123T000000Z
 DTEND:20261123T023000Z
-SUMMARY:Mavericks @ Jazz
+SUMMARY:Mavericks @ Jazz (KJZZ-TV / Jazz+ / KFAA-TV / MavsTV)
 LOCATION:Delta Center\, Salt Lake City\, UT
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Delta Center\, Salt Lake City\,
-  UT\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+ / KFAA-TV / MavsTV\nVenue: 
+ Delta Center\, Salt Lake City\, UT\nUnofficial calendar\; not affiliated w
+ ith the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910044@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261124T030000Z
 DTEND:20261124T053000Z
 SUMMARY:Jazz @ Lakers (NBA TV)
@@ -256,20 +259,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909334@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261128T023000Z
 DTEND:20261128T050000Z
-SUMMARY:Nuggets @ Jazz
+SUMMARY:Nuggets @ Jazz (KJZZ-TV / Jazz+)
 LOCATION:Delta Center\, Salt Lake City\, UT
-DESCRIPTION:NBA Cup - Group Play\nTV: TBD\nVenue: Delta Center\, Salt Lake 
- City\, UT\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
- s may change.
+DESCRIPTION:NBA Cup - Group Play\nTV: KJZZ-TV / Jazz+\nVenue: Delta Center\
+ , Salt Lake City\, UT\nUnofficial calendar\; not affiliated with the NBA o
+ r ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910053@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261129T220000Z
 DTEND:20261130T003000Z
 SUMMARY:Suns @ Jazz (Suns Live / KJZZ-TV / Jazz+ / Arizona's Family 3TV)
@@ -282,7 +285,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910075@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261202T040000Z
 DTEND:20261202T063000Z
 SUMMARY:Jazz @ Warriors (NBC)
@@ -295,46 +298,46 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910089@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261204T030000Z
 DTEND:20261204T053000Z
-SUMMARY:Jazz @ Trail Blazers (KUNP 16 / BlazerVision)
+SUMMARY:Jazz @ Trail Blazers (KUNP 16 / BlazerVision / KJZZ-TV / Jazz+)
 LOCATION:Moda Center\, Portland\, OR
-DESCRIPTION:Regular Season\nTV: KUNP 16 / BlazerVision\nVenue: Moda Center\
- , Portland\, OR\nUnofficial calendar\; not affiliated with the NBA or ESPN
- . Times may change.
+DESCRIPTION:Regular Season\nTV: KUNP 16 / BlazerVision / KJZZ-TV / Jazz+\nV
+ enue: Moda Center\, Portland\, OR\nUnofficial calendar\; not affiliated wi
+ th the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910096@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261213T023000Z
 DTEND:20261213T050000Z
-SUMMARY:Nuggets @ Jazz
+SUMMARY:Nuggets @ Jazz (KJZZ-TV / Jazz+)
 LOCATION:Delta Center\, Salt Lake City\, UT
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Delta Center\, Salt Lake City\,
-  UT\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+\nVenue: Delta Center\, Salt
+  Lake City\, UT\nUnofficial calendar\; not affiliated with the NBA or ESPN
+ . Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910113@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261215T020000Z
 DTEND:20261215T043000Z
-SUMMARY:Timberwolves @ Jazz
+SUMMARY:Timberwolves @ Jazz (KJZZ-TV / Jazz+ / DAZN MIN)
 LOCATION:Delta Center\, Salt Lake City\, UT
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Delta Center\, Salt Lake City\,
-  UT\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+ / DAZN MIN\nVenue: Delta Ce
+ nter\, Salt Lake City\, UT\nUnofficial calendar\; not affiliated with the 
+ NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910124@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261217T010000Z
 DTEND:20261217T033000Z
 SUMMARY:Jazz @ Bulls (KJZZ-TV / Jazz+)
@@ -347,49 +350,75 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910136@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261219T003000Z
 DTEND:20261219T030000Z
-SUMMARY:Jazz @ Celtics (NBC Sports BO)
+SUMMARY:Jazz @ Celtics (KJZZ-TV / Jazz+)
 LOCATION:TD Garden\, Boston\, MA
-DESCRIPTION:Regular Season\nTV: NBC Sports BO\nVenue: TD Garden\, Boston\, 
- MA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+\nVenue: TD Garden\, Boston\
+ , MA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910152@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261220T230000Z
 DTEND:20261221T013000Z
-SUMMARY:Jazz @ Cavaliers
+SUMMARY:Jazz @ Cavaliers (DAZN CLE / KJZZ-TV / Jazz+)
 LOCATION:Rocket Arena\, Cleveland\, OH
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Rocket Arena\, Cleveland\, OH\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: DAZN CLE / KJZZ-TV / Jazz+\nVenue: Rocket A
+ rena\, Cleveland\, OH\nUnofficial calendar\; not affiliated with the NBA o
+ r ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910178@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261224T003000Z
 DTEND:20261224T030000Z
-SUMMARY:Jazz @ Knicks
+SUMMARY:Jazz @ Knicks (KJZZ-TV / Jazz+)
 LOCATION:Madison Square Garden\, New York\, NY
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Madison Square Garden\, New Yor
- k\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
- ay change.
+DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+\nVenue: Madison Square Gard
+ en\, New York\, NY\nUnofficial calendar\; not affiliated with the NBA or E
+ SPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910189@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261226T220000Z
 DTEND:20261227T003000Z
-SUMMARY:Pacers @ Jazz (KJZZ-TV / Jazz+)
+SUMMARY:Pacers @ Jazz (KJZZ-TV / Jazz+ / DAZN IND)
+LOCATION:Delta Center\, Salt Lake City\, UT
+DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+ / DAZN IND\nVenue: Delta Ce
+ nter\, Salt Lake City\, UT\nUnofficial calendar\; not affiliated with the 
+ NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910200@nba-calendars
+DTSTAMP:20261022T154318Z
+DTSTART:20261227T230000Z
+DTEND:20261228T013000Z
+SUMMARY:Jazz @ Kings (KJZZ-TV / Jazz+)
+LOCATION:Golden 1 Center\, Sacramento\, CA
+DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+\nVenue: Golden 1 Center\, S
+ acramento\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN.
+  Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910224@nba-calendars
+DTSTAMP:20261022T154318Z
+DTSTART:20261231T020000Z
+DTEND:20261231T043000Z
+SUMMARY:Knicks @ Jazz (KJZZ-TV / Jazz+)
 LOCATION:Delta Center\, Salt Lake City\, UT
 DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+\nVenue: Delta Center\, Salt
   Lake City\, UT\nUnofficial calendar\; not affiliated with the NBA or ESPN
@@ -398,73 +427,47 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:espn-401910200@nba-calendars
-DTSTAMP:20261021T154330Z
-DTSTART:20261227T230000Z
-DTEND:20261228T013000Z
-SUMMARY:Jazz @ Kings
-LOCATION:Golden 1 Center\, Sacramento\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Golden 1 Center\, Sacramento\, 
- CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401910224@nba-calendars
-DTSTAMP:20261021T154330Z
-DTSTART:20261231T020000Z
-DTEND:20261231T043000Z
-SUMMARY:Knicks @ Jazz
-LOCATION:Delta Center\, Salt Lake City\, UT
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Delta Center\, Salt Lake City\,
-  UT\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:espn-401910240@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270102T023000Z
 DTEND:20270102T050000Z
-SUMMARY:Celtics @ Jazz
+SUMMARY:Celtics @ Jazz (KJZZ-TV / Jazz+)
 LOCATION:Delta Center\, Salt Lake City\, UT
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Delta Center\, Salt Lake City\,
-  UT\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+\nVenue: Delta Center\, Salt
+  Lake City\, UT\nUnofficial calendar\; not affiliated with the NBA or ESPN
+ . Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910247@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270103T010000Z
 DTEND:20270103T033000Z
-SUMMARY:Jazz @ Thunder (KSBI)
+SUMMARY:Jazz @ Thunder (KSBI / Thunder App / KJZZ-TV / Jazz+)
 LOCATION:Paycom Center\, Oklahoma City\, OK
-DESCRIPTION:Regular Season\nTV: KSBI\nVenue: Paycom Center\, Oklahoma City\
- , OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:Regular Season\nTV: KSBI / Thunder App / KJZZ-TV / Jazz+\nVenue
+ : Paycom Center\, Oklahoma City\, OK\nUnofficial calendar\; not affiliated
+  with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910263@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270105T020000Z
 DTEND:20270105T043000Z
-SUMMARY:Nets @ Jazz (DAZN (YES))
+SUMMARY:Nets @ Jazz (DAZN (YES) / KJZZ-TV / Jazz+)
 LOCATION:Delta Center\, Salt Lake City\, UT
-DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: Delta Center\, Salt Lake
-  City\, UT\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
- es may change.
+DESCRIPTION:Regular Season\nTV: DAZN (YES) / KJZZ-TV / Jazz+\nVenue: Delta 
+ Center\, Salt Lake City\, UT\nUnofficial calendar\; not affiliated with th
+ e NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910274@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270107T003000Z
 DTEND:20270107T030000Z
 SUMMARY:Jazz @ Nets (DAZN (YES) / KJZZ-TV / Jazz+)
@@ -477,33 +480,33 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910293@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270109T003000Z
 DTEND:20270109T030000Z
-SUMMARY:Jazz @ Raptors
+SUMMARY:Jazz @ Raptors (KJZZ-TV / Jazz+)
 LOCATION:Scotiabank Arena\, Toronto\, ON
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Scotiabank Arena\, Toronto\, ON
- \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
- nge.
+DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+\nVenue: Scotiabank Arena\, 
+ Toronto\, ON\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
+ imes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910306@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270110T230000Z
 DTEND:20270111T013000Z
-SUMMARY:Jazz @ Pistons
+SUMMARY:Jazz @ Pistons (KJZZ-TV / Jazz+)
 LOCATION:Little Caesars Arena\, Detroit\, MI
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Little Caesars Arena\, Detroit\
- , MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+\nVenue: Little Caesars Aren
+ a\, Detroit\, MI\nUnofficial calendar\; not affiliated with the NBA or ESP
+ N. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910324@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270113T020000Z
 DTEND:20270113T043000Z
 SUMMARY:Bulls @ Jazz (KJZZ-TV / Jazz+)
@@ -516,20 +519,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910340@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270115T020000Z
 DTEND:20270115T043000Z
-SUMMARY:Hornets @ Jazz (KJZZ-TV / Jazz+)
+SUMMARY:Hornets @ Jazz (KJZZ-TV / Jazz+ / DAZN CHA)
 LOCATION:Delta Center\, Salt Lake City\, UT
-DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+\nVenue: Delta Center\, Salt
-  Lake City\, UT\nUnofficial calendar\; not affiliated with the NBA or ESPN
- . Times may change.
+DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+ / DAZN CHA\nVenue: Delta Ce
+ nter\, Salt Lake City\, UT\nUnofficial calendar\; not affiliated with the 
+ NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910347@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270116T010000Z
 DTEND:20270116T033000Z
 SUMMARY:Jazz @ Thunder (NBA TV)
@@ -542,20 +545,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910361@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270117T220000Z
 DTEND:20270118T003000Z
-SUMMARY:Kings @ Jazz (NBC Sports CA)
+SUMMARY:Kings @ Jazz (KJZZ-TV / Jazz+)
 LOCATION:Delta Center\, Salt Lake City\, UT
-DESCRIPTION:Regular Season\nTV: NBC Sports CA\nVenue: Delta Center\, Salt L
- ake City\, UT\nUnofficial calendar\; not affiliated with the NBA or ESPN. 
- Times may change.
+DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+\nVenue: Delta Center\, Salt
+  Lake City\, UT\nUnofficial calendar\; not affiliated with the NBA or ESPN
+ . Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910373@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270120T030000Z
 DTEND:20270120T053000Z
 SUMMARY:Jazz @ Nuggets (NBC)
@@ -567,59 +570,59 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910382@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270121T020000Z
 DTEND:20270121T043000Z
-SUMMARY:Clippers @ Jazz
+SUMMARY:Clippers @ Jazz (KJZZ-TV / Jazz+ / ClipperVision)
 LOCATION:Delta Center\, Salt Lake City\, UT
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Delta Center\, Salt Lake City\,
-  UT\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+ / ClipperVision\nVenue: Del
+ ta Center\, Salt Lake City\, UT\nUnofficial calendar\; not affiliated with
+  the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910395@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270123T020000Z
 DTEND:20270123T043000Z
-SUMMARY:Jazz @ Suns (Suns Live)
+SUMMARY:Jazz @ Suns (Suns Live / Arizona's Family 3TV / KJZZ-TV / Jazz+)
 LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
-DESCRIPTION:Regular Season\nTV: Suns Live\nVenue: Mortgage Matchup Center\,
-  Phoenix\, AZ\nUnofficial calendar\; not affiliated with the NBA or ESPN. 
- Times may change.
+DESCRIPTION:Regular Season\nTV: Suns Live / Arizona's Family 3TV / KJZZ-TV 
+ / Jazz+\nVenue: Mortgage Matchup Center\, Phoenix\, AZ\nUnofficial calenda
+ r\; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910407@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270124T210000Z
 DTEND:20270124T233000Z
-SUMMARY:Jazz @ Suns (Suns Live)
+SUMMARY:Jazz @ Suns (Suns Live / Arizona's Family 3TV / KJZZ-TV / Jazz+)
 LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
-DESCRIPTION:Regular Season\nTV: Suns Live\nVenue: Mortgage Matchup Center\,
-  Phoenix\, AZ\nUnofficial calendar\; not affiliated with the NBA or ESPN. 
- Times may change.
+DESCRIPTION:Regular Season\nTV: Suns Live / Arizona's Family 3TV / KJZZ-TV 
+ / Jazz+\nVenue: Mortgage Matchup Center\, Phoenix\, AZ\nUnofficial calenda
+ r\; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910425@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270127T020000Z
 DTEND:20270127T043000Z
-SUMMARY:Bucks @ Jazz
+SUMMARY:Bucks @ Jazz (KJZZ-TV / Jazz+ / MyMi / Bucks App)
 LOCATION:Delta Center\, Salt Lake City\, UT
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Delta Center\, Salt Lake City\,
-  UT\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+ / MyMi / Bucks App\nVenue: 
+ Delta Center\, Salt Lake City\, UT\nUnofficial calendar\; not affiliated w
+ ith the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910443@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270129T020000Z
 DTEND:20270129T043000Z
 SUMMARY:Warriors @ Jazz (KJZZ-TV / Jazz+)
@@ -632,33 +635,33 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910458@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270131T023000Z
 DTEND:20270131T050000Z
-SUMMARY:Grizzlies @ Jazz
+SUMMARY:Grizzlies @ Jazz (KJZZ-TV / Jazz+ / DAZN MEM)
 LOCATION:Delta Center\, Salt Lake City\, UT
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Delta Center\, Salt Lake City\,
-  UT\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+ / DAZN MEM\nVenue: Delta Ce
+ nter\, Salt Lake City\, UT\nUnofficial calendar\; not affiliated with the 
+ NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910472@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270202T020000Z
 DTEND:20270202T043000Z
-SUMMARY:Cavaliers @ Jazz
+SUMMARY:Cavaliers @ Jazz (KJZZ-TV / Jazz+ / DAZN CLE)
 LOCATION:Delta Center\, Salt Lake City\, UT
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Delta Center\, Salt Lake City\,
-  UT\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+ / DAZN CLE\nVenue: Delta Ce
+ nter\, Salt Lake City\, UT\nUnofficial calendar\; not affiliated with the 
+ NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910486@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270204T023000Z
 DTEND:20270204T050000Z
 SUMMARY:Jazz @ Rockets (ESPN)
@@ -671,33 +674,33 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910504@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270206T200000Z
 DTEND:20270206T223000Z
-SUMMARY:Jazz @ Mavericks
+SUMMARY:Jazz @ Mavericks (KFAA-TV / MavsTV / KJZZ-TV / Jazz+)
 LOCATION:American Airlines Center\, Dallas\, TX
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: American Airlines Center\, Dall
- as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: KFAA-TV / MavsTV / KJZZ-TV / Jazz+\nVenue: 
+ American Airlines Center\, Dallas\, TX\nUnofficial calendar\; not affiliat
+ ed with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910515@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270207T203000Z
 DTEND:20270207T230000Z
-SUMMARY:Jazz @ Timberwolves
+SUMMARY:Jazz @ Timberwolves (KJZZ-TV / Jazz+)
 LOCATION:Target Center\, Minneapolis\, MN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Target Center\, Minneapolis\, M
- N\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
- ange.
+DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+\nVenue: Target Center\, Min
+ neapolis\, MN\nUnofficial calendar\; not affiliated with the NBA or ESPN. 
+ Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910536@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270210T030000Z
 DTEND:20270210T053000Z
 SUMMARY:Rockets @ Jazz (NBC)
@@ -710,45 +713,46 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910546@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270212T000000Z
 DTEND:20270212T023000Z
-SUMMARY:Jazz @ Pacers
+SUMMARY:Jazz @ Pacers (KJZZ-TV / Jazz+)
 LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Gainbridge Fieldhouse\, Indiana
- polis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
- es may change.
+DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+\nVenue: Gainbridge Fieldhou
+ se\, Indianapolis\, IN\nUnofficial calendar\; not affiliated with the NBA 
+ or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910577@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270216T020000Z
 DTEND:20270216T043000Z
-SUMMARY:Pistons @ Jazz
+SUMMARY:Pistons @ Jazz (KJZZ-TV / Jazz+)
 LOCATION:Delta Center\, Salt Lake City\, UT
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Delta Center\, Salt Lake City\,
-  UT\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+\nVenue: Delta Center\, Salt
+  Lake City\, UT\nUnofficial calendar\; not affiliated with the NBA or ESPN
+ . Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910591@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270218T020000Z
 DTEND:20270218T043000Z
-SUMMARY:Jazz @ Nuggets
+SUMMARY:Jazz @ Nuggets (KJZZ-TV / Jazz+)
 LOCATION:Ball Arena\, Denver\, CO
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Ball Arena\, Denver\, CO\nUnoff
- icial calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+\nVenue: Ball Arena\, Denver
+ \, CO\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
+ y change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910609@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270226T033000Z
 DTEND:20270226T060000Z
 SUMMARY:Jazz @ Clippers (ClipperVision / KJZZ-TV / Jazz+)
@@ -761,7 +765,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910617@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270227T200000Z
 DTEND:20270227T223000Z
 SUMMARY:Wizards @ Jazz (Prime Video)
@@ -774,84 +778,85 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910634@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270302T010000Z
 DTEND:20270302T033000Z
-SUMMARY:Jazz @ Pelicans
+SUMMARY:Jazz @ Pelicans (GCSEN / Pelicans.com / KJZZ-TV / Jazz+)
 LOCATION:Smoothie King Center\, New Orleans\, LA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Smoothie King Center\, New Orle
- ans\, LA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
-  may change.
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com / KJZZ-TV / Jazz+\nVen
+ ue: Smoothie King Center\, New Orleans\, LA\nUnofficial calendar\; not aff
+ iliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910650@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270304T010000Z
 DTEND:20270304T033000Z
-SUMMARY:Jazz @ Bucks (MyMi / KJZZ-TV / Jazz+)
+SUMMARY:Jazz @ Bucks (MyMi / KJZZ-TV / Jazz+ / Bucks App)
 LOCATION:Fiserv Forum\, Milwaukee\, WI
-DESCRIPTION:Regular Season\nTV: MyMi / KJZZ-TV / Jazz+\nVenue: Fiserv Forum
- \, Milwaukee\, WI\nUnofficial calendar\; not affiliated with the NBA or ES
- PN. Times may change.
+DESCRIPTION:Regular Season\nTV: MyMi / KJZZ-TV / Jazz+ / Bucks App\nVenue: 
+ Fiserv Forum\, Milwaukee\, WI\nUnofficial calendar\; not affiliated with t
+ he NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910663@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270306T000000Z
 DTEND:20270306T023000Z
-SUMMARY:Jazz @ Magic
+SUMMARY:Jazz @ Magic (KJZZ-TV / Jazz+)
 LOCATION:Kia Center\, Orlando\, FL
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Kia Center\, Orlando\, FL\nUnof
- ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+\nVenue: Kia Center\, Orland
+ o\, FL\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910671@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270307T000000Z
 DTEND:20270307T023000Z
-SUMMARY:Jazz @ Wizards
+SUMMARY:Jazz @ Wizards (KJZZ-TV / Jazz+)
 LOCATION:Capital One Arena\, Washington\, DC
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Capital One Arena\, Washington\
- , DC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+\nVenue: Capital One Arena\,
+  Washington\, DC\nUnofficial calendar\; not affiliated with the NBA or ESP
+ N. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910682@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270309T000000Z
 DTEND:20270309T023000Z
-SUMMARY:Jazz @ 76ers
+SUMMARY:Jazz @ 76ers (KJZZ-TV / Jazz+)
 LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Xfinity Mobile Arena\, Philadel
- phia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
- s may change.
+DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+\nVenue: Xfinity Mobile Aren
+ a\, Philadelphia\, PA\nUnofficial calendar\; not affiliated with the NBA o
+ r ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910699@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270311T020000Z
 DTEND:20270311T043000Z
-SUMMARY:Rockets @ Jazz
+SUMMARY:Rockets @ Jazz (KJZZ-TV / Jazz+)
 LOCATION:Delta Center\, Salt Lake City\, UT
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Delta Center\, Salt Lake City\,
-  UT\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+\nVenue: Delta Center\, Salt
+  Lake City\, UT\nUnofficial calendar\; not affiliated with the NBA or ESPN
+ . Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910716@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270313T023000Z
 DTEND:20270313T050000Z
 SUMMARY:Kings @ Jazz (KJZZ-TV / Jazz+)
@@ -864,20 +869,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910753@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270318T010000Z
 DTEND:20270318T033000Z
-SUMMARY:Hawks @ Jazz
+SUMMARY:Hawks @ Jazz (KJZZ-TV / Jazz+)
 LOCATION:Delta Center\, Salt Lake City\, UT
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Delta Center\, Salt Lake City\,
-  UT\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+\nVenue: Delta Center\, Salt
+  Lake City\, UT\nUnofficial calendar\; not affiliated with the NBA or ESPN
+ . Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910764@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270319T010000Z
 DTEND:20270319T033000Z
 SUMMARY:Timberwolves @ Jazz (KJZZ-TV / Jazz+)
@@ -890,33 +895,33 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910781@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270321T210000Z
 DTEND:20270321T233000Z
-SUMMARY:Raptors @ Jazz
+SUMMARY:Raptors @ Jazz (KJZZ-TV / Jazz+)
 LOCATION:Delta Center\, Salt Lake City\, UT
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Delta Center\, Salt Lake City\,
-  UT\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+\nVenue: Delta Center\, Salt
+  Lake City\, UT\nUnofficial calendar\; not affiliated with the NBA or ESPN
+ . Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910797@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270324T010000Z
 DTEND:20270324T033000Z
-SUMMARY:76ers @ Jazz
+SUMMARY:76ers @ Jazz (KJZZ-TV / Jazz+)
 LOCATION:Delta Center\, Salt Lake City\, UT
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Delta Center\, Salt Lake City\,
-  UT\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+\nVenue: Delta Center\, Salt
+  Lake City\, UT\nUnofficial calendar\; not affiliated with the NBA or ESPN
+ . Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910815@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270325T233000Z
 DTEND:20270326T020000Z
 SUMMARY:Jazz @ Heat (KJZZ-TV / Jazz+)
@@ -929,98 +934,98 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910825@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270327T230000Z
 DTEND:20270328T013000Z
-SUMMARY:Jazz @ Hawks
+SUMMARY:Jazz @ Hawks (KJZZ-TV / Jazz+)
 LOCATION:State Farm Arena\, Atlanta\, GA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: State Farm Arena\, Atlanta\, GA
- \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
- nge.
+DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+\nVenue: State Farm Arena\, 
+ Atlanta\, GA\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
+ imes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910834@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270328T220000Z
 DTEND:20270329T003000Z
-SUMMARY:Jazz @ Hornets (KJZZ-TV / Jazz+)
+SUMMARY:Jazz @ Hornets (KJZZ-TV / Jazz+ / DAZN CHA)
 LOCATION:Spectrum Center\, Charlotte\, NC
-DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+\nVenue: Spectrum Center\, C
- harlotte\, NC\nUnofficial calendar\; not affiliated with the NBA or ESPN. 
- Times may change.
+DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+ / DAZN CHA\nVenue: Spectrum
+  Center\, Charlotte\, NC\nUnofficial calendar\; not affiliated with the NB
+ A or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910852@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270331T010000Z
 DTEND:20270331T033000Z
-SUMMARY:Thunder @ Jazz (KSBI)
+SUMMARY:Thunder @ Jazz (KSBI / KJZZ-TV / Jazz+ / Thunder App)
 LOCATION:Delta Center\, Salt Lake City\, UT
-DESCRIPTION:Regular Season\nTV: KSBI\nVenue: Delta Center\, Salt Lake City\
- , UT\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:Regular Season\nTV: KSBI / KJZZ-TV / Jazz+ / Thunder App\nVenue
+ : Delta Center\, Salt Lake City\, UT\nUnofficial calendar\; not affiliated
+  with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910878@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270403T020000Z
 DTEND:20270403T043000Z
-SUMMARY:Jazz @ Trail Blazers (KUNP 16 / BlazerVision)
+SUMMARY:Jazz @ Trail Blazers (KUNP 16 / BlazerVision / KJZZ-TV / Jazz+)
 LOCATION:Moda Center\, Portland\, OR
-DESCRIPTION:Regular Season\nTV: KUNP 16 / BlazerVision\nVenue: Moda Center\
- , Portland\, OR\nUnofficial calendar\; not affiliated with the NBA or ESPN
- . Times may change.
+DESCRIPTION:Regular Season\nTV: KUNP 16 / BlazerVision / KJZZ-TV / Jazz+\nV
+ enue: Moda Center\, Portland\, OR\nUnofficial calendar\; not affiliated wi
+ th the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910891@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270404T210000Z
 DTEND:20270404T233000Z
-SUMMARY:Trail Blazers @ Jazz (KUNP 16 / BlazerVision)
+SUMMARY:Trail Blazers @ Jazz (KUNP 16 / BlazerVision / KJZZ-TV / Jazz+)
 LOCATION:Delta Center\, Salt Lake City\, UT
-DESCRIPTION:Regular Season\nTV: KUNP 16 / BlazerVision\nVenue: Delta Center
- \, Salt Lake City\, UT\nUnofficial calendar\; not affiliated with the NBA 
- or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: KUNP 16 / BlazerVision / KJZZ-TV / Jazz+\nV
+ enue: Delta Center\, Salt Lake City\, UT\nUnofficial calendar\; not affili
+ ated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910905@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270407T010000Z
 DTEND:20270407T033000Z
-SUMMARY:Thunder @ Jazz (KSBI)
+SUMMARY:Thunder @ Jazz (KSBI / KJZZ-TV / Jazz+ / Thunder App)
 LOCATION:Delta Center\, Salt Lake City\, UT
-DESCRIPTION:Regular Season\nTV: KSBI\nVenue: Delta Center\, Salt Lake City\
- , UT\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:Regular Season\nTV: KSBI / KJZZ-TV / Jazz+ / Thunder App\nVenue
+ : Delta Center\, Salt Lake City\, UT\nUnofficial calendar\; not affiliated
+  with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910921@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270409T010000Z
 DTEND:20270409T033000Z
-SUMMARY:Pelicans @ Jazz
+SUMMARY:Pelicans @ Jazz (KJZZ-TV / Jazz+ / GCSEN / Pelicans.com)
 LOCATION:Delta Center\, Salt Lake City\, UT
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Delta Center\, Salt Lake City\,
-  UT\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+ / GCSEN / Pelicans.com\nVen
+ ue: Delta Center\, Salt Lake City\, UT\nUnofficial calendar\; not affiliat
+ ed with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910933@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270410T013000Z
 DTEND:20270410T040000Z
 SUMMARY:Clippers @ Jazz (KJZZ-TV / Jazz+ / ClipperVision)
@@ -1033,14 +1038,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910949@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270412T003000Z
 DTEND:20270412T030000Z
-SUMMARY:Jazz @ Warriors (NBC Sports BA)
+SUMMARY:Jazz @ Warriors (KJZZ-TV / Jazz+)
 LOCATION:Chase Center\, San Francisco\, CA
-DESCRIPTION:Regular Season\nTV: NBC Sports BA\nVenue: Chase Center\, San Fr
- ancisco\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
- imes may change.
+DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+\nVenue: Chase Center\, San 
+ Francisco\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN.
+  Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT

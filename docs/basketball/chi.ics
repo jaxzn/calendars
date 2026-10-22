@@ -10,33 +10,33 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:espn-401909837@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261021T233000Z
 DTEND:20261022T020000Z
-SUMMARY:Bulls @ Raptors (CHSN)
+SUMMARY:Bulls @ Raptors
 LOCATION:Scotiabank Arena\, Toronto\, ON
-DESCRIPTION:Regular Season\nTV: CHSN\nVenue: Scotiabank Arena\, Toronto\, O
- N\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
- ange.
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Scotiabank Arena\, Toronto\, ON
+ \nFinal: Bulls 92\, Raptors 135\nUnofficial calendar\; not affiliated with
+  the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909848@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261023T200000Z
 DTEND:20261023T223000Z
-SUMMARY:Bulls @ Bucks (MyMi)
+SUMMARY:Bulls @ Bucks (MyMi / Bucks App)
 LOCATION:Fiserv Forum\, Milwaukee\, WI
-DESCRIPTION:Regular Season\nTV: MyMi\nVenue: Fiserv Forum\, Milwaukee\, WI\
- nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may chan
- ge.
+DESCRIPTION:Regular Season\nTV: MyMi / Bucks App\nVenue: Fiserv Forum\, Mil
+ waukee\, WI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Ti
+ mes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909857@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261025T000000Z
 DTEND:20261025T023000Z
 SUMMARY:Wizards @ Bulls (MNMT)
@@ -49,7 +49,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909870@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261026T233000Z
 DTEND:20261027T020000Z
 SUMMARY:Bulls @ Celtics
@@ -61,124 +61,124 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909886@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261029T000000Z
 DTEND:20261029T023000Z
-SUMMARY:Knicks @ Bulls (CHSN)
+SUMMARY:Knicks @ Bulls
 LOCATION:United Center\, Chicago\, IL
-DESCRIPTION:Regular Season\nTV: CHSN\nVenue: United Center\, Chicago\, IL\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: United Center\, Chicago\, IL\nU
+ nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
+ .
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909278@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261030T233000Z
 DTEND:20261031T020000Z
-SUMMARY:Bulls @ Celtics (NBC Sports BO / CHSN)
+SUMMARY:Bulls @ Celtics
 LOCATION:TD Garden\, Boston\, MA
-DESCRIPTION:NBA Cup - Group Play\nTV: NBC Sports BO / CHSN\nVenue: TD Garde
- n\, Boston\, MA\nUnofficial calendar\; not affiliated with the NBA or ESPN
- . Times may change.
+DESCRIPTION:NBA Cup - Group Play\nTV: TBD\nVenue: TD Garden\, Boston\, MA\n
+ Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
+ e.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909912@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261103T003000Z
 DTEND:20261103T030000Z
-SUMMARY:Bulls @ 76ers (CHSN)
+SUMMARY:Bulls @ 76ers
 LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
-DESCRIPTION:Regular Season\nTV: CHSN\nVenue: Xfinity Mobile Arena\, Philade
- lphia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
- es may change.
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Xfinity Mobile Arena\, Philadel
+ phia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
+ s may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909926@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261105T003000Z
 DTEND:20261105T030000Z
-SUMMARY:Bulls @ Knicks (CHSN)
+SUMMARY:Bulls @ Knicks
 LOCATION:Madison Square Garden\, New York\, NY
-DESCRIPTION:Regular Season\nTV: CHSN\nVenue: Madison Square Garden\, New Yo
- rk\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Madison Square Garden\, New Yor
+ k\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909945@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261108T203000Z
 DTEND:20261108T230000Z
-SUMMARY:76ers @ Bulls (CHSN)
+SUMMARY:76ers @ Bulls
 LOCATION:United Center\, Chicago\, IL
-DESCRIPTION:Regular Season\nTV: CHSN\nVenue: United Center\, Chicago\, IL\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: United Center\, Chicago\, IL\nU
+ nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
+ .
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909969@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261112T010000Z
 DTEND:20261112T033000Z
-SUMMARY:Spurs @ Bulls (CHSN)
+SUMMARY:Spurs @ Bulls (DAZN SAS)
 LOCATION:United Center\, Chicago\, IL
-DESCRIPTION:Regular Season\nTV: CHSN\nVenue: United Center\, Chicago\, IL\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401909299@nba-calendars
-DTSTAMP:20261021T154330Z
-DTSTART:20261114T010000Z
-DTEND:20261114T033000Z
-SUMMARY:Hawks @ Bulls (Atlanta News First)
-LOCATION:United Center\, Chicago\, IL
-DESCRIPTION:NBA Cup - Group Play\nTV: Atlanta News First\nVenue: United Cen
- ter\, Chicago\, IL\nUnofficial calendar\; not affiliated with the NBA or E
- SPN. Times may change.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401909984@nba-calendars
-DTSTAMP:20261021T154330Z
-DTSTART:20261115T010000Z
-DTEND:20261115T033000Z
-SUMMARY:Bulls @ Timberwolves (CHSN)
-LOCATION:Target Center\, Minneapolis\, MN
-DESCRIPTION:Regular Season\nTV: CHSN\nVenue: Target Center\, Minneapolis\, 
- MN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
+DESCRIPTION:Regular Season\nTV: DAZN SAS\nVenue: United Center\, Chicago\, 
+ IL\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
  hange.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:espn-401909299@nba-calendars
+DTSTAMP:20261022T154318Z
+DTSTART:20261114T010000Z
+DTEND:20261114T033000Z
+SUMMARY:Hawks @ Bulls
+LOCATION:United Center\, Chicago\, IL
+DESCRIPTION:NBA Cup - Group Play\nTV: TBD\nVenue: United Center\, Chicago\,
+  IL\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
+ change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909984@nba-calendars
+DTSTAMP:20261022T154318Z
+DTSTART:20261115T010000Z
+DTEND:20261115T033000Z
+SUMMARY:Bulls @ Timberwolves (DAZN MIN)
+LOCATION:Target Center\, Minneapolis\, MN
+DESCRIPTION:Regular Season\nTV: DAZN MIN\nVenue: Target Center\, Minneapoli
+ s\, MN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:espn-401909995@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261117T000000Z
 DTEND:20261117T023000Z
-SUMMARY:Bulls @ Cavaliers (CHSN)
+SUMMARY:Bulls @ Cavaliers (DAZN CLE)
 LOCATION:Rocket Arena\, Cleveland\, OH
-DESCRIPTION:Regular Season\nTV: CHSN\nVenue: Rocket Arena\, Cleveland\, OH\
- nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may chan
- ge.
+DESCRIPTION:Regular Season\nTV: DAZN CLE\nVenue: Rocket Arena\, Cleveland\,
+  OH\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
+ change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910011@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261119T003000Z
 DTEND:20261119T030000Z
 SUMMARY:Bulls @ Nets (DAZN (YES))
@@ -191,72 +191,72 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909309@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261121T010000Z
 DTEND:20261121T033000Z
-SUMMARY:Wizards @ Bulls (MNMT / CHSN)
+SUMMARY:Wizards @ Bulls (MNMT)
 LOCATION:United Center\, Chicago\, IL
-DESCRIPTION:NBA Cup - Group Play\nTV: MNMT / CHSN\nVenue: United Center\, C
- hicago\, IL\nUnofficial calendar\; not affiliated with the NBA or ESPN. Ti
- mes may change.
+DESCRIPTION:NBA Cup - Group Play\nTV: MNMT\nVenue: United Center\, Chicago\
+ , IL\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910032@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261123T000000Z
 DTEND:20261123T023000Z
-SUMMARY:Nuggets @ Bulls (CHSN)
+SUMMARY:Nuggets @ Bulls
 LOCATION:United Center\, Chicago\, IL
-DESCRIPTION:Regular Season\nTV: CHSN\nVenue: United Center\, Chicago\, IL\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: United Center\, Chicago\, IL\nU
+ nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
+ .
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910041@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261124T010000Z
 DTEND:20261124T033000Z
-SUMMARY:Cavaliers @ Bulls (CHSN)
+SUMMARY:Cavaliers @ Bulls (DAZN CLE)
 LOCATION:United Center\, Chicago\, IL
-DESCRIPTION:Regular Season\nTV: CHSN\nVenue: United Center\, Chicago\, IL\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: DAZN CLE\nVenue: United Center\, Chicago\, 
+ IL\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
+ hange.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909318@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261126T000000Z
 DTEND:20261126T023000Z
-SUMMARY:Bulls @ Hornets (CHSN)
+SUMMARY:Bulls @ Hornets
 LOCATION:Spectrum Center\, Charlotte\, NC
-DESCRIPTION:NBA Cup - Group Play\nTV: CHSN\nVenue: Spectrum Center\, Charlo
- tte\, NC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
-  may change.
+DESCRIPTION:NBA Cup - Group Play\nTV: TBD\nVenue: Spectrum Center\, Charlot
+ te\, NC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910048@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261129T010000Z
 DTEND:20261129T033000Z
-SUMMARY:Pacers @ Bulls (CHSN)
+SUMMARY:Pacers @ Bulls (DAZN IND)
 LOCATION:United Center\, Chicago\, IL
-DESCRIPTION:Regular Season\nTV: CHSN\nVenue: United Center\, Chicago\, IL\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: DAZN IND\nVenue: United Center\, Chicago\, 
+ IL\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
+ hange.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910071@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261202T010000Z
 DTEND:20261202T033000Z
 SUMMARY:Knicks @ Bulls (NBC)
@@ -269,7 +269,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910087@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261204T010000Z
 DTEND:20261204T033000Z
 SUMMARY:Cavaliers @ Bulls (NBA TV)
@@ -282,33 +282,33 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910101@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261213T230000Z
 DTEND:20261214T013000Z
-SUMMARY:Rockets @ Bulls (CHSN)
+SUMMARY:Rockets @ Bulls
 LOCATION:United Center\, Chicago\, IL
-DESCRIPTION:Regular Season\nTV: CHSN\nVenue: United Center\, Chicago\, IL\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: United Center\, Chicago\, IL\nU
+ nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
+ .
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910108@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261215T010000Z
 DTEND:20261215T033000Z
-SUMMARY:Heat @ Bulls (CHSN / WPLG)
+SUMMARY:Heat @ Bulls
 LOCATION:United Center\, Chicago\, IL
-DESCRIPTION:Regular Season\nTV: CHSN / WPLG\nVenue: United Center\, Chicago
- \, IL\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
- y change.
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: United Center\, Chicago\, IL\nU
+ nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
+ .
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910124@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261217T010000Z
 DTEND:20261217T033000Z
 SUMMARY:Jazz @ Bulls (KJZZ-TV / Jazz+)
@@ -321,84 +321,83 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910144@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261219T010000Z
 DTEND:20261219T033000Z
-SUMMARY:Bulls @ Spurs (CHSN)
+SUMMARY:Bulls @ Spurs (DAZN SAS)
 LOCATION:Frost Bank Center\, San Antonio\, TX
-DESCRIPTION:Regular Season\nTV: CHSN\nVenue: Frost Bank Center\, San Antoni
- o\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
- ay change.
+DESCRIPTION:Regular Season\nTV: DAZN SAS\nVenue: Frost Bank Center\, San An
+ tonio\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
+ es may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910147@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261220T010000Z
 DTEND:20261220T033000Z
-SUMMARY:Bulls @ Mavericks (CHSN)
+SUMMARY:Bulls @ Mavericks (KFAA-TV / MavsTV)
 LOCATION:American Airlines Center\, Dallas\, TX
-DESCRIPTION:Regular Season\nTV: CHSN\nVenue: American Airlines Center\, Dal
- las\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
-  may change.
+DESCRIPTION:Regular Season\nTV: KFAA-TV / MavsTV\nVenue: American Airlines 
+ Center\, Dallas\, TX\nUnofficial calendar\; not affiliated with the NBA or
+  ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910163@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261222T003000Z
 DTEND:20261222T030000Z
-SUMMARY:Bulls @ Heat (CHSN)
+SUMMARY:Bulls @ Heat
 LOCATION:Kaseya Center\, Miami\, FL
-DESCRIPTION:Regular Season\nTV: CHSN\nVenue: Kaseya Center\, Miami\, FL\nUn
- official calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Kaseya Center\, Miami\, FL\nUno
+ fficial calendar\; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910177@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261224T003000Z
 DTEND:20261224T030000Z
-SUMMARY:Bulls @ Heat (WPLG / CHSN)
+SUMMARY:Bulls @ Heat
 LOCATION:Kaseya Center\, Miami\, FL
-DESCRIPTION:Regular Season\nTV: WPLG / CHSN\nVenue: Kaseya Center\, Miami\,
-  FL\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Kaseya Center\, Miami\, FL\nUno
+ fficial calendar\; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910192@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261227T010000Z
 DTEND:20261227T033000Z
-SUMMARY:Pistons @ Bulls (CHSN)
+SUMMARY:Pistons @ Bulls
 LOCATION:United Center\, Chicago\, IL
-DESCRIPTION:Regular Season\nTV: CHSN\nVenue: United Center\, Chicago\, IL\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: United Center\, Chicago\, IL\nU
+ nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
+ .
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910211@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261230T000000Z
 DTEND:20261230T023000Z
-SUMMARY:Bulls @ Hawks (CHSN)
+SUMMARY:Bulls @ Hawks
 LOCATION:State Farm Arena\, Atlanta\, GA
-DESCRIPTION:Regular Season\nTV: CHSN\nVenue: State Farm Arena\, Atlanta\, G
- A\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
- ange.
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: State Farm Arena\, Atlanta\, GA
+ \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
+ nge.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910222@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261231T010000Z
 DTEND:20261231T033000Z
 SUMMARY:Celtics @ Bulls
@@ -411,7 +410,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910246@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270103T010000Z
 DTEND:20270103T033000Z
 SUMMARY:Lakers @ Bulls (Spectrum Sports Net / Spectrum Sports Net +)
@@ -424,7 +423,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910259@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270105T000000Z
 DTEND:20270105T023000Z
 SUMMARY:Bulls @ Pacers (NBCSN)
@@ -437,20 +436,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910270@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270106T010000Z
 DTEND:20270106T033000Z
-SUMMARY:Bucks @ Bulls (CHSN)
+SUMMARY:Bucks @ Bulls (MyMi / Bucks App)
 LOCATION:United Center\, Chicago\, IL
-DESCRIPTION:Regular Season\nTV: CHSN\nVenue: United Center\, Chicago\, IL\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: MyMi / Bucks App\nVenue: United Center\, Ch
+ icago\, IL\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
+ es may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910290@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270108T030000Z
 DTEND:20270108T053000Z
 SUMMARY:Bulls @ Kings
@@ -463,7 +462,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910302@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270110T013000Z
 DTEND:20270110T040000Z
 SUMMARY:Bulls @ Warriors
@@ -476,20 +475,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910311@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270111T000000Z
 DTEND:20270111T023000Z
-SUMMARY:Bulls @ Suns (Suns Live / CHSN)
+SUMMARY:Bulls @ Suns (Suns Live / Arizona's Family 3TV)
 LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
-DESCRIPTION:Regular Season\nTV: Suns Live / CHSN\nVenue: Mortgage Matchup C
- enter\, Phoenix\, AZ\nUnofficial calendar\; not affiliated with the NBA or
-  ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: Suns Live / Arizona's Family 3TV\nVenue: Mo
+ rtgage Matchup Center\, Phoenix\, AZ\nUnofficial calendar\; not affiliated
+  with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910324@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270113T020000Z
 DTEND:20270113T043000Z
 SUMMARY:Bulls @ Jazz (KJZZ-TV / Jazz+)
@@ -502,33 +501,33 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910338@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270115T010000Z
 DTEND:20270115T033000Z
-SUMMARY:Timberwolves @ Bulls (CHSN+)
+SUMMARY:Timberwolves @ Bulls
 LOCATION:United Center\, Chicago\, IL
-DESCRIPTION:Regular Season\nTV: CHSN+\nVenue: United Center\, Chicago\, IL\
- nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may chan
- ge.
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: United Center\, Chicago\, IL\nU
+ nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
+ .
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910359@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270117T203000Z
 DTEND:20270117T230000Z
-SUMMARY:Raptors @ Bulls (CHSN)
+SUMMARY:Raptors @ Bulls
 LOCATION:United Center\, Chicago\, IL
-DESCRIPTION:Regular Season\nTV: CHSN\nVenue: United Center\, Chicago\, IL\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: United Center\, Chicago\, IL\nU
+ nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
+ .
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910370@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270120T000000Z
 DTEND:20270120T023000Z
 SUMMARY:Bulls @ Raptors
@@ -541,7 +540,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910376@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270121T000000Z
 DTEND:20270121T023000Z
 SUMMARY:Bulls @ Nets (ESPN)
@@ -554,7 +553,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910400@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270123T220000Z
 DTEND:20270124T003000Z
 SUMMARY:76ers @ Bulls (NBA TV)
@@ -567,33 +566,33 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910417@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270126T010000Z
 DTEND:20270126T033000Z
-SUMMARY:Mavericks @ Bulls (CHSN)
+SUMMARY:Mavericks @ Bulls (KFAA-TV / MavsTV)
 LOCATION:United Center\, Chicago\, IL
-DESCRIPTION:Regular Season\nTV: CHSN\nVenue: United Center\, Chicago\, IL\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: KFAA-TV / MavsTV\nVenue: United Center\, Ch
+ icago\, IL\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
+ es may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910422@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270127T000000Z
 DTEND:20270127T023000Z
-SUMMARY:Bulls @ Pacers (CHSN)
+SUMMARY:Bulls @ Pacers
 LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
-DESCRIPTION:Regular Season\nTV: CHSN\nVenue: Gainbridge Fieldhouse\, Indian
- apolis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Ti
- mes may change.
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Gainbridge Fieldhouse\, Indiana
+ polis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
+ es may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910439@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270129T000000Z
 DTEND:20270129T023000Z
 SUMMARY:Bulls @ Magic
@@ -605,72 +604,72 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910463@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270131T230000Z
 DTEND:20270201T013000Z
-SUMMARY:Bulls @ Thunder (KSBI / CHSN)
+SUMMARY:Bulls @ Thunder (KSBI / Thunder App)
 LOCATION:Paycom Center\, Oklahoma City\, OK
-DESCRIPTION:Regular Season\nTV: KSBI / CHSN\nVenue: Paycom Center\, Oklahom
- a City\, OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Ti
- mes may change.
+DESCRIPTION:Regular Season\nTV: KSBI / Thunder App\nVenue: Paycom Center\, 
+ Oklahoma City\, OK\nUnofficial calendar\; not affiliated with the NBA or E
+ SPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910474@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270203T000000Z
 DTEND:20270203T023000Z
-SUMMARY:Bulls @ Pistons (CHSN)
+SUMMARY:Bulls @ Pistons
 LOCATION:Little Caesars Arena\, Detroit\, MI
-DESCRIPTION:Regular Season\nTV: CHSN\nVenue: Little Caesars Arena\, Detroit
- \, MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
- y change.
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Little Caesars Arena\, Detroit\
+ , MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910493@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270205T010000Z
 DTEND:20270205T033000Z
-SUMMARY:Thunder @ Bulls (KSBI / CHSN)
+SUMMARY:Thunder @ Bulls (KSBI / Thunder App)
 LOCATION:United Center\, Chicago\, IL
-DESCRIPTION:Regular Season\nTV: KSBI / CHSN\nVenue: United Center\, Chicago
- \, IL\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
- y change.
+DESCRIPTION:Regular Season\nTV: KSBI / Thunder App\nVenue: United Center\, 
+ Chicago\, IL\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
+ imes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910510@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270207T010000Z
 DTEND:20270207T033000Z
-SUMMARY:Pelicans @ Bulls (CHSN)
+SUMMARY:Pelicans @ Bulls (GCSEN / Pelicans.com)
 LOCATION:United Center\, Chicago\, IL
-DESCRIPTION:Regular Season\nTV: CHSN\nVenue: United Center\, Chicago\, IL\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com\nVenue: United Center\
+ , Chicago\, IL\nUnofficial calendar\; not affiliated with the NBA or ESPN.
+  Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910524@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270209T000000Z
 DTEND:20270209T023000Z
-SUMMARY:Bulls @ Wizards (CHSN)
+SUMMARY:Bulls @ Wizards
 LOCATION:Capital One Arena\, Washington\, DC
-DESCRIPTION:Regular Season\nTV: CHSN\nVenue: Capital One Arena\, Washington
- \, DC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
- y change.
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Capital One Arena\, Washington\
+ , DC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910532@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270210T010000Z
 DTEND:20270210T033000Z
 SUMMARY:Warriors @ Bulls
@@ -683,7 +682,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910550@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270212T020000Z
 DTEND:20270212T043000Z
 SUMMARY:Bulls @ Nuggets
@@ -695,7 +694,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910573@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270214T203000Z
 DTEND:20270214T230000Z
 SUMMARY:Bulls @ Trail Blazers (KUNP 16 / BlazerVision)
@@ -708,7 +707,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910580@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270217T030000Z
 DTEND:20270217T053000Z
 SUMMARY:Bulls @ Lakers (Spectrum Sports Net / Spectrum Sports Net +)
@@ -721,7 +720,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910595@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270218T033000Z
 DTEND:20270218T060000Z
 SUMMARY:Bulls @ Clippers (ClipperVision)
@@ -734,46 +733,46 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910605@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270226T010000Z
 DTEND:20270226T033000Z
-SUMMARY:Hawks @ Bulls (CHSN)
+SUMMARY:Hawks @ Bulls
 LOCATION:United Center\, Chicago\, IL
-DESCRIPTION:Regular Season\nTV: CHSN\nVenue: United Center\, Chicago\, IL\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: United Center\, Chicago\, IL\nU
+ nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
+ .
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910619@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270228T010000Z
 DTEND:20270228T033000Z
-SUMMARY:Nets @ Bulls (DAZN (YES) / CHSN)
+SUMMARY:Nets @ Bulls (DAZN (YES))
 LOCATION:United Center\, Chicago\, IL
-DESCRIPTION:Regular Season\nTV: DAZN (YES) / CHSN\nVenue: United Center\, C
- hicago\, IL\nUnofficial calendar\; not affiliated with the NBA or ESPN. Ti
- mes may change.
+DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: United Center\, Chicago\
+ , IL\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910633@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270302T000000Z
 DTEND:20270302T023000Z
-SUMMARY:Bulls @ Pistons (CHSN)
+SUMMARY:Bulls @ Pistons
 LOCATION:Little Caesars Arena\, Detroit\, MI
-DESCRIPTION:Regular Season\nTV: CHSN\nVenue: Little Caesars Arena\, Detroit
- \, MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
- y change.
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Little Caesars Arena\, Detroit\
+ , MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910647@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270304T000000Z
 DTEND:20270304T023000Z
 SUMMARY:Bulls @ Hawks
@@ -786,20 +785,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910669@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270306T220000Z
 DTEND:20270307T003000Z
-SUMMARY:Hornets @ Bulls (CHSN)
+SUMMARY:Hornets @ Bulls (DAZN CHA)
 LOCATION:United Center\, Chicago\, IL
-DESCRIPTION:Regular Season\nTV: CHSN\nVenue: United Center\, Chicago\, IL\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: DAZN CHA\nVenue: United Center\, Chicago\, 
+ IL\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
+ hange.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910677@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270307T220000Z
 DTEND:20270308T003000Z
 SUMMARY:Trail Blazers @ Bulls (KUNP 16 / BlazerVision)
@@ -812,7 +811,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910692@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270310T010000Z
 DTEND:20270310T033000Z
 SUMMARY:Celtics @ Bulls
@@ -825,33 +824,33 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910709@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270312T010000Z
 DTEND:20270312T033000Z
-SUMMARY:Suns @ Bulls (CHSN)
+SUMMARY:Suns @ Bulls (Arizona's Family 3TV / Suns Live)
 LOCATION:United Center\, Chicago\, IL
-DESCRIPTION:Regular Season\nTV: CHSN\nVenue: United Center\, Chicago\, IL\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: Arizona's Family 3TV / Suns Live\nVenue: Un
+ ited Center\, Chicago\, IL\nUnofficial calendar\; not affiliated with the 
+ NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910723@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270314T010000Z
 DTEND:20270314T033000Z
-SUMMARY:Grizzlies @ Bulls (CHSN+)
+SUMMARY:Grizzlies @ Bulls (DAZN MEM)
 LOCATION:United Center\, Chicago\, IL
-DESCRIPTION:Regular Season\nTV: CHSN+\nVenue: United Center\, Chicago\, IL\
- nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may chan
- ge.
+DESCRIPTION:Regular Season\nTV: DAZN MEM\nVenue: United Center\, Chicago\, 
+ IL\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
+ hange.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910736@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270316T000000Z
 DTEND:20270316T023000Z
 SUMMARY:Magic @ Bulls
@@ -864,46 +863,46 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910749@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270317T230000Z
 DTEND:20270318T013000Z
-SUMMARY:Bulls @ 76ers (CHSN)
+SUMMARY:Bulls @ 76ers
 LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
-DESCRIPTION:Regular Season\nTV: CHSN\nVenue: Xfinity Mobile Arena\, Philade
- lphia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
- es may change.
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Xfinity Mobile Arena\, Philadel
+ phia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
+ s may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910774@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270320T233000Z
 DTEND:20270321T020000Z
-SUMMARY:Bulls @ Cavaliers
+SUMMARY:Bulls @ Cavaliers (DAZN CLE)
 LOCATION:Rocket Arena\, Cleveland\, OH
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Rocket Arena\, Cleveland\, OH\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: DAZN CLE\nVenue: Rocket Arena\, Cleveland\,
+  OH\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
+ change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910788@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270323T000000Z
 DTEND:20270323T023000Z
-SUMMARY:Kings @ Bulls (CHSN / NBC Sports CA)
+SUMMARY:Kings @ Bulls
 LOCATION:United Center\, Chicago\, IL
-DESCRIPTION:Regular Season\nTV: CHSN / NBC Sports CA\nVenue: United Center\
- , Chicago\, IL\nUnofficial calendar\; not affiliated with the NBA or ESPN.
-  Times may change.
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: United Center\, Chicago\, IL\nU
+ nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
+ .
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910805@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270325T000000Z
 DTEND:20270325T023000Z
 SUMMARY:Magic @ Bulls
@@ -916,45 +915,46 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910816@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270326T000000Z
 DTEND:20270326T023000Z
-SUMMARY:Bulls @ Grizzlies (CHSN+)
+SUMMARY:Bulls @ Grizzlies (DAZN MEM)
 LOCATION:FedExForum\, Memphis\, TN
-DESCRIPTION:Regular Season\nTV: CHSN+\nVenue: FedExForum\, Memphis\, TN\nUn
- official calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: DAZN MEM\nVenue: FedExForum\, Memphis\, TN\
+ nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may chan
+ ge.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910828@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270328T000000Z
 DTEND:20270328T023000Z
-SUMMARY:Clippers @ Bulls (CHSN)
+SUMMARY:Clippers @ Bulls (ClipperVision)
 LOCATION:United Center\, Chicago\, IL
-DESCRIPTION:Regular Season\nTV: CHSN\nVenue: United Center\, Chicago\, IL\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: ClipperVision\nVenue: United Center\, Chica
+ go\, IL\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910844@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270330T000000Z
 DTEND:20270330T023000Z
-SUMMARY:Pacers @ Bulls (CHSN)
+SUMMARY:Pacers @ Bulls (DAZN IND)
 LOCATION:United Center\, Chicago\, IL
-DESCRIPTION:Regular Season\nTV: CHSN\nVenue: United Center\, Chicago\, IL\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: DAZN IND\nVenue: United Center\, Chicago\, 
+ IL\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
+ hange.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910857@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270331T230000Z
 DTEND:20270401T013000Z
 SUMMARY:Bulls @ Wizards
@@ -967,7 +967,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910872@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270403T000000Z
 DTEND:20270403T023000Z
 SUMMARY:Pistons @ Bulls
@@ -980,66 +980,66 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910888@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270404T200000Z
 DTEND:20270404T223000Z
-SUMMARY:Bulls @ Rockets (CHSN)
+SUMMARY:Bulls @ Rockets
 LOCATION:Toyota Center (Houston)\, Houston\, TX
-DESCRIPTION:Regular Season\nTV: CHSN\nVenue: Toyota Center (Houston)\, Hous
- ton\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
-  may change.
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Toyota Center (Houston)\, Houst
+ on\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910902@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270407T000000Z
 DTEND:20270407T023000Z
-SUMMARY:Bulls @ Bucks (CHSN+)
+SUMMARY:Bulls @ Bucks (MyMi / Bucks App)
 LOCATION:Fiserv Forum\, Milwaukee\, WI
-DESCRIPTION:Regular Season\nTV: CHSN+\nVenue: Fiserv Forum\, Milwaukee\, WI
- \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
- nge.
+DESCRIPTION:Regular Season\nTV: MyMi / Bucks App\nVenue: Fiserv Forum\, Mil
+ waukee\, WI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Ti
+ mes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910913@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270408T000000Z
 DTEND:20270408T023000Z
-SUMMARY:Hornets @ Bulls
+SUMMARY:Hornets @ Bulls (DAZN CHA)
 LOCATION:United Center\, Chicago\, IL
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: United Center\, Chicago\, IL\nU
- nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
- .
+DESCRIPTION:Regular Season\nTV: DAZN CHA\nVenue: United Center\, Chicago\, 
+ IL\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
+ hange.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910929@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270410T000000Z
 DTEND:20270410T023000Z
-SUMMARY:Bucks @ Bulls (CHSN)
+SUMMARY:Bucks @ Bulls (MyMi / Bucks App)
 LOCATION:United Center\, Chicago\, IL
-DESCRIPTION:Regular Season\nTV: CHSN\nVenue: United Center\, Chicago\, IL\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: MyMi / Bucks App\nVenue: United Center\, Ch
+ icago\, IL\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
+ es may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910944@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270411T220000Z
 DTEND:20270412T003000Z
-SUMMARY:Bulls @ Pelicans
+SUMMARY:Bulls @ Pelicans (GCSEN / Pelicans.com)
 LOCATION:Smoothie King Center\, New Orleans\, LA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Smoothie King Center\, New Orle
- ans\, LA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
-  may change.
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com\nVenue: Smoothie King 
+ Center\, New Orleans\, LA\nUnofficial calendar\; not affiliated with the N
+ BA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT

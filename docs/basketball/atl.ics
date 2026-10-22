@@ -10,19 +10,20 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:espn-401909834@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261021T230000Z
 DTEND:20261022T013000Z
 SUMMARY:Hawks @ Magic
 LOCATION:Kia Center\, Orlando\, FL
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Kia Center\, Orlando\, FL\nUnof
- ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Kia Center\, Orlando\, FL\nFina
+ l: Hawks 132\, Magic 125\nUnofficial calendar\; not affiliated with the NB
+ A or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909843@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261023T230000Z
 DTEND:20261024T013000Z
 SUMMARY:Hawks @ Hornets
@@ -35,20 +36,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909856@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261025T003000Z
 DTEND:20261025T030000Z
-SUMMARY:Rockets @ Hawks (Atlanta News First)
+SUMMARY:Rockets @ Hawks
 LOCATION:State Farm Arena\, Atlanta\, GA
-DESCRIPTION:Regular Season\nTV: Atlanta News First\nVenue: State Farm Arena
- \, Atlanta\, GA\nUnofficial calendar\; not affiliated with the NBA or ESPN
- . Times may change.
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: State Farm Arena\, Atlanta\, GA
+ \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
+ nge.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909874@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261027T003000Z
 DTEND:20261027T030000Z
 SUMMARY:Hawks @ Rockets
@@ -61,7 +62,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909881@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261028T230000Z
 DTEND:20261029T013000Z
 SUMMARY:Heat @ Hawks
@@ -74,7 +75,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909893@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261029T230000Z
 DTEND:20261030T013000Z
 SUMMARY:Cavaliers @ Hawks (NBA TV)
@@ -87,46 +88,46 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909898@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261031T230000Z
 DTEND:20261101T013000Z
-SUMMARY:Hawks @ Pelicans (GCSEN / Pelicans.com / Atlanta News First)
+SUMMARY:Hawks @ Pelicans (GCSEN / Pelicans.com)
 LOCATION:Smoothie King Center\, New Orleans\, LA
-DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com / Atlanta News First\n
- Venue: Smoothie King Center\, New Orleans\, LA\nUnofficial calendar\; not 
- affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com\nVenue: Smoothie King 
+ Center\, New Orleans\, LA\nUnofficial calendar\; not affiliated with the N
+ BA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909909@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261103T003000Z
 DTEND:20261103T030000Z
-SUMMARY:Hawks @ Pacers
+SUMMARY:Hawks @ Pacers (DAZN IND)
 LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Gainbridge Fieldhouse\, Indiana
- polis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
- es may change.
+DESCRIPTION:Regular Season\nTV: DAZN IND\nVenue: Gainbridge Fieldhouse\, In
+ dianapolis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN
+ . Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909923@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261105T000000Z
 DTEND:20261105T023000Z
-SUMMARY:Hawks @ Wizards (MNMT / Atlanta News First)
+SUMMARY:Hawks @ Wizards (MNMT)
 LOCATION:Capital One Arena\, Washington\, DC
-DESCRIPTION:Regular Season\nTV: MNMT / Atlanta News First\nVenue: Capital O
- ne Arena\, Washington\, DC\nUnofficial calendar\; not affiliated with the 
- NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: MNMT\nVenue: Capital One Arena\, Washington
+ \, DC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
+ y change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909287@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261107T000000Z
 DTEND:20261107T023000Z
 SUMMARY:Wizards @ Hawks (MNMT)
@@ -139,20 +140,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909939@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261108T003000Z
 DTEND:20261108T030000Z
-SUMMARY:Nets @ Hawks (DAZN (YES) / Atlanta News First)
+SUMMARY:Nets @ Hawks (DAZN (YES))
 LOCATION:State Farm Arena\, Atlanta\, GA
-DESCRIPTION:Regular Season\nTV: DAZN (YES) / Atlanta News First\nVenue: Sta
- te Farm Arena\, Atlanta\, GA\nUnofficial calendar\; not affiliated with th
- e NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: State Farm Arena\, Atlan
+ ta\, GA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909952@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261110T000000Z
 DTEND:20261110T023000Z
 SUMMARY:Lakers @ Hawks (Spectrum Sports Net / Spectrum Sports Net +)
@@ -165,59 +166,59 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909299@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261114T010000Z
 DTEND:20261114T033000Z
-SUMMARY:Hawks @ Bulls (Atlanta News First)
+SUMMARY:Hawks @ Bulls
 LOCATION:United Center\, Chicago\, IL
-DESCRIPTION:NBA Cup - Group Play\nTV: Atlanta News First\nVenue: United Cen
- ter\, Chicago\, IL\nUnofficial calendar\; not affiliated with the NBA or E
- SPN. Times may change.
+DESCRIPTION:NBA Cup - Group Play\nTV: TBD\nVenue: United Center\, Chicago\,
+  IL\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
+ change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909992@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261116T010000Z
 DTEND:20261116T033000Z
-SUMMARY:Hawks @ Bucks
+SUMMARY:Hawks @ Bucks (MyMi / Bucks App)
 LOCATION:Fiserv Forum\, Milwaukee\, WI
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Fiserv Forum\, Milwaukee\, WI\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: MyMi / Bucks App\nVenue: Fiserv Forum\, Mil
+ waukee\, WI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Ti
+ mes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910014@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261119T010000Z
 DTEND:20261119T033000Z
-SUMMARY:Hawks @ Thunder (KSBI)
+SUMMARY:Hawks @ Thunder (KSBI / Thunder App)
 LOCATION:Paycom Center\, Oklahoma City\, OK
-DESCRIPTION:Regular Season\nTV: KSBI\nVenue: Paycom Center\, Oklahoma City\
- , OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:Regular Season\nTV: KSBI / Thunder App\nVenue: Paycom Center\, 
+ Oklahoma City\, OK\nUnofficial calendar\; not affiliated with the NBA or E
+ SPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909305@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261121T000000Z
 DTEND:20261121T023000Z
-SUMMARY:Hornets @ Hawks (Atlanta News First)
+SUMMARY:Hornets @ Hawks
 LOCATION:State Farm Arena\, Atlanta\, GA
-DESCRIPTION:NBA Cup - Group Play\nTV: Atlanta News First\nVenue: State Farm
-  Arena\, Atlanta\, GA\nUnofficial calendar\; not affiliated with the NBA o
- r ESPN. Times may change.
+DESCRIPTION:NBA Cup - Group Play\nTV: TBD\nVenue: State Farm Arena\, Atlant
+ a\, GA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910029@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261122T203000Z
 DTEND:20261122T230000Z
 SUMMARY:Pistons @ Hawks
@@ -230,20 +231,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909330@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261128T010000Z
 DTEND:20261128T033000Z
-SUMMARY:Hawks @ Celtics (Atlanta News First)
+SUMMARY:Hawks @ Celtics
 LOCATION:TD Garden\, Boston\, MA
-DESCRIPTION:NBA Cup - Group Play\nTV: Atlanta News First\nVenue: TD Garden\
- , Boston\, MA\nUnofficial calendar\; not affiliated with the NBA or ESPN. 
- Times may change.
+DESCRIPTION:NBA Cup - Group Play\nTV: TBD\nVenue: TD Garden\, Boston\, MA\n
+ Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
+ e.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910056@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261129T230000Z
 DTEND:20261130T013000Z
 SUMMARY:Hawks @ Knicks
@@ -256,7 +257,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910070@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261202T003000Z
 DTEND:20261202T030000Z
 SUMMARY:Hawks @ Heat
@@ -268,7 +269,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910085@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261204T000000Z
 DTEND:20261204T023000Z
 SUMMARY:Pacers @ Hawks
@@ -281,7 +282,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910097@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261213T030000Z
 DTEND:20261213T053000Z
 SUMMARY:Hawks @ Trail Blazers (KUNP 16 / BlazerVision)
@@ -294,33 +295,32 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910112@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261215T020000Z
 DTEND:20261215T043000Z
-SUMMARY:Hawks @ Suns (Suns Live)
+SUMMARY:Hawks @ Suns (Suns Live / Arizona's Family 3TV)
 LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
-DESCRIPTION:Regular Season\nTV: Suns Live\nVenue: Mortgage Matchup Center\,
-  Phoenix\, AZ\nUnofficial calendar\; not affiliated with the NBA or ESPN. 
- Times may change.
+DESCRIPTION:Regular Season\nTV: Suns Live / Arizona's Family 3TV\nVenue: Mo
+ rtgage Matchup Center\, Phoenix\, AZ\nUnofficial calendar\; not affiliated
+  with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910132@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261218T020000Z
 DTEND:20261218T043000Z
-SUMMARY:Hawks @ Nuggets (Atlanta News First)
+SUMMARY:Hawks @ Nuggets
 LOCATION:Ball Arena\, Denver\, CO
-DESCRIPTION:Regular Season\nTV: Atlanta News First\nVenue: Ball Arena\, Den
- ver\, CO\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
-  may change.
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Ball Arena\, Denver\, CO\nUnoff
+ icial calendar\; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910146@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261220T000000Z
 DTEND:20261220T023000Z
 SUMMARY:Magic @ Hawks
@@ -333,20 +333,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910154@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261221T000000Z
 DTEND:20261221T023000Z
-SUMMARY:Thunder @ Hawks (KSBI)
+SUMMARY:Thunder @ Hawks (KSBI / Thunder App)
 LOCATION:State Farm Arena\, Atlanta\, GA
-DESCRIPTION:Regular Season\nTV: KSBI\nVenue: State Farm Arena\, Atlanta\, G
- A\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
- ange.
+DESCRIPTION:Regular Season\nTV: KSBI / Thunder App\nVenue: State Farm Arena
+ \, Atlanta\, GA\nUnofficial calendar\; not affiliated with the NBA or ESPN
+ . Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910172@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261224T000000Z
 DTEND:20261224T023000Z
 SUMMARY:Pistons @ Hawks
@@ -359,7 +359,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910188@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261226T203000Z
 DTEND:20261226T230000Z
 SUMMARY:Hornets @ Hawks
@@ -372,46 +372,46 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910202@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261228T000000Z
 DTEND:20261228T023000Z
-SUMMARY:Hawks @ Spurs
+SUMMARY:Hawks @ Spurs (DAZN SAS)
 LOCATION:Frost Bank Center\, San Antonio\, TX
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Frost Bank Center\, San Antonio
- \, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
- y change.
+DESCRIPTION:Regular Season\nTV: DAZN SAS\nVenue: Frost Bank Center\, San An
+ tonio\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
+ es may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910211@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261230T000000Z
 DTEND:20261230T023000Z
-SUMMARY:Bulls @ Hawks (CHSN)
+SUMMARY:Bulls @ Hawks
 LOCATION:State Farm Arena\, Atlanta\, GA
-DESCRIPTION:Regular Season\nTV: CHSN\nVenue: State Farm Arena\, Atlanta\, G
- A\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
- ange.
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: State Farm Arena\, Atlanta\, GA
+ \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
+ nge.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910227@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261231T200000Z
 DTEND:20261231T223000Z
-SUMMARY:Bucks @ Hawks (Atlanta News First / MyMi)
+SUMMARY:Bucks @ Hawks (MyMi / Bucks App)
 LOCATION:State Farm Arena\, Atlanta\, GA
-DESCRIPTION:Regular Season\nTV: Atlanta News First / MyMi\nVenue: State Far
- m Arena\, Atlanta\, GA\nUnofficial calendar\; not affiliated with the NBA 
- or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: MyMi / Bucks App\nVenue: State Farm Arena\,
+  Atlanta\, GA\nUnofficial calendar\; not affiliated with the NBA or ESPN. 
+ Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910245@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270103T003000Z
 DTEND:20270103T030000Z
 SUMMARY:Mavericks @ Hawks (NBA TV)
@@ -424,7 +424,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910260@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270105T000000Z
 DTEND:20270105T023000Z
 SUMMARY:Hawks @ 76ers
@@ -437,46 +437,46 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910265@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270106T000000Z
 DTEND:20270106T023000Z
-SUMMARY:Hawks @ Hornets (Atlanta News First)
+SUMMARY:Hawks @ Hornets (DAZN CHA)
 LOCATION:Spectrum Center\, Charlotte\, NC
-DESCRIPTION:Regular Season\nTV: Atlanta News First\nVenue: Spectrum Center\
- , Charlotte\, NC\nUnofficial calendar\; not affiliated with the NBA or ESP
- N. Times may change.
+DESCRIPTION:Regular Season\nTV: DAZN CHA\nVenue: Spectrum Center\, Charlott
+ e\, NC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910279@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270108T000000Z
 DTEND:20270108T023000Z
-SUMMARY:Pacers @ Hawks (Atlanta News First)
+SUMMARY:Pacers @ Hawks (DAZN IND)
 LOCATION:State Farm Arena\, Atlanta\, GA
-DESCRIPTION:Regular Season\nTV: Atlanta News First\nVenue: State Farm Arena
- \, Atlanta\, GA\nUnofficial calendar\; not affiliated with the NBA or ESPN
- . Times may change.
+DESCRIPTION:Regular Season\nTV: DAZN IND\nVenue: State Farm Arena\, Atlanta
+ \, GA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
+ y change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910305@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270110T200000Z
 DTEND:20270110T223000Z
-SUMMARY:Spurs @ Hawks
+SUMMARY:Spurs @ Hawks (DAZN SAS)
 LOCATION:State Farm Arena\, Atlanta\, GA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: State Farm Arena\, Atlanta\, GA
- \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
- nge.
+DESCRIPTION:Regular Season\nTV: DAZN SAS\nVenue: State Farm Arena\, Atlanta
+ \, GA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
+ y change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910314@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270112T000000Z
 DTEND:20270112T023000Z
 SUMMARY:Hawks @ Wizards
@@ -489,10 +489,23 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910327@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270114T000000Z
 DTEND:20270114T023000Z
-SUMMARY:Cavaliers @ Hawks
+SUMMARY:Cavaliers @ Hawks (DAZN CLE)
+LOCATION:State Farm Arena\, Atlanta\, GA
+DESCRIPTION:Regular Season\nTV: DAZN CLE\nVenue: State Farm Arena\, Atlanta
+ \, GA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
+ y change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910343@nba-calendars
+DTSTAMP:20261022T154318Z
+DTSTART:20270116T000000Z
+DTEND:20270116T023000Z
+SUMMARY:Warriors @ Hawks
 LOCATION:State Farm Arena\, Atlanta\, GA
 DESCRIPTION:Regular Season\nTV: TBD\nVenue: State Farm Arena\, Atlanta\, GA
  \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
@@ -501,21 +514,8 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:espn-401910343@nba-calendars
-DTSTAMP:20261021T154330Z
-DTSTART:20270116T000000Z
-DTEND:20270116T023000Z
-SUMMARY:Warriors @ Hawks (NBC Sports BA)
-LOCATION:State Farm Arena\, Atlanta\, GA
-DESCRIPTION:Regular Season\nTV: NBC Sports BA\nVenue: State Farm Arena\, At
- lanta\, GA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
- es may change.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:espn-401909474@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270118T193000Z
 DTEND:20270118T220000Z
 SUMMARY:76ers @ Hawks (NBC)
@@ -528,7 +528,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910375@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270121T000000Z
 DTEND:20270121T023000Z
 SUMMARY:Trail Blazers @ Hawks (KUNP 16 / BlazerVision)
@@ -541,7 +541,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910389@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270123T000000Z
 DTEND:20270123T023000Z
 SUMMARY:Knicks @ Hawks (ESPN)
@@ -554,20 +554,19 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910403@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270124T010000Z
 DTEND:20270124T033000Z
-SUMMARY:Hawks @ Heat (Atlanta News First)
+SUMMARY:Hawks @ Heat
 LOCATION:Kaseya Center\, Miami\, FL
-DESCRIPTION:Regular Season\nTV: Atlanta News First\nVenue: Kaseya Center\, 
- Miami\, FL\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
- es may change.
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Kaseya Center\, Miami\, FL\nUno
+ fficial calendar\; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910421@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270127T000000Z
 DTEND:20270127T023000Z
 SUMMARY:Hawks @ Pistons
@@ -580,7 +579,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910438@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270129T000000Z
 DTEND:20270129T023000Z
 SUMMARY:Hawks @ Knicks (Prime Video)
@@ -593,20 +592,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910456@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270131T010000Z
 DTEND:20270131T033000Z
-SUMMARY:Hawks @ Bucks (MyMi / Atlanta News First)
+SUMMARY:Hawks @ Bucks (MyMi / Bucks App)
 LOCATION:Fiserv Forum\, Milwaukee\, WI
-DESCRIPTION:Regular Season\nTV: MyMi / Atlanta News First\nVenue: Fiserv Fo
- rum\, Milwaukee\, WI\nUnofficial calendar\; not affiliated with the NBA or
-  ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: MyMi / Bucks App\nVenue: Fiserv Forum\, Mil
+ waukee\, WI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Ti
+ mes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910467@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270202T000000Z
 DTEND:20270202T023000Z
 SUMMARY:Wizards @ Hawks
@@ -619,20 +618,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910483@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270204T000000Z
 DTEND:20270204T023000Z
-SUMMARY:Hawks @ Pacers
+SUMMARY:Hawks @ Pacers (DAZN IND)
 LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Gainbridge Fieldhouse\, Indiana
- polis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
- es may change.
+DESCRIPTION:Regular Season\nTV: DAZN IND\nVenue: Gainbridge Fieldhouse\, In
+ dianapolis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN
+ . Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910498@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270206T000000Z
 DTEND:20270206T023000Z
 SUMMARY:Celtics @ Hawks
@@ -645,20 +644,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910513@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270207T200000Z
 DTEND:20270207T223000Z
-SUMMARY:Nuggets @ Hawks (Atlanta News First)
+SUMMARY:Nuggets @ Hawks
 LOCATION:State Farm Arena\, Atlanta\, GA
-DESCRIPTION:Regular Season\nTV: Atlanta News First\nVenue: State Farm Arena
- \, Atlanta\, GA\nUnofficial calendar\; not affiliated with the NBA or ESPN
- . Times may change.
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: State Farm Arena\, Atlanta\, GA
+ \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
+ nge.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910521@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270209T000000Z
 DTEND:20270209T023000Z
 SUMMARY:Heat @ Hawks (NBCSN)
@@ -671,10 +670,36 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910538@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270211T000000Z
 DTEND:20270211T023000Z
-SUMMARY:Pelicans @ Hawks
+SUMMARY:Pelicans @ Hawks (GCSEN / Pelicans.com)
+LOCATION:State Farm Arena\, Atlanta\, GA
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com\nVenue: State Farm Are
+ na\, Atlanta\, GA\nUnofficial calendar\; not affiliated with the NBA or ES
+ PN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910552@nba-calendars
+DTSTAMP:20261022T154318Z
+DTSTART:20270213T000000Z
+DTEND:20270213T023000Z
+SUMMARY:Suns @ Hawks (Suns Live / Arizona's Family 3TV)
+LOCATION:State Farm Arena\, Atlanta\, GA
+DESCRIPTION:Regular Season\nTV: Suns Live / Arizona's Family 3TV\nVenue: St
+ ate Farm Arena\, Atlanta\, GA\nUnofficial calendar\; not affiliated with t
+ he NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910567@nba-calendars
+DTSTAMP:20261022T154318Z
+DTSTART:20270214T180000Z
+DTEND:20270214T203000Z
+SUMMARY:Kings @ Hawks
 LOCATION:State Farm Arena\, Atlanta\, GA
 DESCRIPTION:Regular Season\nTV: TBD\nVenue: State Farm Arena\, Atlanta\, GA
  \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
@@ -683,34 +708,8 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:espn-401910552@nba-calendars
-DTSTAMP:20261021T154330Z
-DTSTART:20270213T000000Z
-DTEND:20270213T023000Z
-SUMMARY:Suns @ Hawks (Suns Live)
-LOCATION:State Farm Arena\, Atlanta\, GA
-DESCRIPTION:Regular Season\nTV: Suns Live\nVenue: State Farm Arena\, Atlant
- a\, GA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
- ay change.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401910567@nba-calendars
-DTSTAMP:20261021T154330Z
-DTSTART:20270214T180000Z
-DTEND:20270214T203000Z
-SUMMARY:Kings @ Hawks (NBC Sports CA)
-LOCATION:State Farm Arena\, Atlanta\, GA
-DESCRIPTION:Regular Season\nTV: NBC Sports CA\nVenue: State Farm Arena\, At
- lanta\, GA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
- es may change.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:espn-401910579@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270217T010000Z
 DTEND:20270217T033000Z
 SUMMARY:Raptors @ Hawks (NBC)
@@ -723,7 +722,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910589@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270218T003000Z
 DTEND:20270218T030000Z
 SUMMARY:Hawks @ Nets (DAZN (YES))
@@ -736,20 +735,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910605@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270226T010000Z
 DTEND:20270226T033000Z
-SUMMARY:Hawks @ Bulls (CHSN)
+SUMMARY:Hawks @ Bulls
 LOCATION:United Center\, Chicago\, IL
-DESCRIPTION:Regular Season\nTV: CHSN\nVenue: United Center\, Chicago\, IL\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: United Center\, Chicago\, IL\nU
+ nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
+ .
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910611@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270227T003000Z
 DTEND:20270227T030000Z
 SUMMARY:Hawks @ Raptors
@@ -762,7 +761,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910626@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270228T213000Z
 DTEND:20270301T000000Z
 SUMMARY:Hawks @ Magic
@@ -774,7 +773,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910647@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270304T000000Z
 DTEND:20270304T023000Z
 SUMMARY:Bulls @ Hawks
@@ -787,20 +786,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910657@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270305T003000Z
 DTEND:20270305T030000Z
-SUMMARY:Grizzlies @ Hawks (Atlanta News First)
+SUMMARY:Grizzlies @ Hawks (DAZN MEM)
 LOCATION:State Farm Arena\, Atlanta\, GA
-DESCRIPTION:Regular Season\nTV: Atlanta News First\nVenue: State Farm Arena
- \, Atlanta\, GA\nUnofficial calendar\; not affiliated with the NBA or ESPN
- . Times may change.
+DESCRIPTION:Regular Season\nTV: DAZN MEM\nVenue: State Farm Arena\, Atlanta
+ \, GA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
+ y change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910670@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270306T223000Z
 DTEND:20270307T010000Z
 SUMMARY:Hawks @ Cavaliers (Prime Video)
@@ -813,19 +812,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910684@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270309T010000Z
 DTEND:20270309T033000Z
-SUMMARY:Hawks @ Grizzlies
+SUMMARY:Hawks @ Grizzlies (DAZN MEM)
 LOCATION:FedExForum\, Memphis\, TN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: FedExForum\, Memphis\, TN\nUnof
- ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: DAZN MEM\nVenue: FedExForum\, Memphis\, TN\
+ nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may chan
+ ge.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910700@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270311T023000Z
 DTEND:20270311T050000Z
 SUMMARY:Hawks @ Timberwolves (ESPN)
@@ -838,7 +838,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910708@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270312T010000Z
 DTEND:20270312T033000Z
 SUMMARY:Nets @ Hawks (DAZN (YES))
@@ -851,7 +851,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910719@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270313T200000Z
 DTEND:20270313T223000Z
 SUMMARY:Magic @ Hawks (Prime Video)
@@ -864,7 +864,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910738@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270316T013000Z
 DTEND:20270316T040000Z
 SUMMARY:Hawks @ Mavericks (NBCSN)
@@ -877,20 +877,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910753@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270318T010000Z
 DTEND:20270318T033000Z
-SUMMARY:Hawks @ Jazz
+SUMMARY:Hawks @ Jazz (KJZZ-TV / Jazz+)
 LOCATION:Delta Center\, Salt Lake City\, UT
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Delta Center\, Salt Lake City\,
-  UT\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+\nVenue: Delta Center\, Salt
+  Lake City\, UT\nUnofficial calendar\; not affiliated with the NBA or ESPN
+ . Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910770@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270320T020000Z
 DTEND:20270320T043000Z
 SUMMARY:Hawks @ Lakers (Spectrum Sports Net / Spectrum Sports Net +)
@@ -903,72 +903,72 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910778@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270321T023000Z
 DTEND:20270321T050000Z
-SUMMARY:Hawks @ Clippers
+SUMMARY:Hawks @ Clippers (ClipperVision)
 LOCATION:Intuit Dome\, Inglewood\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Intuit Dome\, Inglewood\, CA\nU
- nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
- .
+DESCRIPTION:Regular Season\nTV: ClipperVision\nVenue: Intuit Dome\, Inglewo
+ od\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910792@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270323T020000Z
 DTEND:20270323T043000Z
-SUMMARY:Hawks @ Warriors (NBC Sports BA)
+SUMMARY:Hawks @ Warriors
 LOCATION:Chase Center\, San Francisco\, CA
-DESCRIPTION:Regular Season\nTV: NBC Sports BA\nVenue: Chase Center\, San Fr
- ancisco\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
- imes may change.
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Chase Center\, San Francisco\, 
+ CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
+ hange.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910809@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270325T020000Z
 DTEND:20270325T043000Z
-SUMMARY:Hawks @ Kings (NBC Sports CA)
+SUMMARY:Hawks @ Kings
 LOCATION:Golden 1 Center\, Sacramento\, CA
-DESCRIPTION:Regular Season\nTV: NBC Sports CA\nVenue: Golden 1 Center\, Sac
- ramento\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
- imes may change.
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Golden 1 Center\, Sacramento\, 
+ CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
+ hange.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910825@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270327T230000Z
 DTEND:20270328T013000Z
-SUMMARY:Jazz @ Hawks
+SUMMARY:Jazz @ Hawks (KJZZ-TV / Jazz+)
 LOCATION:State Farm Arena\, Atlanta\, GA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: State Farm Arena\, Atlanta\, GA
- \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
- nge.
+DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+\nVenue: State Farm Arena\, 
+ Atlanta\, GA\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
+ imes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910840@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270329T230000Z
 DTEND:20270330T013000Z
-SUMMARY:Timberwolves @ Hawks
+SUMMARY:Timberwolves @ Hawks (DAZN MIN)
 LOCATION:State Farm Arena\, Atlanta\, GA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: State Farm Arena\, Atlanta\, GA
- \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
- nge.
+DESCRIPTION:Regular Season\nTV: DAZN MIN\nVenue: State Farm Arena\, Atlanta
+ \, GA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
+ y change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910854@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270331T230000Z
 DTEND:20270401T013000Z
 SUMMARY:Clippers @ Hawks (ClipperVision)
@@ -981,20 +981,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910875@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270403T003000Z
 DTEND:20270403T030000Z
-SUMMARY:Hawks @ Raptors (Atlanta News First)
+SUMMARY:Hawks @ Raptors
 LOCATION:Scotiabank Arena\, Toronto\, ON
-DESCRIPTION:Regular Season\nTV: Atlanta News First\nVenue: Scotiabank Arena
- \, Toronto\, ON\nUnofficial calendar\; not affiliated with the NBA or ESPN
- . Times may change.
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Scotiabank Arena\, Toronto\, ON
+ \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
+ nge.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910882@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270404T170000Z
 DTEND:20270404T193000Z
 SUMMARY:Hawks @ 76ers
@@ -1007,7 +1007,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910900@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270407T000000Z
 DTEND:20270407T023000Z
 SUMMARY:Knicks @ Hawks (NBC)
@@ -1020,27 +1020,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910923@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270409T230000Z
 DTEND:20270410T013000Z
-SUMMARY:Celtics @ Hawks (NBC Sports BO)
+SUMMARY:Celtics @ Hawks
 LOCATION:State Farm Arena\, Atlanta\, GA
-DESCRIPTION:Regular Season\nTV: NBC Sports BO\nVenue: State Farm Arena\, At
- lanta\, GA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
- es may change.
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: State Farm Arena\, Atlanta\, GA
+ \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
+ nge.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910939@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270411T220000Z
 DTEND:20270412T003000Z
-SUMMARY:Hawks @ Cavaliers (Atlanta News First)
+SUMMARY:Hawks @ Cavaliers (DAZN CLE)
 LOCATION:Rocket Arena\, Cleveland\, OH
-DESCRIPTION:Regular Season\nTV: Atlanta News First\nVenue: Rocket Arena\, C
- leveland\, OH\nUnofficial calendar\; not affiliated with the NBA or ESPN. 
- Times may change.
+DESCRIPTION:Regular Season\nTV: DAZN CLE\nVenue: Rocket Arena\, Cleveland\,
+  OH\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
+ change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT

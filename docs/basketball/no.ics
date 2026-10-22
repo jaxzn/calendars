@@ -10,20 +10,20 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:espn-401909839@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261022T000000Z
 DTEND:20261022T023000Z
-SUMMARY:Pacers @ Pelicans (GCSEN / Pelicans.com)
+SUMMARY:Pacers @ Pelicans (GCSEN / Pelicans.com / DAZN IND)
 LOCATION:Smoothie King Center\, New Orleans\, LA
-DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com\nVenue: Smoothie King 
- Center\, New Orleans\, LA\nUnofficial calendar\; not affiliated with the N
- BA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com / DAZN IND\nVenue: Smo
+ othie King Center\, New Orleans\, LA\nFinal: Pacers 123\, Pelicans 120\nUn
+ official calendar\; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909849@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261024T013000Z
 DTEND:20261024T040000Z
 SUMMARY:Pelicans @ Jazz (KJZZ-TV / Jazz+ / GCSEN / Pelicans.com)
@@ -36,83 +36,85 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909859@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261025T010000Z
 DTEND:20261025T033000Z
-SUMMARY:Pelicans @ Nuggets
+SUMMARY:Pelicans @ Nuggets (GCSEN / Pelicans.com)
 LOCATION:Ball Arena\, Denver\, CO
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Ball Arena\, Denver\, CO\nUnoff
- icial calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com\nVenue: Ball Arena\, D
+ enver\, CO\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
+ es may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909889@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261029T000000Z
 DTEND:20261029T023000Z
-SUMMARY:Nuggets @ Pelicans
+SUMMARY:Nuggets @ Pelicans (GCSEN / Pelicans.com)
 LOCATION:Smoothie King Center\, New Orleans\, LA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Smoothie King Center\, New Orle
- ans\, LA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
-  may change.
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com\nVenue: Smoothie King 
+ Center\, New Orleans\, LA\nUnofficial calendar\; not affiliated with the N
+ BA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909894@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261030T000000Z
 DTEND:20261030T023000Z
-SUMMARY:Kings @ Pelicans (NBC Sports CA)
+SUMMARY:Kings @ Pelicans (GCSEN / Pelicans.com)
 LOCATION:Smoothie King Center\, New Orleans\, LA
-DESCRIPTION:Regular Season\nTV: NBC Sports CA\nVenue: Smoothie King Center\
- , New Orleans\, LA\nUnofficial calendar\; not affiliated with the NBA or E
- SPN. Times may change.
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com\nVenue: Smoothie King 
+ Center\, New Orleans\, LA\nUnofficial calendar\; not affiliated with the N
+ BA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909898@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261031T230000Z
 DTEND:20261101T013000Z
-SUMMARY:Hawks @ Pelicans (GCSEN / Pelicans.com / Atlanta News First)
+SUMMARY:Hawks @ Pelicans (GCSEN / Pelicans.com)
 LOCATION:Smoothie King Center\, New Orleans\, LA
-DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com / Atlanta News First\n
- Venue: Smoothie King Center\, New Orleans\, LA\nUnofficial calendar\; not 
- affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com\nVenue: Smoothie King 
+ Center\, New Orleans\, LA\nUnofficial calendar\; not affiliated with the N
+ BA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909914@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261103T010000Z
 DTEND:20261103T033000Z
-SUMMARY:Pelicans @ Grizzlies
+SUMMARY:Pelicans @ Grizzlies (GCSEN / Pelicans.com)
 LOCATION:FedExForum\, Memphis\, TN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: FedExForum\, Memphis\, TN\nUnof
- ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com\nVenue: FedExForum\, M
+ emphis\, TN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Ti
+ mes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909928@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261105T010000Z
 DTEND:20261105T033000Z
-SUMMARY:Jazz @ Pelicans
+SUMMARY:Jazz @ Pelicans (GCSEN / Pelicans.com / KJZZ-TV / Jazz+)
 LOCATION:Smoothie King Center\, New Orleans\, LA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Smoothie King Center\, New Orle
- ans\, LA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
-  may change.
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com / KJZZ-TV / Jazz+\nVen
+ ue: Smoothie King Center\, New Orleans\, LA\nUnofficial calendar\; not aff
+ iliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909293@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261107T010000Z
 DTEND:20261107T033000Z
 SUMMARY:Timberwolves @ Pelicans (GCSEN / Pelicans.com)
@@ -125,20 +127,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909950@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261109T020000Z
 DTEND:20261109T043000Z
-SUMMARY:Pelicans @ Clippers
+SUMMARY:Pelicans @ Clippers (ClipperVision / GCSEN / Pelicans.com)
 LOCATION:Intuit Dome\, Inglewood\, CA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Intuit Dome\, Inglewood\, CA\nU
- nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
- .
+DESCRIPTION:Regular Season\nTV: ClipperVision / GCSEN / Pelicans.com\nVenue
+ : Intuit Dome\, Inglewood\, CA\nUnofficial calendar\; not affiliated with 
+ the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909959@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261110T030000Z
 DTEND:20261110T053000Z
 SUMMARY:Pelicans @ Warriors (NBA TV)
@@ -151,33 +153,33 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909972@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261112T010000Z
 DTEND:20261112T033000Z
-SUMMARY:Nets @ Pelicans (DAZN (YES))
+SUMMARY:Nets @ Pelicans (DAZN (YES) / GCSEN / Pelicans.com)
 LOCATION:Smoothie King Center\, New Orleans\, LA
-DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: Smoothie King Center\, N
- ew Orleans\, LA\nUnofficial calendar\; not affiliated with the NBA or ESPN
- . Times may change.
+DESCRIPTION:Regular Season\nTV: DAZN (YES) / GCSEN / Pelicans.com\nVenue: S
+ moothie King Center\, New Orleans\, LA\nUnofficial calendar\; not affiliat
+ ed with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909300@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261114T010000Z
 DTEND:20261114T033000Z
-SUMMARY:Grizzlies @ Pelicans (GCSEN / Pelicans.com)
+SUMMARY:Grizzlies @ Pelicans (GCSEN / Pelicans.com / DAZN MEM)
 LOCATION:Smoothie King Center\, New Orleans\, LA
-DESCRIPTION:NBA Cup - Group Play\nTV: GCSEN / Pelicans.com\nVenue: Smoothie
-  King Center\, New Orleans\, LA\nUnofficial calendar\; not affiliated with
-  the NBA or ESPN. Times may change.
+DESCRIPTION:NBA Cup - Group Play\nTV: GCSEN / Pelicans.com / DAZN MEM\nVenu
+ e: Smoothie King Center\, New Orleans\, LA\nUnofficial calendar\; not affi
+ liated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909980@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261115T000000Z
 DTEND:20261115T023000Z
 SUMMARY:Nuggets @ Pelicans (GCSEN / Pelicans.com)
@@ -190,137 +192,140 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910000@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261117T010000Z
 DTEND:20261117T033000Z
-SUMMARY:Warriors @ Pelicans (NBC Sports BA)
+SUMMARY:Warriors @ Pelicans (GCSEN / Pelicans.com)
 LOCATION:Smoothie King Center\, New Orleans\, LA
-DESCRIPTION:Regular Season\nTV: NBC Sports BA\nVenue: Smoothie King Center\
- , New Orleans\, LA\nUnofficial calendar\; not affiliated with the NBA or E
- SPN. Times may change.
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com\nVenue: Smoothie King 
+ Center\, New Orleans\, LA\nUnofficial calendar\; not affiliated with the N
+ BA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910013@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261119T010000Z
 DTEND:20261119T033000Z
-SUMMARY:Pistons @ Pelicans
+SUMMARY:Pistons @ Pelicans (GCSEN / Pelicans.com)
 LOCATION:Smoothie King Center\, New Orleans\, LA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Smoothie King Center\, New Orle
- ans\, LA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
-  may change.
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com\nVenue: Smoothie King 
+ Center\, New Orleans\, LA\nUnofficial calendar\; not affiliated with the N
+ BA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909310@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261121T010000Z
 DTEND:20261121T033000Z
-SUMMARY:Pelicans @ Thunder (KSBI)
+SUMMARY:Pelicans @ Thunder (KSBI / Thunder App / GCSEN / Pelicans.com)
 LOCATION:Paycom Center\, Oklahoma City\, OK
-DESCRIPTION:NBA Cup - Group Play\nTV: KSBI\nVenue: Paycom Center\, Oklahoma
-  City\, OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
- es may change.
+DESCRIPTION:NBA Cup - Group Play\nTV: KSBI / Thunder App / GCSEN / Pelicans
+ .com\nVenue: Paycom Center\, Oklahoma City\, OK\nUnofficial calendar\; not
+  affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910027@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261122T010000Z
 DTEND:20261122T033000Z
-SUMMARY:Pelicans @ Spurs
+SUMMARY:Pelicans @ Spurs (DAZN SAS / GCSEN / Pelicans.com)
 LOCATION:Frost Bank Center\, San Antonio\, TX
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Frost Bank Center\, San Antonio
- \, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
- y change.
+DESCRIPTION:Regular Season\nTV: DAZN SAS / GCSEN / Pelicans.com\nVenue: Fro
+ st Bank Center\, San Antonio\, TX\nUnofficial calendar\; not affiliated wi
+ th the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910042@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261124T010000Z
 DTEND:20261124T033000Z
-SUMMARY:Suns @ Pelicans (Suns Live)
+SUMMARY:Suns @ Pelicans (Suns Live / GCSEN / Pelicans.com / Arizona's Famil
+ y 3TV)
 LOCATION:Smoothie King Center\, New Orleans\, LA
-DESCRIPTION:Regular Season\nTV: Suns Live\nVenue: Smoothie King Center\, Ne
- w Orleans\, LA\nUnofficial calendar\; not affiliated with the NBA or ESPN.
-  Times may change.
+DESCRIPTION:Regular Season\nTV: Suns Live / GCSEN / Pelicans.com / Arizona'
+ s Family 3TV\nVenue: Smoothie King Center\, New Orleans\, LA\nUnofficial c
+ alendar\; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909335@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261128T023000Z
 DTEND:20261128T050000Z
-SUMMARY:Pelicans @ Clippers
+SUMMARY:Pelicans @ Clippers (ClipperVision / GCSEN / Pelicans.com)
 LOCATION:Intuit Dome\, Inglewood\, CA
-DESCRIPTION:NBA Cup - Group Play\nTV: TBD\nVenue: Intuit Dome\, Inglewood\,
-  CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:NBA Cup - Group Play\nTV: ClipperVision / GCSEN / Pelicans.com\
+ nVenue: Intuit Dome\, Inglewood\, CA\nUnofficial calendar\; not affiliated
+  with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910058@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261129T230000Z
 DTEND:20261130T013000Z
-SUMMARY:Pelicans @ Trail Blazers (BlazerVision)
+SUMMARY:Pelicans @ Trail Blazers (BlazerVision / GCSEN / Pelicans.com)
 LOCATION:Moda Center\, Portland\, OR
-DESCRIPTION:Regular Season\nTV: BlazerVision\nVenue: Moda Center\, Portland
- \, OR\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
- y change.
+DESCRIPTION:Regular Season\nTV: BlazerVision / GCSEN / Pelicans.com\nVenue:
+  Moda Center\, Portland\, OR\nUnofficial calendar\; not affiliated with th
+ e NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910067@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261201T030000Z
 DTEND:20261201T053000Z
-SUMMARY:Pelicans @ Kings (NBC Sports CA)
+SUMMARY:Pelicans @ Kings (GCSEN / Pelicans.com)
 LOCATION:Golden 1 Center\, Sacramento\, CA
-DESCRIPTION:Regular Season\nTV: NBC Sports CA\nVenue: Golden 1 Center\, Sac
- ramento\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
- imes may change.
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com\nVenue: Golden 1 Cente
+ r\, Sacramento\, CA\nUnofficial calendar\; not affiliated with the NBA or 
+ ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910081@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261203T010000Z
 DTEND:20261203T033000Z
-SUMMARY:Lakers @ Pelicans (Spectrum Sports Net / Spectrum Sports Net +)
+SUMMARY:Lakers @ Pelicans (Spectrum Sports Net / Spectrum Sports Net + / GC
+ SEN / Pelicans.com)
 LOCATION:Smoothie King Center\, New Orleans\, LA
 DESCRIPTION:Regular Season\nTV: Spectrum Sports Net / Spectrum Sports Net +
- \nVenue: Smoothie King Center\, New Orleans\, LA\nUnofficial calendar\; no
- t affiliated with the NBA or ESPN. Times may change.
+  / GCSEN / Pelicans.com\nVenue: Smoothie King Center\, New Orleans\, LA\nU
+ nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
+ .
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910103@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261214T020000Z
 DTEND:20261214T043000Z
-SUMMARY:Pelicans @ Kings (NBC Sports CA)
+SUMMARY:Pelicans @ Kings (GCSEN / Pelicans.com)
 LOCATION:Golden 1 Center\, Sacramento\, CA
-DESCRIPTION:Regular Season\nTV: NBC Sports CA\nVenue: Golden 1 Center\, Sac
- ramento\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
- imes may change.
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com\nVenue: Golden 1 Cente
+ r\, Sacramento\, CA\nUnofficial calendar\; not affiliated with the NBA or 
+ ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910114@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261215T030000Z
 DTEND:20261215T053000Z
 SUMMARY:Pelicans @ Lakers (NBA TV)
@@ -333,124 +338,126 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910126@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261217T010000Z
 DTEND:20261217T033000Z
-SUMMARY:Knicks @ Pelicans
+SUMMARY:Knicks @ Pelicans (GCSEN / Pelicans.com)
 LOCATION:Smoothie King Center\, New Orleans\, LA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Smoothie King Center\, New Orle
- ans\, LA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
-  may change.
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com\nVenue: Smoothie King 
+ Center\, New Orleans\, LA\nUnofficial calendar\; not affiliated with the N
+ BA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910143@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261219T010000Z
 DTEND:20261219T033000Z
-SUMMARY:Kings @ Pelicans (NBC Sports CA)
+SUMMARY:Kings @ Pelicans (GCSEN / Pelicans.com)
 LOCATION:Smoothie King Center\, New Orleans\, LA
-DESCRIPTION:Regular Season\nTV: NBC Sports CA\nVenue: Smoothie King Center\
- , New Orleans\, LA\nUnofficial calendar\; not affiliated with the NBA or E
- SPN. Times may change.
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com\nVenue: Smoothie King 
+ Center\, New Orleans\, LA\nUnofficial calendar\; not affiliated with the N
+ BA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910155@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261221T000000Z
 DTEND:20261221T023000Z
-SUMMARY:Spurs @ Pelicans
+SUMMARY:Spurs @ Pelicans (GCSEN / Pelicans.com / DAZN SAS)
 LOCATION:Smoothie King Center\, New Orleans\, LA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Smoothie King Center\, New Orle
- ans\, LA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
-  may change.
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com / DAZN SAS\nVenue: Smo
+ othie King Center\, New Orleans\, LA\nUnofficial calendar\; not affiliated
+  with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910165@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261222T010000Z
 DTEND:20261222T033000Z
-SUMMARY:Grizzlies @ Pelicans
+SUMMARY:Grizzlies @ Pelicans (GCSEN / Pelicans.com / DAZN MEM)
 LOCATION:Smoothie King Center\, New Orleans\, LA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Smoothie King Center\, New Orle
- ans\, LA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
-  may change.
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com / DAZN MEM\nVenue: Smo
+ othie King Center\, New Orleans\, LA\nUnofficial calendar\; not affiliated
+  with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910182@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261224T010000Z
 DTEND:20261224T033000Z
-SUMMARY:Thunder @ Pelicans (KSBI)
+SUMMARY:Thunder @ Pelicans (KSBI / GCSEN / Pelicans.com / Thunder App)
 LOCATION:Smoothie King Center\, New Orleans\, LA
-DESCRIPTION:Regular Season\nTV: KSBI\nVenue: Smoothie King Center\, New Orl
- eans\, LA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
- s may change.
+DESCRIPTION:Regular Season\nTV: KSBI / GCSEN / Pelicans.com / Thunder App\n
+ Venue: Smoothie King Center\, New Orleans\, LA\nUnofficial calendar\; not 
+ affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910190@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261226T230000Z
 DTEND:20261227T013000Z
-SUMMARY:Pelicans @ Nets (DAZN (YES))
+SUMMARY:Pelicans @ Nets (DAZN (YES) / GCSEN / Pelicans.com)
 LOCATION:Barclays Center\, Brooklyn\, NY
-DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: Barclays Center\, Brookl
- yn\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: DAZN (YES) / GCSEN / Pelicans.com\nVenue: B
+ arclays Center\, Brooklyn\, NY\nUnofficial calendar\; not affiliated with 
+ the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910207@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261229T003000Z
 DTEND:20261229T030000Z
-SUMMARY:Pelicans @ Raptors
+SUMMARY:Pelicans @ Raptors (GCSEN / Pelicans.com)
 LOCATION:Scotiabank Arena\, Toronto\, ON
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Scotiabank Arena\, Toronto\, ON
- \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
- nge.
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com\nVenue: Scotiabank Are
+ na\, Toronto\, ON\nUnofficial calendar\; not affiliated with the NBA or ES
+ PN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910220@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261231T000000Z
 DTEND:20261231T023000Z
-SUMMARY:Pelicans @ Pistons
+SUMMARY:Pelicans @ Pistons (GCSEN / Pelicans.com)
 LOCATION:Little Caesars Arena\, Detroit\, MI
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Little Caesars Arena\, Detroit\
- , MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com\nVenue: Little Caesars
+  Arena\, Detroit\, MI\nUnofficial calendar\; not affiliated with the NBA o
+ r ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910232@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270101T010000Z
 DTEND:20270101T033000Z
-SUMMARY:Lakers @ Pelicans (Spectrum Sports Net / Spectrum Sports Net +)
+SUMMARY:Lakers @ Pelicans (Spectrum Sports Net / Spectrum Sports Net + / GC
+ SEN / Pelicans.com)
 LOCATION:Smoothie King Center\, New Orleans\, LA
 DESCRIPTION:Regular Season\nTV: Spectrum Sports Net / Spectrum Sports Net +
- \nVenue: Smoothie King Center\, New Orleans\, LA\nUnofficial calendar\; no
- t affiliated with the NBA or ESPN. Times may change.
+  / GCSEN / Pelicans.com\nVenue: Smoothie King Center\, New Orleans\, LA\nU
+ nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
+ .
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910244@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270103T000000Z
 DTEND:20270103T023000Z
 SUMMARY:Heat @ Pelicans (GCSEN / Pelicans.com)
@@ -463,20 +470,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910261@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270105T010000Z
 DTEND:20270105T033000Z
-SUMMARY:Mavericks @ Pelicans
+SUMMARY:Mavericks @ Pelicans (GCSEN / Pelicans.com / KFAA-TV / MavsTV)
 LOCATION:Smoothie King Center\, New Orleans\, LA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Smoothie King Center\, New Orle
- ans\, LA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
-  may change.
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com / KFAA-TV / MavsTV\nVe
+ nue: Smoothie King Center\, New Orleans\, LA\nUnofficial calendar\; not af
+ filiated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910276@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270107T010000Z
 DTEND:20270107T033000Z
 SUMMARY:Trail Blazers @ Pelicans (BlazerVision / GCSEN / Pelicans.com)
@@ -489,7 +496,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910294@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270109T010000Z
 DTEND:20270109T033000Z
 SUMMARY:Magic @ Pelicans (GCSEN / Pelicans.com)
@@ -502,19 +509,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910307@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270110T230000Z
 DTEND:20270111T013000Z
-SUMMARY:Pelicans @ Heat (WPLG)
+SUMMARY:Pelicans @ Heat (GCSEN / Pelicans.com)
 LOCATION:Kaseya Center\, Miami\, FL
-DESCRIPTION:Regular Season\nTV: WPLG\nVenue: Kaseya Center\, Miami\, FL\nUn
- official calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com\nVenue: Kaseya Center\
+ , Miami\, FL\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
+ imes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910334@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270114T190000Z
 DTEND:20270114T213000Z
 SUMMARY:Pelicans @ Spurs (Prime Video)
@@ -526,7 +534,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910357@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270117T153000Z
 DTEND:20270117T180000Z
 SUMMARY:Spurs @ Pelicans (Prime Video)
@@ -539,59 +547,59 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910380@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270121T010000Z
 DTEND:20270121T033000Z
-SUMMARY:Thunder @ Pelicans (KSBI / GCSEN / Pelicans.com)
+SUMMARY:Thunder @ Pelicans (KSBI / GCSEN / Pelicans.com / Thunder App)
 LOCATION:Smoothie King Center\, New Orleans\, LA
-DESCRIPTION:Regular Season\nTV: KSBI / GCSEN / Pelicans.com\nVenue: Smoothi
- e King Center\, New Orleans\, LA\nUnofficial calendar\; not affiliated wit
- h the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: KSBI / GCSEN / Pelicans.com / Thunder App\n
+ Venue: Smoothie King Center\, New Orleans\, LA\nUnofficial calendar\; not 
+ affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910393@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270123T010000Z
 DTEND:20270123T033000Z
-SUMMARY:Mavericks @ Pelicans
+SUMMARY:Mavericks @ Pelicans (GCSEN / Pelicans.com / KFAA-TV / MavsTV)
 LOCATION:Smoothie King Center\, New Orleans\, LA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Smoothie King Center\, New Orle
- ans\, LA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
-  may change.
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com / KFAA-TV / MavsTV\nVe
+ nue: Smoothie King Center\, New Orleans\, LA\nUnofficial calendar\; not af
+ filiated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910419@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270126T010000Z
 DTEND:20270126T033000Z
-SUMMARY:Cavaliers @ Pelicans
+SUMMARY:Cavaliers @ Pelicans (GCSEN / Pelicans.com / DAZN CLE)
 LOCATION:Smoothie King Center\, New Orleans\, LA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Smoothie King Center\, New Orle
- ans\, LA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
-  may change.
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com / DAZN CLE\nVenue: Smo
+ othie King Center\, New Orleans\, LA\nUnofficial calendar\; not affiliated
+  with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910434@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270128T013000Z
 DTEND:20270128T040000Z
-SUMMARY:Pelicans @ Rockets
+SUMMARY:Pelicans @ Rockets (GCSEN / Pelicans.com)
 LOCATION:Toyota Center (Houston)\, Houston\, TX
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Toyota Center (Houston)\, Houst
- on\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com\nVenue: Toyota Center 
+ (Houston)\, Houston\, TX\nUnofficial calendar\; not affiliated with the NB
+ A or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910441@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270129T010000Z
 DTEND:20270129T033000Z
 SUMMARY:76ers @ Pelicans (GCSEN / Pelicans.com)
@@ -604,110 +612,111 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910455@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270131T003000Z
 DTEND:20270131T030000Z
-SUMMARY:Pelicans @ Cavaliers (GCSEN / Pelicans.com)
+SUMMARY:Pelicans @ Cavaliers (GCSEN / Pelicans.com / DAZN CLE)
 LOCATION:Rocket Arena\, Cleveland\, OH
-DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com\nVenue: Rocket Arena\,
-  Cleveland\, OH\nUnofficial calendar\; not affiliated with the NBA or ESPN
- . Times may change.
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com / DAZN CLE\nVenue: Roc
+ ket Arena\, Cleveland\, OH\nUnofficial calendar\; not affiliated with the 
+ NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910468@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270202T000000Z
 DTEND:20270202T023000Z
-SUMMARY:Pelicans @ 76ers
+SUMMARY:Pelicans @ 76ers (GCSEN / Pelicans.com)
 LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Xfinity Mobile Arena\, Philadel
- phia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
- s may change.
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com\nVenue: Xfinity Mobile
+  Arena\, Philadelphia\, PA\nUnofficial calendar\; not affiliated with the 
+ NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910475@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270203T000000Z
 DTEND:20270203T023000Z
-SUMMARY:Pelicans @ Magic
+SUMMARY:Pelicans @ Magic (GCSEN / Pelicans.com)
 LOCATION:Kia Center\, Orlando\, FL
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Kia Center\, Orlando\, FL\nUnof
- ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com\nVenue: Kia Center\, O
+ rlando\, FL\nUnofficial calendar\; not affiliated with the NBA or ESPN. Ti
+ mes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910488@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270205T000000Z
 DTEND:20270205T023000Z
-SUMMARY:Pelicans @ Wizards
+SUMMARY:Pelicans @ Wizards (GCSEN / Pelicans.com)
 LOCATION:Capital One Arena\, Washington\, DC
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Capital One Arena\, Washington\
- , DC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com\nVenue: Capital One Ar
+ ena\, Washington\, DC\nUnofficial calendar\; not affiliated with the NBA o
+ r ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910510@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270207T010000Z
 DTEND:20270207T033000Z
-SUMMARY:Pelicans @ Bulls (CHSN)
+SUMMARY:Pelicans @ Bulls (GCSEN / Pelicans.com)
 LOCATION:United Center\, Chicago\, IL
-DESCRIPTION:Regular Season\nTV: CHSN\nVenue: United Center\, Chicago\, IL\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com\nVenue: United Center\
+ , Chicago\, IL\nUnofficial calendar\; not affiliated with the NBA or ESPN.
+  Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910522@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270209T000000Z
 DTEND:20270209T023000Z
-SUMMARY:Pelicans @ Pacers
+SUMMARY:Pelicans @ Pacers (DAZN IND / GCSEN / Pelicans.com)
 LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Gainbridge Fieldhouse\, Indiana
- polis\, IN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
- es may change.
+DESCRIPTION:Regular Season\nTV: DAZN IND / GCSEN / Pelicans.com\nVenue: Gai
+ nbridge Fieldhouse\, Indianapolis\, IN\nUnofficial calendar\; not affiliat
+ ed with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910538@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270211T000000Z
 DTEND:20270211T023000Z
-SUMMARY:Pelicans @ Hawks
+SUMMARY:Pelicans @ Hawks (GCSEN / Pelicans.com)
 LOCATION:State Farm Arena\, Atlanta\, GA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: State Farm Arena\, Atlanta\, GA
- \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
- nge.
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com\nVenue: State Farm Are
+ na\, Atlanta\, GA\nUnofficial calendar\; not affiliated with the NBA or ES
+ PN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910558@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270213T010000Z
 DTEND:20270213T033000Z
-SUMMARY:Rockets @ Pelicans
+SUMMARY:Rockets @ Pelicans (GCSEN / Pelicans.com)
 LOCATION:Smoothie King Center\, New Orleans\, LA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Smoothie King Center\, New Orle
- ans\, LA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
-  may change.
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com\nVenue: Smoothie King 
+ Center\, New Orleans\, LA\nUnofficial calendar\; not affiliated with the N
+ BA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910572@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270214T190000Z
 DTEND:20270214T213000Z
 SUMMARY:Clippers @ Pelicans (GCSEN / Pelicans.com / ClipperVision)
@@ -720,137 +729,140 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910581@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270217T030000Z
 DTEND:20270217T053000Z
-SUMMARY:Pelicans @ Trail Blazers (KUNP 16 / BlazerVision)
+SUMMARY:Pelicans @ Trail Blazers (KUNP 16 / BlazerVision / GCSEN / Pelicans
+ .com)
 LOCATION:Moda Center\, Portland\, OR
-DESCRIPTION:Regular Season\nTV: KUNP 16 / BlazerVision\nVenue: Moda Center\
- , Portland\, OR\nUnofficial calendar\; not affiliated with the NBA or ESPN
- . Times may change.
+DESCRIPTION:Regular Season\nTV: KUNP 16 / BlazerVision / GCSEN / Pelicans.c
+ om\nVenue: Moda Center\, Portland\, OR\nUnofficial calendar\; not affiliat
+ ed with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910593@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270218T030000Z
 DTEND:20270218T053000Z
-SUMMARY:Pelicans @ Warriors (NBC Sports BA)
+SUMMARY:Pelicans @ Warriors (GCSEN / Pelicans.com)
 LOCATION:Chase Center\, San Francisco\, CA
-DESCRIPTION:Regular Season\nTV: NBC Sports BA\nVenue: Chase Center\, San Fr
- ancisco\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
- imes may change.
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com\nVenue: Chase Center\,
+  San Francisco\, CA\nUnofficial calendar\; not affiliated with the NBA or 
+ ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910607@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270226T010000Z
 DTEND:20270226T033000Z
-SUMMARY:Suns @ Pelicans (Suns Live)
+SUMMARY:Suns @ Pelicans (Suns Live / GCSEN / Pelicans.com / Arizona's Famil
+ y 3TV)
 LOCATION:Smoothie King Center\, New Orleans\, LA
-DESCRIPTION:Regular Season\nTV: Suns Live\nVenue: Smoothie King Center\, Ne
- w Orleans\, LA\nUnofficial calendar\; not affiliated with the NBA or ESPN.
-  Times may change.
+DESCRIPTION:Regular Season\nTV: Suns Live / GCSEN / Pelicans.com / Arizona'
+ s Family 3TV\nVenue: Smoothie King Center\, New Orleans\, LA\nUnofficial c
+ alendar\; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910622@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270228T020000Z
 DTEND:20270228T043000Z
-SUMMARY:Pelicans @ Suns (Suns Live)
+SUMMARY:Pelicans @ Suns (Suns Live / Arizona's Family 3TV / GCSEN / Pelican
+ s.com)
 LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
-DESCRIPTION:Regular Season\nTV: Suns Live\nVenue: Mortgage Matchup Center\,
-  Phoenix\, AZ\nUnofficial calendar\; not affiliated with the NBA or ESPN. 
- Times may change.
+DESCRIPTION:Regular Season\nTV: Suns Live / Arizona's Family 3TV / GCSEN / 
+ Pelicans.com\nVenue: Mortgage Matchup Center\, Phoenix\, AZ\nUnofficial ca
+ lendar\; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910634@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270302T010000Z
 DTEND:20270302T033000Z
-SUMMARY:Jazz @ Pelicans
+SUMMARY:Jazz @ Pelicans (GCSEN / Pelicans.com / KJZZ-TV / Jazz+)
 LOCATION:Smoothie King Center\, New Orleans\, LA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Smoothie King Center\, New Orle
- ans\, LA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
-  may change.
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com / KJZZ-TV / Jazz+\nVen
+ ue: Smoothie King Center\, New Orleans\, LA\nUnofficial calendar\; not aff
+ iliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910651@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270304T013000Z
 DTEND:20270304T040000Z
-SUMMARY:Pelicans @ Rockets
+SUMMARY:Pelicans @ Rockets (GCSEN / Pelicans.com)
 LOCATION:Toyota Center (Houston)\, Houston\, TX
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Toyota Center (Houston)\, Houst
- on\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com\nVenue: Toyota Center 
+ (Houston)\, Houston\, TX\nUnofficial calendar\; not affiliated with the NB
+ A or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910665@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270306T010000Z
 DTEND:20270306T033000Z
-SUMMARY:Bucks @ Pelicans
+SUMMARY:Bucks @ Pelicans (GCSEN / Pelicans.com / MyMi / Bucks App)
 LOCATION:Smoothie King Center\, New Orleans\, LA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Smoothie King Center\, New Orle
- ans\, LA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
-  may change.
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com / MyMi / Bucks App\nVe
+ nue: Smoothie King Center\, New Orleans\, LA\nUnofficial calendar\; not af
+ filiated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910672@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270307T010000Z
 DTEND:20270307T033000Z
-SUMMARY:Pelicans @ Grizzlies (GCSEN / Pelicans.com)
+SUMMARY:Pelicans @ Grizzlies (GCSEN / Pelicans.com / DAZN MEM)
 LOCATION:FedExForum\, Memphis\, TN
-DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com\nVenue: FedExForum\, M
- emphis\, TN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Ti
- mes may change.
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com / DAZN MEM\nVenue: Fed
+ ExForum\, Memphis\, TN\nUnofficial calendar\; not affiliated with the NBA 
+ or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910685@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270309T010000Z
 DTEND:20270309T033000Z
-SUMMARY:Pelicans @ Timberwolves
+SUMMARY:Pelicans @ Timberwolves (DAZN MIN / GCSEN / Pelicans.com)
 LOCATION:Target Center\, Minneapolis\, MN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Target Center\, Minneapolis\, M
- N\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
- ange.
+DESCRIPTION:Regular Season\nTV: DAZN MIN / GCSEN / Pelicans.com\nVenue: Tar
+ get Center\, Minneapolis\, MN\nUnofficial calendar\; not affiliated with t
+ he NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910696@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270311T000000Z
 DTEND:20270311T023000Z
-SUMMARY:Pelicans @ Hornets
+SUMMARY:Pelicans @ Hornets (DAZN CHA / GCSEN / Pelicans.com)
 LOCATION:Spectrum Center\, Charlotte\, NC
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Spectrum Center\, Charlotte\, N
- C\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
- ange.
+DESCRIPTION:Regular Season\nTV: DAZN CHA / GCSEN / Pelicans.com\nVenue: Spe
+ ctrum Center\, Charlotte\, NC\nUnofficial calendar\; not affiliated with t
+ he NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910715@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270313T010000Z
 DTEND:20270313T033000Z
 SUMMARY:Raptors @ Pelicans (GCSEN / Pelicans.com)
@@ -863,7 +875,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910724@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270314T010000Z
 DTEND:20270314T033000Z
 SUMMARY:Pelicans @ Mavericks (KFAA-TV / MavsTV / GCSEN / Pelicans.com)
@@ -876,33 +888,33 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910743@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270317T000000Z
 DTEND:20270317T023000Z
-SUMMARY:Timberwolves @ Pelicans
+SUMMARY:Timberwolves @ Pelicans (GCSEN / Pelicans.com / DAZN MIN)
 LOCATION:Smoothie King Center\, New Orleans\, LA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Smoothie King Center\, New Orle
- ans\, LA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
-  may change.
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com / DAZN MIN\nVenue: Smo
+ othie King Center\, New Orleans\, LA\nUnofficial calendar\; not affiliated
+  with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910761@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270319T000000Z
 DTEND:20270319T023000Z
-SUMMARY:Hornets @ Pelicans
+SUMMARY:Hornets @ Pelicans (GCSEN / Pelicans.com / DAZN CHA)
 LOCATION:Smoothie King Center\, New Orleans\, LA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Smoothie King Center\, New Orle
- ans\, LA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
-  may change.
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com / DAZN CHA\nVenue: Smo
+ othie King Center\, New Orleans\, LA\nUnofficial calendar\; not affiliated
+  with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910767@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270320T000000Z
 DTEND:20270320T023000Z
 SUMMARY:Rockets @ Pelicans (GCSEN / Pelicans.com)
@@ -915,130 +927,131 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910779@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270321T190000Z
 DTEND:20270321T213000Z
-SUMMARY:Pelicans @ Celtics (NBC Sports BO)
+SUMMARY:Pelicans @ Celtics (GCSEN / Pelicans.com)
 LOCATION:TD Garden\, Boston\, MA
-DESCRIPTION:Regular Season\nTV: NBC Sports BO\nVenue: TD Garden\, Boston\, 
- MA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com\nVenue: TD Garden\, Bo
+ ston\, MA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
+ s may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910795@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270323T233000Z
 DTEND:20270324T020000Z
-SUMMARY:Pelicans @ Knicks
+SUMMARY:Pelicans @ Knicks (GCSEN / Pelicans.com)
 LOCATION:Madison Square Garden\, New York\, NY
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Madison Square Garden\, New Yor
- k\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
- ay change.
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com\nVenue: Madison Square
+  Garden\, New York\, NY\nUnofficial calendar\; not affiliated with the NBA
+  or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910819@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270327T000000Z
 DTEND:20270327T023000Z
-SUMMARY:Pelicans @ Mavericks
+SUMMARY:Pelicans @ Mavericks (KFAA-TV / MavsTV / GCSEN / Pelicans.com)
 LOCATION:American Airlines Center\, Dallas\, TX
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: American Airlines Center\, Dall
- as\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: KFAA-TV / MavsTV / GCSEN / Pelicans.com\nVe
+ nue: American Airlines Center\, Dallas\, TX\nUnofficial calendar\; not aff
+ iliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910836@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270328T230000Z
 DTEND:20270329T013000Z
-SUMMARY:Celtics @ Pelicans (NBC Sports BO)
+SUMMARY:Celtics @ Pelicans (GCSEN / Pelicans.com)
 LOCATION:Smoothie King Center\, New Orleans\, LA
-DESCRIPTION:Regular Season\nTV: NBC Sports BO\nVenue: Smoothie King Center\
- , New Orleans\, LA\nUnofficial calendar\; not affiliated with the NBA or E
- SPN. Times may change.
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com\nVenue: Smoothie King 
+ Center\, New Orleans\, LA\nUnofficial calendar\; not affiliated with the N
+ BA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910859@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270401T000000Z
 DTEND:20270401T023000Z
-SUMMARY:Pelicans @ Bucks
+SUMMARY:Pelicans @ Bucks (MyMi / Bucks App / GCSEN / Pelicans.com)
 LOCATION:Fiserv Forum\, Milwaukee\, WI
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Fiserv Forum\, Milwaukee\, WI\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: MyMi / Bucks App / GCSEN / Pelicans.com\nVe
+ nue: Fiserv Forum\, Milwaukee\, WI\nUnofficial calendar\; not affiliated w
+ ith the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910880@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270403T210000Z
 DTEND:20270403T233000Z
-SUMMARY:Pelicans @ Thunder (KSBI)
+SUMMARY:Pelicans @ Thunder (KSBI / Thunder App / GCSEN / Pelicans.com)
 LOCATION:Paycom Center\, Oklahoma City\, OK
-DESCRIPTION:Regular Season\nTV: KSBI\nVenue: Paycom Center\, Oklahoma City\
- , OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:Regular Season\nTV: KSBI / Thunder App / GCSEN / Pelicans.com\n
+ Venue: Paycom Center\, Oklahoma City\, OK\nUnofficial calendar\; not affil
+ iated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910897@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270406T000000Z
 DTEND:20270406T023000Z
-SUMMARY:Wizards @ Pelicans
+SUMMARY:Wizards @ Pelicans (GCSEN / Pelicans.com)
 LOCATION:Smoothie King Center\, New Orleans\, LA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Smoothie King Center\, New Orle
- ans\, LA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
-  may change.
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com\nVenue: Smoothie King 
+ Center\, New Orleans\, LA\nUnofficial calendar\; not affiliated with the N
+ BA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910904@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270407T010000Z
 DTEND:20270407T033000Z
-SUMMARY:Pelicans @ Nuggets
+SUMMARY:Pelicans @ Nuggets (GCSEN / Pelicans.com)
 LOCATION:Ball Arena\, Denver\, CO
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Ball Arena\, Denver\, CO\nUnoff
- icial calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com\nVenue: Ball Arena\, D
+ enver\, CO\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
+ es may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910921@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270409T010000Z
 DTEND:20270409T033000Z
-SUMMARY:Pelicans @ Jazz
+SUMMARY:Pelicans @ Jazz (KJZZ-TV / Jazz+ / GCSEN / Pelicans.com)
 LOCATION:Delta Center\, Salt Lake City\, UT
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Delta Center\, Salt Lake City\,
-  UT\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may 
- change.
+DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+ / GCSEN / Pelicans.com\nVen
+ ue: Delta Center\, Salt Lake City\, UT\nUnofficial calendar\; not affiliat
+ ed with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910944@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270411T220000Z
 DTEND:20270412T003000Z
-SUMMARY:Bulls @ Pelicans
+SUMMARY:Bulls @ Pelicans (GCSEN / Pelicans.com)
 LOCATION:Smoothie King Center\, New Orleans\, LA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Smoothie King Center\, New Orle
- ans\, LA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
-  may change.
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com\nVenue: Smoothie King 
+ Center\, New Orleans\, LA\nUnofficial calendar\; not affiliated with the N
+ BA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT

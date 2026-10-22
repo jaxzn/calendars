@@ -10,59 +10,59 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:espn-401909836@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261021T233000Z
 DTEND:20261022T020000Z
 SUMMARY:Hornets @ Nets (DAZN (YES))
 LOCATION:Barclays Center\, Brooklyn\, NY
 DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: Barclays Center\, Brookl
- yn\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+ yn\, NY\nFinal: Hornets 110\, Nets 103\nUnofficial calendar\; not affiliat
+ ed with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909854@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261024T233000Z
 DTEND:20261025T020000Z
-SUMMARY:Nets @ Cavaliers (DAZN (YES))
+SUMMARY:Nets @ Cavaliers (DAZN (YES) / DAZN CLE)
 LOCATION:Rocket Arena\, Cleveland\, OH
-DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: Rocket Arena\, Cleveland
- \, OH\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
- y change.
+DESCRIPTION:Regular Season\nTV: DAZN (YES) / DAZN CLE\nVenue: Rocket Arena\
+ , Cleveland\, OH\nUnofficial calendar\; not affiliated with the NBA or ESP
+ N. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909862@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261025T220000Z
 DTEND:20261026T003000Z
-SUMMARY:Pacers @ Nets (DAZN (YES))
+SUMMARY:Pacers @ Nets (DAZN (YES) / DAZN IND)
 LOCATION:Barclays Center\, Brooklyn\, NY
-DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: Barclays Center\, Brookl
- yn\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: DAZN (YES) / DAZN IND\nVenue: Barclays Cent
+ er\, Brooklyn\, NY\nUnofficial calendar\; not affiliated with the NBA or E
+ SPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909877@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261027T233000Z
 DTEND:20261028T020000Z
-SUMMARY:Nets @ Celtics (NBC Sports BO / DAZN (YES))
+SUMMARY:Nets @ Celtics (DAZN (YES))
 LOCATION:TD Garden\, Boston\, MA
-DESCRIPTION:Regular Season\nTV: NBC Sports BO / DAZN (YES)\nVenue: TD Garde
- n\, Boston\, MA\nUnofficial calendar\; not affiliated with the NBA or ESPN
- . Times may change.
+DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: TD Garden\, Boston\, MA\
+ nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may chan
+ ge.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909279@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261030T233000Z
 DTEND:20261031T020000Z
 SUMMARY:Pistons @ Nets (DAZN (YES))
@@ -75,20 +75,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909904@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261101T220000Z
 DTEND:20261102T003000Z
-SUMMARY:Nets @ Pacers (DAZN (YES))
+SUMMARY:Nets @ Pacers (DAZN (YES) / DAZN IND)
 LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
-DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: Gainbridge Fieldhouse\, 
- Indianapolis\, IN\nUnofficial calendar\; not affiliated with the NBA or ES
- PN. Times may change.
+DESCRIPTION:Regular Season\nTV: DAZN (YES) / DAZN IND\nVenue: Gainbridge Fi
+ eldhouse\, Indianapolis\, IN\nUnofficial calendar\; not affiliated with th
+ e NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909910@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261103T003000Z
 DTEND:20261103T030000Z
 SUMMARY:Nets @ Knicks (DAZN (YES))
@@ -101,7 +101,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909925@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261105T003000Z
 DTEND:20261105T030000Z
 SUMMARY:Hornets @ Nets (DAZN (YES))
@@ -114,59 +114,59 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909939@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261108T003000Z
 DTEND:20261108T030000Z
-SUMMARY:Nets @ Hawks (DAZN (YES) / Atlanta News First)
+SUMMARY:Nets @ Hawks (DAZN (YES))
 LOCATION:State Farm Arena\, Atlanta\, GA
-DESCRIPTION:Regular Season\nTV: DAZN (YES) / Atlanta News First\nVenue: Sta
- te Farm Arena\, Atlanta\, GA\nUnofficial calendar\; not affiliated with th
- e NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: State Farm Arena\, Atlan
+ ta\, GA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909948@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261109T003000Z
 DTEND:20261109T030000Z
-SUMMARY:Nets @ Mavericks (DAZN (YES))
+SUMMARY:Nets @ Mavericks (DAZN (YES) / KFAA-TV / MavsTV)
 LOCATION:American Airlines Center\, Dallas\, TX
-DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: American Airlines Center
- \, Dallas\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN.
-  Times may change.
+DESCRIPTION:Regular Season\nTV: DAZN (YES) / KFAA-TV / MavsTV\nVenue: Ameri
+ can Airlines Center\, Dallas\, TX\nUnofficial calendar\; not affiliated wi
+ th the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909972@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261112T010000Z
 DTEND:20261112T033000Z
-SUMMARY:Nets @ Pelicans (DAZN (YES))
+SUMMARY:Nets @ Pelicans (DAZN (YES) / GCSEN / Pelicans.com)
 LOCATION:Smoothie King Center\, New Orleans\, LA
-DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: Smoothie King Center\, N
- ew Orleans\, LA\nUnofficial calendar\; not affiliated with the NBA or ESPN
- . Times may change.
+DESCRIPTION:Regular Season\nTV: DAZN (YES) / GCSEN / Pelicans.com\nVenue: S
+ moothie King Center\, New Orleans\, LA\nUnofficial calendar\; not affiliat
+ ed with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909983@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261115T010000Z
 DTEND:20261115T033000Z
-SUMMARY:Nets @ Grizzlies (DAZN (YES))
+SUMMARY:Nets @ Grizzlies (DAZN (YES) / DAZN MEM)
 LOCATION:FedExForum\, Memphis\, TN
-DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: FedExForum\, Memphis\, T
- N\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
- ange.
+DESCRIPTION:Regular Season\nTV: DAZN (YES) / DAZN MEM\nVenue: FedExForum\, 
+ Memphis\, TN\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
+ imes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909997@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261117T003000Z
 DTEND:20261117T030000Z
 SUMMARY:76ers @ Nets (DAZN (YES))
@@ -179,7 +179,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910011@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261119T003000Z
 DTEND:20261119T030000Z
 SUMMARY:Bulls @ Nets (DAZN (YES))
@@ -192,7 +192,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909306@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261121T003000Z
 DTEND:20261121T030000Z
 SUMMARY:Magic @ Nets (DAZN (YES))
@@ -205,7 +205,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910040@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261124T003000Z
 DTEND:20261124T030000Z
 SUMMARY:Nets @ Timberwolves (NBCSN)
@@ -218,20 +218,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909322@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261126T010000Z
 DTEND:20261126T033000Z
-SUMMARY:Nets @ Bucks (DAZN (YES))
+SUMMARY:Nets @ Bucks (DAZN (YES) / MyMi / Bucks App)
 LOCATION:Fiserv Forum\, Milwaukee\, WI
-DESCRIPTION:NBA Cup - Group Play\nTV: DAZN (YES)\nVenue: Fiserv Forum\, Mil
- waukee\, WI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Ti
- mes may change.
+DESCRIPTION:NBA Cup - Group Play\nTV: DAZN (YES) / MyMi / Bucks App\nVenue:
+  Fiserv Forum\, Milwaukee\, WI\nUnofficial calendar\; not affiliated with 
+ the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909329@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261128T003000Z
 DTEND:20261128T030000Z
 SUMMARY:Nets @ Raptors (DAZN (YES))
@@ -244,7 +244,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910047@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261128T230000Z
 DTEND:20261129T013000Z
 SUMMARY:Nets @ Hornets (DAZN (YES))
@@ -257,46 +257,46 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910063@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261201T003000Z
 DTEND:20261201T030000Z
-SUMMARY:Thunder @ Nets (KSBI / DAZN (YES))
+SUMMARY:Thunder @ Nets (KSBI / DAZN (YES) / Thunder App)
 LOCATION:Barclays Center\, Brooklyn\, NY
-DESCRIPTION:Regular Season\nTV: KSBI / DAZN (YES)\nVenue: Barclays Center\,
-  Brooklyn\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN.
-  Times may change.
+DESCRIPTION:Regular Season\nTV: KSBI / DAZN (YES) / Thunder App\nVenue: Bar
+ clays Center\, Brooklyn\, NY\nUnofficial calendar\; not affiliated with th
+ e NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910082@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261203T010000Z
 DTEND:20261203T033000Z
-SUMMARY:Nets @ Thunder (KSBI / DAZN (YES))
+SUMMARY:Nets @ Thunder (KSBI / DAZN (YES) / Thunder App)
 LOCATION:Paycom Center\, Oklahoma City\, OK
-DESCRIPTION:Regular Season\nTV: KSBI / DAZN (YES)\nVenue: Paycom Center\, O
- klahoma City\, OK\nUnofficial calendar\; not affiliated with the NBA or ES
- PN. Times may change.
+DESCRIPTION:Regular Season\nTV: KSBI / DAZN (YES) / Thunder App\nVenue: Pay
+ com Center\, Oklahoma City\, OK\nUnofficial calendar\; not affiliated with
+  the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910098@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261213T200000Z
 DTEND:20261213T223000Z
-SUMMARY:Celtics @ Nets (DAZN (YES) / NBC Sports BO)
+SUMMARY:Celtics @ Nets (DAZN (YES))
 LOCATION:Barclays Center\, Brooklyn\, NY
-DESCRIPTION:Regular Season\nTV: DAZN (YES) / NBC Sports BO\nVenue: Barclays
-  Center\, Brooklyn\, NY\nUnofficial calendar\; not affiliated with the NBA
-  or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: Barclays Center\, Brookl
+ yn\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910105@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261215T000000Z
 DTEND:20261215T023000Z
 SUMMARY:Nets @ Pistons (DAZN (YES))
@@ -309,20 +309,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910122@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261217T003000Z
 DTEND:20261217T030000Z
-SUMMARY:Mavericks @ Nets (DAZN (YES))
+SUMMARY:Mavericks @ Nets (DAZN (YES) / KFAA-TV / MavsTV)
 LOCATION:Barclays Center\, Brooklyn\, NY
-DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: Barclays Center\, Brookl
- yn\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: DAZN (YES) / KFAA-TV / MavsTV\nVenue: Barcl
+ ays Center\, Brooklyn\, NY\nUnofficial calendar\; not affiliated with the 
+ NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910137@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261219T003000Z
 DTEND:20261219T030000Z
 SUMMARY:Magic @ Nets (DAZN (YES))
@@ -335,7 +335,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910149@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261220T200000Z
 DTEND:20261220T223000Z
 SUMMARY:Wizards @ Nets (DAZN (YES))
@@ -348,7 +348,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910162@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261222T003000Z
 DTEND:20261222T030000Z
 SUMMARY:Trail Blazers @ Nets (KUNP 16 / BlazerVision / DAZN (YES))
@@ -361,7 +361,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910176@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261224T003000Z
 DTEND:20261224T030000Z
 SUMMARY:Spurs @ Nets (DAZN (YES))
@@ -374,33 +374,33 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910190@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261226T230000Z
 DTEND:20261227T013000Z
-SUMMARY:Pelicans @ Nets (DAZN (YES))
+SUMMARY:Pelicans @ Nets (DAZN (YES) / GCSEN / Pelicans.com)
 LOCATION:Barclays Center\, Brooklyn\, NY
-DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: Barclays Center\, Brookl
- yn\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: DAZN (YES) / GCSEN / Pelicans.com\nVenue: B
+ arclays Center\, Brooklyn\, NY\nUnofficial calendar\; not affiliated with 
+ the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910198@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261227T230000Z
 DTEND:20261228T013000Z
-SUMMARY:Nets @ Knicks
+SUMMARY:Nets @ Knicks (DAZN (YES))
 LOCATION:Madison Square Garden\, New York\, NY
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Madison Square Garden\, New Yor
- k\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
- ay change.
+DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: Madison Square Garden\, 
+ New York\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. 
+ Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910217@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261230T030000Z
 DTEND:20261230T053000Z
 SUMMARY:Nets @ Trail Blazers (KUNP 16 / DAZN (YES) / BlazerVision)
@@ -413,7 +413,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910231@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261231T230000Z
 DTEND:20270101T013000Z
 SUMMARY:Nets @ Kings (DAZN (YES))
@@ -426,33 +426,33 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910248@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270103T013000Z
 DTEND:20270103T040000Z
-SUMMARY:Nets @ Warriors (DAZN (YES) / NBC Sports BA)
+SUMMARY:Nets @ Warriors (DAZN (YES))
 LOCATION:Chase Center\, San Francisco\, CA
-DESCRIPTION:Regular Season\nTV: DAZN (YES) / NBC Sports BA\nVenue: Chase Ce
- nter\, San Francisco\, CA\nUnofficial calendar\; not affiliated with the N
- BA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: Chase Center\, San Franc
+ isco\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
+ s may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910263@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270105T020000Z
 DTEND:20270105T043000Z
-SUMMARY:Nets @ Jazz (DAZN (YES))
+SUMMARY:Nets @ Jazz (DAZN (YES) / KJZZ-TV / Jazz+)
 LOCATION:Delta Center\, Salt Lake City\, UT
-DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: Delta Center\, Salt Lake
-  City\, UT\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
- es may change.
+DESCRIPTION:Regular Season\nTV: DAZN (YES) / KJZZ-TV / Jazz+\nVenue: Delta 
+ Center\, Salt Lake City\, UT\nUnofficial calendar\; not affiliated with th
+ e NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910274@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270107T003000Z
 DTEND:20270107T030000Z
 SUMMARY:Jazz @ Nets (DAZN (YES) / KJZZ-TV / Jazz+)
@@ -465,20 +465,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910283@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270108T003000Z
 DTEND:20270108T030000Z
-SUMMARY:Heat @ Nets (DAZN (YES) / WPLG)
+SUMMARY:Heat @ Nets (DAZN (YES))
 LOCATION:Barclays Center\, Brooklyn\, NY
-DESCRIPTION:Regular Season\nTV: DAZN (YES) / WPLG\nVenue: Barclays Center\,
-  Brooklyn\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN.
-  Times may change.
+DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: Barclays Center\, Brookl
+ yn\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910300@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270109T230000Z
 DTEND:20270110T013000Z
 SUMMARY:Rockets @ Nets (DAZN (YES))
@@ -491,33 +491,33 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910313@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270112T000000Z
 DTEND:20270112T023000Z
-SUMMARY:Nets @ Pacers (DAZN (YES))
+SUMMARY:Nets @ Pacers (DAZN (YES) / DAZN IND)
 LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
-DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: Gainbridge Fieldhouse\, 
- Indianapolis\, IN\nUnofficial calendar\; not affiliated with the NBA or ES
- PN. Times may change.
+DESCRIPTION:Regular Season\nTV: DAZN (YES) / DAZN IND\nVenue: Gainbridge Fi
+ eldhouse\, Indianapolis\, IN\nUnofficial calendar\; not affiliated with th
+ e NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910319@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270113T003000Z
 DTEND:20270113T030000Z
-SUMMARY:Nets @ Heat (WPLG / DAZN (YES))
+SUMMARY:Nets @ Heat (DAZN (YES))
 LOCATION:Kaseya Center\, Miami\, FL
-DESCRIPTION:Regular Season\nTV: WPLG / DAZN (YES)\nVenue: Kaseya Center\, M
- iami\, FL\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
- s may change.
+DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: Kaseya Center\, Miami\, 
+ FL\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
+ hange.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910336@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270115T000000Z
 DTEND:20270115T023000Z
 SUMMARY:Nets @ 76ers (DAZN (YES))
@@ -530,20 +530,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910352@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270117T000000Z
 DTEND:20270117T023000Z
-SUMMARY:Nets @ Celtics (NBC Sports BO / DAZN (YES))
+SUMMARY:Nets @ Celtics (DAZN (YES))
 LOCATION:TD Garden\, Boston\, MA
-DESCRIPTION:Regular Season\nTV: NBC Sports BO / DAZN (YES)\nVenue: TD Garde
- n\, Boston\, MA\nUnofficial calendar\; not affiliated with the NBA or ESPN
- . Times may change.
+DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: TD Garden\, Boston\, MA\
+ nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may chan
+ ge.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910376@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270121T000000Z
 DTEND:20270121T023000Z
 SUMMARY:Bulls @ Nets (ESPN)
@@ -556,20 +556,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910386@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270122T003000Z
 DTEND:20270122T030000Z
-SUMMARY:Cavaliers @ Nets (DAZN (YES))
+SUMMARY:Cavaliers @ Nets (DAZN (YES) / DAZN CLE)
 LOCATION:Barclays Center\, Brooklyn\, NY
-DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: Barclays Center\, Brookl
- yn\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: DAZN (YES) / DAZN CLE\nVenue: Barclays Cent
+ er\, Brooklyn\, NY\nUnofficial calendar\; not affiliated with the NBA or E
+ SPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910401@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270123T230000Z
 DTEND:20270124T013000Z
 SUMMARY:Raptors @ Nets (DAZN (YES))
@@ -582,46 +582,46 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910416@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270126T003000Z
 DTEND:20270126T030000Z
-SUMMARY:Heat @ Nets (DAZN (YES) / WPLG)
+SUMMARY:Heat @ Nets (DAZN (YES))
 LOCATION:Barclays Center\, Brooklyn\, NY
-DESCRIPTION:Regular Season\nTV: DAZN (YES) / WPLG\nVenue: Barclays Center\,
-  Brooklyn\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN.
-  Times may change.
+DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: Barclays Center\, Brookl
+ yn\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910431@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270128T003000Z
 DTEND:20270128T030000Z
-SUMMARY:Suns @ Nets (DAZN (YES))
+SUMMARY:Suns @ Nets (DAZN (YES) / Arizona's Family 3TV / Suns Live)
 LOCATION:Barclays Center\, Brooklyn\, NY
-DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: Barclays Center\, Brookl
- yn\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: DAZN (YES) / Arizona's Family 3TV / Suns Li
+ ve\nVenue: Barclays Center\, Brooklyn\, NY\nUnofficial calendar\; not affi
+ liated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910447@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270130T003000Z
 DTEND:20270130T030000Z
-SUMMARY:Clippers @ Nets (DAZN (YES))
+SUMMARY:Clippers @ Nets (DAZN (YES) / ClipperVision)
 LOCATION:Barclays Center\, Brooklyn\, NY
-DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: Barclays Center\, Brookl
- yn\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: DAZN (YES) / ClipperVision\nVenue: Barclays
+  Center\, Brooklyn\, NY\nUnofficial calendar\; not affiliated with the NBA
+  or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910460@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270131T230000Z
 DTEND:20270201T013000Z
 SUMMARY:Nets @ Magic (DAZN (YES))
@@ -634,20 +634,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910469@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270202T003000Z
 DTEND:20270202T030000Z
-SUMMARY:Knicks @ Nets
+SUMMARY:Knicks @ Nets (DAZN (YES))
 LOCATION:Barclays Center\, Brooklyn\, NY
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Barclays Center\, Brooklyn\, NY
- \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
- nge.
+DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: Barclays Center\, Brookl
+ yn\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910489@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270205T003000Z
 DTEND:20270205T030000Z
 SUMMARY:Lakers @ Nets (Spectrum Sports Net / Spectrum Sports Net + / DAZN (
@@ -661,7 +661,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910507@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270206T230000Z
 DTEND:20270207T013000Z
 SUMMARY:Wizards @ Nets (DAZN (YES))
@@ -674,7 +674,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910523@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270209T000000Z
 DTEND:20270209T023000Z
 SUMMARY:Nets @ 76ers (DAZN (YES))
@@ -687,20 +687,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910530@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270210T003000Z
 DTEND:20270210T030000Z
-SUMMARY:Timberwolves @ Nets (DAZN (YES))
+SUMMARY:Timberwolves @ Nets (DAZN (YES) / DAZN MIN)
 LOCATION:Barclays Center\, Brooklyn\, NY
-DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: Barclays Center\, Brookl
- yn\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: DAZN (YES) / DAZN MIN\nVenue: Barclays Cent
+ er\, Brooklyn\, NY\nUnofficial calendar\; not affiliated with the NBA or E
+ SPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910554@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270213T000000Z
 DTEND:20270213T023000Z
 SUMMARY:Nets @ Wizards (DAZN (YES))
@@ -713,20 +713,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910570@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270214T180000Z
 DTEND:20270214T203000Z
-SUMMARY:Nets @ Heat (DAZN (YES) / WPLG)
+SUMMARY:Nets @ Heat (DAZN (YES))
 LOCATION:Kaseya Center\, Miami\, FL
-DESCRIPTION:Regular Season\nTV: DAZN (YES) / WPLG\nVenue: Kaseya Center\, M
- iami\, FL\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
- s may change.
+DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: Kaseya Center\, Miami\, 
+ FL\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
+ hange.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910589@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270218T003000Z
 DTEND:20270218T030000Z
 SUMMARY:Hawks @ Nets (DAZN (YES))
@@ -739,7 +739,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910603@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270226T003000Z
 DTEND:20270226T030000Z
 SUMMARY:76ers @ Nets (DAZN (YES))
@@ -752,20 +752,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910619@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270228T010000Z
 DTEND:20270228T033000Z
-SUMMARY:Nets @ Bulls (DAZN (YES) / CHSN)
+SUMMARY:Nets @ Bulls (DAZN (YES))
 LOCATION:United Center\, Chicago\, IL
-DESCRIPTION:Regular Season\nTV: DAZN (YES) / CHSN\nVenue: United Center\, C
- hicago\, IL\nUnofficial calendar\; not affiliated with the NBA or ESPN. Ti
- mes may change.
+DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: United Center\, Chicago\
+ , IL\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
+  change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910636@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270302T020000Z
 DTEND:20270302T043000Z
 SUMMARY:Nets @ Nuggets (DAZN (YES))
@@ -778,33 +778,33 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910652@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270304T020000Z
 DTEND:20270304T043000Z
-SUMMARY:Nets @ Suns (DAZN (YES) / Suns Live)
+SUMMARY:Nets @ Suns (DAZN (YES) / Suns Live / Arizona's Family 3TV)
 LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
-DESCRIPTION:Regular Season\nTV: DAZN (YES) / Suns Live\nVenue: Mortgage Mat
- chup Center\, Phoenix\, AZ\nUnofficial calendar\; not affiliated with the 
- NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: DAZN (YES) / Suns Live / Arizona's Family 3
+ TV\nVenue: Mortgage Matchup Center\, Phoenix\, AZ\nUnofficial calendar\; n
+ ot affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910661@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270305T033000Z
 DTEND:20270305T060000Z
-SUMMARY:Nets @ Clippers (DAZN (YES))
+SUMMARY:Nets @ Clippers (DAZN (YES) / ClipperVision)
 LOCATION:Intuit Dome\, Inglewood\, CA
-DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: Intuit Dome\, Inglewood\
- , CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:Regular Season\nTV: DAZN (YES) / ClipperVision\nVenue: Intuit D
+ ome\, Inglewood\, CA\nUnofficial calendar\; not affiliated with the NBA or
+  ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910680@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270308T033000Z
 DTEND:20270308T060000Z
 SUMMARY:Nets @ Lakers (Spectrum Sports Net / Spectrum Sports Net + / DAZN (
@@ -818,20 +818,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910690@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270310T003000Z
 DTEND:20270310T030000Z
-SUMMARY:Bucks @ Nets (DAZN (YES))
+SUMMARY:Bucks @ Nets (DAZN (YES) / MyMi / Bucks App)
 LOCATION:Barclays Center\, Brooklyn\, NY
-DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: Barclays Center\, Brookl
- yn\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: DAZN (YES) / MyMi / Bucks App\nVenue: Barcl
+ ays Center\, Brooklyn\, NY\nUnofficial calendar\; not affiliated with the 
+ NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910708@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270312T010000Z
 DTEND:20270312T033000Z
 SUMMARY:Nets @ Hawks (DAZN (YES))
@@ -844,7 +844,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910720@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270313T200000Z
 DTEND:20270313T223000Z
 SUMMARY:Nets @ Pistons (DAZN (YES))
@@ -857,20 +857,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910735@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270315T233000Z
 DTEND:20270316T020000Z
-SUMMARY:Pacers @ Nets (DAZN (YES))
+SUMMARY:Pacers @ Nets (DAZN (YES) / DAZN IND)
 LOCATION:Barclays Center\, Brooklyn\, NY
-DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: Barclays Center\, Brookl
- yn\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: DAZN (YES) / DAZN IND\nVenue: Barclays Cent
+ er\, Brooklyn\, NY\nUnofficial calendar\; not affiliated with the NBA or E
+ SPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910752@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270318T003000Z
 DTEND:20270318T030000Z
 SUMMARY:Nets @ Rockets (DAZN (YES))
@@ -883,20 +883,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910762@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270319T000000Z
 DTEND:20270319T023000Z
-SUMMARY:Nets @ Spurs
+SUMMARY:Nets @ Spurs (DAZN SAS / DAZN (YES))
 LOCATION:Frost Bank Center\, San Antonio\, TX
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Frost Bank Center\, San Antonio
- \, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
- y change.
+DESCRIPTION:Regular Season\nTV: DAZN SAS / DAZN (YES)\nVenue: Frost Bank Ce
+ nter\, San Antonio\, TX\nUnofficial calendar\; not affiliated with the NBA
+  or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910780@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270321T190000Z
 DTEND:20270321T213000Z
 SUMMARY:Kings @ Nets (NBA TV)
@@ -909,7 +909,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910794@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270323T233000Z
 DTEND:20270324T020000Z
 SUMMARY:Celtics @ Nets (DAZN (YES))
@@ -922,7 +922,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910814@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270325T233000Z
 DTEND:20270326T020000Z
 SUMMARY:Nuggets @ Nets (NBA TV)
@@ -935,20 +935,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910832@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270328T190000Z
 DTEND:20270328T213000Z
-SUMMARY:Grizzlies @ Nets
+SUMMARY:Grizzlies @ Nets (DAZN (YES) / DAZN MEM)
 LOCATION:Barclays Center\, Brooklyn\, NY
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Barclays Center\, Brooklyn\, NY
- \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
- nge.
+DESCRIPTION:Regular Season\nTV: DAZN (YES) / DAZN MEM\nVenue: Barclays Cent
+ er\, Brooklyn\, NY\nUnofficial calendar\; not affiliated with the NBA or E
+ SPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910843@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270329T233000Z
 DTEND:20270330T020000Z
 SUMMARY:Warriors @ Nets (DAZN (YES))
@@ -961,20 +961,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910858@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270331T233000Z
 DTEND:20270401T020000Z
-SUMMARY:Cavaliers @ Nets (DAZN (YES))
+SUMMARY:Cavaliers @ Nets (DAZN (YES) / DAZN CLE)
 LOCATION:Barclays Center\, Brooklyn\, NY
-DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: Barclays Center\, Brookl
- yn\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: DAZN (YES) / DAZN CLE\nVenue: Barclays Cent
+ er\, Brooklyn\, NY\nUnofficial calendar\; not affiliated with the NBA or E
+ SPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910870@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270402T233000Z
 DTEND:20270403T020000Z
 SUMMARY:Knicks @ Nets (DAZN (YES))
@@ -987,33 +987,33 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910883@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270404T180000Z
 DTEND:20270404T203000Z
-SUMMARY:Nets @ Bucks (DAZN (YES))
+SUMMARY:Nets @ Bucks (DAZN (YES) / MyMi / Bucks App)
 LOCATION:Fiserv Forum\, Milwaukee\, WI
-DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: Fiserv Forum\, Milwaukee
- \, WI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
- y change.
+DESCRIPTION:Regular Season\nTV: DAZN (YES) / MyMi / Bucks App\nVenue: Fiser
+ v Forum\, Milwaukee\, WI\nUnofficial calendar\; not affiliated with the NB
+ A or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910895@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270405T230000Z
 DTEND:20270406T013000Z
-SUMMARY:Nets @ Cavaliers (DAZN (YES))
+SUMMARY:Nets @ Cavaliers (DAZN (YES) / DAZN CLE)
 LOCATION:Rocket Arena\, Cleveland\, OH
-DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: Rocket Arena\, Cleveland
- \, OH\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
- y change.
+DESCRIPTION:Regular Season\nTV: DAZN (YES) / DAZN CLE\nVenue: Rocket Arena\
+ , Cleveland\, OH\nUnofficial calendar\; not affiliated with the NBA or ESP
+ N. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910911@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270407T233000Z
 DTEND:20270408T020000Z
 SUMMARY:Nets @ Raptors (DAZN (YES))
@@ -1026,20 +1026,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910924@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270409T230000Z
 DTEND:20270410T013000Z
-SUMMARY:Nets @ Hornets (DAZN (YES))
+SUMMARY:Nets @ Hornets (DAZN (YES) / DAZN CHA)
 LOCATION:Spectrum Center\, Charlotte\, NC
-DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: Spectrum Center\, Charlo
- tte\, NC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
-  may change.
+DESCRIPTION:Regular Season\nTV: DAZN (YES) / DAZN CHA\nVenue: Spectrum Cent
+ er\, Charlotte\, NC\nUnofficial calendar\; not affiliated with the NBA or 
+ ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910938@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270411T220000Z
 DTEND:20270412T003000Z
 SUMMARY:Raptors @ Nets (DAZN (YES))

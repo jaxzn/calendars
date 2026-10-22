@@ -10,20 +10,20 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:espn-401909836@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261021T233000Z
 DTEND:20261022T020000Z
 SUMMARY:Hornets @ Nets (DAZN (YES))
 LOCATION:Barclays Center\, Brooklyn\, NY
 DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: Barclays Center\, Brookl
- yn\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+ yn\, NY\nFinal: Hornets 110\, Nets 103\nUnofficial calendar\; not affiliat
+ ed with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909843@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261023T230000Z
 DTEND:20261024T013000Z
 SUMMARY:Hawks @ Hornets
@@ -36,20 +36,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909853@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261024T220000Z
 DTEND:20261025T003000Z
-SUMMARY:Heat @ Hornets (WPLG)
+SUMMARY:Heat @ Hornets
 LOCATION:Spectrum Center\, Charlotte\, NC
-DESCRIPTION:Regular Season\nTV: WPLG\nVenue: Spectrum Center\, Charlotte\, 
- NC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: Spectrum Center\, Charlotte\, N
+ C\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
+ ange.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909868@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261026T230000Z
 DTEND:20261027T013000Z
 SUMMARY:Wizards @ Hornets (MNMT)
@@ -62,7 +62,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909883@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261028T230000Z
 DTEND:20261029T013000Z
 SUMMARY:Hornets @ Pistons
@@ -75,7 +75,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909277@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261030T230000Z
 DTEND:20261031T013000Z
 SUMMARY:Hornets @ Wizards (MNMT)
@@ -88,7 +88,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909897@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261031T220000Z
 DTEND:20261101T003000Z
 SUMMARY:76ers @ Hornets (NBA TV)
@@ -101,7 +101,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909908@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261103T003000Z
 DTEND:20261103T030000Z
 SUMMARY:Pistons @ Hornets
@@ -114,7 +114,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909925@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261105T003000Z
 DTEND:20261105T030000Z
 SUMMARY:Hornets @ Nets (DAZN (YES))
@@ -127,46 +127,46 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909288@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261107T000000Z
 DTEND:20261107T023000Z
-SUMMARY:Celtics @ Hornets (NBC Sports BO)
+SUMMARY:Celtics @ Hornets
 LOCATION:Spectrum Center\, Charlotte\, NC
-DESCRIPTION:NBA Cup - Group Play\nTV: NBC Sports BO\nVenue: Spectrum Center
- \, Charlotte\, NC\nUnofficial calendar\; not affiliated with the NBA or ES
- PN. Times may change.
+DESCRIPTION:NBA Cup - Group Play\nTV: TBD\nVenue: Spectrum Center\, Charlot
+ te\, NC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909953@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261110T000000Z
 DTEND:20261110T023000Z
-SUMMARY:Cavaliers @ Hornets
+SUMMARY:Cavaliers @ Hornets (DAZN CLE)
 LOCATION:Spectrum Center\, Charlotte\, NC
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Spectrum Center\, Charlotte\, N
- C\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
- ange.
+DESCRIPTION:Regular Season\nTV: DAZN CLE\nVenue: Spectrum Center\, Charlott
+ e\, NC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909979@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261113T020000Z
 DTEND:20261113T043000Z
-SUMMARY:Hornets @ Suns (Suns Live)
+SUMMARY:Hornets @ Suns (Suns Live / Arizona's Family 3TV)
 LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
-DESCRIPTION:Regular Season\nTV: Suns Live\nVenue: Mortgage Matchup Center\,
-  Phoenix\, AZ\nUnofficial calendar\; not affiliated with the NBA or ESPN. 
- Times may change.
+DESCRIPTION:Regular Season\nTV: Suns Live / Arizona's Family 3TV\nVenue: Mo
+ rtgage Matchup Center\, Phoenix\, AZ\nUnofficial calendar\; not affiliated
+  with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909987@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261115T213000Z
 DTEND:20261116T000000Z
 SUMMARY:Hornets @ Clippers (ClipperVision)
@@ -179,7 +179,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910005@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261118T030000Z
 DTEND:20261118T053000Z
 SUMMARY:Hornets @ Lakers (Spectrum Sports Net / Spectrum Sports Net +)
@@ -192,46 +192,46 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909305@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261121T000000Z
 DTEND:20261121T023000Z
-SUMMARY:Hornets @ Hawks (Atlanta News First)
+SUMMARY:Hornets @ Hawks
 LOCATION:State Farm Arena\, Atlanta\, GA
-DESCRIPTION:NBA Cup - Group Play\nTV: Atlanta News First\nVenue: State Farm
-  Arena\, Atlanta\, GA\nUnofficial calendar\; not affiliated with the NBA o
- r ESPN. Times may change.
+DESCRIPTION:NBA Cup - Group Play\nTV: TBD\nVenue: State Farm Arena\, Atlant
+ a\, GA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910036@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261124T000000Z
 DTEND:20261124T023000Z
-SUMMARY:Grizzlies @ Hornets
+SUMMARY:Grizzlies @ Hornets (DAZN MEM)
 LOCATION:Spectrum Center\, Charlotte\, NC
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Spectrum Center\, Charlotte\, N
- C\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
- ange.
+DESCRIPTION:Regular Season\nTV: DAZN MEM\nVenue: Spectrum Center\, Charlott
+ e\, NC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909318@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261126T000000Z
 DTEND:20261126T023000Z
-SUMMARY:Bulls @ Hornets (CHSN)
+SUMMARY:Bulls @ Hornets
 LOCATION:Spectrum Center\, Charlotte\, NC
-DESCRIPTION:NBA Cup - Group Play\nTV: CHSN\nVenue: Spectrum Center\, Charlo
- tte\, NC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
-  may change.
+DESCRIPTION:NBA Cup - Group Play\nTV: TBD\nVenue: Spectrum Center\, Charlot
+ te\, NC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910047@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261128T230000Z
 DTEND:20261129T013000Z
 SUMMARY:Nets @ Hornets (DAZN (YES))
@@ -244,7 +244,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910061@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261201T000000Z
 DTEND:20261201T023000Z
 SUMMARY:Wizards @ Hornets (MNMT)
@@ -257,20 +257,19 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910078@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261203T003000Z
 DTEND:20261203T030000Z
-SUMMARY:Hornets @ Celtics (NBC Sports BO)
+SUMMARY:Hornets @ Celtics
 LOCATION:TD Garden\, Boston\, MA
-DESCRIPTION:Regular Season\nTV: NBC Sports BO\nVenue: TD Garden\, Boston\, 
- MA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: TBD\nVenue: TD Garden\, Boston\, MA\nUnoffi
+ cial calendar\; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910091@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261213T000000Z
 DTEND:20261213T023000Z
 SUMMARY:Hornets @ Wizards (MNMT)
@@ -283,7 +282,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910104@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261215T000000Z
 DTEND:20261215T023000Z
 SUMMARY:Raptors @ Hornets
@@ -296,33 +295,33 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910118@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261217T000000Z
 DTEND:20261217T023000Z
-SUMMARY:Clippers @ Hornets
+SUMMARY:Clippers @ Hornets (ClipperVision)
 LOCATION:Spectrum Center\, Charlotte\, NC
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Spectrum Center\, Charlotte\, N
- C\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
- ange.
+DESCRIPTION:Regular Season\nTV: ClipperVision\nVenue: Spectrum Center\, Cha
+ rlotte\, NC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Ti
+ mes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910133@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261219T000000Z
 DTEND:20261219T023000Z
-SUMMARY:Thunder @ Hornets (KSBI)
+SUMMARY:Thunder @ Hornets (KSBI / Thunder App)
 LOCATION:Spectrum Center\, Charlotte\, NC
-DESCRIPTION:Regular Season\nTV: KSBI\nVenue: Spectrum Center\, Charlotte\, 
- NC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
- hange.
+DESCRIPTION:Regular Season\nTV: KSBI / Thunder App\nVenue: Spectrum Center\
+ , Charlotte\, NC\nUnofficial calendar\; not affiliated with the NBA or ESP
+ N. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910145@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261219T230000Z
 DTEND:20261220T013000Z
 SUMMARY:Trail Blazers @ Hornets (KUNP 16 / BlazerVision)
@@ -335,7 +334,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910159@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261222T000000Z
 DTEND:20261222T023000Z
 SUMMARY:76ers @ Hornets
@@ -348,7 +347,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910173@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261224T000000Z
 DTEND:20261224T023000Z
 SUMMARY:Hornets @ Magic
@@ -360,7 +359,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910188@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261226T203000Z
 DTEND:20261226T230000Z
 SUMMARY:Hornets @ Hawks
@@ -373,7 +372,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910197@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261227T230000Z
 DTEND:20261228T013000Z
 SUMMARY:Hornets @ Heat
@@ -385,7 +384,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910212@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261230T000000Z
 DTEND:20261230T023000Z
 SUMMARY:Magic @ Hornets
@@ -398,7 +397,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910226@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20261231T180000Z
 DTEND:20261231T203000Z
 SUMMARY:Spurs @ Hornets (NBA TV)
@@ -411,123 +410,124 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910241@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270102T180000Z
 DTEND:20270102T203000Z
-SUMMARY:Cavaliers @ Hornets
+SUMMARY:Cavaliers @ Hornets (DAZN CHA)
 LOCATION:Spectrum Center\, Charlotte\, NC
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Spectrum Center\, Charlotte\, N
- C\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
- ange.
+DESCRIPTION:Regular Season\nTV: DAZN CHA\nVenue: Spectrum Center\, Charlott
+ e\, NC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910252@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270103T223000Z
 DTEND:20270104T010000Z
-SUMMARY:Hornets @ Bucks
+SUMMARY:Hornets @ Bucks (MyMi / Bucks App / DAZN CHA)
 LOCATION:Fiserv Forum\, Milwaukee\, WI
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Fiserv Forum\, Milwaukee\, WI\n
+DESCRIPTION:Regular Season\nTV: MyMi / Bucks App / DAZN CHA\nVenue: Fiserv 
+ Forum\, Milwaukee\, WI\nUnofficial calendar\; not affiliated with the NBA 
+ or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910265@nba-calendars
+DTSTAMP:20261022T154318Z
+DTSTART:20270106T000000Z
+DTEND:20270106T023000Z
+SUMMARY:Hawks @ Hornets (DAZN CHA)
+LOCATION:Spectrum Center\, Charlotte\, NC
+DESCRIPTION:Regular Season\nTV: DAZN CHA\nVenue: Spectrum Center\, Charlott
+ e\, NC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910280@nba-calendars
+DTSTAMP:20261022T154318Z
+DTSTART:20270108T000000Z
+DTEND:20270108T023000Z
+SUMMARY:Nuggets @ Hornets (DAZN CHA)
+LOCATION:Spectrum Center\, Charlotte\, NC
+DESCRIPTION:Regular Season\nTV: DAZN CHA\nVenue: Spectrum Center\, Charlott
+ e\, NC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910303@nba-calendars
+DTSTAMP:20261022T154318Z
+DTSTART:20270110T030000Z
+DTEND:20270110T053000Z
+SUMMARY:Hornets @ Trail Blazers (KUNP 16 / BlazerVision / DAZN CHA)
+LOCATION:Moda Center\, Portland\, OR
+DESCRIPTION:Regular Season\nTV: KUNP 16 / BlazerVision / DAZN CHA\nVenue: M
+ oda Center\, Portland\, OR\nUnofficial calendar\; not affiliated with the 
+ NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910312@nba-calendars
+DTSTAMP:20261022T154318Z
+DTSTART:20270111T020000Z
+DTEND:20270111T043000Z
+SUMMARY:Hornets @ Kings (DAZN CHA)
+LOCATION:Golden 1 Center\, Sacramento\, CA
+DESCRIPTION:Regular Season\nTV: DAZN CHA\nVenue: Golden 1 Center\, Sacramen
+ to\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910332@nba-calendars
+DTSTAMP:20261022T154318Z
+DTSTART:20270114T030000Z
+DTEND:20270114T053000Z
+SUMMARY:Hornets @ Warriors (DAZN CHA)
+LOCATION:Chase Center\, San Francisco\, CA
+DESCRIPTION:Regular Season\nTV: DAZN CHA\nVenue: Chase Center\, San Francis
+ co\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
+ may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910340@nba-calendars
+DTSTAMP:20261022T154318Z
+DTSTART:20270115T020000Z
+DTEND:20270115T043000Z
+SUMMARY:Hornets @ Jazz (KJZZ-TV / Jazz+ / DAZN CHA)
+LOCATION:Delta Center\, Salt Lake City\, UT
+DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+ / DAZN CHA\nVenue: Delta Ce
+ nter\, Salt Lake City\, UT\nUnofficial calendar\; not affiliated with the 
+ NBA or ESPN. Times may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910356@nba-calendars
+DTSTAMP:20261022T154318Z
+DTSTART:20270117T020000Z
+DTEND:20270117T043000Z
+SUMMARY:Hornets @ Nuggets (DAZN CHA)
+LOCATION:Ball Arena\, Denver\, CO
+DESCRIPTION:Regular Season\nTV: DAZN CHA\nVenue: Ball Arena\, Denver\, CO\n
  Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
  e.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:espn-401910265@nba-calendars
-DTSTAMP:20261021T154330Z
-DTSTART:20270106T000000Z
-DTEND:20270106T023000Z
-SUMMARY:Hawks @ Hornets (Atlanta News First)
-LOCATION:Spectrum Center\, Charlotte\, NC
-DESCRIPTION:Regular Season\nTV: Atlanta News First\nVenue: Spectrum Center\
- , Charlotte\, NC\nUnofficial calendar\; not affiliated with the NBA or ESP
- N. Times may change.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401910280@nba-calendars
-DTSTAMP:20261021T154330Z
-DTSTART:20270108T000000Z
-DTEND:20270108T023000Z
-SUMMARY:Nuggets @ Hornets
-LOCATION:Spectrum Center\, Charlotte\, NC
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Spectrum Center\, Charlotte\, N
- C\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
- ange.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401910303@nba-calendars
-DTSTAMP:20261021T154330Z
-DTSTART:20270110T030000Z
-DTEND:20270110T053000Z
-SUMMARY:Hornets @ Trail Blazers (KUNP 16 / BlazerVision)
-LOCATION:Moda Center\, Portland\, OR
-DESCRIPTION:Regular Season\nTV: KUNP 16 / BlazerVision\nVenue: Moda Center\
- , Portland\, OR\nUnofficial calendar\; not affiliated with the NBA or ESPN
- . Times may change.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401910312@nba-calendars
-DTSTAMP:20261021T154330Z
-DTSTART:20270111T020000Z
-DTEND:20270111T043000Z
-SUMMARY:Hornets @ Kings (NBC Sports CA)
-LOCATION:Golden 1 Center\, Sacramento\, CA
-DESCRIPTION:Regular Season\nTV: NBC Sports CA\nVenue: Golden 1 Center\, Sac
- ramento\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
- imes may change.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401910332@nba-calendars
-DTSTAMP:20261021T154330Z
-DTSTART:20270114T030000Z
-DTEND:20270114T053000Z
-SUMMARY:Hornets @ Warriors (NBC Sports BA)
-LOCATION:Chase Center\, San Francisco\, CA
-DESCRIPTION:Regular Season\nTV: NBC Sports BA\nVenue: Chase Center\, San Fr
- ancisco\, CA\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
- imes may change.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401910340@nba-calendars
-DTSTAMP:20261021T154330Z
-DTSTART:20270115T020000Z
-DTEND:20270115T043000Z
-SUMMARY:Hornets @ Jazz (KJZZ-TV / Jazz+)
-LOCATION:Delta Center\, Salt Lake City\, UT
-DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+\nVenue: Delta Center\, Salt
-  Lake City\, UT\nUnofficial calendar\; not affiliated with the NBA or ESPN
- . Times may change.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401910356@nba-calendars
-DTSTAMP:20261021T154330Z
-DTSTART:20270117T020000Z
-DTEND:20270117T043000Z
-SUMMARY:Hornets @ Nuggets
-LOCATION:Ball Arena\, Denver\, CO
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Ball Arena\, Denver\, CO\nUnoff
- icial calendar\; not affiliated with the NBA or ESPN. Times may change.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:espn-401910372@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270120T010000Z
 DTEND:20270120T033000Z
 SUMMARY:Hornets @ Mavericks (NBC)
@@ -540,58 +540,59 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910390@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270123T000000Z
 DTEND:20270123T023000Z
-SUMMARY:Rockets @ Hornets
+SUMMARY:Rockets @ Hornets (DAZN CHA)
 LOCATION:Spectrum Center\, Charlotte\, NC
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Spectrum Center\, Charlotte\, N
- C\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
- ange.
+DESCRIPTION:Regular Season\nTV: DAZN CHA\nVenue: Spectrum Center\, Charlott
+ e\, NC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910402@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270124T000000Z
 DTEND:20270124T023000Z
-SUMMARY:Hornets @ Celtics
+SUMMARY:Hornets @ Celtics (DAZN CHA)
 LOCATION:TD Garden\, Boston\, MA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: TD Garden\, Boston\, MA\nUnoffi
- cial calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: DAZN CHA\nVenue: TD Garden\, Boston\, MA\nU
+ nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
+ .
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910414@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270126T000000Z
 DTEND:20270126T023000Z
-SUMMARY:Magic @ Hornets
+SUMMARY:Magic @ Hornets (DAZN CHA)
 LOCATION:Spectrum Center\, Charlotte\, NC
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Spectrum Center\, Charlotte\, N
- C\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
- ange.
+DESCRIPTION:Regular Season\nTV: DAZN CHA\nVenue: Spectrum Center\, Charlott
+ e\, NC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910433@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270128T010000Z
 DTEND:20270128T033000Z
-SUMMARY:Hornets @ Spurs
+SUMMARY:Hornets @ Spurs (DAZN SAS / DAZN CHA)
 LOCATION:Frost Bank Center\, San Antonio\, TX
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Frost Bank Center\, San Antonio
- \, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
- y change.
+DESCRIPTION:Regular Season\nTV: DAZN SAS / DAZN CHA\nVenue: Frost Bank Cent
+ er\, San Antonio\, TX\nUnofficial calendar\; not affiliated with the NBA o
+ r ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910450@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270130T023000Z
 DTEND:20270130T050000Z
 SUMMARY:Hornets @ Timberwolves (ESPN)
@@ -604,32 +605,34 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910464@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270201T000000Z
 DTEND:20270201T023000Z
-SUMMARY:Lakers @ Hornets (Spectrum Sports Net / Spectrum Sports Net +)
+SUMMARY:Lakers @ Hornets (Spectrum Sports Net / Spectrum Sports Net + / DAZ
+ N CHA)
 LOCATION:Spectrum Center\, Charlotte\, NC
 DESCRIPTION:Regular Season\nTV: Spectrum Sports Net / Spectrum Sports Net +
- \nVenue: Spectrum Center\, Charlotte\, NC\nUnofficial calendar\; not affil
- iated with the NBA or ESPN. Times may change.
+  / DAZN CHA\nVenue: Spectrum Center\, Charlotte\, NC\nUnofficial calendar\
+ ; not affiliated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910476@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270203T003000Z
 DTEND:20270203T030000Z
-SUMMARY:Hornets @ Heat
+SUMMARY:Hornets @ Heat (DAZN CHA)
 LOCATION:Kaseya Center\, Miami\, FL
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Kaseya Center\, Miami\, FL\nUno
- fficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: DAZN CHA\nVenue: Kaseya Center\, Miami\, FL
+ \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
+ nge.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910490@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270205T003000Z
 DTEND:20270205T030000Z
 SUMMARY:Celtics @ Hornets (Prime Video)
@@ -642,59 +645,59 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910499@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270206T000000Z
 DTEND:20270206T023000Z
-SUMMARY:Warriors @ Hornets
+SUMMARY:Warriors @ Hornets (DAZN CHA)
 LOCATION:Spectrum Center\, Charlotte\, NC
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Spectrum Center\, Charlotte\, N
- C\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
- ange.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401910517@nba-calendars
-DTSTAMP:20261021T154330Z
-DTSTART:20270207T230000Z
-DTEND:20270208T013000Z
-SUMMARY:Hornets @ Raptors
-LOCATION:Scotiabank Arena\, Toronto\, ON
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Scotiabank Arena\, Toronto\, ON
- \nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may cha
- nge.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401910531@nba-calendars
-DTSTAMP:20261021T154330Z
-DTSTART:20270210T003000Z
-DTEND:20270210T030000Z
-SUMMARY:Hornets @ Knicks
-LOCATION:Madison Square Garden\, New York\, NY
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Madison Square Garden\, New Yor
- k\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+DESCRIPTION:Regular Season\nTV: DAZN CHA\nVenue: Spectrum Center\, Charlott
+ e\, NC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
  ay change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:espn-401910517@nba-calendars
+DTSTAMP:20261022T154318Z
+DTSTART:20270207T230000Z
+DTEND:20270208T013000Z
+SUMMARY:Hornets @ Raptors (DAZN CHA)
+LOCATION:Scotiabank Arena\, Toronto\, ON
+DESCRIPTION:Regular Season\nTV: DAZN CHA\nVenue: Scotiabank Arena\, Toronto
+ \, ON\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times ma
+ y change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910531@nba-calendars
+DTSTAMP:20261022T154318Z
+DTSTART:20270210T003000Z
+DTEND:20270210T030000Z
+SUMMARY:Hornets @ Knicks (DAZN CHA)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: DAZN CHA\nVenue: Madison Square Garden\, Ne
+ w York\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Ti
+ mes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:espn-401910545@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270212T000000Z
 DTEND:20270212T023000Z
-SUMMARY:Bucks @ Hornets
+SUMMARY:Bucks @ Hornets (DAZN CHA / MyMi / Bucks App)
 LOCATION:Spectrum Center\, Charlotte\, NC
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Spectrum Center\, Charlotte\, N
- C\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
- ange.
+DESCRIPTION:Regular Season\nTV: DAZN CHA / MyMi / Bucks App\nVenue: Spectru
+ m Center\, Charlotte\, NC\nUnofficial calendar\; not affiliated with the N
+ BA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910561@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270213T200000Z
 DTEND:20270213T223000Z
 SUMMARY:Mavericks @ Hornets (Prime Video)
@@ -707,7 +710,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909477@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270215T170000Z
 DTEND:20270215T193000Z
 SUMMARY:Timberwolves @ Hornets (NBC)
@@ -720,84 +723,85 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910583@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270218T000000Z
 DTEND:20270218T023000Z
-SUMMARY:Raptors @ Hornets
+SUMMARY:Raptors @ Hornets (DAZN CHA)
 LOCATION:Spectrum Center\, Charlotte\, NC
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Spectrum Center\, Charlotte\, N
- C\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
- ange.
+DESCRIPTION:Regular Season\nTV: DAZN CHA\nVenue: Spectrum Center\, Charlott
+ e\, NC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910602@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270226T000000Z
 DTEND:20270226T023000Z
-SUMMARY:Hornets @ Magic
+SUMMARY:Hornets @ Magic (DAZN CHA)
 LOCATION:Kia Center\, Orlando\, FL
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Kia Center\, Orlando\, FL\nUnof
- ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: DAZN CHA\nVenue: Kia Center\, Orlando\, FL\
+ nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may chan
+ ge.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910614@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270227T013000Z
 DTEND:20270227T040000Z
-SUMMARY:Hornets @ Rockets
+SUMMARY:Hornets @ Rockets (DAZN CHA)
 LOCATION:Toyota Center (Houston)\, Houston\, TX
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Toyota Center (Houston)\, Houst
- on\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times 
- may change.
+DESCRIPTION:Regular Season\nTV: DAZN CHA\nVenue: Toyota Center (Houston)\, 
+ Houston\, TX\nUnofficial calendar\; not affiliated with the NBA or ESPN. T
+ imes may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910627@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270301T000000Z
 DTEND:20270301T023000Z
-SUMMARY:Kings @ Hornets
+SUMMARY:Kings @ Hornets (DAZN CHA)
 LOCATION:Spectrum Center\, Charlotte\, NC
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Spectrum Center\, Charlotte\, N
- C\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
- ange.
+DESCRIPTION:Regular Season\nTV: DAZN CHA\nVenue: Spectrum Center\, Charlott
+ e\, NC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910648@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270304T000000Z
 DTEND:20270304T023000Z
-SUMMARY:Hornets @ 76ers
+SUMMARY:Hornets @ 76ers (DAZN CHA)
 LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Xfinity Mobile Arena\, Philadel
- phia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
- s may change.
+DESCRIPTION:Regular Season\nTV: DAZN CHA\nVenue: Xfinity Mobile Arena\, Phi
+ ladelphia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN.
+  Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910669@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270306T220000Z
 DTEND:20270307T003000Z
-SUMMARY:Hornets @ Bulls (CHSN)
+SUMMARY:Hornets @ Bulls (DAZN CHA)
 LOCATION:United Center\, Chicago\, IL
-DESCRIPTION:Regular Season\nTV: CHSN\nVenue: United Center\, Chicago\, IL\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: DAZN CHA\nVenue: United Center\, Chicago\, 
+ IL\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
+ hange.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910681@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270309T000000Z
 DTEND:20270309T023000Z
 SUMMARY:Hornets @ Pacers (NBCSN)
@@ -810,110 +814,111 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910696@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270311T000000Z
 DTEND:20270311T023000Z
-SUMMARY:Pelicans @ Hornets
+SUMMARY:Pelicans @ Hornets (DAZN CHA / GCSEN / Pelicans.com)
 LOCATION:Spectrum Center\, Charlotte\, NC
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Spectrum Center\, Charlotte\, N
- C\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
- ange.
+DESCRIPTION:Regular Season\nTV: DAZN CHA / GCSEN / Pelicans.com\nVenue: Spe
+ ctrum Center\, Charlotte\, NC\nUnofficial calendar\; not affiliated with t
+ he NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910704@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270312T000000Z
 DTEND:20270312T023000Z
-SUMMARY:Pacers @ Hornets
+SUMMARY:Pacers @ Hornets (DAZN CHA)
 LOCATION:Spectrum Center\, Charlotte\, NC
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Spectrum Center\, Charlotte\, N
- C\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
- ange.
+DESCRIPTION:Regular Season\nTV: DAZN CHA\nVenue: Spectrum Center\, Charlott
+ e\, NC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910722@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270313T230000Z
 DTEND:20270314T013000Z
-SUMMARY:Suns @ Hornets
+SUMMARY:Suns @ Hornets (DAZN CHA / Arizona's Family 3TV / Suns Live)
 LOCATION:Spectrum Center\, Charlotte\, NC
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Spectrum Center\, Charlotte\, N
- C\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
- ange.
+DESCRIPTION:Regular Season\nTV: DAZN CHA / Arizona's Family 3TV / Suns Live
+ \nVenue: Spectrum Center\, Charlotte\, NC\nUnofficial calendar\; not affil
+ iated with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910744@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270317T000000Z
 DTEND:20270317T023000Z
-SUMMARY:Hornets @ Thunder (KSBI)
+SUMMARY:Hornets @ Thunder (KSBI / Thunder App / DAZN CHA)
 LOCATION:Paycom Center\, Oklahoma City\, OK
-DESCRIPTION:Regular Season\nTV: KSBI\nVenue: Paycom Center\, Oklahoma City\
- , OK\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:Regular Season\nTV: KSBI / Thunder App / DAZN CHA\nVenue: Payco
+ m Center\, Oklahoma City\, OK\nUnofficial calendar\; not affiliated with t
+ he NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910761@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270319T000000Z
 DTEND:20270319T023000Z
-SUMMARY:Hornets @ Pelicans
+SUMMARY:Hornets @ Pelicans (GCSEN / Pelicans.com / DAZN CHA)
 LOCATION:Smoothie King Center\, New Orleans\, LA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Smoothie King Center\, New Orle
- ans\, LA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
-  may change.
+DESCRIPTION:Regular Season\nTV: GCSEN / Pelicans.com / DAZN CHA\nVenue: Smo
+ othie King Center\, New Orleans\, LA\nUnofficial calendar\; not affiliated
+  with the NBA or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910775@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270321T000000Z
 DTEND:20270321T023000Z
-SUMMARY:Hornets @ Pistons
+SUMMARY:Hornets @ Pistons (DAZN CHA)
 LOCATION:Little Caesars Arena\, Detroit\, MI
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Little Caesars Arena\, Detroit\
- , MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may
-  change.
+DESCRIPTION:Regular Season\nTV: DAZN CHA\nVenue: Little Caesars Arena\, Det
+ roit\, MI\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
+ s may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910789@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270323T000000Z
 DTEND:20270323T023000Z
-SUMMARY:Hornets @ Grizzlies
+SUMMARY:Hornets @ Grizzlies (DAZN MEM / DAZN CHA)
 LOCATION:FedExForum\, Memphis\, TN
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: FedExForum\, Memphis\, TN\nUnof
- ficial calendar\; not affiliated with the NBA or ESPN. Times may change.
+DESCRIPTION:Regular Season\nTV: DAZN MEM / DAZN CHA\nVenue: FedExForum\, Me
+ mphis\, TN\nUnofficial calendar\; not affiliated with the NBA or ESPN. Tim
+ es may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910800@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270324T230000Z
 DTEND:20270325T013000Z
-SUMMARY:Pistons @ Hornets
+SUMMARY:Pistons @ Hornets (DAZN CHA)
 LOCATION:Spectrum Center\, Charlotte\, NC
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Spectrum Center\, Charlotte\, N
- C\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
- ange.
+DESCRIPTION:Regular Season\nTV: DAZN CHA\nVenue: Spectrum Center\, Charlott
+ e\, NC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+ ay change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910818@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270326T230000Z
 DTEND:20270327T013000Z
 SUMMARY:Knicks @ Hornets (NBA TV)
@@ -926,118 +931,118 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910834@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270328T220000Z
 DTEND:20270329T003000Z
-SUMMARY:Jazz @ Hornets (KJZZ-TV / Jazz+)
+SUMMARY:Jazz @ Hornets (KJZZ-TV / Jazz+ / DAZN CHA)
 LOCATION:Spectrum Center\, Charlotte\, NC
-DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+\nVenue: Spectrum Center\, C
- harlotte\, NC\nUnofficial calendar\; not affiliated with the NBA or ESPN. 
- Times may change.
+DESCRIPTION:Regular Season\nTV: KJZZ-TV / Jazz+ / DAZN CHA\nVenue: Spectrum
+  Center\, Charlotte\, NC\nUnofficial calendar\; not affiliated with the NB
+ A or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910848@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270330T230000Z
 DTEND:20270331T013000Z
-SUMMARY:Heat @ Hornets
+SUMMARY:Heat @ Hornets (DAZN CHA)
 LOCATION:Spectrum Center\, Charlotte\, NC
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Spectrum Center\, Charlotte\, N
- C\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
- ange.
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401910866@nba-calendars
-DTSTAMP:20261021T154330Z
-DTSTART:20270401T233000Z
-DTEND:20270402T020000Z
-SUMMARY:Hornets @ Knicks
-LOCATION:Madison Square Garden\, New York\, NY
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Madison Square Garden\, New Yor
- k\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
+DESCRIPTION:Regular Season\nTV: DAZN CHA\nVenue: Spectrum Center\, Charlott
+ e\, NC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times m
  ay change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:espn-401910866@nba-calendars
+DTSTAMP:20261022T154318Z
+DTSTART:20270401T233000Z
+DTEND:20270402T020000Z
+SUMMARY:Hornets @ Knicks (DAZN CHA)
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Regular Season\nTV: DAZN CHA\nVenue: Madison Square Garden\, Ne
+ w York\, NY\nUnofficial calendar\; not affiliated with the NBA or ESPN. Ti
+ mes may change.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:espn-401910874@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270403T000000Z
 DTEND:20270403T023000Z
-SUMMARY:Hornets @ Bucks
+SUMMARY:Hornets @ Bucks (MyMi / Bucks App / DAZN CHA)
 LOCATION:Fiserv Forum\, Milwaukee\, WI
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Fiserv Forum\, Milwaukee\, WI\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: MyMi / Bucks App / DAZN CHA\nVenue: Fiserv 
+ Forum\, Milwaukee\, WI\nUnofficial calendar\; not affiliated with the NBA 
+ or ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910884@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270404T190000Z
 DTEND:20270404T213000Z
-SUMMARY:Hornets @ Cavaliers
+SUMMARY:Hornets @ Cavaliers (DAZN CLE / DAZN CHA)
 LOCATION:Rocket Arena\, Cleveland\, OH
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Rocket Arena\, Cleveland\, OH\n
- Unofficial calendar\; not affiliated with the NBA or ESPN. Times may chang
- e.
+DESCRIPTION:Regular Season\nTV: DAZN CLE / DAZN CHA\nVenue: Rocket Arena\, 
+ Cleveland\, OH\nUnofficial calendar\; not affiliated with the NBA or ESPN.
+  Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910898@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270406T230000Z
 DTEND:20270407T013000Z
-SUMMARY:Pacers @ Hornets
+SUMMARY:Pacers @ Hornets (DAZN CHA / DAZN IND)
 LOCATION:Spectrum Center\, Charlotte\, NC
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Spectrum Center\, Charlotte\, N
- C\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may ch
- ange.
+DESCRIPTION:Regular Season\nTV: DAZN CHA / DAZN IND\nVenue: Spectrum Center
+ \, Charlotte\, NC\nUnofficial calendar\; not affiliated with the NBA or ES
+ PN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910913@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270408T000000Z
 DTEND:20270408T023000Z
-SUMMARY:Hornets @ Bulls
+SUMMARY:Hornets @ Bulls (DAZN CHA)
 LOCATION:United Center\, Chicago\, IL
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: United Center\, Chicago\, IL\nU
- nofficial calendar\; not affiliated with the NBA or ESPN. Times may change
- .
+DESCRIPTION:Regular Season\nTV: DAZN CHA\nVenue: United Center\, Chicago\, 
+ IL\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times may c
+ hange.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910924@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270409T230000Z
 DTEND:20270410T013000Z
-SUMMARY:Nets @ Hornets (DAZN (YES))
+SUMMARY:Nets @ Hornets (DAZN (YES) / DAZN CHA)
 LOCATION:Spectrum Center\, Charlotte\, NC
-DESCRIPTION:Regular Season\nTV: DAZN (YES)\nVenue: Spectrum Center\, Charlo
- tte\, NC\nUnofficial calendar\; not affiliated with the NBA or ESPN. Times
-  may change.
+DESCRIPTION:Regular Season\nTV: DAZN (YES) / DAZN CHA\nVenue: Spectrum Cent
+ er\, Charlotte\, NC\nUnofficial calendar\; not affiliated with the NBA or 
+ ESPN. Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910942@nba-calendars
-DTSTAMP:20261021T154330Z
+DTSTAMP:20261022T154318Z
 DTSTART:20270411T220000Z
 DTEND:20270412T003000Z
-SUMMARY:Hornets @ 76ers
+SUMMARY:Hornets @ 76ers (DAZN CHA)
 LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
-DESCRIPTION:Regular Season\nTV: TBD\nVenue: Xfinity Mobile Arena\, Philadel
- phia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN. Time
- s may change.
+DESCRIPTION:Regular Season\nTV: DAZN CHA\nVenue: Xfinity Mobile Arena\, Phi
+ ladelphia\, PA\nUnofficial calendar\; not affiliated with the NBA or ESPN.
+  Times may change.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
